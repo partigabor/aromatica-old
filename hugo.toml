@@ -1,0 +1,12 @@
+# https://mcshelby.github.io/hugo-theme-relearn/index.html
+
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'arōmātica'
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
