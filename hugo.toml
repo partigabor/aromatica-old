@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://aromatica.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'aromatica'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
