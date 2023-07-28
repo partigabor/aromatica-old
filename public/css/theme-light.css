@@ -3,7 +3,7 @@
    - remove `markup.highlight.noClasses` from your config.toml
    - set `markup.highlight.style` to a predefined style name in your config.toml
    - remove the following `@import` of the self-defined chroma stylesheet */
-@import "chroma-relearn-light.css";
+@import "chroma-light.css";
 
 :root {
     --PRIMARY-color: #ccee00; /*rgba( 125, 201, 3, 1 ); /* brand primary color */

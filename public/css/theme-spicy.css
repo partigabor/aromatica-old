@@ -3,7 +3,7 @@
    - remove `markup.highlight.noClasses` from your config.toml
    - set `markup.highlight.style` to a predefined style name in your config.toml
    - remove the following `@import` of the self-defined chroma stylesheet */
-@import "chroma-relearn-dark.css";
+@import "chroma-spicy.css";
 
 :root {
     --ACCENT-color: #f5487f; /* brand accent color, used for search highlights */
