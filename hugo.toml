@@ -21,7 +21,6 @@ theme = "hugo-theme-relearn"
 
 
 
-
 [languages]
 
 [languages.en]
@@ -72,9 +71,23 @@ name = "<i class='fas fa-list'></i> Categories"
 url = "/categories"
 weight = 50
 
-# Global site parameters (https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/index.html)
+
+
+
 
 [params]
+
+  google_fonts = [
+    ["Fira Code", "400, 700"],
+    ["Open Sans", "400, 400i, 700, 700i"]
+  ]
+
+  heading_font = "Fira Code"
+  body_font = "Open Sans"
+  
+
+  # Global site parameters (https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/index.html)
+
   # This controls whether submenus will be expanded (true), or collapsed (false) in the
   # menu; if no setting is given, the first menu level is set to false, all others to true;
   # this can be overridden in the pages frontmatter
