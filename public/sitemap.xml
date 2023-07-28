@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://partigabor.github.io/aromatica/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>https://partigabor.github.io/aromatica/index.html</loc>
-  </url>
-  <url>
-    <loc>https://partigabor.github.io/aromatica/spices/index.html</loc>
-  </url>
-  <url>
-    <loc>https://partigabor.github.io/aromatica/tags/index.html</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://partigabor.github.io/aromatica/en/sitemap.xml</loc>
+    
+      <lastmod>2023-07-01T00:00:00+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://partigabor.github.io/aromatica/hu/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

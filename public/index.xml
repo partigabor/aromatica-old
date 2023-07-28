@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on aromatica</title>
+    <title>Home on Aromatica</title>
     <link>https://partigabor.github.io/aromatica/index.html</link>
-    <description>Recent content in Home on aromatica</description>
+    <description>Recent content in Home on Aromatica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://partigabor.github.io/aromatica/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://partigabor.github.io/aromatica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spices</title>
       <link>https://partigabor.github.io/aromatica/spices/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0800</pubDate>
       <guid>https://partigabor.github.io/aromatica/spices/index.html</guid>
       <description></description>
     </item>

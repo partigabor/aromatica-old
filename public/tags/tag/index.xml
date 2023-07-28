@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spices on Aromatica</title>
-    <link>https://partigabor.github.io/aromatica/spices/index.html</link>
-    <description>Recent content in Spices on Aromatica</description>
+    <title>tag on Aromatica</title>
+    <link>https://partigabor.github.io/aromatica/tags/tag/index.html</link>
+    <description>Recent content in tag on Aromatica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://partigabor.github.io/aromatica/spices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://partigabor.github.io/aromatica/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
       <link>https://partigabor.github.io/aromatica/spices/example/index.html</link>
@@ -18,13 +18,6 @@ Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis in
 h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading I am rendered with bold text
 I am rendered with italicized text
 Strike through this text</description>
-    </item>
-    <item>
-      <title>Pepper</title>
-      <link>https://partigabor.github.io/aromatica/spices/pepper/index.html</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0800</pubDate>
-      <guid>https://partigabor.github.io/aromatica/spices/pepper/index.html</guid>
-      <description>Lorem Ipsum.</description>
     </item>
   </channel>
 </rss>
