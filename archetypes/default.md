@@ -1,7 +1,8 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
 date = "{{ .Date }}"
-weight = X
+author = "Gabor Parti"
+weight = 10
 draft = "true"
 +++
 
