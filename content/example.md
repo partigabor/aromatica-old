@@ -10,7 +10,7 @@ weight = 10
 # Date
 date = "2023-07-01T00:00:00+08:00"
 # Draft
-draft = "false"
+draft = "true"
 
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
@@ -38,6 +38,14 @@ LastModifierEmail = ""
 +++
 
 Lorem Ipsum.
+
+
+A theme for [Hugo](https://gohugo.io/) designed for documentation.
+
+[★ What's new in the latest release ★]({{% relref "spices/example.md" %}})
+
+![Image](images/hot-pepper-emoji-clipart-original.svg?classes=shadow&width=5%&height=5%)
+
 
 Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus.
 
@@ -159,7 +167,6 @@ This is a link to https://example.com.
 
 [Assemble](http://assemble.io)
 
-
 [Example][somelinkID]
 
 [somelinkID]: https://example.com "Go to example domain"
@@ -179,17 +186,13 @@ That's some more text with a footnote.[^someid]
 
 ![Picard](https://octodex.github.com/images/jean-luc-picat.jpg "Jean Luc Picard")
 
-
 ![La Forge][laforge]
 
 [laforge]: https://octodex.github.com/images/trekkie.jpg "Geordi La Forge"
 
-
 ![Minion](https://octodex.github.com/images/minion.png?height=50px)
 
-
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=shadow)
-
 
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
 ![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
@@ -197,6 +200,5 @@ That's some more text with a footnote.[^someid]
 ![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
 
 ![X-tocat](https://octodex.github.com/images/xtocat.jpg?classes=shadow,border,left)
-
 
 ![Homercat](https://octodex.github.com/images/homercat.png?lightbox=false)

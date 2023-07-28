@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "Otthon"
+title = "Kezdőlap"
 +++
 
 Magyar verzió
