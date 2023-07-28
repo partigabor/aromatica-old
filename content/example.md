@@ -202,3 +202,7 @@ That's some more text with a footnote.[^someid]
 ![X-tocat](https://octodex.github.com/images/xtocat.jpg?classes=shadow,border,left)
 
 ![Homercat](https://octodex.github.com/images/homercat.png?lightbox=false)
+
+{{% notice secondary "Recipe" "mortar-pestle" %}}
+It is all about the boxes.
+{{% /notice %}}
