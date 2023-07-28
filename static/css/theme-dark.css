@@ -39,7 +39,7 @@
     --MENU-SECTIONS-LINK-color: #bababa; /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hovered link color of menu topics */
     --MENU-SECTIONS-ACTIVE-BG-color: #323232; /* background color of the active menu section */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #b3ec2d; /* text color of the displayed menu topic */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #12a0a0; /* text color of the displayed menu topic */
     --MENU-SECTION-HR-color: #606060; /* separator color of menu footer */
 
     --MENU-VISITED-color: #12a0a0; /* icon color of visited menu topics if configured */
