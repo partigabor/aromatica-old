@@ -10,7 +10,7 @@ var relearn_search_index = [
     "content": "Magyar verzió\n",
     "description": "",
     "tags": null,
-    "title": "Otthon",
+    "title": "Kezdőlap",
     "uri": "/hu/index.html"
   },
   {
