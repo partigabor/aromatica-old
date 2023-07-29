@@ -16,6 +16,9 @@ other = "{1} találat a(z) \"{0}\" kifejezésre"
 [Clear-History]
 other = "Előzmények törlése"
 
+[Clear-Search]
+other = "Keresések törlése"
+
 [Attachments-label]
 other = "Csatolmányok"
 

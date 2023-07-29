@@ -7,7 +7,7 @@ relativeURLs = true
 languageCode = 'en-us'
 
 # Change the default theme to be use when building the site with Hugo
-theme = "hugo-theme-relearn"
+theme = "hugo-theme-relearn" # https://mcshelby.github.io/hugo-theme-relearn/index.html
 
 # Directory of the public site for building
 # publishDir = "docs"
@@ -61,15 +61,25 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 # url = "more/credits/"
 # weight = 30
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-tags'></i> Tags"
-url = "/tags"
-weight = 40
+[[languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-tags'></i> Tags"
+    pageRef = "tags/"
+    weight = 40
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-list'></i> Categories"
-url = "/categories"
-weight = 50
+[[languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-list'></i> Categories"
+    pageRef = "tags/"
+    weight = 50
+
+[[languages.hu.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-tags'></i> Címkék"
+    pageRef = "tags/"
+    weight = 40
+
+[[languages.hu.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-list'></i> Categóriák"
+    pageRef = "categories/"
+    weight = 50
 
 
 
@@ -151,7 +161,7 @@ weight = 50
   # this can be overridden in the pages frontmatter
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
-  themeVariant = ["dark", "light", "spicy", "neon"]
+  themeVariant = ["dark", "light", "neon"]
   # Change the breadcrumb separator. Default to ">".
   breadcrumbSeparator = "|"
   # Change the title separator. Default to "::".
