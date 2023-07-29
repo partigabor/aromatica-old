@@ -6,9 +6,9 @@
 @import "chroma-light.css";
 
 :root {
-    --PRIMARY-color: #ccee00; /*rgba( 125, 201, 3, 1 ); /* brand primary color */
+    --PRIMARY-color: #a6e22e; /*rgba( 125, 201, 3, 1 ); /* brand primary color */
     --SECONDARY-color: #009291; /*( 108, 140, 227, 1 ); /* brand secondary color */
-    --ACCENT-color: rgba( 255, 68, 255, 1 ); /* brand accent color, used for search highlights */
+    --ACCENT-color: rgb(204, 45, 240); /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of content and h1 titles */
     --MAIN-LINK-HOVER-color: rgba( 32, 40, 145, 1 ); /* hovered link color of content */
