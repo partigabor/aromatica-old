@@ -1,6 +1,8 @@
 +++
 archetype = "home"
 title = "Kezdőlap"
+date = "2023-08-01T00:00:00+08:00"
+author = "Gabor Parti"
 +++
 
 Üdvözöljük az Aromatica weboldalán, egy olyan adatbázisban, amely a fűszerekről, gyógynövényekről, füstölőkről és más aromás anyagokról tartalmaz információkat.

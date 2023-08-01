@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://partigabor.github.io/aromatica/hu/</loc>
+    <lastmod>2023-08-01T00:00:00+08:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://partigabor.github.io/aromatica/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://partigabor.github.io/aromatica/" />
+    <xhtml:link rel="alternate" hreflang="hu" href="https://partigabor.github.io/aromatica/hu/" />
+  </url>
+  <url>
     <loc>https://partigabor.github.io/aromatica/hu/categories/</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://partigabor.github.io/aromatica/categories/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://partigabor.github.io/aromatica/categories/" />
     <xhtml:link rel="alternate" hreflang="hu" href="https://partigabor.github.io/aromatica/hu/categories/" />
-  </url>
-  <url>
-    <loc>https://partigabor.github.io/aromatica/hu/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://partigabor.github.io/aromatica/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://partigabor.github.io/aromatica/" />
-    <xhtml:link rel="alternate" hreflang="hu" href="https://partigabor.github.io/aromatica/hu/" />
   </url>
   <url>
     <loc>https://partigabor.github.io/aromatica/hu/tags/</loc>
