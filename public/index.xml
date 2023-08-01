@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Aromatica</title>
-    <link>https://partigabor.github.io/aromatica/index.html</link>
+    <link>https://partigabor.github.io/aromatica/</link>
     <description>Recent content in Home on Aromatica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://partigabor.github.io/aromatica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spices</title>
-      <link>https://partigabor.github.io/aromatica/spices/index.html</link>
+      <link>https://partigabor.github.io/aromatica/spices/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0800</pubDate>
-      <guid>https://partigabor.github.io/aromatica/spices/index.html</guid>
+      <guid>https://partigabor.github.io/aromatica/spices/</guid>
       <description>Lorem Ipsum.</description>
     </item>
     <item>
       <title>Herbs</title>
-      <link>https://partigabor.github.io/aromatica/herbs/index.html</link>
+      <link>https://partigabor.github.io/aromatica/herbs/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0800</pubDate>
-      <guid>https://partigabor.github.io/aromatica/herbs/index.html</guid>
+      <guid>https://partigabor.github.io/aromatica/herbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Incense</title>
-      <link>https://partigabor.github.io/aromatica/incense/index.html</link>
+      <link>https://partigabor.github.io/aromatica/incense/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0800</pubDate>
-      <guid>https://partigabor.github.io/aromatica/incense/index.html</guid>
+      <guid>https://partigabor.github.io/aromatica/incense/</guid>
       <description></description>
     </item>
     <item>
       <title>Perfume</title>
-      <link>https://partigabor.github.io/aromatica/perfume/index.html</link>
+      <link>https://partigabor.github.io/aromatica/perfume/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0800</pubDate>
-      <guid>https://partigabor.github.io/aromatica/perfume/index.html</guid>
+      <guid>https://partigabor.github.io/aromatica/perfume/</guid>
       <description></description>
     </item>
   </channel>
