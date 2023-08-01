@@ -1,6 +1,5 @@
 +++
-archetype = "chapter"
 title = "Herbs"
-weight = 11
+# weight = 11
 menuPre = "<i class='fas fa-seedling'></i> "
 +++

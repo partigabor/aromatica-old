@@ -5,6 +5,14 @@
     <link>https://partigabor.github.io/aromatica/spices/</link>
     <description>Recent content in Spices on Aromatica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://partigabor.github.io/aromatica/spices/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://partigabor.github.io/aromatica/spices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mountain pepper</title>
+      <link>https://partigabor.github.io/aromatica/spices/mountain_pepper/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0800</pubDate>
+      <guid>https://partigabor.github.io/aromatica/spices/mountain_pepper/</guid>
+      <description>Mountain pepper is not a pepper nor a chili.</description>
+    </item>
   </channel>
 </rss>
