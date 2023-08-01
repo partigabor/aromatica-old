@@ -7,7 +7,6 @@ draft = "false"
 # tags = [""]
 # categories = [""]
 menuPre = "<i class='fas fa-pepper-hot'></i> "
-weight = 1
 +++
 
 Lorem Ipsum.
