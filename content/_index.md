@@ -1,6 +1,8 @@
 +++
 archetype = "home"
 title = "Home"
+date = "2023-08-01T00:00:00+08:00"
+author = "Gabor Parti"
 +++
 
 Welcome to Aromatica, a database containing information about spices, herbs, incense, and other aromatics.

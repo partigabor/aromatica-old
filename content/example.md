@@ -1,16 +1,11 @@
 +++
-# Title of the page
 title = "Example"
-# Tags
-tags = ["tag"]
-# Categories
-categories = ["category"]
-# Page weight
+date = "2023-08-01T00:00:00+08:00"
+author = "Gabor Parti"
 weight = 10
-# Date
-date = "2023-07-01T00:00:00+08:00"
-# Draft
 draft = "true"
+tags = [""]
+categories = [""]
 
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
@@ -26,7 +21,7 @@ headingPre = ""
 # The title of the page heading will be postfixed by this HTML content
 headingPost = ""
 # The title of the page in menu will be prefixed by this HTML content
-menuPre = "<i class='fas fa-pepper-hot'></i> "
+menuPre = ""
 # The title of the page in menu will be postfixed by this HTML content
 menuPost = ""
 # Hide a menu entry by setting this to true
@@ -42,7 +37,7 @@ Lorem Ipsum.
 
 A theme for [Hugo](https://gohugo.io/) designed for documentation.
 
-[★ What's new in the latest release ★]({{% relref "spices/example.md" %}})
+[★ What's new in the latest release ★]({{% relref "spices/mountain_pepper.md" %}})
 
 ![Image](images/hot-pepper-emoji-clipart-original.svg?classes=shadow&width=5%&height=5%)
 
