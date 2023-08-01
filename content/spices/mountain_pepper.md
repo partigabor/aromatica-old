@@ -9,4 +9,4 @@ weight = 10
 # hidden = false
 +++
 
-Test...
+Mountain pepper is not a pepper nor a chili.
