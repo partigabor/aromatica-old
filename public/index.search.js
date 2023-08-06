@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/"
   },
   {
-    "content": "Mountain pepper is not a pepper nor a chili.\n",
+    "content": "The name mountain pepper is an absolute misnomer, since it is not a pepper in any of the botanical senses of the word: it’s not related to chilies, nor the pepper of the Piper family.\n",
     "description": "",
     "tags": null,
     "title": "Mountain pepper",
