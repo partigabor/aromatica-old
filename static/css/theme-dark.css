@@ -7,8 +7,8 @@
 
 :root {
     --PRIMARY-color: #81D8D0; /* brand primary color */
-    --SECONDARY-color: #81D8D0; /* brand secondary color */
-    --ACCENT-color: #7E272F; /* brand accent color, used for search highlights */
+    --SECONDARY-color: #d581d8; /* brand secondary color */
+    --ACCENT-color: #85d881; /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: #e0e0e0; /* text color of content and h1 titles */
     --MAIN-LINK-HOVER-color: #81D8D0; /* rgba( 147, 176, 255, 1 ); /* hovered link color of content */

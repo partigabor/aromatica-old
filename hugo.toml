@@ -7,7 +7,7 @@ relativeURLs = true
 languageCode = 'en-us'
 
 # Change the default theme to be use when building the site with Hugo
-theme = "hugo-theme-relearn" # https://mcshelby.github.io/hugo-theme-relearn/index.html
+theme = ["hugo-theme-relearn", "hugo-cite"] # https://mcshelby.github.io/hugo-theme-relearn/index.html
 
 # Directory of the public site for building
 # publishDir = "docs"
@@ -23,19 +23,19 @@ theme = "hugo-theme-relearn" # https://mcshelby.github.io/hugo-theme-relearn/ind
 
 [languages]
 
-[languages.en]
-title = "Aromatica"
-weight = 1
-languageName = "English"
-[languages.en.params]
-landingPageName = "<i class='fas fa-home'></i> Home"
+# [languages.en]
+# title = "Aromatica"
+# weight = 1
+# languageName = "English"
+# [languages.en.params]
+# landingPageName = "<i class='fas fa-home'></i> Home"
 
-[languages.hu]
-title = "Aromatica"
-weight = 2
-languageName = "Hungarian"
-[languages.hu.params]
-landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
+# [languages.hu]
+# title = "Aromatica"
+# weight = 2
+# languageName = "Hungarian"
+# [languages.hu.params]
+# landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 
 
 
@@ -62,6 +62,17 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 # weight = 30
 
 [[languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds"
+url = "https://github.com/partigabor"
+weight = 10
+
+[[languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Creator"
+url = "https://partigabor.github.io/" #"local/"
+weight = 20
+
+[[languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Tags"
     pageRef = "tags/"
     weight = 40
@@ -70,6 +81,18 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
     name = "<i class='fas fa-fw fa-list'></i> Categories"
     pageRef = "tags/"
     weight = 50
+
+
+[[languages.hu.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds"
+url = "https://github.com/partigabor"
+weight = 10
+
+[[languages.hu.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Szerkesztő"
+url = "https://partigabor.github.io/" #"local/"
+weight = 20
 
 [[languages.hu.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Címkék"
@@ -98,7 +121,7 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
   # Author of the site, will be used in meta information
   author = "Gabor Parti"
   # Description of the site, will be used in meta information
-  description = "A website containing information on spices, herbs, incense and other aromatica."
+  description = "A website containing information on spices, herbs, incense, and other aromatics"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = true
   # Disable search function. It will hide search bar
@@ -123,7 +146,7 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
   disableShortcutsTitle = false
   # If set to false, a Home button will appear below the search bar on the menu.
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
-  disableLandingPageButton = false
+  disableLandingPageButton = true
   # When using multilingual website, disable the switch language button.
   disableLanguageSwitchingButton = false
   # Hide breadcrumbs in the header and only show the current page title
