@@ -7,13 +7,17 @@ bibFile = "static/files/bibliography.json"
 
 +++
 
-Welcome to *Aromatica*, a database containing information about spices, herbs, incense, and other aromatics.
+Welcome to **Aromatica**, a database containing information about spices, herbs, incense, and other aromatics, aiming to gather whole spectrum of these unique materials.
 
-### Background
+<!-- ### Background -->
 
-The name *aromatica* is inspired by the words *exoticum* and its plural *exotica*. Aromatica is the singular feminine and the plural neuter nominative form of *arōmāticus* (f. *arōmātica*, n. *arōmāticum*), an adjective meaning "composed of spice, aromatic, fragrant" [(Lewis & Short, 1879)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek *ἀρωματικός* arōmatikós adj. 'aromatic', and the etymon *ἄρωμα* árōma n. "aromatic herb or spice" [(Liddell–Scott–Jones, 1843)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1). 
+### On the Name
 
-In the past, these meanings included anything fragrant, including oils and perfume, and this website aims to collect the whole spectrum of materials with special olfactory and gustatory qualities.
+The name *aromatica* was inspired by the word *exotica*.[^1] *Aromatica* is the singular feminine or the plural neuter nominative form of *arōmāticus* (f. *arōmātica*, n. *arōmāticum*), an adjective meaning "composed of spice, aromatic, fragrant" [(Lewis & Short, 1879)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek *ἀρωματικός* arōmatikós adj. 'aromatic', and the etymon *ἄρωμα* árōma n. "aromatic herb or spice" [(Liddell–Scott–Jones, 1843)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1). 
+
+The term therefore refers to any substance of fragrance, focusing on spices, but also including, oils and perfume, incense, fragrant woods, medicine, and other aromatic exotica with special olfactory and gustatory qualities. 
+
+[^1]: objects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country
 
 >The website is currently under construction, come back in 2024.
 
