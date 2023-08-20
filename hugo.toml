@@ -23,21 +23,19 @@ theme = ["hugo-theme-relearn", "hugo-cite"]
 
 [languages]
 
-# [languages.en]
-# title = "Aromatica"
-# weight = 1
-# languageName = "English"
-# [languages.en.params]
-# landingPageName = "<i class='fas fa-home'></i> Home"
+[languages.en]
+title = "Aromatica"
+weight = 1
+languageName = "English"
+[languages.en.params]
+landingPageName = "<i class='fas fa-home'></i> Home"
 
-# [languages.hu]
-# title = "Aromatica"
-# weight = 2
-# languageName = "Hungarian"
-# [languages.hu.params]
-# landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
-
-
+[languages.hu]
+title = "Aromatica"
+weight = 2
+languageName = "Hungarian"
+[languages.hu.params]
+landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 
 # [[menu.shortcuts]]
 # name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
@@ -81,6 +79,7 @@ weight = 20
     name = "<i class='fas fa-fw fa-list'></i> Categories"
     pageRef = "tags/"
     weight = 50
+
 
 
 [[languages.hu.menu.shortcuts]]
@@ -177,9 +176,9 @@ weight = 20
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
   themeVariant = ["dark", "light", "neon"]
   # Change the breadcrumb separator. Default to ">".
-  breadcrumbSeparator = " | "
+  breadcrumbSeparator = "&ensp;| "
   # Change the title separator. Default to "::".
-  titleSeparator = "-"
+  titleSeparator = "|"
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
   collapsibleMenu = false
   # If a single page can contain content in multiple languages, add those here
