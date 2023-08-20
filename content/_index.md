@@ -38,9 +38,6 @@ It is all about the boxes.
 <!-- 
 ***
 
-Linguistics {{< cite "matthews_linguistics_2003" >}}
-
-
 # Bibliography
 
 {{< bibliography cited >}} -->
