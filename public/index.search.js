@@ -205,15 +205,6 @@ var relearn_search_index = [
     "uri": "/materials/star_anise/"
   },
   {
-    "content": " ",
-    "description": "Description.",
-    "tags": [
-      "culinary"
-    ],
-    "title": "Test",
-    "uri": "/materials/_test/"
-  },
-  {
     "content": " Turmeric (Curcuma longa L.) is a culinary and medicinal and ritualistic spice and dye from the Zingiberaceae family,1 originating in the region(s) of India.2 It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.3\nHungarian Arabic Chinese kurkuma كركم 薑黃 Overview id turmeric species name Curcuma longa L. family Zingiberaceae part used rhizome macroarea Asia region of origin India cultivation China; Honduras; India; Indonesia; Jamaica color orange-yellow botanical database POWO POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ ↩︎\nvan Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001 ↩︎\nMedicinal Spices Exhibit. (2002). UCLA Biomedical Library: History \u0026 Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt\u0026itemsuppress=yes\u0026displayswitch=0 ↩︎\n",
     "description": "The bright yellow powder yielded from the rhizomes of curcuma longa.",
     "tags": [
@@ -232,6 +223,15 @@ var relearn_search_index = [
     ],
     "title": "Vanilla",
     "uri": "/materials/vanilla/"
+  },
+  {
+    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nBadge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\r",
+    "description": "Description.",
+    "tags": [
+      "culinary"
+    ],
+    "title": "Testing",
+    "uri": "/testing/"
   },
   {
     "content": "",
@@ -304,7 +304,7 @@ var relearn_search_index = [
     "uri": "/categories/vegetable/"
   },
   {
-    "content": "Welcome to Aromatica, a database containing information about spices, herbs, incense, and other aromatics, aiming to gather whole spectrum of these unique materials.\nOn the Name The name aromatica was inspired by the word exotica.1 Aromatica is the singular feminine or the plural neuter nominative form of arōmāticus (f. arōmātica, n. arōmāticum), an adjective meaning “composed of spice, aromatic, fragrant” (Lewis \u0026 Short, 1879), cf. Ancient Greek ἀρωματικός arōmatikós adj. ‘aromatic’, and the etymon ἄρωμα árōma n. “aromatic herb or spice” (Liddell–Scott–Jones, 1843).\nThe term therefore refers to any substance of fragrance, focusing on spices, but also including, oils and perfume, incense, fragrant woods, medicine, and other aromatic exotica with special olfactory and gustatory qualities.\nThe website is currently under construction, come back in 2024.\nVersioning \u0026 Updates v0.0.1. (2023-08-01) website creation: entering development mode (alpha) objects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country ↩︎\n",
+    "content": "Welcome to Aromatica, a database containing information about spices, herbs, incense, and other aromatics, aiming to gather whole spectrum of these unique materials.\nThe website is currently under construction, come back in 2024.\nOn the Name The name aromatica was inspired by the word exotica.1 Aromatica is the singular feminine or the plural neuter nominative form of arōmāticus (f. arōmātica, n. arōmāticum), an adjective meaning “composed of spice, aromatic, fragrant” (Lewis \u0026 Short, 1879), cf. Ancient Greek ἀρωματικός arōmatikós adj. ‘aromatic’, and the etymon ἄρωμα árōma n. “aromatic herb or spice” (Liddell–Scott–Jones, 1843).\nThe term therefore refers to any substance of fragrance, focusing on spices, but also including, oils and perfume, incense, fragrant woods, medicine, and other aromatic exotica with special olfactory and gustatory qualities.\nVersioning \u0026 Updates Version0.0.1 (2023-08-01) website creation; entering development mode (alpha)\nobjects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country ↩︎\n",
     "description": "",
     "tags": null,
     "title": "Home",

@@ -6,12 +6,12 @@
 @import "chroma-light.css";
 
 :root {
-    --PRIMARY-color: #81D8D0; /*rgba( 125, 201, 3, 1 ); /* brand primary color */
-    --SECONDARY-color: #81D8D0; /*( 108, 140, 227, 1 ); /* brand secondary color */
-    --ACCENT-color: #7E272F; /* brand accent color, used for search highlights */
+    --PRIMARY-color: #86B049; /*rgba( 125, 201, 3, 1 ); /* brand primary color */
+    --SECONDARY-color: #86B049; /*( 108, 140, 227, 1 ); /* brand secondary color */
+    --ACCENT-color: #499ab0; /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: #101010; /* text color of content and h1 titles */
-    --MAIN-LINK-HOVER-color: #81D8D0; /* hovered link color of content */
+    --MAIN-LINK-HOVER-color: #678d2d; /* hovered link color of content */
     --MAIN-BG-color: #ffffff; /* background color of content */
     --MAIN-TITLES-TEXT-color: #4a4a4a; /* text color of h2-h6 titles and transparent box titles */
 
@@ -21,8 +21,8 @@
     --CODE-BLOCK-BORDER-color: #d8d8d8; /* border color of block code */
 
     --CODE-INLINE-color: #5e5e5e; /* text color of inline code */
-    --CODE-INLINE-BG-color: #fffae9; /* background color of inline code */
-    --CODE-INLINE-BORDER-color: #f8e8c8; /* border color of inline code */
+    --CODE-INLINE-BG-color: #6664eb; /* background color of inline code */
+    --CODE-INLINE-BORDER-color: #ce2e99; /* border color of inline code */
 
     --BROWSER-theme: light; /* name of the theme for browser scrollbars of the main section */
     --MERMAID-theme: default; /* name of the default Mermaid theme for this variant, can be overridden in config.toml */

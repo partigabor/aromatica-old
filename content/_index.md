@@ -9,6 +9,8 @@ bibFile = "static/files/bibliography.json"
 
 Welcome to **Aromatica**, a database containing information about spices, herbs, incense, and other aromatics, aiming to gather whole spectrum of these unique materials.
 
+>The website is currently under construction, come back in 2024.
+
 <!-- ### Background -->
 
 ### On the Name
@@ -19,13 +21,11 @@ The term therefore refers to any substance of fragrance, focusing on spices, but
 
 [^1]: objects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country
 
->The website is currently under construction, come back in 2024.
-
 ***
 
 ### Versioning \& Updates
 
-* **v0.0.1.** &ensp;(2023-08-01)&ensp; website creation: entering development mode (alpha) 
+{{% badge style="primary" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01)&ensp; website creation; entering development mode (alpha) 
 
 <!-- {{% notice accent "Recipe" "mortar-pestle" %}}
 It is all about the boxes.

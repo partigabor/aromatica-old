@@ -1,11 +1,14 @@
 +++
-title = "Example"
-date = "2023-08-01T00:00:00+08:00"
+title = "Testing"
 author = "Gabor Parti"
+date = "2023-08-01T00:00:00+08:00"
+description = "Description."
 weight = 10
-draft = "true"
-tags = [""]
-categories = [""]
+draft = "false"
+categories = ['spice']
+tags = ['culinary']
+# plotly = true
+bibFile = "static/files/bibliography.json"
 
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
@@ -30,10 +33,42 @@ hidden = false
 LastModifierDisplayName = ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail = ""
+
+mermaidInitialize = "{ \"theme\": \"dark\" }"
+mermaidZoom = true
 +++
 
 Lorem Ipsum.
 
-{{% notice secondary "Recipe" "mortar-pestle" %}}
+Box
+
+{{% notice primary "There may be pirates" "skull-crossbones" %}}
 It is all about the boxes.
 {{% /notice %}}
+
+<!-- {{% attachments sort="asc" /%}} -->
+
+Badge
+
+{{% badge style="primary" title="Version" %}}6.6.6{{% /badge %}}
+
+Button 
+
+{{% button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button %}}
+
+{{% expand "Expand me..." %}}Thank you!{{% /expand %}}
+
+    Code
+
+Icons
+
+{{% icon mortar-pestle %}}
+
+{{% include "content/materials/something.md" %}}
+
+{{< mermaid zoom="true" >}}
+pie title Spice names by language
+    "English" : 120
+    "Arabic" : 90
+    "Chinese" : 60
+{{< /mermaid >}}

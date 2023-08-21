@@ -184,13 +184,6 @@ Hungarian Arabic Chinese szecsuáni bors فلفل سيتشوان 花椒 Overview
 Hungarian Arabic Chinese csillagánizs يانسون نجمي 八角 Overview id star anise species name Illicium verum Hook.f. family Schisandraceae part used pericarp macroarea Asia region of origin SE.</description>
     </item>
     <item>
-      <title>Test</title>
-      <link>https://partigabor.github.io/aromatica/materials/_test/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://partigabor.github.io/aromatica/materials/_test/</guid>
-      <description> </description>
-    </item>
-    <item>
       <title>Turmeric</title>
       <link>https://partigabor.github.io/aromatica/materials/turmeric/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
@@ -205,6 +198,19 @@ Hungarian Arabic Chinese kurkuma كركم 薑黃 Overview id turmeric species na
       <guid>https://partigabor.github.io/aromatica/materials/vanilla/</guid>
       <description>Vanilla (Vanilla planifolia Jacks. ex Andrews) is a culinary spice from the Orchidaceae family,1 originating in the region(s) of Tropical America.2 It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.3
 Hungarian Arabic Chinese vanília فانيليا 香草 Overview id vanilla species name Vanilla planifolia Jacks. ex Andrews family Orchidaceae part used fruit macroarea Americas region of origin Tropical America cultivation Madagascar; Indonesia; Mexico; Papua New Guinea; China color dark brown pod; creamy white extract botanical database POWO POWO.</description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>https://partigabor.github.io/aromatica/testing/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0800</pubDate>
+      <guid>https://partigabor.github.io/aromatica/testing/</guid>
+      <description>Lorem Ipsum.
+Box
+There may be pirates It is all about the boxes.
+Badge
+Version6.6.6 Button
+Get Hugo Expand me&amp;hellip; Thank you! CodeIcons
+pie title Spice names by language&amp;#34;English&amp;#34; : 120&amp;#34;Arabic&amp;#34; : 90&amp;#34;Chinese&amp;#34; : 60</description>
     </item>
   </channel>
 </rss>
