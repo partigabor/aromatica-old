@@ -76,7 +76,7 @@ pageRef = "tags/"
 weight = 40
 
 [[languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categories"
+name = "<i class='fas fa-fw fa-list'></i> Categories" # fa-box
 pageRef = "categories/"
 weight = 50
 

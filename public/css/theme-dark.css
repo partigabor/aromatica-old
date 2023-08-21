@@ -6,20 +6,20 @@
 @import "chroma-dark.css";
 
 :root {
-    --PRIMARY-color: #70c8fa; /* brand primary color */
-    --SECONDARY-color: #70c8fa; /* brand secondary color */
-    --ACCENT-color: #ffc979; /* brand accent color, used for search highlights */
+    --PRIMARY-color: #86B049; /* brand primary color */
+    --SECONDARY-color: #86B049; /* brand secondary color */
+    --ACCENT-color: #499ab0; /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: #e0e0e0; /* text color of content and h1 titles */
-    --MAIN-LINK-HOVER-color: #70c8fa; /* rgba( 147, 176, 255, 1 ); /* hovered link color of content */
-    --MAIN-BG-color: #121212; /* background color of content */
+    --MAIN-LINK-HOVER-color: #a6d067; /* rgba( 147, 176, 255, 1 ); /* hovered link color of content */
+    --MAIN-BG-color: #202020; /* background color of content */
     --MAIN-TITLES-TEXT-color: #ffffff; /* text color of h2-h6 titles and transparent box titles */
 
     /* adjusted to relearn-dark chroma style */
     --CODE-BLOCK-color: #f8f8f8; /* fallback text color of block code; should be adjusted to your selected chroma style */
     --CODE-BLOCK-BG-color: #2b2b2b; /* fallback background color of block code; should be adjusted to your selected chroma style */
 
-    --CODE-INLINE-color: #70c8fa; /* text color of inline code */
+    --CODE-INLINE-color: #499ab0; /* text color of inline code */
     --CODE-INLINE-BG-color: #2d2d2d; /* background color of inline code */
     --CODE-INLINE-BORDER-color: #464646; /* border color of inline code */
 
@@ -39,10 +39,10 @@
     --MENU-SECTIONS-LINK-color: #bababa; /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hovered link color of menu topics */
     --MENU-SECTIONS-ACTIVE-BG-color: #323232; /* background color of the active menu section */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #81D8D0; /* text color of the displayed menu topic */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #86B049; /* text color of the displayed menu topic */
     --MENU-SECTION-HR-color: #606060; /* separator color of menu footer */
 
-    --MENU-VISITED-color: #ffc979; /* icon color of visited menu topics if configured */
+    --MENU-VISITED-color: #86B049; /* icon color of visited menu topics if configured */
 
     --BOX-CAPTION-color: #f0f0f0; /* text color of colored box titles */
     --BOX-BG-color: #141414; /* background color of colored boxes */
