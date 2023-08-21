@@ -111,11 +111,11 @@ weight = 50
   # This controls whether submenus will be expanded (true), or collapsed (false) in the
   # menu; if no setting is given, the first menu level is set to false, all others to true;
   # this can be overridden in the pages frontmatter
-  alwaysopen = false
+  alwaysopen = true
   # Prefix URL to edit current page. Will display an "Edit" button on top right hand corner of every page.
   # Useful to give opportunity to people to create merge request for your doc.
   # See the config.toml file from this documentation site to have an example.
-  editURL = ""
+  editURL = "https://github.com/partigabor/aromatica/"
   # Author of the site, will be used in meta information
   author = "Gabor Parti"
   # Description of the site, will be used in meta information
@@ -127,7 +127,7 @@ weight = 50
   # Disable search in hidden pages, otherwise they will be shown in search box
   disableSearchHiddenPages = false
   # Disables hidden pages from showing up in the sitemap and on Google (et al.), otherwise they may be indexed by search engines
-  disableSeoHiddenPages = false
+  disableSeoHiddenPages = true
   # Disables hidden pages from showing up on the tags page although the tag term will be displayed even if all pages are hidden
   disableTagHiddenPages = false
   # Javascript and CSS cache are automatically busted when new version of site is generated.
@@ -179,7 +179,7 @@ weight = 50
   # Change the title separator. Default to "::".
   titleSeparator = " - "
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
-  collapsibleMenu = false
+  collapsibleMenu = true
   # English is the default language
   defaultContentLanguage = "en"
   # If a single page can contain content in multiple languages, add those here
@@ -192,5 +192,5 @@ weight = 50
 
 
   # To use these native HTML elements in your Markdown (such as FontAwesome icons), add this in your config.toml:
-  # [markup.goldmark.renderer]
-  #   unsafe = true
+  [markup.goldmark.renderer]
+    unsafe = true

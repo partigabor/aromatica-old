@@ -225,6 +225,15 @@ var relearn_search_index = [
     "uri": "/materials/vanilla/"
   },
   {
+    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nAttachments Badge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly\n",
+    "description": "Description.",
+    "tags": [
+      "culinary"
+    ],
+    "title": "Testing",
+    "uri": "/testing/"
+  },
+  {
     "content": "",
     "description": "",
     "tags": null,
@@ -300,12 +309,5 @@ var relearn_search_index = [
     "tags": null,
     "title": "Home",
     "uri": "/"
-  },
-  {
-    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nAttachments Badge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly\n",
-    "description": "",
-    "tags": null,
-    "title": "Testing",
-    "uri": "/testing/"
   }
 ]
