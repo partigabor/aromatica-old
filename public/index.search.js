@@ -19,7 +19,7 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Tag | culinary",
+    "title": "Tag - culinary",
     "uri": "/tags/culinary/"
   },
   {
@@ -33,7 +33,7 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Category | spice",
+    "title": "Category - spice",
     "uri": "/categories/spice/"
   },
   {

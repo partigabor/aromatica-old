@@ -61,24 +61,24 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 
 [[languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub"
-identifier = "ds"
+identifier = "ds" # ?
 url = "https://github.com/partigabor"
 weight = 10
 
 [[languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Creator"
+name = "<i class='fas fa-fw fa-pen-nib'></i> Creator"
 url = "https://partigabor.github.io/" #"local/"
 weight = 20
 
 [[languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-tags'></i> Tags"
-    pageRef = "tags/"
-    weight = 40
+name = "<i class='fas fa-fw fa-tags'></i> Tags"
+pageRef = "tags/"
+weight = 40
 
 [[languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-list'></i> Categories"
-    pageRef = "categories/"
-    weight = 50
+name = "<i class='fas fa-fw fa-list'></i> Categories"
+pageRef = "categories/"
+weight = 50
 
 
 
@@ -89,19 +89,19 @@ url = "https://github.com/partigabor"
 weight = 10
 
 [[languages.hu.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Szerkesztő"
+name = "<i class='fas fa-fw fa-pen-nib'></i> Szerkesztő"
 url = "https://partigabor.github.io/" # "local/"
 weight = 20
 
 [[languages.hu.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-tags'></i> Címkék"
-    pageRef = "tags/"
-    weight = 40
+name = "<i class='fas fa-fw fa-tags'></i> Címkék"
+pageRef = "tags/"
+weight = 40
 
 [[languages.hu.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-list'></i> Categóriák"
-    pageRef = "categories/"
-    weight = 50
+name = "<i class='fas fa-fw fa-list'></i> Categóriák"
+pageRef = "categories/"
+weight = 50
 
 
 
@@ -176,9 +176,9 @@ weight = 20
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
   themeVariant = ["dark", "light", "neon"]
   # Change the breadcrumb separator. Default to ">".
-  breadcrumbSeparator = "&nbsp;|&nbsp;"
+  breadcrumbSeparator = " | "
   # Change the title separator. Default to "::".
-  titleSeparator = "|"
+  titleSeparator = "-"
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
   collapsibleMenu = false
   # If a single page can contain content in multiple languages, add those here
@@ -188,6 +188,5 @@ weight = 20
   disableExplicitIndexURLs = true
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
-
   # English is the default language
   defaultContentLanguage = "en"
