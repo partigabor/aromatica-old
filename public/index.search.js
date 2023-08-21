@@ -225,15 +225,6 @@ var relearn_search_index = [
     "uri": "/materials/vanilla/"
   },
   {
-    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nBadge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\r",
-    "description": "Description.",
-    "tags": [
-      "culinary"
-    ],
-    "title": "Testing",
-    "uri": "/testing/"
-  },
-  {
     "content": "",
     "description": "",
     "tags": null,
@@ -244,21 +235,21 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Tag - culinary",
+    "title": "Tag  -  culinary",
     "uri": "/tags/culinary/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Category - dye",
+    "title": "Category  -  dye",
     "uri": "/categories/dye/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Category - herb",
+    "title": "Category  -  herb",
     "uri": "/categories/herb/"
   },
   {
@@ -272,21 +263,21 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Tag - medicinal",
+    "title": "Tag  -  medicinal",
     "uri": "/tags/medicinal/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Tag - ritualistic",
+    "title": "Tag  -  ritualistic",
     "uri": "/tags/ritualistic/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Category - spice",
+    "title": "Category  -  spice",
     "uri": "/categories/spice/"
   },
   {
@@ -300,7 +291,7 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Category - vegetable",
+    "title": "Category  -  vegetable",
     "uri": "/categories/vegetable/"
   },
   {
@@ -309,5 +300,12 @@ var relearn_search_index = [
     "tags": null,
     "title": "Home",
     "uri": "/"
+  },
+  {
+    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nAttachments Badge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly\n",
+    "description": "",
+    "tags": null,
+    "title": "Testing",
+    "uri": "/testing/"
   }
 ]

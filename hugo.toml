@@ -20,7 +20,6 @@ theme = ["hugo-theme-relearn", "hugo-cite"]
 
 
 
-
 [languages]
 
 [languages.en]
@@ -153,7 +152,7 @@ weight = 50
   # If set to true, hide table of contents menu in the header of all pages
   disableToc = false
   # If set to false, load the MathJax module on every page regardless if a MathJax shortcode is present
-  disableMathJax = false
+  disableMathJax = true
   # Specifies the remote location of the MathJax js
   customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
   # Initialization parameter for MathJax, see MathJax documentation
@@ -163,9 +162,9 @@ weight = 50
   # Specifies the remote location of the Mermaid js
   customMermaidURL = "https://unpkg.com/mermaid/dist/mermaid.min.js"
   # Initialization parameter for Mermaid, see Mermaid documentation
-  mermaidInitialize = "{ \"theme\": \"default\" }"
+  mermaidInitialize = "{ \"theme\": \"dark\" }"
   # If set to false, load the OpenAPI module on every page regardless if a OpenAPI shortcode is present
-  disableOpenapi = false
+  disableOpenapi = true
   # Specifies the remote location of the swagger-ui js
   customOpenapiURL = "https://unpkg.com/swagger-ui-dist/swagger-ui-bundle.js"
   # Hide Next and Previous page buttons normally displayed full height beside content
@@ -178,9 +177,11 @@ weight = 50
   # Change the breadcrumb separator. Default to ">".
   breadcrumbSeparator = " | "
   # Change the title separator. Default to "::".
-  titleSeparator = "-"
+  titleSeparator = " - "
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
   collapsibleMenu = false
+  # English is the default language
+  defaultContentLanguage = "en"
   # If a single page can contain content in multiple languages, add those here
   additionalContentLanguage = [ "en" ]
   # If set to true, no index.html will be appended to prettyURLs; this will cause pages not
@@ -188,9 +189,8 @@ weight = 50
   disableExplicitIndexURLs = true
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
-  # English is the default language
-  defaultContentLanguage = "en"
+
 
   # To use these native HTML elements in your Markdown (such as FontAwesome icons), add this in your config.toml:
   # [markup.goldmark.renderer]
-    # unsafe = true
+  #   unsafe = true

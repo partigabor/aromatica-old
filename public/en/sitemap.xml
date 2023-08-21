@@ -97,10 +97,6 @@
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://partigabor.github.io/aromatica/testing/</loc>
-    <lastmod>2023-08-01T00:00:00+08:00</lastmod>
-  </url>
-  <url>
     <loc>https://partigabor.github.io/aromatica/categories/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://partigabor.github.io/aromatica/categories/" />
@@ -152,5 +148,8 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://partigabor.github.io/aromatica/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://partigabor.github.io/aromatica/" />
     <xhtml:link rel="alternate" hreflang="hu" href="https://partigabor.github.io/aromatica/hu/" />
+  </url>
+  <url>
+    <loc>https://partigabor.github.io/aromatica/testing/</loc>
   </url>
 </urlset>
