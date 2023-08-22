@@ -15,7 +15,7 @@ bibFile = "static/files/bibliography.json"
 # Note: Toc is always disabled for chapter pages
 disableToc = false
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
-menuTitle = ""
+menuTitle = "Test"
 # If set, this will explicitly override common rules for the expand state of a page's menu entry
 alwaysopen = true
 # If set, this will explicitly override common rules for the sorting order of a page's submenu entries

@@ -1,0 +1,1392 @@
+,species,family,name,region,part,source
+0,Abelmoschus moschatus,Malvaceae,abelmosk seed,E As,seed,van_wyk_culinary_2014
+1,Abelmoschus moschatus,Malvaceae,ambrette seed,E As,seed,van_wyk_culinary_2014
+2,Abelmoschus moschatus,Malvaceae,amber seed,E As,seed,van_wyk_culinary_2014
+3,Abelmoschus moschatus,Malvaceae,musk mallow,E As,seed,van_wyk_culinary_2014
+4,Abelmoschus moschatus,Malvaceae,musk okra,E As,seed,van_wyk_culinary_2014
+5,Achillea ageratum,Asteraceae,English mace,Eur,leaf; herb,van_wyk_culinary_2014
+6,Achillea ageratum,Asteraceae,sweet nancy,Eur,leaf; herb,van_wyk_culinary_2014
+7,Achillea ageratum,Asteraceae,sweet yarrow,Eur,leaf; herb,van_wyk_culinary_2014
+8,Achillea atrata,Asteraceae,black yarrow,Eur,herb,van_wyk_culinary_2014
+9,Achillea clavenae,Asteraceae,bitter yarrow,As; Eur; N Am,leaf,van_wyk_culinary_2014
+10,Achillea erba-rotta,Asteraceae,alpine yarrow,Eur,leaf; herb,van_wyk_culinary_2014
+11,Achillea erba-rotta,Asteraceae,musk milfoil,Eur,leaf; herb,van_wyk_culinary_2014
+12,Achillea erba-rotta,Asteraceae,musk yarrow,Eur,leaf; herb,van_wyk_culinary_2014
+13,Achillea millefolium,Asteraceae,common yarrow,As; Eur; N Am,leaf,van_wyk_culinary_2014
+14,Achillea millefolium,Asteraceae,fragrant yarrow,As; Eur; N Am,leaf,van_wyk_culinary_2014
+15,Achillea millefolium,Asteraceae,milfoil,As; Eur; N Am,leaf,van_wyk_culinary_2014
+16,Achillea nobilis,Asteraceae,noble milfoil,As; Eur,leaf,van_wyk_culinary_2014
+17,Achillea nobilis,Asteraceae,noble yarrow,As; Eur,leaf,van_wyk_culinary_2014
+18,Achyrocline satureioides,Asteraceae,alecrim da parede,Afr; S Am,flower,van_wyk_culinary_2014
+19,Achyrocline satureioides,Asteraceae,macela,Afr; S Am,flower,van_wyk_culinary_2014
+20,Acinos arvensis,Lamiaceae,basil thyme,N Am,herb,van_wyk_culinary_2014
+21,Acinos arvensis,Lamiaceae,mother of thyme,N Am,herb,van_wyk_culinary_2014
+22,Acinos arvensis,Lamiaceae,spring savory,N Am,herb,van_wyk_culinary_2014
+23,Acorus calamus,Acoraceae,calamus,As; Eur; N Am,rhizome,van_wyk_culinary_2014
+24,Acorus calamus,Acoraceae,sweet flag,As; Eur; N Am,rhizome,van_wyk_culinary_2014
+25,Acorus gramineus,Acoraceae,Chinese sweet grass,E As,rhizome,van_wyk_culinary_2014
+26,Acorus gramineus,Acoraceae,Japanese sweet flag,E As,rhizome,van_wyk_culinary_2014
+27,Acorus gramineus,Acoraceae,grass leaf sweet flag,E As,rhizome,van_wyk_culinary_2014
+28,Adansonia digitata,Bombacaceae,baobab,Afr,leaf; seeds,van_wyk_culinary_2014
+29,Aegle marmelos,Rutaceae,bael,As,leaf,van_wyk_culinary_2014
+30,Aegle marmelos,Rutaceae,bel,As,leaf,van_wyk_culinary_2014
+31,Aegle marmelos,Rutaceae,Bengal quince,As,leaf,van_wyk_culinary_2014
+32,Aegle marmelos,Rutaceae,Indian bael,As,leaf,van_wyk_culinary_2014
+33,Aeollanthus heliotropoides,Lamiaceae,chegadinka,Afr,leaf,van_wyk_culinary_2014
+34,Aeollanthus heliotropoides,Lamiaceae,macassa,Afr,leaf,van_wyk_culinary_2014
+35,Aframomum alboviolaceum,Zingiberaceae,Cameroon cardamom,Trop Afr,leaf,van_wyk_culinary_2014
+36,Aframomum angustifolium,Zingiberaceae,Madagascar cardamom,Madag,seed,van_wyk_culinary_2014
+37,Aframomum daniellii,Zingiberaceae,bastard Melegueta,Trop W Afr,seed,van_wyk_culinary_2014
+38,Aframomum daniellii,Zingiberaceae,Cameroon cardamom,Trop W Afr,seed,van_wyk_culinary_2014
+39,Aframomum exscapum,Zingiberaceae,alligator pepper,Trop W Afr,seed,van_wyk_culinary_2014
+40,Aframomum exscapum,Zingiberaceae,grains of paradise,Trop W Afr,seed,van_wyk_culinary_2014
+41,Aframomum granumparadisi,Zingiberaceae,grains of paradise,W Afr,seed,van_wyk_culinary_2014
+42,Aframomum hanburyi,Zingiberaceae,Cameroon cardamom,Trop W Afr,seed,van_wyk_culinary_2014
+43,Aframomum corrorima,Zingiberaceae,Ethiopian cardamom,Trop NE Afr,seed,van_wyk_culinary_2014
+44,Aframomum corrorima,Zingiberaceae,korarima,Trop NE Afr,seed,van_wyk_culinary_2014
+45,Aframomum macrospermum,Zingiberaceae,Guinea cardamom,W Afr,seed,van_wyk_culinary_2014
+46,Aframomum melegueta,Zingiberaceae,Melegueta pepper,Trop W Afr,seed,van_wyk_culinary_2014
+47,Aframomum melegueta,Zingiberaceae,grains of paradise,Trop W Afr,seed,van_wyk_culinary_2014
+48,Aframomum melegueta,Zingiberaceae,alligator pepper,Trop W Afr,seed,van_wyk_culinary_2014
+49,Aframomum sceptrum,Zingiberaceae,black amomum,W Afr,leaf,van_wyk_culinary_2014
+50,Afrostyrax kamerunensis,Styracaceae,Cameroon garlic tree,Trop Afr,bark; seed,van_wyk_culinary_2014
+51,Afrostyrax lepidophyllus,Styracaceae,garlic bark (tree),Trop Afr,bark; seed,van_wyk_culinary_2014
+52,Agastache foeniculum,Lamiaceae,anise hyssop,N Am; W As,leaf,van_wyk_culinary_2014
+53,Agastache mexicana,Lamiaceae,Mexican giant hyssop,As,leaf,van_wyk_culinary_2014
+54,Agastache mexicana,Lamiaceae,lemon hyssop,As,leaf,van_wyk_culinary_2014
+55,Agastache rugosa,Lamiaceae,Chinese giant hyssop,N Am; W As,leaf,van_wyk_culinary_2014
+56,Agastache rugosa,Lamiaceae,Korean mint,N Am; W As,leaf,van_wyk_culinary_2014
+57,Agathosma betulina,Rutaceae,buchu,S Afr,leaf,van_wyk_culinary_2014
+58,Agathosma betulina,Rutaceae,round leaf buchu,S Afr,leaf,van_wyk_culinary_2014
+59,Agathosma crenulata,Rutaceae,oval leaf buchu,S Afr,leaf,van_wyk_culinary_2014
+60,Aglaia odoratissima,Meliaceae,mock lime,As; W Pac,flower,van_wyk_culinary_2014
+61,Aglaia odoratissima,Meliaceae,orchid tree,As; W Pac,flower,van_wyk_culinary_2014
+62,Aleurites moluccana,Euphorbiaceae,candle nut,SE As,seed,van_wyk_culinary_2014
+63,Alliaria petiolata,Brassicaceae,garlic mustard,Eur; Temp As,leaf,van_wyk_culinary_2014
+64,Allium altaicum,Alliaceae,Altai onion,C As,bulb,van_wyk_culinary_2014
+65,Allium ameloprasum,Alliaceae,leeks,Med; W As,bulb; leaf,van_wyk_culinary_2014
+66,Allium cepa,Alliaceae,onion,W As; C As,bulb,van_wyk_culinary_2014
+67,Allium chinense,Alliaceae,Chinese onion,China,bulb,van_wyk_culinary_2014
+68,Allium chinense,Alliaceae,oriental onion,China,bulb,van_wyk_culinary_2014
+69,Allium chinense,Alliaceae,rakkyo,China,bulb,van_wyk_culinary_2014
+70,Allium fistulosum,Alliaceae,Welsh onion,China,bulb; leaf,van_wyk_culinary_2014
+71,Allium fistulosum,Alliaceae,Japanese bunching onion,China,bulb; leaf,van_wyk_culinary_2014
+72,Allium giganteum,Alliaceae,giant onion,C As,bulb,van_wyk_culinary_2014
+73,Allium kurrat,Alliaceae,kurrat,Med; W As,leaf,van_wyk_culinary_2014
+74,Allium kurrat,Alliaceae,salad leek,Med; W As,leaf,van_wyk_culinary_2014
+75,Allium kurrat,Alliaceae,Egypt leek,Med; W As,leaf,van_wyk_culinary_2014
+76,Allium moly,Alliaceae,lily leek,Eur,bulb,van_wyk_culinary_2014
+77,Allium moly,Alliaceae,moly,Eur,bulb,van_wyk_culinary_2014
+78,Allium moly,Alliaceae,yellow onion,Eur,bulb,van_wyk_culinary_2014
+79,Allium neopolitanum,Alliaceae,daffodil garlic,Med; W As,bulb; leaf,van_wyk_culinary_2014
+80,Allium neopolitanum,Alliaceae,Naples garlic,Med; W As,bulb; leaf,van_wyk_culinary_2014
+81,Allium neopolitanum,Alliaceae,false garlic,Med; W As,bulb; leaf,van_wyk_culinary_2014
+82,Allium obliquum,Alliaceae,oblique onion,Eur; As,bulb,van_wyk_culinary_2014
+83,Allium oleraceum,Alliaceae,field garlic,Eur,bulb; leaf,van_wyk_culinary_2014
+84,Allium oschaninii,Alliaceae,Oschanin onion,C As; W As,bulb,van_wyk_culinary_2014
+85,Allium paradoxum,Alliaceae,few-flowered leek,Eur; W As,bulb; leaf,van_wyk_culinary_2014
+86,Allium ×proliferum,Alliaceae,Egyptian onion,cultigen,bulblet; leaf,van_wyk_culinary_2014
+87,Allium ×proliferum,Alliaceae,top onion,cultigen,bulblet; leaf,van_wyk_culinary_2014
+88,Allium ×proliferum,Alliaceae,tree onion,cultigen,bulblet; leaf,van_wyk_culinary_2014
+89,Allium pskemense,Alliaceae,Russian onion,As,bulb,van_wyk_culinary_2014
+90,Allium ramosum,Alliaceae,Chinese leek,As,bulb; leaf,van_wyk_culinary_2014
+91,Allium sativum,Alliaceae,garlic,C As; W As,bulb,van_wyk_culinary_2014
+92,Allium schoenoprasum,Alliaceae,chive,Med; Eur; As,leaves,van_wyk_culinary_2014
+93,Allium schoenoprasum,Alliaceae,chives,Med; Eur; As,leaves,van_wyk_culinary_2014
+94,Allium schorodoprasum,Alliaceae,sand leek,Eur; As,bulblet; leaf,van_wyk_culinary_2014
+95,Allium schorodoprasum,Alliaceae,Spanish garlic,Eur; As,bulblet; leaf,van_wyk_culinary_2014
+96,Allium schorodoprasum,Alliaceae,rocambole,Eur; As,bulblet; leaf,van_wyk_culinary_2014
+97,Allium senescens,Alliaceae,mountain leek,C Eur; As,leaf,van_wyk_culinary_2014
+98,Allium sphaerocephalon,Alliaceae,ball leek,Med; Eur,leaf,van_wyk_culinary_2014
+99,Allium stipitatum,Alliaceae,drumstick onion,C As,bulb,van_wyk_culinary_2014
+100,Allium tricoccum,Alliaceae,ramp,N Am,bulb; leaf,van_wyk_culinary_2014
+101,Allium tricoccum,Alliaceae,wild leek,N Am,bulb; leaf,van_wyk_culinary_2014
+102,Allium tricoccum,Alliaceae,wood leek,N Am,bulb; leaf,van_wyk_culinary_2014
+103,Allium tuberosum,Alliaceae,garlic chive,As,leaf,van_wyk_culinary_2014
+104,Allium tuberosum,Alliaceae,Chinese chive,As,leaf,van_wyk_culinary_2014
+105,Allium ursinum,Alliaceae,bear’s garlic,Eur; As,leaf,van_wyk_culinary_2014
+106,Allium ursinum,Alliaceae,ramsons,Eur; As,leaf,van_wyk_culinary_2014
+107,Allium ursinum,Alliaceae,wood garlic,Eur; As,leaf,van_wyk_culinary_2014
+108,Allium vavilovii,Alliaceae,Vavilov’s leek,C As,bulb; leaf,van_wyk_culinary_2014
+109,Allium victoralis,Alliaceae,alpine leek,Eur; As,leek; bulb,van_wyk_culinary_2014
+110,Allium vineale,Alliaceae,crow garlic,Eur,leaf,van_wyk_culinary_2014
+111,Allium vineale,Alliaceae,false garlic,Eur,leaf,van_wyk_culinary_2014
+112,Allium vineale,Alliaceae,field garlic,Eur,leaf,van_wyk_culinary_2014
+113,Aloysia citrodora (=Aloysia triphylla),Verbenaceae,lemon verbena,S Am,leaves,van_wyk_culinary_2014
+114,Aloysia citrodora (=Aloysia triphylla),Verbenaceae,vervain,S Am,leaves,van_wyk_culinary_2014
+115,Aloysia citrodora (=Aloysia triphylla),Verbenaceae,cidron,S Am,leaves,van_wyk_culinary_2014
+116,Aloysia citrodora (=Aloysia triphylla),Verbenaceae,herb Luisa,S Am,leaves,van_wyk_culinary_2014
+117,Alpinia calcarata,Zingiberaceae,Indian ginger,As; Pac; E Ind,rhizome,van_wyk_culinary_2014
+118,Alpinia calcarata,Zingiberaceae,snap ginger,As; Pac; E Ind,rhizome,van_wyk_culinary_2014
+119,Alpinia conchigera,Zingiberaceae,mussel galangal,SE As,rhizome,van_wyk_culinary_2014
+120,Alpinia galanga,Zingiberaceae,galangal,Trop As,rhizome,van_wyk_culinary_2014
+121,Alpinia galanga,Zingiberaceae,greater galangal,Trop As,rhizome,van_wyk_culinary_2014
+122,Alpinia nigra,Zingiberaceae,black galangal,Pac; SE As,rhizome,van_wyk_culinary_2014
+123,Alpinia officinarum,Zingiberaceae,lesser galangal,E As; SE As,rhizome,van_wyk_culinary_2014
+124,Alpinia officinarum,Zingiberaceae,small galangal,E As; SE As,rhizome,van_wyk_culinary_2014
+125,Alpinia purpurata,Zingiberaceae,red ginger,As; Pac; Malay,leaf,van_wyk_culinary_2014
+126,Alpinia zerumbet,Zingiberaceae,shell ginger,As; Pac; E As,leaf; rhizome,van_wyk_culinary_2014
+127,Alstonia scholaris,Apocynaceae,devil tree,Indomal; Aus,bark,van_wyk_culinary_2014
+128,Alstonia scholaris,Apocynaceae,dita bark,Indomal; Aus,bark,van_wyk_culinary_2014
+129,Alstonia scholaris,Apocynaceae,palmira alstonia,Indomal; Aus,bark,van_wyk_culinary_2014
+130,Alyxia lucida,Apocynaceae,alyxia cinnamon,Indomal,bark,van_wyk_culinary_2014
+131,Amelanchier alnifolia,Rosaceae,alderleaf berry,N Am,fruit,van_wyk_culinary_2014
+132,Amelanchier alnifolia,Rosaceae,Pacific berry,N Am,fruit,van_wyk_culinary_2014
+133,Amelanchier alnifolia,Rosaceae,saskatoon,N Am,fruit,van_wyk_culinary_2014
+134,Amelanchier alnifolia,Rosaceae,western serviceberry,N Am,fruit,van_wyk_culinary_2014
+135,Ammi majus,Apiaceae,false bishop’s weed,Med; NE Afr,fruit,van_wyk_culinary_2014
+136,Ammi majus,Apiaceae,greater ammi,Med; NE Afr,fruit,van_wyk_culinary_2014
+137,Ammi majus,Apiaceae,lady’s lace,Med; NE Afr,fruit,van_wyk_culinary_2014
+138,Ammi visnaga,Apiaceae,khella,S Eur; NE Afr,fruit,van_wyk_culinary_2014
+139,Ammi visnaga,Apiaceae,visnaga,S Eur; NE Afr,fruit,van_wyk_culinary_2014
+140,Ammi visnaga,Apiaceae,lesser bishop’s weed,S Eur; NE Afr,fruit,van_wyk_culinary_2014
+141,Ammodaucus leucotrichus,Apiaceae,cafoun,Canary Is; N Afr; W Afr,fruit; seed,van_wyk_culinary_2014
+142,Amomum aromaticum,Zingiberaceae,Bengal cardamom,N Ind; Bangl; Nepal,fruit & seed,van_wyk_culinary_2014
+143,Amomum aromaticum,Zingiberaceae,Nepal cardamom,N Ind; Bangl; Nepal,fruit & seed,van_wyk_culinary_2014
+144,Amomum aromaticum,Zingiberaceae,large cardamom,N Ind; Bangl; Nepal,fruit & seed,van_wyk_culinary_2014
+145,Amomum compactum,Zingiberaceae,Indonesian cardamom,SE As,fruit & seed,van_wyk_culinary_2014
+146,Amomum costatum,Zingiberaceae,Chinese black cardamom,E As,fruit & seed,van_wyk_culinary_2014
+147,Amomum globosum,Zingiberaceae,round Chinese cardamom,China,fruit & seed,van_wyk_culinary_2014
+148,Amomum gracile,Zingiberaceae,slender cardamom,SE As,leaf,van_wyk_culinary_2014
+149,Amomum kepulaga,Zingiberaceae,round cardamom,Trop As,fruit & seed,van_wyk_culinary_2014
+150,Amomum krervanh,Zingiberaceae,Cambodian cardamom,Trop As,fruit & seed,van_wyk_culinary_2014
+151,Amomum krervanh,Zingiberaceae,krervanh,Trop As,fruit & seed,van_wyk_culinary_2014
+152,Amomum maximum,Zingiberaceae,Java cardamom,Trop As,fruit & seed,van_wyk_culinary_2014
+153,Amomum ochreum,Zingiberaceae,tepus batu,As,fruit & seed,van_wyk_culinary_2014
+154,Amomum subulatum,Zingiberaceae,brown cardamom,As,fruit & seed,van_wyk_culinary_2014
+155,Amomum subulatum,Zingiberaceae,greater cardamom,As,fruit & seed,van_wyk_culinary_2014
+156,Amomum subulatum,Zingiberaceae,Indian cardamom,As,fruit & seed,van_wyk_culinary_2014
+157,Amomum testaceum,Zingiberaceae,ka tepus,As,fruit & seed,van_wyk_culinary_2014
+158,Amomum tsao-ko,Zingiberaceae,tsao-ko cardamom,As,fruit & seed,van_wyk_culinary_2014
+159,Amomum tsao-ko,Zingiberaceae,large cardamom,As,fruit & seed,van_wyk_culinary_2014
+160,Amomum villosum,Zingiberaceae,Malabar cardamom,As,fruit & seed,van_wyk_culinary_2014
+161,Amomum villosum,Zingiberaceae,Tavoy cardamom,As,fruit & seed,van_wyk_culinary_2014
+162,Amomum villosum,Zingiberaceae,wild Siamese cardamom,As,fruit & seed,van_wyk_culinary_2014
+163,Amomum xanthioides,Zingiberaceae,bastard Siamese cardamom,As,fruit & seed,van_wyk_culinary_2014
+164,Amomum xanthioides,Zingiberaceae,wild Siamese cardamom,As,fruit & seed,van_wyk_culinary_2014
+165,Amomum xanthophlebium,Zingiberaceae,elach,As,flower,van_wyk_culinary_2014
+166,Anacyclus pyrethrum,Asteraceae,Roman pellitory,Eur; N Afr,root,van_wyk_culinary_2014
+167,Anacyclus pyrethrum,Asteraceae,Spanish pellitory,Eur; N Afr,root,van_wyk_culinary_2014
+168,Anethum graveolens (=A. sowa),Apiaceae,dill,W As; Ind,leaf; fruit,van_wyk_culinary_2014
+169,Anethum graveolens (=A. sowa),Apiaceae,Indian dill,W As; Ind,leaf; fruit,van_wyk_culinary_2014
+170,Angelica acutiloba,Apiaceae,dong dang gui,Eur; E As,root; leaf,van_wyk_culinary_2014
+171,Angelica archangelica,Apiaceae,angelica,Eur; As,root; fruit; stem,van_wyk_culinary_2014
+172,Angelica archangelica,Apiaceae,garden angelica,Eur; As,root; fruit; stem,van_wyk_culinary_2014
+173,Angelica archangelica,Apiaceae,archangel,Eur; As,root; fruit; stem,van_wyk_culinary_2014
+174,Angelica atropurpurea,Apiaceae,American angelica,N Am,root; fruit,van_wyk_culinary_2014
+175,Angelica japonica,Apiaceae,Japanese angelica,As,root; fruit,van_wyk_culinary_2014
+176,Angelica polymorpha var. sinensis,Apiaceae,Chinese angelica,As; E As,root,van_wyk_culinary_2014
+177,Angelica polymorpha var. sinensis,Apiaceae,dang gui,As; E As,root,van_wyk_culinary_2014
+178,Angelica sylvestris,Apiaceae,wild angelica,Eur; W As,root,van_wyk_culinary_2014
+179,Aniba canellila,Lauraceae,Oriniko cinnamon,S Am,bark; leaf,van_wyk_culinary_2014
+180,Aniba rosaedora,Lauraceae,rose wood,N Am; S Am,wood,van_wyk_culinary_2014
+181,Anthoxanthum odoratum,Poaceae,scented vernal grass,Eur; As,leaf,van_wyk_culinary_2014
+182,Anthoxanthum odoratum,Poaceae,sweet vernal grass,Eur; As,leaf,van_wyk_culinary_2014
+183,Anthriscus cerefolium,Apiaceae,chervil,As; W As,leaf,van_wyk_culinary_2014
+184,Anthriscus cerefolium,Apiaceae,garden chervil,As; W As,leaf,van_wyk_culinary_2014
+185,Anthriscus cerefolium,Apiaceae,French parsley,As; W As,leaf,van_wyk_culinary_2014
+186,Apium graveolens,Apiaceae,celery,Eur; As,leaf; seed,van_wyk_culinary_2014
+187,Aquilaria agallocha,Thymelaeaceae,agar wood,As,wood,van_wyk_culinary_2014
+188,Aquilaria agallocha,Thymelaeaceae,eagle wood,As,wood,van_wyk_culinary_2014
+189,Arachis hypogaea,Leguminosae,peanut,S Am,seed,van_wyk_culinary_2014
+190,Arachis hypogaea,Leguminosae,ground nut,S Am,seed,van_wyk_culinary_2014
+191,Aristolochia serpentaria,Aristolochiaceae,Virginia serpentary,N Am,rhizome,van_wyk_culinary_2014
+192,Aristolochia serpentaria,Aristolochiaceae,Virginia snakeroot,N Am,rhizome,van_wyk_culinary_2014
+193,Armoracia rusticana,Brassicaceae,horseradish,As,root,van_wyk_culinary_2014
+194,Arnica chamissonis,Asteraceae,leafy leopardsbane,N Am,flower,van_wyk_culinary_2014
+195,Arnica montana,Asteraceae,arnica,Eur,flower,van_wyk_culinary_2014
+196,Arnica montana,Asteraceae,European arnica,Eur,flower,van_wyk_culinary_2014
+197,Arnica montana,Asteraceae,mountain arnica,Eur,flower,van_wyk_culinary_2014
+198,Artabotrys hexapetalus,Annonaceae,tail grape,S As,flower,van_wyk_culinary_2014
+199,Artemisia abrotanum,Asteraceae,southernwood,Eur?,leaves,van_wyk_culinary_2014
+200,Artemisia absinthium,Asteraceae,absinthe,Euras; N Afr,leaves,van_wyk_culinary_2014
+201,Artemisia absinthium,Asteraceae,common wormwood,Euras; N Afr,leaves,van_wyk_culinary_2014
+202,Artemisia dracunculoides,Asteraceae,Russian tarragon,Eur; As,leaves,van_wyk_culinary_2014
+203,Artemisia dracunculus,Asteraceae,tarragon,Eur; As,leaves,van_wyk_culinary_2014
+204,Artemisia dracunculus,Asteraceae,French tarragon,Eur; As,leaves,van_wyk_culinary_2014
+205,Artemisia dracunculus,Asteraceae,estragon,Eur; As,leaves,van_wyk_culinary_2014
+206,Artemisia genipi,Asteraceae,genépi noir,Eur,leaf,van_wyk_culinary_2014
+207,Artemisia glacialis,Asteraceae,glacier wormwood,Eur,leaf,van_wyk_culinary_2014
+208,Artemisia indica,Asteraceae,Indian mugwort,As,leaf,van_wyk_culinary_2014
+209,Artemisia judaica,Asteraceae,graines à vers,N Afr,herb,van_wyk_culinary_2014
+210,Artemisia judaica,Asteraceae,zédoire,N Afr,herb,van_wyk_culinary_2014
+211,Artemisia ludoviciana,Asteraceae,cudweed,N Am,herb,van_wyk_culinary_2014
+212,Artemisia ludoviciana,Asteraceae,western mugwort,N Am,herb,van_wyk_culinary_2014
+213,Artemisia ludoviciana,Asteraceae,white sage,N Am,herb,van_wyk_culinary_2014
+214,Artemisia maritima,Asteraceae,sea wormwood,Eur; As,herb,van_wyk_culinary_2014
+215,Artemisia mexicana,Asteraceae,Mexican mugwort,N Am,herb,van_wyk_culinary_2014
+216,Artemisia mutellina,Asteraceae,alpine wormwood,Eur,herb,van_wyk_culinary_2014
+217,Artemisia mutellina,Asteraceae,white genipi,Eur,herb,van_wyk_culinary_2014
+218,Artemisia pallens,Asteraceae,davana,As,herb,van_wyk_culinary_2014
+219,Artemisia pontica,Asteraceae,Roman wormwood,Eur,leaf; herb,van_wyk_culinary_2014
+220,Artemisia pontica,Asteraceae,small absinth,Eur,leaf; herb,van_wyk_culinary_2014
+221,Artemisia princeps,Asteraceae,Japanese mugwort,E As,leaf,van_wyk_culinary_2014
+222,Artemisia rehan,Asteraceae,rehan,Afr,leaf; herb,van_wyk_culinary_2014
+223,Artemisia rehan,Asteraceae,Ethiopian wormwood,Afr,leaf; herb,van_wyk_culinary_2014
+224,Artemisia vulgaris,Asteraceae,mugwort,Eur; As; N Am,leaves,van_wyk_culinary_2014
+225,Artemisia vulgaris,Asteraceae,motherwort,Eur; As; N Am,leaves,van_wyk_culinary_2014
+226,Artemisia vulgaris,Asteraceae,sagebrush,Eur; As; N Am,leaves,van_wyk_culinary_2014
+227,Artocarpus lakoochus,Moraceae,monkey jack,As,male flowers,van_wyk_culinary_2014
+228,Averrhoa bilimbi,Oxalidaceae,bilimbi,Trop As,fruit,van_wyk_culinary_2014
+229,Averrhoa bilimbi,Oxalidaceae,cucumber tree,Trop As,fruit,van_wyk_culinary_2014
+230,Averrhoa bilimbi,Oxalidaceae,tree sorrel,Trop As,fruit,van_wyk_culinary_2014
+231,Backhousia citriodora,Myrtaceae,Australian lemon myrtle,Aus,leaf,van_wyk_culinary_2014
+232,Backhousia citriodora,Myrtaceae,citron myrtle,Aus,leaf,van_wyk_culinary_2014
+233,Barbarea verna,Brassicaceae,land cress,Med; W As,leaf,van_wyk_culinary_2014
+234,Berberis vulgaris,Berberidaceae,barberry,Eur; As,fruit,van_wyk_culinary_2014
+235,Berberis vulgaris,Berberidaceae,zereshk,Eur; As,fruit,van_wyk_culinary_2014
+236,Berberis vulgaris,Berberidaceae,sereshk,Eur; As,fruit,van_wyk_culinary_2014
+237,Bixa orellana,Bixaceae,an(n)atto,Trop Am,seed,van_wyk_culinary_2014
+238,Bixa orellana,Bixaceae,achiote,Trop Am,seed,van_wyk_culinary_2014
+239,Bixa orellana,Bixaceae,roucou,Trop Am,seed,van_wyk_culinary_2014
+240,Boesenbergia rotunda (=Boesenbergia pandurata),Zingiberaceae,fingerroot,Trop As,rhizome; root,van_wyk_culinary_2014
+241,Boesenbergia rotunda (=Boesenbergia pandurata),Zingiberaceae,Chinese keys,Trop As,rhizome; root,van_wyk_culinary_2014
+242,Boesenbergia rotunda (=Boesenbergia pandurata),Zingiberaceae,krachai,Trop As,rhizome; root,van_wyk_culinary_2014
+243,Borago officinalis,Boraginaceae,borage,Med; Eur,leaf; flower,van_wyk_culinary_2014
+244,Brassica juncea,Brassicaceae,brown mustard,C As,seed; leaf,van_wyk_culinary_2014
+245,Brassica juncea,Brassicaceae,Chinese mustard,C As,seed; leaf,van_wyk_culinary_2014
+246,Brassica juncea,Brassicaceae,Indian mustard,C As,seed; leaf,van_wyk_culinary_2014
+247,Brassica juncea,Brassicaceae,leaf mustard,C As,seed; leaf,van_wyk_culinary_2014
+248,Brassica juncea,Brassicaceae,mustard green,C As,seed; leaf,van_wyk_culinary_2014
+249,Brassica nigra,Brassicaceae,black mustard,W As,seed,van_wyk_culinary_2014
+250,Buchanaria lanzan,Anacardiaceae,charoli,As,seed,van_wyk_culinary_2014
+251,Buchanaria lanzan,Anacardiaceae,chironji,As,seed,van_wyk_culinary_2014
+252,Bunium persicum,Apiaceae,black caraway,Eur; As,fruit,van_wyk_culinary_2014
+253,Bunium persicum,Apiaceae,black cumin,Eur; As,fruit,van_wyk_culinary_2014
+254,Bunium persicum,Apiaceae,black zira,Eur; As,fruit,van_wyk_culinary_2014
+255,Bunium roxburghianum,Apiaceae,ajmud,As,fruit,van_wyk_culinary_2014
+256,Bunium roxburghianum,Apiaceae,radhuni,As,fruit,van_wyk_culinary_2014
+257,Calamintha cretica,Lamiaceae,dwarf calamint,Med,herb,van_wyk_culinary_2014
+258,Calamintha grandiflora,Lamiaceae,showy calamint,S Eur,herb,van_wyk_culinary_2014
+259,Calamintha grandiflora,Lamiaceae,showy savory,S Eur,herb,van_wyk_culinary_2014
+260,Calamintha grandiflora,Lamiaceae,large flowered calamint,S Eur,herb,van_wyk_culinary_2014
+261,Calamintha menthifolia,Lamiaceae,calamint,Eur,herb,van_wyk_culinary_2014
+262,Calamintha nepeta,Lamiaceae,common calamint,Eur; As,herb,van_wyk_culinary_2014
+263,Calamintha nepeta,Lamiaceae,lesser calamint,Eur; As,herb,van_wyk_culinary_2014
+264,Calendula officinalis,Asteraceae,pot marigold,S Eur?,flower,van_wyk_culinary_2014
+265,Calendula officinalis,Asteraceae,marigold flower,S Eur?,flower,van_wyk_culinary_2014
+266,Calendula officinalis,Asteraceae,calendula,S Eur?,flower,van_wyk_culinary_2014
+267,Camellia sinensis,Theaceae,tea,S & E As,leaves,van_wyk_culinary_2014
+268,Camellia sinensis,Theaceae,chai,S & E As,leaves,van_wyk_culinary_2014
+269,Canarium pimela,Burseraceae,Chinese black olive,As,seed,van_wyk_culinary_2014
+270,Canarium pimela,Burseraceae,Chinese black canarium,As,seed,van_wyk_culinary_2014
+271,Canella winterana,Canellaceae,winter cinnamon,N & C Am,bark,van_wyk_culinary_2014
+272,Canella winterana,Canellaceae,white cinnamon,N & C Am,bark,van_wyk_culinary_2014
+273,Capparis sicula,Capparaceae,Sicili caper,Med,flower bud; unripe fruit,van_wyk_culinary_2014
+274,Capparis spinosa,Capparaceae,capers,Med,flower bud; unripe fruit,van_wyk_culinary_2014
+275,Capparis spinosa,Capparaceae,caper,Med,flower bud; unripe fruit,van_wyk_culinary_2014
+276,Capsicum annuum,Solanaceae,paprika,C Am,fruit,van_wyk_culinary_2014
+277,Capsicum annuum,Solanaceae,cayenne pepper,C Am,fruit,van_wyk_culinary_2014
+278,Capsicum annuum,Solanaceae,chilli (pepper),C Am,fruit,van_wyk_culinary_2014
+279,Capsicum annuum,Solanaceae,chili (pepper),C Am,fruit,van_wyk_culinary_2014
+280,Capsicum annuum,Solanaceae,green pepper,C Am,fruit,van_wyk_culinary_2014
+281,Capsicum annuum,Solanaceae,red pepper,C Am,fruit,van_wyk_culinary_2014
+282,Capsicum baccatum,Solanaceae,aji,S Am (Bolivia),fruit,van_wyk_culinary_2014
+283,Capsicum baccatum,Solanaceae,Peruvian pepper,S Am (Bolivia),fruit,van_wyk_culinary_2014
+284,Capsicum chinense,Solanaceae,yellow lantern chilli,S Am,fruit,van_wyk_culinary_2014
+285,Capsicum chinense,Solanaceae,habanero,S Am,fruit,van_wyk_culinary_2014
+286,Capsicum chinense,Solanaceae,Scotch bonnet,S Am,fruit,van_wyk_culinary_2014
+287,Capsicum chinense,Solanaceae,Chinese chilli,S Am,fruit,van_wyk_culinary_2014
+288,Capsicum chinense,Solanaceae,bonnet pepper,S Am,fruit,van_wyk_culinary_2014
+289,Capsicum frutescens,Solanaceae,chilli,C Am; S Am,fruit,van_wyk_culinary_2014
+290,Capsicum frutescens,Solanaceae,chili,C Am; S Am,fruit,van_wyk_culinary_2014
+291,Capsicum frutescens,Solanaceae,bird chilli,C Am; S Am,fruit,van_wyk_culinary_2014
+292,Capsicum frutescens,Solanaceae,hot pepper,C Am; S Am,fruit,van_wyk_culinary_2014
+293,Capsicum frutescens,Solanaceae,Tabasco pepper,C Am; S Am,fruit,van_wyk_culinary_2014
+294,Capsicum frutescens,Solanaceae,piri piri,C Am; S Am,fruit,van_wyk_culinary_2014
+295,Capsicum pubescens,Solanaceae,rocoto,S Am (Andes), fruit,van_wyk_culinary_2014
+296,Capsicum pubescens,Solanaceae,tree chilli,S Am (Andes), fruit,van_wyk_culinary_2014
+297,Carthamus tinctorius,Asteraceae,safflower,N Afr; W As,flower; fruit,van_wyk_culinary_2014
+298,Carthamus tinctorius,Asteraceae,false saffron,N Afr; W As,flower; fruit,van_wyk_culinary_2014
+299,Carthamus tinctorius,Asteraceae,saffron thistle,N Afr; W As,flower; fruit,van_wyk_culinary_2014
+300,Carum carvi,Apiaceae,caraway,Med,fruit,van_wyk_culinary_2014
+301,Centauria benedicta (=Cnicus benedictus),Asteraceae,blessed thistle,Eur; W As,herb,van_wyk_culinary_2014
+302,Centauria benedicta (=Cnicus benedictus),Asteraceae,holy thistle,Eur; W As,herb,van_wyk_culinary_2014
+303,Centaurium erythraea,Gentianaceae,centaury,Eur; As,herb,van_wyk_culinary_2014
+304,Centaurium erythraea,Gentianaceae,feverwort,Eur; As,herb,van_wyk_culinary_2014
+305,Centaurium erythraea,Gentianaceae,pink centaury,Eur; As,herb,van_wyk_culinary_2014
+306,Ceratonia siliqua,Leguminosae,carob,Eur; W As,fruit,van_wyk_culinary_2014
+307,Ceratonia siliqua,Leguminosae,locust bean,Eur; W As,fruit,van_wyk_culinary_2014
+308,Ceratonia siliqua,Leguminosae,St John’s bread,Eur; W As,fruit,van_wyk_culinary_2014
+309,Chamaemelum nobile,Asteraceae,Roman chamomile,Eur,flower,van_wyk_culinary_2014
+310,Chenopodium ambrosioides,Chenopodiaceae,blue weed,C Am; S Am,leaf; herb,van_wyk_culinary_2014
+311,Chenopodium ambrosioides,Chenopodiaceae,goose foot,C Am; S Am,leaf; herb,van_wyk_culinary_2014
+312,Chenopodium ambrosioides,Chenopodiaceae,lamb’s quarters,C Am; S Am,leaf; herb,van_wyk_culinary_2014
+313,Chenopodium ambrosioides,Chenopodiaceae,pigweed,C Am; S Am,leaf; herb,van_wyk_culinary_2014
+314,Chenopodium botrys,Chenopodiaceae,Jerusalem oak,Eur; C As,fresh herb,van_wyk_culinary_2014
+315,Chenopodium botrys,Chenopodiaceae,slimy anserine herb,Eur; C As,fresh herb,van_wyk_culinary_2014
+316,Chloranthus spicatus,Chloranthaceae,pearl orchid flower,SE As,flower; leaf,van_wyk_culinary_2014
+317,Chloranthus spicatus,Chloranthaceae,chulan,SE As,flower; leaf,van_wyk_culinary_2014
+318,Chloranthus spicatus,Chloranthaceae,cha ran,SE As,flower; leaf,van_wyk_culinary_2014
+319,Chrysanthemum balsamita,Asteraceae,alecost,Eur,herb,van_wyk_culinary_2014
+320,Chrysanthemum balsamita,Asteraceae,costmary,Eur,herb,van_wyk_culinary_2014
+321,Chrysanthemum coronarium,Asteraceae,chop suey greens,Med,leaf; seedlings,van_wyk_culinary_2014
+322,Chrysanthemum coronarium,Asteraceae,crown daisy,Med,leaf; seedlings,van_wyk_culinary_2014
+323,Chrysanthemum coronarium,Asteraceae,garland chrysanthemum,Med,leaf; seedlings,van_wyk_culinary_2014
+324,Chrysanthemum coronarium,Asteraceae,garland daisy,Med,leaf; seedlings,van_wyk_culinary_2014
+325,Chrysanthemum coronarium,Asteraceae,tangho,Med,leaf; seedlings,van_wyk_culinary_2014
+326,Chrysanthemum coronarium,Asteraceae,Japanese greens,Med,leaf; seedlings,van_wyk_culinary_2014
+327,Chrysanthemum ×morifolium,Asteraceae,ju hua,China,flower heads ,van_wyk_culinary_2014
+328,Chrysanthemum ×morifolium,Asteraceae,florist chrysanthemum,China,flower heads ,van_wyk_culinary_2014
+329,Chrysanthemum vulgare,Asteraceae,tansy,Eur; Med,leaf,van_wyk_culinary_2014
+330,Chrysopogon zizanioides (=Vetiveria zizanioides),Poaceae,vetiver (grass),Ind,rhizome; root,van_wyk_culinary_2014
+331,Chrysopogon zizanioides (=Vetiveria zizanioides),Poaceae,cus cus (grass),Ind,rhizome; root,van_wyk_culinary_2014
+332,Chrysopogon zizanioides (=Vetiveria zizanioides),Poaceae,khus khus (grass),Ind,rhizome; root,van_wyk_culinary_2014
+333,Cichorium endivia,Asteraceae,endive,Med,leaf,van_wyk_culinary_2014
+334,Cinchona officinalis,Rubiaceae,quinine,S Am,bark,van_wyk_culinary_2014
+335,Cinchona officinalis,Rubiaceae,chinabark,S Am,bark,van_wyk_culinary_2014
+336,Cinchona officinalis,Rubiaceae,Peruvian bark,S Am,bark,van_wyk_culinary_2014
+337,Cinchona officinalis,Rubiaceae,yellow cinchona,S Am,bark,van_wyk_culinary_2014
+338,Cinchona officinalis,Rubiaceae,ledger bark,S Am,bark,van_wyk_culinary_2014
+339,Cinchona officinalis,Rubiaceae,yellow bark,S Am,bark,van_wyk_culinary_2014
+340,Cinchona pubescens,Rubiaceae,quinine,S Am,bark,van_wyk_culinary_2014
+341,Cinchona pubescens,Rubiaceae,red cinchona,S Am,bark,van_wyk_culinary_2014
+342,Cinchona pubescens,Rubiaceae,red Peruvian,S Am,bark,van_wyk_culinary_2014
+343,Cinchona pubescens,Rubiaceae,red bark,S Am,bark,van_wyk_culinary_2014
+344,Cinchona pubescens,Rubiaceae,Jesuit bark,S Am,bark,van_wyk_culinary_2014
+345,Cinnamomum aromaticum (=C. cassia),Lauraceae,cassia,Myanmar,bark,van_wyk_culinary_2014
+346,Cinnamomum aromaticum (=C. cassia),Lauraceae,Chinese cinnamon,Myanmar,bark,van_wyk_culinary_2014
+347,Cinnamomum aromaticum (=C. cassia),Lauraceae,Chinese cassia,Myanmar,bark,van_wyk_culinary_2014
+348,Cinnamomum burmanii,Lauraceae,Indonesian cassia,SE As,bark; leaf,van_wyk_culinary_2014
+349,Cinnamomum burmanii,Lauraceae,Padang cassia,SE As,bark; leaf,van_wyk_culinary_2014
+350,Cinnamomum burmanii,Lauraceae,Batavia cassia,SE As,bark; leaf,van_wyk_culinary_2014
+351,Cinnamomum burmanii,Lauraceae,Korintje cassia,SE As,bark; leaf,van_wyk_culinary_2014
+352,Cinnamomum camphora,Lauraceae,camphor,As; E As,gum,van_wyk_culinary_2014
+353,Cinnamomum loureiroi,Lauraceae,Vietnamese cassia,SE As,bark; flower,van_wyk_culinary_2014
+354,Cinnamomum loureiroi,Lauraceae,Saigon cinnamon,SE As,bark; flower,van_wyk_culinary_2014
+355,Cinnamomum tamala,Lauraceae,Indian cassia lignea,Ind,leaf; bark,van_wyk_culinary_2014
+356,Cinnamomum tamala,Lauraceae,Indian bark,Ind,leaf; bark,van_wyk_culinary_2014
+357,Cinnamomum tamala,Lauraceae,Malabathri bark,Ind,leaf; bark,van_wyk_culinary_2014
+358,Cinnamomum verum (=C. zeylanicum),Lauraceae,cinnamon,Sri Lanka; SW Ind,bark; leaf,van_wyk_culinary_2014
+359,Cinnamomum verum (=C. zeylanicum),Lauraceae,Ceylon cinnamon,Sri Lanka; SW Ind,bark; leaf,van_wyk_culinary_2014
+360,Citrus aurantiifolia,Rutaceae,lime,Trop As,fruit; leaves,van_wyk_culinary_2014
+361,Citrus aurantiifolia,Rutaceae,limon,Trop As,fruit; leaves,van_wyk_culinary_2014
+362,Citrus aurantiifolia,Rutaceae,key lime,Trop As,fruit; leaves,van_wyk_culinary_2014
+363,Citrus aurantiifolia,Rutaceae,Mexican lime,Trop As,fruit; leaves,van_wyk_culinary_2014
+364,Citrus aurantiifolia,Rutaceae,sour lime,Trop As,fruit; leaves,van_wyk_culinary_2014
+365,Citrus aurantiifolia,Rutaceae,Persian lime,Trop As,fruit; leaves,van_wyk_culinary_2014
+366,Citrus aurantiifolia,Rutaceae,West Indian lime,Trop As,fruit; leaves,van_wyk_culinary_2014
+367,Citrus aurantium,Rutaceae,bigarade,Trop As,flower; peel; juice,van_wyk_culinary_2014
+368,Citrus aurantium,Rutaceae,bitter orange,Trop As,flower; peel; juice,van_wyk_culinary_2014
+369,Citrus aurantium,Rutaceae,Seville orange,Trop As,flower; peel; juice,van_wyk_culinary_2014
+370,Citrus aurantium,Rutaceae,orange (American),Trop As,flower; peel; juice,van_wyk_culinary_2014
+371,Citrus bergamia,Rutaceae,bergamot,Med,peel of ripe fruits,van_wyk_culinary_2014
+372,Citrus bergamia,Rutaceae,bergamot orange,Med,peel of ripe fruits,van_wyk_culinary_2014
+373,Citrus cavaleriei,Rutaceae,ichang papeda,Trop As,fruit,van_wyk_culinary_2014
+374,Citrus ×deliciosa,unknown,Mediterranean mandarin,Trop As,fruit,van_wyk_culinary_2014
+375,Citrus hystrix,Rutaceae,lime leaf,Trop As,leaf; fruit,van_wyk_culinary_2014
+376,Citrus hystrix,Rutaceae,makrut lime,Trop As,leaf; fruit,van_wyk_culinary_2014
+377,Citrus hystrix,Rutaceae,papeda,Trop As,leaf; fruit,van_wyk_culinary_2014
+378,Citrus jambhiri,Rutaceae,rough lemon,Trop As,fruit,van_wyk_culinary_2014
+379,Citrus ×junos,Rutaceae,yuzu,W China,fruit,van_wyk_culinary_2014
+380,Citrus latifolia,Rutaceae,Tahiti lime,Trop As,fruit (juice); peel,van_wyk_culinary_2014
+381,Citrus latifolia,Rutaceae,Persian lime,Trop As,fruit (juice); peel,van_wyk_culinary_2014
+382,Citrus latifolia,Rutaceae,seedless lime,Trop As,fruit (juice); peel,van_wyk_culinary_2014
+383,Citrus limon,Rutaceae,lemon,Trop As,peel; fruit,van_wyk_culinary_2014
+384,Citrus madurensis,Rutaceae,calamondin,Trop As,fruit,van_wyk_culinary_2014
+385,Citrus medica var. medica,Rutaceae,citron,Trop As; C As,fruit,van_wyk_culinary_2014
+386,Citrus medica var. medica,Rutaceae,citron peel,Trop As; C As,fruit,van_wyk_culinary_2014
+387,Citrus medica var. sarcodactylis,Rutaceae,Buddha’s hand,Trop As,fruit; peel,van_wyk_culinary_2014
+388,Citrus myrtifolia,Rutaceae,myrtle leaf orange,Trop As,fruit; peel,van_wyk_culinary_2014
+389,Citrus nobilis,Rutaceae,king mandarin,Trop As,fruit,van_wyk_culinary_2014
+390,Citrus reticulata,Rutaceae,tangerine,E As; China,peeled fruit,van_wyk_culinary_2014
+391,Citrus reticulata,Rutaceae,mandarin,E As; China,peeled fruit,van_wyk_culinary_2014
+392,Citrus reticulata,Rutaceae,clementine,E As; China,peeled fruit,van_wyk_culinary_2014
+393,Citrus reticulata,Rutaceae,nartjie,E As; China,peeled fruit,van_wyk_culinary_2014
+394,Citrus sinensis,Rutaceae,orange,Trop As,fruit; peel; flower,van_wyk_culinary_2014
+395,Citrus sinensis,Rutaceae,blood orange,Trop As,fruit; peel; flower,van_wyk_culinary_2014
+396,Citrus sinensis,Rutaceae,navel orange,Trop As,fruit; peel; flower,van_wyk_culinary_2014
+397,Citrus sinensis,Rutaceae,sweet orange,Trop As,fruit; peel; flower,van_wyk_culinary_2014
+398,Citrus sinensis,Rutaceae,Valencia orange,Trop As,fruit; peel; flower,van_wyk_culinary_2014
+399,Citrus trifoliata (=Poncirus trifoliata),Rutaceae,trifoliate orange,C & N China,fruit,van_wyk_culinary_2014
+400,Citrus trifoliata (=Poncirus trifoliata),Rutaceae,citrangequat,C & N China,fruit,van_wyk_culinary_2014
+401,Citrus trifoliata (=Poncirus trifoliata),Rutaceae,Japanese bitter orange,C & N China,fruit,van_wyk_culinary_2014
+402,Citrus unshiu,Rutaceae,satsuma mandarin,Trop As; China,fruit,van_wyk_culinary_2014
+403,Citrus unshiu,Rutaceae,unshiu mikan,Trop As; China,fruit,van_wyk_culinary_2014
+404,Clausena anisata,Rutaceae,horsewood,Afr,leaf,van_wyk_culinary_2014
+405,Clausena anisata,Rutaceae,clausena,Afr,leaf,van_wyk_culinary_2014
+406,Clausena anisum-olens,Rutaceae,kayumanis,E As,leaf,van_wyk_culinary_2014
+407,Clausena anisum-olens,Rutaceae,danglais,E As,leaf,van_wyk_culinary_2014
+408,Clausena excavata,Rutaceae,pink lime-berry,SE As,leaf,van_wyk_culinary_2014
+409,Clausena excavata,Rutaceae,Hollywood clausena,SE As,leaf,van_wyk_culinary_2014
+410,Clausena lansium,Rutaceae,Chinese wampee,E As,leaf,van_wyk_culinary_2014
+411,Clausena lansium,Rutaceae,wampi,E As,leaf,van_wyk_culinary_2014
+412,Cleome gynandra,Capparaceae,African mustard,Afr; As,leaf; fruit; seed,van_wyk_culinary_2014
+413,Cleome gynandra,Capparaceae,African spider flower,Afr; As,leaf; fruit; seed,van_wyk_culinary_2014
+414,Cnidium monnieri,Apiaceae,snow parsley,E As,fruit,van_wyk_culinary_2014
+415,Cocos nucifera,Arecaceae,coconut,Trop As,fruit,van_wyk_culinary_2014
+416,Coffea arabica,Rubiaceae,coffee,NE Afr (Ethiopia),seed,van_wyk_culinary_2014
+417,Coffea arabica,Rubiaceae,Arabian coffee,NE Afr (Ethiopia),seed,van_wyk_culinary_2014
+418,Coffea canephora,Rubiaceae,robusta coffee,Afr,seed,van_wyk_culinary_2014
+419,Coffea canephora,Rubiaceae,Congo coffee,Afr,seed,van_wyk_culinary_2014
+420,Coffea liberica,Rubiaceae,Liberian or Abeokuta coffee,Afr,seed,van_wyk_culinary_2014
+421,Cola acuminata,Malvaceae,cola nut,W Afr,seed,van_wyk_culinary_2014
+422,Cola acuminata,Malvaceae,abata cola,W Afr,seed,van_wyk_culinary_2014
+423,Cola nitida,Malvaceae,gbanja cola,Afr,seed,van_wyk_culinary_2014
+424,Coluria geoides,Rosaceae,Siberian avens,As,root,van_wyk_culinary_2014
+425,Coluria geoides,Rosaceae,clove root,As,root,van_wyk_culinary_2014
+426,Coluria geoides,Rosaceae,clove oil plant,As,root,van_wyk_culinary_2014
+427,Coriandrum sativum,Apiaceae,coriander,Med; W As; Ind,fruit; leaf,van_wyk_culinary_2014
+428,Coriandrum sativum,Apiaceae,cilantro,Med; W As; Ind,fruit; leaf,van_wyk_culinary_2014
+429,Coriandrum sativum,Apiaceae,Chinese parsley,Med; W As; Ind,fruit; leaf,van_wyk_culinary_2014
+430,Corylus americana,Betulaceae,American hazelnut,N Am,seed,van_wyk_culinary_2014
+431,Corylus avellana,Betulaceae,hazelnut,Eur; As,seed,van_wyk_culinary_2014
+432,Corylus colurna,Betulaceae,Turkish hazelnut,W As,seed,van_wyk_culinary_2014
+433,Corylus maxima,Betulaceae,filbert,Eur; C & W As,seed,van_wyk_culinary_2014
+434,Cosmos sulphureus,Asteraceae,orange cosmos,N Am,herb,van_wyk_culinary_2014
+435,Cosmos sulphureus,Asteraceae,yellow cosmos,N Am,herb,van_wyk_culinary_2014
+436,Costus afer,Zingiberaceae,ginger lily,Trop As,rhizome,van_wyk_culinary_2014
+437,Costus afer,Zingiberaceae,spiral ginger,Trop As,rhizome,van_wyk_culinary_2014
+438,Crambe maritima,Brassicaceae,seakale,Eur; W As,leaf,van_wyk_culinary_2014
+439,Crambe maritima,Brassicaceae,sea kale,Eur; W As,leaf,van_wyk_culinary_2014
+440,Crateva religiosa,Capparaceae,garlic pear,Madag,fruit,van_wyk_culinary_2014
+441,Crateva religiosa,Capparaceae,sacred barma,Madag,fruit,van_wyk_culinary_2014
+442,Crateva religiosa,Capparaceae,temple tree,Madag,fruit,van_wyk_culinary_2014
+443,Crateva tapia,Capparaceae,tapia fruit,Madag,fruit,van_wyk_culinary_2014
+444,Crateva tapia,Capparaceae,payagua,Madag,fruit,van_wyk_culinary_2014
+445,Crocus sativus,Iridaceae,saffron,Med; W As,stigma,van_wyk_culinary_2014
+446,Cryptocarya moschata,Lauraceae,Brazilian nutmeg,S Am,seed,van_wyk_culinary_2014
+447,Cryptocarya moschata,Lauraceae,(South) American nutmeg,S Am,seed,van_wyk_culinary_2014
+448,Cryptotaenia japonica,Apiaceae,mitsuba,China,fresh leaf,van_wyk_culinary_2014
+449,Cryptotaenia japonica,Apiaceae,Japanese parsley,China,fresh leaf,van_wyk_culinary_2014
+450,Cuminum cyminum,Apiaceae,cumin,W & C As; Ind,fruit,van_wyk_culinary_2014
+451,Cunila origanoides,Lamiaceae,American dittany,N Am,herb,van_wyk_culinary_2014
+452,Cunila origanoides,Lamiaceae,frost flower,N Am,herb,van_wyk_culinary_2014
+453,Cunila origanoides,Lamiaceae,Maryland dittany,N Am,herb,van_wyk_culinary_2014
+454,Cunila origanoides,Lamiaceae,mountain dittany,N Am,herb,van_wyk_culinary_2014
+455,Cunila origanoides,Lamiaceae,stone mint,N Am,herb,van_wyk_culinary_2014
+456,Cunila spicata,Lamiaceae,(American) stone mint,N Am; C Am; S Am,herb,van_wyk_culinary_2014
+457,Curcuma amada,Zingiberaceae,mango ginger,S As,rhizome,van_wyk_culinary_2014
+458,Curcuma aromatica,Zingiberaceae,Bombay or Indian arrowroot,S As,rhizome,van_wyk_culinary_2014
+459,Curcuma aromatica,Zingiberaceae,wild turmeric,S As,rhizome,van_wyk_culinary_2014
+460,Curcuma aromatica,Zingiberaceae,yellow zedoary,S As,rhizome,van_wyk_culinary_2014
+461,Curcuma longa (=C. domestica),Zingiberaceae,turmeric,Ind,rhizome,van_wyk_culinary_2014
+462,Curcuma mangga,Zingiberaceae,Indonesian mango ginger,Trop As,rhizome,van_wyk_culinary_2014
+463,Curcuma zedoaria,Zingiberaceae,zedoary,Ind,rhizome,van_wyk_culinary_2014
+464,Curcuma zedoaria,Zingiberaceae,Japanese turmeric,Ind,rhizome,van_wyk_culinary_2014
+465,Cymbopogon citratus,Poaceae,lemongrass,cultigen (As?),leaf,van_wyk_culinary_2014
+466,Cymbopogon flexuosus,Poaceae,East Indian lemongrass,S As,leaf,van_wyk_culinary_2014
+467,Cymbopogon flexuosus,Poaceae,Malabar lemongrass,S As,leaf,van_wyk_culinary_2014
+468,Cymbopogon flexuosus,Poaceae,Cochin grass,S As,leaf,van_wyk_culinary_2014
+469,Cymbopogon iwarancusa,Poaceae,karnkusa grass,As,leaf,van_wyk_culinary_2014
+470,Cymbopogon iwarancusa,Poaceae,khavi grass,As,leaf,van_wyk_culinary_2014
+471,Cymbopogon martinii,Poaceae,ginger grass,Ind,leaf,van_wyk_culinary_2014
+472,Cymbopogon martinii,Poaceae,rosha grass,Ind,leaf,van_wyk_culinary_2014
+473,Cymbopogon martinii,Poaceae,palmarosa grass,Ind,leaf,van_wyk_culinary_2014
+474,Cymbopogon nardus,Poaceae,citronella,Trop As,leaf,van_wyk_culinary_2014
+475,Cymbopogon nardus,Poaceae,Ceylon citronella,Trop As,leaf,van_wyk_culinary_2014
+476,Cymbopogon nardus,Poaceae,nard grass,Trop As,leaf,van_wyk_culinary_2014
+477,Cymbopogon schoenanthus,Poaceae,camel grass,N Afr; As,leaf,van_wyk_culinary_2014
+478,Cymbopogon schoenanthus,Poaceae,geranium grass,N Afr; As,leaf,van_wyk_culinary_2014
+479,Cymbopogon winterianus,Poaceae,Java citronella,As,leaf,van_wyk_culinary_2014
+480,Cymbopogon winterianus,Poaceae,Java lemongrass,As,leaf,van_wyk_culinary_2014
+481,Cynometra cauliflora,Leguminosae,katak puru,SE As,cooked fruits,van_wyk_culinary_2014
+482,Cynometra cauliflora,Leguminosae,nam nam,SE As,cooked fruits,van_wyk_culinary_2014
+483,Cynometra cauliflora,Leguminosae,puki,SE As,cooked fruits,van_wyk_culinary_2014
+484,Cynometra cauliflora,Leguminosae,puru,SE As,cooked fruits,van_wyk_culinary_2014
+485,Decalepsis hamiltonii,Apocynaceae,mahali kizhangu,S As,root,van_wyk_culinary_2014
+486,Deianira nervosa,Gentianaceae,Deianiraktaut,Trop Am,herb,van_wyk_culinary_2014
+487,Dianthus caryophyllus,Caryophyllaceae,carnation,Med,flower,van_wyk_culinary_2014
+488,Dianthus caryophyllus,Caryophyllaceae,clove pink,Med,flower,van_wyk_culinary_2014
+489,Dianthus caryophyllus,Caryophyllaceae,gilly flower,Med,flower,van_wyk_culinary_2014
+490,Dicypellium caryophyllatum,Lauraceae,clove bark,S Am,bark,van_wyk_culinary_2014
+491,Dicypellium caryophyllatum,Lauraceae,pinkwood bark,S Am,bark,van_wyk_culinary_2014
+492,Dillenia indica,Dilleniaceae,chalta tree,Ind; C Malay,fruit pulp,van_wyk_culinary_2014
+493,Dillenia indica,Dilleniaceae,elephant apple,Ind; C Malay,fruit pulp,van_wyk_culinary_2014
+494,Diplotaxis tenuifolia,Brassicaceae,wild rocket,Eu,leaf,van_wyk_culinary_2014
+495,Dipteryx odorata,Leguminosae,tonka,Trop Am,seed,van_wyk_culinary_2014
+496,Dipteryx odorata,Leguminosae,tonka bean,Trop Am,seed,van_wyk_culinary_2014
+497,Dorystaechus hastata,Lamiaceae,Turkish lavender,SW Turkey,herb,van_wyk_culinary_2014
+498,Dracocephalum moldavica,Lamiaceae,Moldavian balm,E Eur; E As,leaf; herb,van_wyk_culinary_2014
+499,Dracocephalum moldavica,Lamiaceae,dragon’s head,E Eur; E As,leaf; herb,van_wyk_culinary_2014
+500,Dracontomelon dao,Anacardiaceae,argus pheasant,Indomal,fruit; leaf; flower,van_wyk_culinary_2014
+501,Drimys lanceolata,Winteraceae,pepper tree,Tasmania; Aus,fruit,van_wyk_culinary_2014
+502,Drimys lanceolata,Winteraceae,Australian pepper tree,Tasmania; Aus,fruit,van_wyk_culinary_2014
+503,Drimys lanceolata,Winteraceae,mountain pepper,Tasmania; Aus,fruit,van_wyk_culinary_2014
+504,Drimys lanceolata,Winteraceae,Tasmania pepper,Tasmania; Aus,fruit,van_wyk_culinary_2014
+505,Drimys piperita,Winteraceae,South American mountain pepper,S Am,fruit,van_wyk_culinary_2014
+506,Drimys winteri,Winteraceae,drimys bark,S Am,bark,van_wyk_culinary_2014
+507,Drimys winteri,Winteraceae,winter’s bark,S Am,bark,van_wyk_culinary_2014
+508,Echinophora tenuifolia,Apiaceae,prickly parsnip,Eur,leaf; stalk,van_wyk_culinary_2014
+509,Elettaria cardamomum,Zingiberaceae,cardamom,Ind,fruit & seed,van_wyk_culinary_2014
+510,Elsholtzia ciliata,Lamiaceae,common elsholtzia,C & E As,herb,van_wyk_culinary_2014
+511,Elsholtzia ciliata,Lamiaceae,Vietnamese balm,C & E As,herb,van_wyk_culinary_2014
+512,Embelia philippinensis,Myrsinaceae,woody vine,Philipp,leaf,van_wyk_culinary_2014
+513,Emilia javanica,Asteraceae,tassel flower,Trop Afr; Trop As,leaf; root,van_wyk_culinary_2014
+514,Eruca sativa,Brassicaceae,rocket,Med,leaf; seed,van_wyk_culinary_2014
+515,Eruca sativa,Brassicaceae,arugula,Med,leaf; seed,van_wyk_culinary_2014
+516,Eryngium foetidum,Apiaceae,culantro,Trop Am,leaf; root,van_wyk_culinary_2014
+517,Eryngium foetidum,Apiaceae,eryngo,Trop Am,leaf; root,van_wyk_culinary_2014
+518,Eryngium foetidum,Apiaceae,sawtooth coriander,Trop Am,leaf; root,van_wyk_culinary_2014
+519,Escobedia scabrifolia,Scrophulariaceae,saffron of Andes,Trop Am,root,van_wyk_culinary_2014
+520,Escobedia scabrifolia,Scrophulariaceae,saffron root,Trop Am,root,van_wyk_culinary_2014
+521,Etlingera elatior (=Phaeomeria magnifica),Zingiberaceae,torch ginger,Trop As,flower bud ,van_wyk_culinary_2014
+522,Etlingera elatior (=Phaeomeria magnifica),Zingiberaceae,Philippine wax flower,Trop As,flower bud ,van_wyk_culinary_2014
+523,Eupatorium cannabinum,Asteraceae,hemp agrimony,Eur; Med; C As,leaf; herb,van_wyk_culinary_2014
+524,Ferula assa-foetida,Apiaceae,asafoetida,W & C As,gum,van_wyk_culinary_2014
+525,Ferula assa-foetida,Apiaceae,devil’s dung,W & C As,gum,van_wyk_culinary_2014
+526,Ferula assa-foetida,Apiaceae,hing,W & C As,gum,van_wyk_culinary_2014
+527,Ferula foetida,Apiaceae,asafoetida,W As (Iran),gum,van_wyk_culinary_2014
+528,Ferula foetida,Apiaceae,fetida,W As (Iran),gum,van_wyk_culinary_2014
+529,Ferula gummosa,Apiaceae,galbanum,W As (Iran),gum,van_wyk_culinary_2014
+530,Ferula narthex,Apiaceae,asafoetida,Afghanistan,gum,van_wyk_culinary_2014
+531,Filipendula ulmaria,Rosaceae,meadow sweet,Eur; As,flower,van_wyk_culinary_2014
+532,Filipendula ulmaria,Rosaceae,dropwort,Eur; As,flower,van_wyk_culinary_2014
+533,Foeniculum vulgare,Apiaceae,fennel,Eur; Med,fruit; leaf,van_wyk_culinary_2014
+534,Fortunella crassifolia,Rutaceae,large round kumquat,China,fruit,van_wyk_culinary_2014
+535,Fortunella crassifolia,Rutaceae,meiwa kumquat,China,fruit,van_wyk_culinary_2014
+536,Fortunella hindsii,Rutaceae,Hongkong wild kumquat,E As,fruit,van_wyk_culinary_2014
+537,Fortunella hindsii,Rutaceae,Formosan kumquat,E As,fruit,van_wyk_culinary_2014
+538,Fortunella japonica,Rutaceae,round kumquat,E As (China),fruit,van_wyk_culinary_2014
+539,Fortunella japonica,Rutaceae,marumi kumquat,E As (China),fruit,van_wyk_culinary_2014
+540,Fortunella margarita,Rutaceae,oval kumquat,E As (China),fruit,van_wyk_culinary_2014
+541,Fortunella margarita,Rutaceae,nagami kumquat,E As (China),fruit,van_wyk_culinary_2014
+542,Fortunella polyandra,Rutaceae,Malayan kumquat,E As,fruit,van_wyk_culinary_2014
+543,Fortunella polyandra,Rutaceae,hedge lime,E As,fruit,van_wyk_culinary_2014
+544,Galipea officinalis,Rutaceae,angostura,Trop Am,bark,van_wyk_culinary_2014
+545,Galium odoratum,Rubiaceae,sweet woodruff,Eur; As,fresh herb,van_wyk_culinary_2014
+546,Galium odoratum,Rubiaceae,woodruff asperule,Eur; As,fresh herb,van_wyk_culinary_2014
+547,Garcinia atroviridis,Clusiaceae,asam gelungor,NE Ind,fruit,van_wyk_culinary_2014
+548,Garcinia gummi-guta (=G. cambogia),Clusiaceae,Malabar tamarind,Ind,fruit,van_wyk_culinary_2014
+549,Garcinia gummi-guta (=G. cambogia),Clusiaceae,cambodge,Ind,fruit,van_wyk_culinary_2014
+550,Garcinia gummi-guta (=G. cambogia),Clusiaceae,goraga,Ind,fruit,van_wyk_culinary_2014
+551,Garcinia indica,Clusiaceae,kokam,Ind,fruit peel,van_wyk_culinary_2014
+552,Garcinia indica,Clusiaceae,kokum,Ind,fruit peel,van_wyk_culinary_2014
+553,Garcinia xanthochymus,Clusiaceae,gamboges,N Ind,fruit,van_wyk_culinary_2014
+554,Garcinia xanthochymus,Clusiaceae,mundu,N Ind,fruit,van_wyk_culinary_2014
+555,Gardenia augusta,Rubiaceae,gardenia,China,flower; fruit,van_wyk_culinary_2014
+556,Gardenia augusta,Rubiaceae,Cape jasmine,China,flower; fruit,van_wyk_culinary_2014
+557,Gaultheria procumbens,Ericaceae,alpine wintergreen,N Am,essential oil,van_wyk_culinary_2014
+558,Gaultheria procumbens,Ericaceae,creeping wintergreen,N Am,essential oil,van_wyk_culinary_2014
+559,Gentiana lutea,Gentianaceae,yellow gentian,Eur; W As,rhizome,van_wyk_culinary_2014
+560,Gentiana lutea,Gentianaceae,bitter root,Eur; W As,rhizome,van_wyk_culinary_2014
+561,Geum urbanum,Rosaceae,clove root,Eur; As; N Am,root,van_wyk_culinary_2014
+562,Geum urbanum,Rosaceae,herb bennet,Eur; As; N Am,root,van_wyk_culinary_2014
+563,Geum urbanum,Rosaceae,wood avens,Eur; As; N Am,root,van_wyk_culinary_2014
+564,Ginkgo biloba,Ginkgoaceae,gingko,E China,seeds,van_wyk_culinary_2014
+565,Ginkgo biloba,Ginkgoaceae,maidenhair tree,E China,seeds,van_wyk_culinary_2014
+566,Glechoma hederacea,Lamiaceae,alehoof,Eur,leaf; herb,van_wyk_culinary_2014
+567,Glechoma hederacea,Lamiaceae,gill over the ground,Eur,leaf; herb,van_wyk_culinary_2014
+568,Glechoma hederacea,Lamiaceae,ground ivy,Eur,leaf; herb,van_wyk_culinary_2014
+569,Glehnia litoralis,Apiaceae,cork wing,NE As; N Am,leaf,van_wyk_culinary_2014
+570,Globba marantina,Zingiberaceae,kapulaga ambon,E As,rhizome; herb,van_wyk_culinary_2014
+571,Globba marantina,Zingiberaceae,halia utan,E As,rhizome; herb,van_wyk_culinary_2014
+572,Globba marantina,Zingiberaceae,bonelau,E As,rhizome; herb,van_wyk_culinary_2014
+573,Glycine max,Leguminosae,soybean,As; E As,seed,van_wyk_culinary_2014
+574,Glycine max,Leguminosae,soya bean,As; E As,seed,van_wyk_culinary_2014
+575,Glycine max,Leguminosae,soya,As; E As,seed,van_wyk_culinary_2014
+576,Glycyrrhiza echinata,Leguminosae,Roman liquorice,S Eur,rhizome,van_wyk_culinary_2014
+577,Glycyrrhiza glabra,Leguminosae,licorice,Med; W As; C As,rhizome,van_wyk_culinary_2014
+578,Glycyrrhiza glabra,Leguminosae,liquorice,Med; W As; C As,rhizome,van_wyk_culinary_2014
+579,Glycyrrhiza lepidota,Leguminosae,American licorice,N Am,rhizome,van_wyk_culinary_2014
+580,Glycyrrhiza uralensis,Leguminosae,Chinese licorice,China; As,root,van_wyk_culinary_2014
+581,Glycyrrhiza uralensis,Leguminosae,Manchurian liquorice,China; As,root,van_wyk_culinary_2014
+582,Gnetum gnemon,Gnetaceae,melinjo,Trop As,leaf,van_wyk_culinary_2014
+583,Gnetum gnemon,Gnetaceae,belinjo,Trop As,leaf,van_wyk_culinary_2014
+584,Guajacum officinale,Zygophyllaceae,lignum vitae,C Am; S Am,wood; resin,van_wyk_culinary_2014
+585,Guajacum sanctum,Zygophyllaceae,holywood,S Am,wood; resin,van_wyk_culinary_2014
+586,Guajacum sanctum,Zygophyllaceae,lignum vitae,S Am,wood; resin,van_wyk_culinary_2014
+587,Hedeoma pulegioides,Lamiaceae,American (false) pennyroyal,N Am,leaf,van_wyk_culinary_2014
+588,Hedeoma pulegioides,Lamiaceae,mosquito plant,N Am,leaf,van_wyk_culinary_2014
+589,Hedeoma pulegioides,Lamiaceae,pennyroyal,N Am,leaf,van_wyk_culinary_2014
+590,Hedeoma pulegioides,Lamiaceae,squaw mint,N Am,leaf,van_wyk_culinary_2014
+591,Hedeoma pulegioides,Lamiaceae,tickweed,N Am,leaf,van_wyk_culinary_2014
+592,Helichrysum italicum,Asteraceae,curry plant,Med; W As,herb,van_wyk_culinary_2014
+593,Helichrysum italicum,Asteraceae,Italian everlasting,Med; W As,herb,van_wyk_culinary_2014
+594,Helichrysum italicum,Asteraceae,immortelle,Med; W As,herb,van_wyk_culinary_2014
+595,Hemerocallis aurantiaca,Hemerocallidaceae,orange day lily,E As,flower,van_wyk_culinary_2014
+596,Hemerocallis citrina,Hemerocallidaceae,lemon day lily,E As,flower,van_wyk_culinary_2014
+597,Hemerocallis fulva,Hemerocallidaceae,fulvous day lily,As,flower,van_wyk_culinary_2014
+598,Hemerocallis fulva,Hemerocallidaceae,golden needles,As,flower,van_wyk_culinary_2014
+599,Hemerocallis fulva,Hemerocallidaceae,orange needles,As,flower,van_wyk_culinary_2014
+600,Hemerocallis fulva,Hemerocallidaceae,tawny day lily,As,flower,van_wyk_culinary_2014
+601,Hemerocallis lilioasphodelus,Hemerocallidaceae,lemon day lily,E Siberia; Jap,flower,van_wyk_culinary_2014
+602,Hemerocallis lilioasphodelus,Hemerocallidaceae,yellow day lily,E Siberia; Jap,flower,van_wyk_culinary_2014
+603,Hemerocallis minor,Hemerocallidaceae,dwarf yellow day lily,E As,flower,van_wyk_culinary_2014
+604,Hemerocallis minor,Hemerocallidaceae,grass leaf day lily,E As,flower,van_wyk_culinary_2014
+605,Hemerocallis minor,Hemerocallidaceae,little day lily,E As,flower,van_wyk_culinary_2014
+606,Hemidesmus indicus,Asclepiadeceae,Indian sarsaparilla,S Ind; SE As; Malay,root,van_wyk_culinary_2014
+607,Hemidesmus indicus,Asclepiadeceae,nunnery root,S Ind; SE As; Malay,root,van_wyk_culinary_2014
+608,Heracleum persicum,Apiaceae,golpar,Iran,seed,van_wyk_culinary_2014
+609,Heracleum persicum,Apiaceae,Persian cow-parsley,Iran,seed,van_wyk_culinary_2014
+610,Hesperethusa crenulata,Rutaceae,beli,Indomal,fruit,van_wyk_culinary_2014
+611,Hesperethusa crenulata,Rutaceae,tondsha,Indomal,fruit,van_wyk_culinary_2014
+612,Hesperethusa crenulata,Rutaceae,tor elaga,Indomal,fruit,van_wyk_culinary_2014
+613,Hesperethusa crenulata,Rutaceae,nayvila,Indomal,fruit,van_wyk_culinary_2014
+614,Hesperethusa crenulata,Rutaceae,nayibullal,Indomal,fruit,van_wyk_culinary_2014
+615,Heterotheca inuloides,Asteraceae,false golden aster,S & N Am,flower,van_wyk_culinary_2014
+616,Heterotheca inuloides,Asteraceae,Mexican arnica,S & N Am,flower,van_wyk_culinary_2014
+617,Hibiscus sabdariffa,Malvaceae,roselle,Trop Afr,calyx,van_wyk_culinary_2014
+618,Hibiscus sabdariffa,Malvaceae,hibiscus,Trop Afr,calyx,van_wyk_culinary_2014
+619,Hibiscus sabdariffa,Malvaceae,karkade,Trop Afr,calyx,van_wyk_culinary_2014
+620,Hibiscus sabdariffa,Malvaceae,Jamaica sorrel,Trop Afr,calyx,van_wyk_culinary_2014
+621,Hierochloe odorata,Poaceae,holy grass,Eur; As; N Am,leaf,van_wyk_culinary_2014
+622,Hierochloe odorata,Poaceae,manna grass,Eur; As; N Am,leaf,van_wyk_culinary_2014
+623,Hierochloe odorata,Poaceae,seneca grass,Eur; As; N Am,leaf,van_wyk_culinary_2014
+624,Hierochloe odorata,Poaceae,sweet grass,Eur; As; N Am,leaf,van_wyk_culinary_2014
+625,Hierochloe odorata,Poaceae,vanilla grass,Eur; As; N Am,leaf,van_wyk_culinary_2014
+626,Houttuynia cordata,Saururaceae,fishwort,SE As,leaf; herb,van_wyk_culinary_2014
+627,Houttuynia cordata,Saururaceae,fish mint,SE As,leaf; herb,van_wyk_culinary_2014
+628,Houttuynia cordata,Saururaceae,saururis,SE As,leaf; herb,van_wyk_culinary_2014
+629,Houttuynia cordata,Saururaceae,heart leaf,SE As,leaf; herb,van_wyk_culinary_2014
+630,Humulus lupulus,Cannabaceae,hop,Eur; As; N Am,female flowers,van_wyk_culinary_2014
+631,Humulus lupulus,Cannabaceae,hops,Eur; As; N Am,female flowers,van_wyk_culinary_2014
+632,Hypericum perforatum,Hypericaceae,St John’s wort,Eur; As,herb,van_wyk_culinary_2014
+633,Hyptis spicigera,Lamiaceae,black sesame,Am; Afr,seed,van_wyk_culinary_2014
+634,Hyptis spicigera,Lamiaceae,black beni seed,Am; Afr,seed,van_wyk_culinary_2014
+635,Hyptis spicigera,Lamiaceae,bush mint,Am; Afr,seed,van_wyk_culinary_2014
+636,Hyptis suaveolens,Lamiaceae,Indian horehound,S Am,leaf,van_wyk_culinary_2014
+637,Hyptis suaveolens,Lamiaceae,wild spikenard,S Am,leaf,van_wyk_culinary_2014
+638,Hyssopus officinalis,Lamiaceae,hyssop,S Eur,herb,van_wyk_culinary_2014
+639,Illicium verum,Illiciaceae,star anise,China,fruit,van_wyk_culinary_2014
+640,Illicium verum,Illiciaceae,Chinese star anise,China,fruit,van_wyk_culinary_2014
+641,Illicium verum,Illiciaceae,Chinese anise,China,fruit,van_wyk_culinary_2014
+642,Inula helenium,Asteraceae,elecampane,As; Eur,rhizome,van_wyk_culinary_2014
+643,Inula helenium,Asteraceae,scabwort,As; Eur,rhizome,van_wyk_culinary_2014
+644,Inula helenium,Asteraceae,velvet dock,As; Eur,rhizome,van_wyk_culinary_2014
+645,Iris germanica,Iridaceae,flag iris,Eur,rhizome,van_wyk_culinary_2014
+646,Iris germanica,Iridaceae,common iris,Eur,rhizome,van_wyk_culinary_2014
+647,Iris germanica,Iridaceae,German iris,Eur,rhizome,van_wyk_culinary_2014
+648,Iris germanica,Iridaceae,orris,Eur,rhizome,van_wyk_culinary_2014
+649,Jasminum officinale,Oleaceae,white jasmine,Himal; SW China,flower,van_wyk_culinary_2014
+650,Jasminum officinale,Oleaceae,jessamine,Himal; SW China,flower,van_wyk_culinary_2014
+651,Jasminum sambac,Oleaceae,Arabian jasmine,As,flower,van_wyk_culinary_2014
+652,Jasminum sambac,Oleaceae,biblical jasmine,As,flower,van_wyk_culinary_2014
+653,Jasminum sambac,Oleaceae,samba,As,flower,van_wyk_culinary_2014
+654,Juglans nigra,Juglandaceae,black walnut,N Am,seed,van_wyk_culinary_2014
+655,Juglans regia,Juglandaceae,walnut,C As,seed,van_wyk_culinary_2014
+656,Juglans regia,Juglandaceae,English walnut,C As,seed,van_wyk_culinary_2014
+657,Juglans regia,Juglandaceae,Persian walnut,C As,seed,van_wyk_culinary_2014
+658,Juniperus communis,Cupressaceae,juniper,As; Eur; N Am,fruit,van_wyk_culinary_2014
+659,Juniperus virginiana,Cupressaceae,Virginian cedar,N Am,fruit,van_wyk_culinary_2014
+660,Juniperus virginiana,Cupressaceae,pencil cedar,N Am,fruit,van_wyk_culinary_2014
+661,Juniperus virginiana,Cupressaceae,eastern red cedar,N Am,fruit,van_wyk_culinary_2014
+662,Kaempferia galanga,Zingiberaceae,small galangal,Trop As,rhizome; leaf,van_wyk_culinary_2014
+663,Kaempferia galanga,Zingiberaceae,kencur,Trop As,rhizome; leaf,van_wyk_culinary_2014
+664,Kaempferia galanga,Zingiberaceae,sha jiang,Trop As,rhizome; leaf,van_wyk_culinary_2014
+665,Krameria lappacea,Krameriaceae,rhatany,S Am,root,van_wyk_culinary_2014
+666,Krameria lappacea,Krameriaceae,Peruvian rhatany,S Am,root,van_wyk_culinary_2014
+667,Lactuca sativa,Asteraceae,lettuce,Med,leaf,van_wyk_culinary_2014
+668,Lantana camara,Verbenaceae,lantana,C Am; S Am,leaf,van_wyk_culinary_2014
+669,Lantana camara,Verbenaceae,red sage,C Am; S Am,leaf,van_wyk_culinary_2014
+670,Lantana camara,Verbenaceae,sherry pie,C Am; S Am,leaf,van_wyk_culinary_2014
+671,Lantana camara,Verbenaceae,shrub verbena,C Am; S Am,leaf,van_wyk_culinary_2014
+672,Laser trilobum,Apiaceae,laserwort,Eur; W As,fruit,van_wyk_culinary_2014
+673,Laserpitium siler,Apiaceae,laserwort,N Afr; C & S Eu,fruit; root,van_wyk_culinary_2014
+674,Laurus nobilis,Lauraceae,laurel,Med,leaf; frui,van_wyk_culinary_2014
+675,Laurus nobilis,Lauraceae,bay leaf,Med,leaf; frui,van_wyk_culinary_2014
+676,Laurus nobilis,Lauraceae,bay laurel,Med,leaf; frui,van_wyk_culinary_2014
+677,Laurus nobilis,Lauraceae,sweet bay,Med,leaf; frui,van_wyk_culinary_2014
+678,Lavandula angustifolia,Lamiaceae,English lavender,Med,herb,van_wyk_culinary_2014
+679,Lavandula angustifolia,Lamiaceae,lavender,Med,herb,van_wyk_culinary_2014
+680,Lavandula angustifolia,Lamiaceae,true lavender,Med,herb,van_wyk_culinary_2014
+681,Lavandula angustifolia,Lamiaceae,common lavender,Med,herb,van_wyk_culinary_2014
+682,Lavandula dentata,Lamiaceae,French lavender,Med; W As,herb,van_wyk_culinary_2014
+683,Lavandula ×intermedia,Lamiaceae,lavandin,cultigen,herb,van_wyk_culinary_2014
+684,Lavandula ×intermedia,Lamiaceae,Dutch lavender,cultigen,herb,van_wyk_culinary_2014
+685,Lavandula latifolia,Lamiaceae,broadleaf lavender,Med,herb,van_wyk_culinary_2014
+686,Lavandula latifolia,Lamiaceae,spike lavender,Med,herb,van_wyk_culinary_2014
+687,Lavandula latifolia,Lamiaceae,spikenard,Med,herb,van_wyk_culinary_2014
+688,Lavandula latifolia,Lamiaceae,broad-leaf lavender,Med,herb,van_wyk_culinary_2014
+689,Lavandula stoechas,Lamiaceae,Spanish lavender,Med,herb,van_wyk_culinary_2014
+690,Lavandula stoechas,Lamiaceae,Arabian lavender,Med,herb,van_wyk_culinary_2014
+691,Lavandula stoechas,Lamiaceae,French lavender,Med,herb,van_wyk_culinary_2014
+692,Lavandula stoechas,Lamiaceae,Italian lavender,Med,herb,van_wyk_culinary_2014
+693,Lepidium draba,Brassicaceae,hoary cress,Med; Euras,leaf; seed,van_wyk_culinary_2014
+694,Lepidium draba,Brassicaceae,whitetop,Med; Euras,leaf; seed,van_wyk_culinary_2014
+695,Lepidium latifolium,Brassicaceae,dittander,Eur; Med,fresh herb,van_wyk_culinary_2014
+696,Lepidium latifolium,Brassicaceae,perennial peppergrass,Eur; Med,fresh herb,van_wyk_culinary_2014
+697,Lepidium sativum,Brassicaceae,cress,N Afr; W & C As,fresh leaf,van_wyk_culinary_2014
+698,Lepidium sativum,Brassicaceae,garden cress,N Afr; W & C As,fresh leaf,van_wyk_culinary_2014
+699,Lepidium sativum,Brassicaceae,pepper grass,N Afr; W & C As,fresh leaf,van_wyk_culinary_2014
+700,Leptospermum citratum,Myrtaceae,lemon-scented tea,Aus,leaf,van_wyk_culinary_2014
+701,Leucas zeylanica,Lamiaceae,Ceylon leucas,Trop As,leaf,van_wyk_culinary_2014
+702,Leucas zeylanica,Lamiaceae,admiration herb,Trop As,leaf,van_wyk_culinary_2014
+703,Levisticum officinale,Apiaceae,lovage,Eur; N Am,herb; root; fruit,van_wyk_culinary_2014
+704,Levisticum officinale,Apiaceae,garden lovage,Eur; N Am,herb; root; fruit,van_wyk_culinary_2014
+705,Limnophila aromatica,Plantaginaceae,rice-paddy weed,SE As,herb,van_wyk_culinary_2014
+706,Limnophila rugosa,Plantaginaceae,hades,Trop OW; Pac,leaf; herb,van_wyk_culinary_2014
+707,Limnophila rugosa,Plantaginaceae,selaseh,Trop OW; Pac,leaf; herb,van_wyk_culinary_2014
+708,Limnophila rugosa,Plantaginaceae,ayer,Trop OW; Pac,leaf; herb,van_wyk_culinary_2014
+709,Limnophila rugosa,Plantaginaceae,selaseh banyu,Trop OW; Pac,leaf; herb,van_wyk_culinary_2014
+710,Lippia adoensis,Verbenaceae,koseret,E Afr (Ethiopia),herb,van_wyk_culinary_2014
+711,Lippia alba,Verbenaceae,white oregano,N Am,leaf; herb,van_wyk_culinary_2014
+712,Lippia dulcis,Verbenaceae,Mexican lippia,C Am,leaf; herb,van_wyk_culinary_2014
+713,Lippia dulcis,Verbenaceae,yerba dulce,C Am,leaf; herb,van_wyk_culinary_2014
+714,Lippia graveolens,Verbenaceae,Mexican oregano,S Am; N Am; C Am,leaf; herb,van_wyk_culinary_2014
+715,Lippia graveolens,Verbenaceae,American oregano,S Am; N Am; C Am,leaf; herb,van_wyk_culinary_2014
+716,Lippia graveolens,Verbenaceae,Mexican sage,S Am; N Am; C Am,leaf; herb,van_wyk_culinary_2014
+717,Lippia graveolens,Verbenaceae,mintweed,S Am; N Am; C Am,leaf; herb,van_wyk_culinary_2014
+718,Lippia javanica,Verbenaceae,fever tea,Afr,leaf; herb,van_wyk_culinary_2014
+719,Lippia micromera,Verbenaceae,Spanish thyme,N Am; S Am,leaf; herb,van_wyk_culinary_2014
+720,Lippia micromera,Verbenaceae,Puerto Rico oregano,N Am; S Am,leaf; herb,van_wyk_culinary_2014
+721,Lippia multiflora,Verbenaceae,Gambian tea bush,Afr,leaf,van_wyk_culinary_2014
+722,Litsea cubeba,Lauraceae,mountain pepper,As,fruit,van_wyk_culinary_2014
+723,Litsea cubeba,Lauraceae,pheasant-pepper,As,fruit,van_wyk_culinary_2014
+724,Litsea japonica,Lauraceae,Japanese mountain pepper,As,fruit,van_wyk_culinary_2014
+725,Litsea pipericarpa,Lauraceae,kulit antarsa,As,fruit,van_wyk_culinary_2014
+726,Litsea pipericarpa,Lauraceae,kulit pulaga,As,fruit,van_wyk_culinary_2014
+727,Lycopersicon esculentum,Solanaceae,tomato,C Am; S Am,fruit,van_wyk_culinary_2014
+728,Mammea americana,Guttiferae,mammee,S Am,flower,van_wyk_culinary_2014
+729,Mammea americana,Guttiferae,mammee-apple,S Am,flower,van_wyk_culinary_2014
+730,Mangifera indica,Anacardiaceae,mango (amchur,Ind; Trop As,fruit,van_wyk_culinary_2014
+731,Mangifera indica,Anacardiaceae,amchoor),Ind; Trop As,fruit,van_wyk_culinary_2014
+732,Mangifera odorata,Anacardiaceae,kurwini mango,SE As,fruit,van_wyk_culinary_2014
+733,Mangifera odorata,Anacardiaceae,saipan mango,SE As,fruit,van_wyk_culinary_2014
+734,Marrubium vulgare,Lamiaceae,horehound,Eur,leaf,van_wyk_culinary_2014
+735,Marrubium vulgare,Lamiaceae,white horehound,Eur,leaf,van_wyk_culinary_2014
+736,Matricaria recutita,Asteraceae,German chamomile,Eur,herb,van_wyk_culinary_2014
+737,Mediasia macrophylla,Apiaceae,pamir,As,fruit,van_wyk_culinary_2014
+738,Mediasia macrophylla,Apiaceae,large-leaved mediasia,As,fruit,van_wyk_culinary_2014
+739,Melissa officinalis,Lamiaceae,lemon balm,Med; As,leaf; herb,van_wyk_culinary_2014
+740,Melissa officinalis,Lamiaceae,sweet balm,Med; As,leaf; herb,van_wyk_culinary_2014
+741,Melissa officinalis,Lamiaceae,melissa,Med; As,leaf; herb,van_wyk_culinary_2014
+742,Mentha alopecuroides,Lamiaceae,apple mint,Eur,leaf; herb,van_wyk_culinary_2014
+743,Mentha alopecuroides,Lamiaceae,bowl mint,Eur,leaf; herb,van_wyk_culinary_2014
+744,Mentha aquatica,Lamiaceae,water mint,Eur; Afr; W As,leaf; herb,van_wyk_culinary_2014
+745,Mentha arvensis,Lamiaceae,corn mint,Eur; As,leaf; herb,van_wyk_culinary_2014
+746,Mentha arvensis,Lamiaceae,field mint,Eur; As,leaf; herb,van_wyk_culinary_2014
+747,Mentha arvensis,Lamiaceae,Japanese mint,Eur; As,leaf; herb,van_wyk_culinary_2014
+748,Mentha ×cordifolia,Lamiaceae,Kentucky spearmint,N Am,herb,van_wyk_culinary_2014
+749,Mentha ×gracilis,Lamiaceae,Scotch mint,Eur,leaf; herb,van_wyk_culinary_2014
+750,Mentha ×gracilis,Lamiaceae,Scotch spearmint,Eur,leaf; herb,van_wyk_culinary_2014
+751,Mentha ×gracilis,Lamiaceae,ginger mint,Eur,leaf; herb,van_wyk_culinary_2014
+752,Mentha haplocalyx,Lamiaceae,Japanese peppermint,As,herb,van_wyk_culinary_2014
+753,Mentha longifolia,Lamiaceae,horse mint,Eur; As; Afr,herb,van_wyk_culinary_2014
+754,Mentha longifolia,Lamiaceae,long-leaf mint,Eur; As; Afr,herb,van_wyk_culinary_2014
+755,Mentha ×piperita,Lamiaceae,peppermint,cultigen (Britain),leaf; herb,van_wyk_culinary_2014
+756,Mentha ×piperita ‘citrata’,Lamiaceae,bergamot mint,Britain,fresh leaf,van_wyk_culinary_2014
+757,Mentha ×piperita ‘citrata’,Lamiaceae,eau de Cologne mint,Britain,fresh leaf,van_wyk_culinary_2014
+758,Mentha ×piperita ‘citrata’,Lamiaceae,lemon mint,Britain,fresh leaf,van_wyk_culinary_2014
+759,Mentha ×piperita ‘citrata’,Lamiaceae,orange mint,Britain,fresh leaf,van_wyk_culinary_2014
+760,Mentha pulegium,Lamiaceae,pennyroyal,Eur; W As,leaf; herb,van_wyk_culinary_2014
+761,Mentha pulegium,Lamiaceae,pudding grass,Eur; W As,leaf; herb,van_wyk_culinary_2014
+762,Mentha requienii,Lamiaceae,Corsican mint,Eur,leaf; herb,van_wyk_culinary_2014
+763,Mentha requienii,Lamiaceae,menthella,Eur,leaf; herb,van_wyk_culinary_2014
+764,Mentha ×rotundifolia,Lamiaceae,round-leaved mint,Eur,leaf; herb,van_wyk_culinary_2014
+765,Mentha ×rotundifolia,Lamiaceae,false apple mint,Eur,leaf; herb,van_wyk_culinary_2014
+766,Mentha ×smithiana,Lamiaceae,red mint,Eur,leaf; herb,van_wyk_culinary_2014
+767,Mentha ×smithiana,Lamiaceae,bergamot mint,Eur,leaf; herb,van_wyk_culinary_2014
+768,Mentha spicata,Lamiaceae,spearmint,Eur,leaf; herb,van_wyk_culinary_2014
+769,Mentha spicata,Lamiaceae,garden mint,Eur,leaf; herb,van_wyk_culinary_2014
+770,Mentha spicata,Lamiaceae,crisp mint,Eur,leaf; herb,van_wyk_culinary_2014
+771,Mentha spicata,Lamiaceae,green mint,Eur,leaf; herb,van_wyk_culinary_2014
+772,Mentha spicata,Lamiaceae,lamb mint,Eur,leaf; herb,van_wyk_culinary_2014
+773,Mentha suaveolens,Lamiaceae,apple mint,Eur,leaf; herb,van_wyk_culinary_2014
+774,Mentha suaveolens,Lamiaceae,pineapple mint,Eur,leaf; herb,van_wyk_culinary_2014
+775,Mentha ×villosa,Lamiaceae,bowl mint,Eur,leaf,van_wyk_culinary_2014
+776,Mentha ×villosa,Lamiaceae,apple mint,Eur,leaf,van_wyk_culinary_2014
+777,Mentha ×villosa,Lamiaceae,woolly mint,Eur,leaf,van_wyk_culinary_2014
+778,Menyanthes trifoliata,Menyanthaceae,bogbean,Eur; N Am; As,leaf,van_wyk_culinary_2014
+779,Menyanthes trifoliata,Menyanthaceae,bogmyrtle,Eur; N Am; As,leaf,van_wyk_culinary_2014
+780,Menyanthes trifoliata,Menyanthaceae,marsh-clover,Eur; N Am; As,leaf,van_wyk_culinary_2014
+781,Menyanthes trifoliata,Menyanthaceae,marshtrefoil,Eur; N Am; As,leaf,van_wyk_culinary_2014
+782,Menyanthes trifoliata,Menyanthaceae,water trefoil,Eur; N Am; As,leaf,van_wyk_culinary_2014
+783,Merremia dissecta,Convolvulaceae,alamo vine,Trop Am,leaf,van_wyk_culinary_2014
+784,Merremia dissecta,Convolvulaceae,dissected merremia,Trop Am,leaf,van_wyk_culinary_2014
+785,Meum athamanticum,Apiaceae,baldmoney,N Afr; Eur,root; leaf,van_wyk_culinary_2014
+786,Meum athamanticum,Apiaceae,bearwort,N Afr; Eur,root; leaf,van_wyk_culinary_2014
+787,Meum athamanticum,Apiaceae,meu,N Afr; Eur,root; leaf,van_wyk_culinary_2014
+788,Meum athamanticum,Apiaceae,spignel,N Afr; Eur,root; leaf,van_wyk_culinary_2014
+789,Michelia champaca,Magnoliaceae,golden champa,C As,flower,van_wyk_culinary_2014
+790,Michelia champaca,Magnoliaceae,yellow champa,C As,flower,van_wyk_culinary_2014
+791,Micromeria fruticosa,Lamiaceae,talmud widder hyssop,E Med; Israel,herb,van_wyk_culinary_2014
+792,Micromeria fruticosa,Lamiaceae,tea hyssop,E Med; Israel,herb,van_wyk_culinary_2014
+793,Minthostachys mollis,Lamiaceae,Ecuadorian mint,N Andes,leaf; herb,van_wyk_culinary_2014
+794,Minthostachys mollis,Lamiaceae,tipo leaf,N Andes,leaf; herb,van_wyk_culinary_2014
+795,Mirabilis jalapa,Nyctaginaceae,beauty of the night,Mex,seed,van_wyk_culinary_2014
+796,Mirabilis jalapa,Nyctaginaceae,false jalap,Mex,seed,van_wyk_culinary_2014
+797,Mirabilis jalapa,Nyctaginaceae,four o’clock plant,Mex,seed,van_wyk_culinary_2014
+798,Mirabilis jalapa,Nyctaginaceae,marvel of Peru,Mex,seed,van_wyk_culinary_2014
+799,Momordica charantia,Cucurbitaceae,balsam pear,Trop OW,pulp,van_wyk_culinary_2014
+800,Momordica charantia,Cucurbitaceae,bitter cucumber,Trop OW,pulp,van_wyk_culinary_2014
+801,Momordica charantia,Cucurbitaceae,bitter gourd,Trop OW,pulp,van_wyk_culinary_2014
+802,Momordica charantia,Cucurbitaceae,bitter melon,Trop OW,pulp,van_wyk_culinary_2014
+803,Momordica charantia,Cucurbitaceae,carilla plant,Trop OW,pulp,van_wyk_culinary_2014
+804,Monarda citriodora,Lamiaceae,lemon bergamot,Mex; USA,leaf,van_wyk_culinary_2014
+805,Monarda citriodora,Lamiaceae,lemon mint,Mex; USA,leaf,van_wyk_culinary_2014
+806,Monarda didyma,Lamiaceae,fragrant balm,E & N Am,leaf; herb,van_wyk_culinary_2014
+807,Monarda didyma,Lamiaceae,Oswego bee balm,E & N Am,leaf; herb,van_wyk_culinary_2014
+808,Monarda didyma,Lamiaceae,Oswego tea,E & N Am,leaf; herb,van_wyk_culinary_2014
+809,Monarda fistulosa,Lamiaceae,bee balm,N Am,leaf,van_wyk_culinary_2014
+810,Monarda fistulosa,Lamiaceae,horse bergamot,N Am,leaf,van_wyk_culinary_2014
+811,Monarda fistulosa,Lamiaceae,wild bergamot,N Am,leaf,van_wyk_culinary_2014
+812,Mondia whitei,Apocynaceae,white ginger,Trop Afr,root,van_wyk_culinary_2014
+813,Monodora brevipes,Annonaceae,short-stemmed African nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+814,Monodora brevipes,Annonaceae,yellow flowery nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+815,Monodora myristica,Annonaceae,African nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+816,Monodora myristica,Annonaceae,false nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+817,Monodora myristica,Annonaceae,calabash nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+818,Monodora myristica,Annonaceae,Jamaica nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+819,Montia perfoliata,Portulacaceae,miner’s lettuce,N Am,leaf,van_wyk_culinary_2014
+820,Montia perfoliata,Portulacaceae,Cuban spinach,N Am,leaf,van_wyk_culinary_2014
+821,Montia perfoliata,Portulacaceae,winter purslane,N Am,leaf,van_wyk_culinary_2014
+822,Moringa oleifera,Moringaceae,horseradish tree,Ind,flower; leaf; fruit,van_wyk_culinary_2014
+823,Moringa oleifera,Moringaceae,drumstick tree,Ind,flower; leaf; fruit,van_wyk_culinary_2014
+824,Murraya koenigii,Rutaceae,curry leaf,Ind; Sri Lanka,leaf,van_wyk_culinary_2014
+825,Murraya paniculata,Rutaceae,jasmine orange,SE As; Aus,flower,van_wyk_culinary_2014
+826,Murraya paniculata,Rutaceae,Chinese myrtle,SE As; Aus,flower,van_wyk_culinary_2014
+827,Murraya paniculata,Rutaceae,Chinese box-wood,SE As; Aus,flower,van_wyk_culinary_2014
+828,Murraya paniculata,Rutaceae,Burmese box-wood,SE As; Aus,flower,van_wyk_culinary_2014
+829,Murraya paniculata,Rutaceae,satinwood,SE As; Aus,flower,van_wyk_culinary_2014
+830,Murraya paniculata,Rutaceae,Hawaiian orange,SE As; Aus,flower,van_wyk_culinary_2014
+831,Murraya paniculata,Rutaceae,orange jasmine,SE As; Aus,flower,van_wyk_culinary_2014
+832,Myrica cerifera,Myricaceae,bay berry,N Am,leaf,van_wyk_culinary_2014
+833,Myrica cerifera,Myricaceae,candle berry,N Am,leaf,van_wyk_culinary_2014
+834,Myrica cerifera,Myricaceae,wax berry,N Am,leaf,van_wyk_culinary_2014
+835,Myrica cerifera,Myricaceae,wax myrtle,N Am,leaf,van_wyk_culinary_2014
+836,Myrica gale,Myricaceae,bog myrtle,N Am; Euras,herb,van_wyk_culinary_2014
+837,Myrica gale,Myricaceae,gale meadow fern,N Am; Euras,herb,van_wyk_culinary_2014
+838,Myrica gale,Myricaceae,sweet gale,N Am; Euras,herb,van_wyk_culinary_2014
+839,Myrica gale,Myricaceae,sweet myrtle,N Am; Euras,herb,van_wyk_culinary_2014
+840,Myrica gale,Myricaceae,wax berry,N Am; Euras,herb,van_wyk_culinary_2014
+841,Myrica pennsylvanica,Myricaceae,bay berry,Eastern N Am,herb,van_wyk_culinary_2014
+842,Myrica pennsylvanica,Myricaceae,candle berry,Eastern N Am,herb,van_wyk_culinary_2014
+843,Myrica pennsylvanica,Myricaceae,northern bayberry,Eastern N Am,herb,van_wyk_culinary_2014
+844,Myrica pennsylvanica,Myricaceae,waxy berry,Eastern N Am,herb,van_wyk_culinary_2014
+845,Myristica argentea,Myristicaceae,silver nutmeg,New Guinea,seed; aril,van_wyk_culinary_2014
+846,Myristica fragrans,Myristicaceae,nutmeg and mace,Moluccas,seed; aril,van_wyk_culinary_2014
+847,Myristica malabarica,Myristicaceae,Bombay nutmeg,Indonesia,seed; aril,van_wyk_culinary_2014
+848,Myristica malabarica,Myristicaceae,Malabar nutmeg,Indonesia,seed; aril,van_wyk_culinary_2014
+849,Myristica speciosa,Myristicaceae,Moluccan nutmeg,Indonesia,seed,van_wyk_culinary_2014
+850,Myroxylon balsamum,Leguminosae,balsam of Tolu,Venez; Peru,balsam,van_wyk_culinary_2014
+851,Myroxylon balsamum,Leguminosae,balsam of Peru,Venez; Peru,balsam,van_wyk_culinary_2014
+852,Myroxylon balsamum,Leguminosae,black balsam,Venez; Peru,balsam,van_wyk_culinary_2014
+853,Myroxylon balsamum,Leguminosae,Peruvian balsam,Venez; Peru,balsam,van_wyk_culinary_2014
+854,Myrrhis odorata,Apiaceae,cicely,Eur,fresh herb; fruit,van_wyk_culinary_2014
+855,Myrrhis odorata,Apiaceae,sweet cicely,Eur,fresh herb; fruit,van_wyk_culinary_2014
+856,Myrrhis odorata,Apiaceae,garden myrrh,Eur,fresh herb; fruit,van_wyk_culinary_2014
+857,Myrtus communis,Myrtaceae,myrtle,Med,leaf; fruit,van_wyk_culinary_2014
+858,Myrtus communis,Myrtaceae,common myrtle,Med,leaf; fruit,van_wyk_culinary_2014
+859,Nardostachys jatamansi (N. grandiflora),Valerianaceae,jatamansi,As,leaf; rhizome,van_wyk_culinary_2014
+860,Nardostachys jatamansi (N. grandiflora),Valerianaceae,Indian nard,As,leaf; rhizome,van_wyk_culinary_2014
+861,Nardostachys jatamansi (N. grandiflora),Valerianaceae,spikenard,As,leaf; rhizome,van_wyk_culinary_2014
+862,Nasturtium microphyllum,Brassicaceae,wild watercress,Eur,fresh leaf,van_wyk_culinary_2014
+863,Nasturtium officinale (=Rorippa nasturtiumaquaticum),Brassicaceae,watercress,Eur,fresh leaf,van_wyk_culinary_2014
+864,Nelumbo nucifera,Nelumbonaceae,lotus,As; Aus,herb; leaf,van_wyk_culinary_2014
+865,Nepeta cataria,Lamiaceae,catmint,Eur; SW & C As,herb,van_wyk_culinary_2014
+866,Nepeta cataria,Lamiaceae,catnip,Eur; SW & C As,herb,van_wyk_culinary_2014
+867,Nepeta cataria,Lamiaceae,lemon catnip,Eur; SW & C As,herb,van_wyk_culinary_2014
+868,Nepeta ×faassenii,Lamiaceae,blue catmint,Caucasus; Iran,herb,van_wyk_culinary_2014
+869,Nepeta racemosa,Lamiaceae,mussin catnip,Caucasus; Turkey; N Iran,herb,van_wyk_culinary_2014
+870,Nigella arvensis,Ranunculaceae,wild fennel,Euras; Eur; Med,seed; plant,van_wyk_culinary_2014
+871,Nigella damascena,Ranunculaceae,love-in-a-mist,Med,seed,van_wyk_culinary_2014
+872,Nigella damascena,Ranunculaceae,wild fennel,Med,seed,van_wyk_culinary_2014
+873,Nigella sativa,Ranunculaceae,nigella,Med; As,seed,van_wyk_culinary_2014
+874,Nigella sativa,Ranunculaceae,kalonji,Med; As,seed,van_wyk_culinary_2014
+875,Nigella sativa,Ranunculaceae,black seed,Med; As,seed,van_wyk_culinary_2014
+876,Ocimum americanum (=O. canum),Lamiaceae,hoary basil,Trop OW,leaf,van_wyk_culinary_2014
+877,Ocimum americanum (=O. canum),Lamiaceae,lime basil,Trop OW,leaf,van_wyk_culinary_2014
+878,Ocimum americanum (=O. canum),Lamiaceae,partminger,Trop OW,leaf,van_wyk_culinary_2014
+879,Ocimum basilicum,Lamiaceae,sweet basil,Trop As,leaf,van_wyk_culinary_2014
+880,Ocimum basilicum,Lamiaceae,basil,Trop As,leaf,van_wyk_culinary_2014
+881,Ocimum basilicum,Lamiaceae,common basil lemon basil,Trop As,leaf,van_wyk_culinary_2014
+882,Ocimum ×citriodorum,Lamiaceae,lemon basil,cultivated,leaf,van_wyk_culinary_2014
+883,Ocimum ×citriodorum,Lamiaceae,kemanji,cultivated,leaf,van_wyk_culinary_2014
+884,Ocimum forskolei,Lamiaceae,mint-leaf basil,cultivated,leaf,van_wyk_culinary_2014
+885,Ocimum gratissimum (=O. suave),Lamiaceae,African basil,S As; Trop Afr,leaf; herb,van_wyk_culinary_2014
+886,Ocimum gratissimum (=O. suave),Lamiaceae,sweet scented basil clove basil,S As; Trop Afr,leaf; herb,van_wyk_culinary_2014
+887,Ocimum gratissimum (=O. suave),Lamiaceae,Russian basil,S As; Trop Afr,leaf; herb,van_wyk_culinary_2014
+888,Ocimum kilimandscharicum,Lamiaceae,camphor basil,E Afr,leaf,van_wyk_culinary_2014
+889,Ocimum tenuiflorum (=O. sanctum),Lamiaceae,holy basil,Trop As,leaf; herb,van_wyk_culinary_2014
+890,Ocimum tenuiflorum (=O. sanctum),Lamiaceae,sacred basil,Trop As,leaf; herb,van_wyk_culinary_2014
+891,Ocimum tenuiflorum (=O. sanctum),Lamiaceae,Thai basil,Trop As,leaf; herb,van_wyk_culinary_2014
+892,Ocotea cymbarum,Lauraceae,canela,Braz,bark; calyx,van_wyk_culinary_2014
+893,Ocotea puchury-major,Lauraceae,louro-puxuri,S Am,seed,van_wyk_culinary_2014
+894,Ocotea puchury-major,Lauraceae,pichuri,S Am,seed,van_wyk_culinary_2014
+895,Ocotea puchury-major,Lauraceae,pixurim,S Am,seed,van_wyk_culinary_2014
+896,Ocotea puchury-major,Lauraceae,puchuiri,S Am,seed,van_wyk_culinary_2014
+897,Ocotea quixos,Lauraceae,American cinnamon,Ecuador,flower,van_wyk_culinary_2014
+898,Ocotea quixos,Lauraceae,ocotea,Ecuador,flower,van_wyk_culinary_2014
+899,Ocotea pretiosa,Lauraceae,false sassafras,Braz,bark; leaf,van_wyk_culinary_2014
+900,Oenanthe javanica,Apiaceae,water dropwort,Indomal,herb,van_wyk_culinary_2014
+901,Oenanthe javanica,Apiaceae,water celery,Indomal,herb,van_wyk_culinary_2014
+902,Oenanthe javanica,Apiaceae,water parsley,Indomal,herb,van_wyk_culinary_2014
+903,Origanum dictamnus,Lamiaceae,dittany of Crete,Greece; Crete,herb,van_wyk_culinary_2014
+904,Origanum majorana,Lamiaceae,marjoram,Med; Turkey,herb,van_wyk_culinary_2014
+905,Origanum majorana,Lamiaceae,sweet marjoram,Med; Turkey,herb,van_wyk_culinary_2014
+906,Origanum onites,Lamiaceae,pot marjoram,Eur; E Med,herb,van_wyk_culinary_2014
+907,Origanum syriacum,Lamiaceae,Syrian oregano,SE Eur; W As,herb,van_wyk_culinary_2014
+908,Origanum syriacum,Lamiaceae,za’atar,SE Eur; W As,herb,van_wyk_culinary_2014
+909,Origanum syriacum,Lamiaceae,zatar,SE Eur; W As,herb,van_wyk_culinary_2014
+910,Origanum syriacum,Lamiaceae,white oregano,SE Eur; W As,herb,van_wyk_culinary_2014
+911,Origanum vulgare,Lamiaceae,oregano,Eur; C As,herb,van_wyk_culinary_2014
+912,Origanum vulgare,Lamiaceae,wild marjoram,Eur; C As,herb,van_wyk_culinary_2014
+913,Origanum vulgare,Lamiaceae,pizza herb,Eur; C As,herb,van_wyk_culinary_2014
+914,Osmanthus fragrans,Oleaceae,sweet osmanthus flower,E As (China),flower,van_wyk_culinary_2014
+915,Osmanthus fragrans,Oleaceae,fragrant olive,E As (China),flower,van_wyk_culinary_2014
+916,Osmanthus fragrans,Oleaceae,sweet olive,E As (China),flower,van_wyk_culinary_2014
+917,Osmanthus fragrans,Oleaceae,tea olive,E As (China),flower,van_wyk_culinary_2014
+918,Ottelia alismoides,Hydrocharitaceae,water-plantain,China; Jap; Aus; NE Afr,leaf,van_wyk_culinary_2014
+919,Ottelia alismoides,Hydrocharitaceae,ottelia,China; Jap; Aus; NE Afr,leaf,van_wyk_culinary_2014
+920,Oxalis acetosella,Oxalidaceae,common wood sorrel,Eur; As,leaf,van_wyk_culinary_2014
+921,Oxalis acetosella,Oxalidaceae,wood sorrel,Eur; As,leaf,van_wyk_culinary_2014
+922,Oxalis acetosella,Oxalidaceae,shamrock,Eur; As,leaf,van_wyk_culinary_2014
+923,Oxalis corniculata,Oxalidaceae,creeping wood sorrel,Med,leaf,van_wyk_culinary_2014
+924,Oxalis corniculata,Oxalidaceae,creeping oxalis,Med,leaf,van_wyk_culinary_2014
+925,Oxalis pes-caprae,Oxalidaceae,sorrel,S Afr,leaf,van_wyk_culinary_2014
+926,Oxalis pes-caprae,Oxalidaceae,yellow sorrel,S Afr,leaf,van_wyk_culinary_2014
+927,Pandanus amaryllifolius,Pandanaceae,pandan,Trop As (Moluccas),wilted leaves,van_wyk_culinary_2014
+928,Pandanus amaryllifolius,Pandanaceae,fragrant pandan,Trop As (Moluccas),wilted leaves,van_wyk_culinary_2014
+929,Pandanus tectorius,Pandanaceae,fragrant screwpine,Trop OW,leaf; male flowers,van_wyk_culinary_2014
+930,Papaver somniferum,Papaveraceae,opium poppy,Med; SW As,seed,van_wyk_culinary_2014
+931,Papaver somniferum,Papaveraceae,poppy,Med; SW As,seed,van_wyk_culinary_2014
+932,Parinari curatellifolia,Chrysobalanceae,mobola,Trop Afr,fruit,van_wyk_culinary_2014
+933,Parinari curatellifolia,Chrysobalanceae,mbura,Trop Afr,fruit,van_wyk_culinary_2014
+934,Parkia speciosa,Mimosaceae,petai,Trop As,seed,van_wyk_culinary_2014
+935,Parkia speciosa,Mimosaceae,locust bean,Trop As,seed,van_wyk_culinary_2014
+936,Pastinaca sativa,Apiaceae,parsnip,Eur; W As,leaf; root,van_wyk_culinary_2014
+937,Peganum harmala,Zygophyllaceae,African rue,Med; As,seed,van_wyk_culinary_2014
+938,Peganum harmala,Zygophyllaceae,Syrian rue,Med; As,seed,van_wyk_culinary_2014
+939,Peganum harmala,Zygophyllaceae,mountain rue,Med; As,seed,van_wyk_culinary_2014
+940,Peganum harmala,Zygophyllaceae,wild rue,Med; As,seed,van_wyk_culinary_2014
+941,Pelargonium capitatum,Geraniaceae,rose-scented geranium,S Afr,leaf,van_wyk_culinary_2014
+942,Pelargonium capitatum,Geraniaceae,rose geranium,S Afr,leaf,van_wyk_culinary_2014
+943,Pelargonium capitatum,Geraniaceae,rose pelargonium,S Afr,leaf,van_wyk_culinary_2014
+944,Pelargonium ×citrosum,Geraniaceae,citrosa geranium,cultivated,leaf,van_wyk_culinary_2014
+945,Pelargonium ×citrosum,Geraniaceae,mosquito plant,cultivated,leaf,van_wyk_culinary_2014
+946,Pelargonium crispum,Geraniaceae,lemon geranium,S Afr,leaf,van_wyk_culinary_2014
+947,Pelargonium crispum,Geraniaceae,curled leaved cranesbill,S Afr,leaf,van_wyk_culinary_2014
+948,Pelargonium ×fragrans,Geraniaceae,nutmeg scented geranium,S Afr,leaf,van_wyk_culinary_2014
+949,Pelargonium ×graveolens,Geraniaceae,rose geranium,cultivated,leaf,van_wyk_culinary_2014
+950,Pelargonium ×graveolens,Geraniaceae,Bourbon geranium,cultivated,leaf,van_wyk_culinary_2014
+951,Pelargonium ×graveolens,Geraniaceae,rose pelargonium,cultivated,leaf,van_wyk_culinary_2014
+952,Pelargonium ×graveolens,Geraniaceae,sweet-scented geranium,cultivated,leaf,van_wyk_culinary_2014
+953,Pelargonium ×limoneum,Geraniaceae,English finger-bowl geranium,cultivated,leaf,van_wyk_culinary_2014
+954,Pelargonium odoratissimum,Geraniaceae,apple-scented geranium,S Afr,leaf,van_wyk_culinary_2014
+955,Pelargonium radens,Geraniaceae,mint geranium,S Afr,leaf,van_wyk_culinary_2014
+956,Pelargonium radens,Geraniaceae,balsam (scented) geranium,S Afr,leaf,van_wyk_culinary_2014
+957,Pelargonium tomentosum,Geraniaceae,peppermint-scented geranium,S Afr,leaf,van_wyk_culinary_2014
+958,Peperomia pellucida,Piperaceae,pepper elder,Trop Am,herb,van_wyk_culinary_2014
+959,Peperomia pellucida,Piperaceae,rabbit ear,Trop Am,herb,van_wyk_culinary_2014
+960,Perilla frutescens,Lamiaceae,shiso,E As,leaf; herb,van_wyk_culinary_2014
+961,Perilla frutescens,Lamiaceae,beefsteak plant,E As,leaf; herb,van_wyk_culinary_2014
+962,Perilla frutescens,Lamiaceae,perilla,E As,leaf; herb,van_wyk_culinary_2014
+963,Perilla frutescens,Lamiaceae,purple mint,E As,leaf; herb,van_wyk_culinary_2014
+964,Persicaria hydropiper,Polygonaceae,water pepper,SE As,leaf; herb,van_wyk_culinary_2014
+965,Persicaria odorata,Polygonaceae,Vietnamese coriander,SE As,leaf,van_wyk_culinary_2014
+966,Persicaria odorata,Polygonaceae,Vietnamese mint,SE As,leaf,van_wyk_culinary_2014
+967,Persicaria odorata,Polygonaceae,laksa leaf,SE As,leaf,van_wyk_culinary_2014
+968,Petroselinum crispum,Apiaceae,parsley,Eur; W As,leaf,van_wyk_culinary_2014
+969,Peucedanum ostruthium,Apiaceae,hog fennel,S Eur,rhizome,van_wyk_culinary_2014
+970,Peumus boldus,Monimiaceae,boldo,Chile,leaf,van_wyk_culinary_2014
+971,Phyllanthus emblica,Euphorbiaceae,emblic,Trop As,fruit,van_wyk_culinary_2014
+972,Phyllanthus emblica,Euphorbiaceae,emblic myrobalan,Trop As,fruit,van_wyk_culinary_2014
+973,Phyllanthus emblica,Euphorbiaceae,Indian gooseberry,Trop As,fruit,van_wyk_culinary_2014
+974,Physalis philadelphica (=P. ixocarpa),Solanaceae,tomatillo,Mex,ripe fruit,van_wyk_culinary_2014
+975,Physalis philadelphica (=P. ixocarpa),Solanaceae,jamberry,Mex,ripe fruit,van_wyk_culinary_2014
+976,Physalis pubescens,Solanaceae,downy ground cherry,N Am,ripe fruit,van_wyk_culinary_2014
+977,Physalis pubescens,Solanaceae,ground cherry,N Am,ripe fruit,van_wyk_culinary_2014
+978,Picrasma excelsa,Simaroubaceae,bitterwood,West Indies,wood,van_wyk_culinary_2014
+979,Picrasma excelsa,Simaroubaceae,Jamaica quassia,West Indies,wood,van_wyk_culinary_2014
+980,Picrasma excelsa,Simaroubaceae,quassia wood,West Indies,wood,van_wyk_culinary_2014
+981,Picrasma quassioides,Simaroubaceae,bitterwood,E As,wood,van_wyk_culinary_2014
+982,Picrasma quassioides,Simaroubaceae,quassia wood,E As,wood,van_wyk_culinary_2014
+983,Pimenta dioica,Myrtaceae,allspice,C Am; West Indies,fruit,van_wyk_culinary_2014
+984,Pimenta dioica,Myrtaceae,pimento,C Am; West Indies,fruit,van_wyk_culinary_2014
+985,Pimenta dioica,Myrtaceae,Jamaican pepper,C Am; West Indies,fruit,van_wyk_culinary_2014
+986,Pimenta racemosa,Myrtaceae,bay rum,Trop Am,fruit,van_wyk_culinary_2014
+987,Pimpinella anisum,Apiaceae,anise,Med; W As,fruit,van_wyk_culinary_2014
+988,Pimpinella anisum,Apiaceae,aniseed,Med; W As,fruit,van_wyk_culinary_2014
+989,Pimpinella major,Apiaceae,greater burnet saxifrage,Eur,root,van_wyk_culinary_2014
+990,Pimpinella saxifraga,Apiaceae,burnet saxifrage,Eur,root,van_wyk_culinary_2014
+991,Pimpinella saxifraga,Apiaceae,garden burnet,Eur,root,van_wyk_culinary_2014
+992,Pinus cembra,Pinaceae,Siberian pine nuts,Eur; As,seed,van_wyk_culinary_2014
+993,Pinus cembroides,Pinaceae,Mexican pine nuts,N Am,seed,van_wyk_culinary_2014
+994,Pinus cembroides,Pinaceae,Mexican piñon,N Am,seed,van_wyk_culinary_2014
+995,Pinus edulis,Pinaceae,piñon,N Am,seed,van_wyk_culinary_2014
+996,Pinus koraiensis,Pinaceae,Korean pine nuts,As,seed,van_wyk_culinary_2014
+997,Pinus pinea,Pinaceae,pine nuts,Med,seed,van_wyk_culinary_2014
+998,Pinus pinea,Pinaceae,pine seeds,Med,seed,van_wyk_culinary_2014
+999,Pinus pinea,Pinaceae,pignoles,Med,seed,van_wyk_culinary_2014
+1000,Piper aduncum,Piperaceae,matico,C Am; S Am,fruit,van_wyk_culinary_2014
+1001,Piper aduncum,Piperaceae,big pepper,C Am; S Am,fruit,van_wyk_culinary_2014
+1002,Piper aduncum,Piperaceae,Spanish elder,C Am; S Am,fruit,van_wyk_culinary_2014
+1003,Piper aduncum,Piperaceae,spiked pepper,C Am; S Am,fruit,van_wyk_culinary_2014
+1004,Piper auritum,Piperaceae,Mexican pepperleaf,C Am,leaf,van_wyk_culinary_2014
+1005,Piper auritum,Piperaceae,alajan pepper,C Am,leaf,van_wyk_culinary_2014
+1006,Piper baccatum,Piperaceae,climbing pepper of Java,SE As,fruit; leaf,van_wyk_culinary_2014
+1007,Piper borbonense,Piperaceae,Madagascar pepper,Afr (Madag),fruit,van_wyk_culinary_2014
+1008,Piper borbonense,Piperaceae,poivre sauvage,Afr (Madag),fruit,van_wyk_culinary_2014
+1009,Piper borbonense,Piperaceae,cubebe du pays,Afr (Madag),fruit,van_wyk_culinary_2014
+1010,Piper borbonense,Piperaceae,betel marron,Afr (Madag),fruit,van_wyk_culinary_2014
+1011,Piper capense,Piperaceae,Cape pepper,E Afr,fruit,van_wyk_culinary_2014
+1012,Piper clusii,Piperaceae,West African black pepper,W Afr,fruit,van_wyk_culinary_2014
+1013,Piper clusii,Piperaceae,African cubebs,W Afr,fruit,van_wyk_culinary_2014
+1014,Piper cubeba,Piperaceae,cubeb pepper,Indonesia,unripe fruit,van_wyk_culinary_2014
+1015,Piper cubeba,Piperaceae,tailed pepper,Indonesia,unripe fruit,van_wyk_culinary_2014
+1016,Piper cubeba,Piperaceae,Java pepper,Indonesia,unripe fruit,van_wyk_culinary_2014
+1017,Piper guineense,Piperaceae,West African pepper,Trop Afr,fruit,van_wyk_culinary_2014
+1018,Piper guineense,Piperaceae,Ashanti pepper,Trop Afr,fruit,van_wyk_culinary_2014
+1019,Piper guineense,Piperaceae,Benin pepper,Trop Afr,fruit,van_wyk_culinary_2014
+1020,Piper lolot,Piperaceae,lolot pepper,SE As,leaf,van_wyk_culinary_2014
+1021,Piper lolot,Piperaceae,Vietnamese pepper,SE As,leaf,van_wyk_culinary_2014
+1022,Piper longum,Piperaceae,Indian long pepper,Trop E Himal,fruit,van_wyk_culinary_2014
+1023,Piper longum,Piperaceae,pippali,Trop E Himal,fruit,van_wyk_culinary_2014
+1024,Piper longum,Piperaceae,pipalli,Trop E Himal,fruit,van_wyk_culinary_2014
+1025,Piper nigrum,Piperaceae,pepper,S Ind; Sri Lanka,fruit; unripe fruit,van_wyk_culinary_2014
+1026,Piper nigrum,Piperaceae,black pepper,S Ind; Sri Lanka,fruit; unripe fruit,van_wyk_culinary_2014
+1027,Piper retrofractum,Piperaceae,Balinese long pepper,SE As,fruit,van_wyk_culinary_2014
+1028,Piper retrofractum,Piperaceae,Javanese long pepper,SE As,fruit,van_wyk_culinary_2014
+1029,Piper saigonense,Piperaceae,Saigon pepper,SE As,fruit,van_wyk_culinary_2014
+1030,Piper sanctum,Piperaceae,acoyo,C Am,herb,van_wyk_culinary_2014
+1031,Piper sanctum,Piperaceae,acuyo,C Am,herb,van_wyk_culinary_2014
+1032,Piper sanctum,Piperaceae,cordonillo,C Am,herb,van_wyk_culinary_2014
+1033,Piper sanctum,Piperaceae,xihuitl,C Am,herb,van_wyk_culinary_2014
+1034,Piper sarmentosum,Piperaceae,wild pepper,Indomal,fruit; leaf,van_wyk_culinary_2014
+1035,Piper umbellatum,Piperaceae,shrubby pepper,Trop Am,fruit; stem,van_wyk_culinary_2014
+1036,Pistacia lentiscus,Anacardiaceae,mastic,Med,resin,van_wyk_culinary_2014
+1037,Pistacia lentiscus,Anacardiaceae,masticha,Med,resin,van_wyk_culinary_2014
+1038,Pistacia lentiscus,Anacardiaceae,mistki Chios mastic,Med,resin,van_wyk_culinary_2014
+1039,Pistacia lentiscus,Anacardiaceae,lentisc,Med,resin,van_wyk_culinary_2014
+1040,Pistacia terebinthus,Anacardiaceae,terebinth,Med,resin,van_wyk_culinary_2014
+1041,Pistacia vera,Anacardiaceae,pistachio,W As,seed,van_wyk_culinary_2014
+1042,Pithecellobium dulce,Leguminosae,Manila tamarind,C Am,fruit; seed,van_wyk_culinary_2014
+1043,Plectranthus amboinicus,Lamiaceae,Indian borage,E Afr,fresh leaf,van_wyk_culinary_2014
+1044,Plectranthus amboinicus,Lamiaceae,Cuban oregano,E Afr,fresh leaf,van_wyk_culinary_2014
+1045,Plectranthus amboinicus,Lamiaceae,Spanish sage,E Afr,fresh leaf,van_wyk_culinary_2014
+1046,Pluchea indica,Asteraceae,Indian fleabane,Indomal,leaf,van_wyk_culinary_2014
+1047,Pluchea indica,Asteraceae,Indian pluchea,Indomal,leaf,van_wyk_culinary_2014
+1048,Pogostemon cablin,Lamiaceae,patchouli,Indomal,leaf,van_wyk_culinary_2014
+1049,Pogostemon cablin,Lamiaceae,patchouly,Indomal,leaf,van_wyk_culinary_2014
+1050,Pogostemon indicus (=P. heyneanus),Lamiaceae,Indian patchouli,Indomal,leaf,van_wyk_culinary_2014
+1051,Populus balsamifera,Salicaceae,balsam poplar,N Am; Temp As,leaf bud ,van_wyk_culinary_2014
+1052,Populus balsamifera,Salicaceae,hackmatack,N Am; Temp As,leaf bud ,van_wyk_culinary_2014
+1053,Populus balsamifera,Salicaceae,tacamahaca poplar,N Am; Temp As,leaf bud ,van_wyk_culinary_2014
+1054,Populus nigra,Salicaceae,black poplar,Euras,leaf bud ,van_wyk_culinary_2014
+1055,Populus nigra,Salicaceae,Lombardy poplar,Euras,leaf bud ,van_wyk_culinary_2014
+1056,Porophyllum ruderale,Asteraceae,quillquina,C Am; S Am,fresh leaves,van_wyk_culinary_2014
+1057,Porophyllum ruderale,Asteraceae,killi,C Am; S Am,fresh leaves,van_wyk_culinary_2014
+1058,Portulaca oleracea,Portulacaceae,purslane,W As,leaf,van_wyk_culinary_2014
+1059,Portulaca quadrifida,Portulacaceae,single-flowered purslane,S Eur,herb,van_wyk_culinary_2014
+1060,Portulaca quadrifida,Portulacaceae,wild purslane,S Eur,herb,van_wyk_culinary_2014
+1061,Potentilla erecta,Rosaceae,tormentill,Eur; As,rhizome,van_wyk_culinary_2014
+1062,Potentilla erecta,Rosaceae,bloodroot,Eur; As,rhizome,van_wyk_culinary_2014
+1063,Prostanthera rotundifolia,Lamiaceae,Australian mint bush,Aus,herb,van_wyk_culinary_2014
+1064,Prostanthera rotundifolia,Lamiaceae,round-leaved mint bush,Aus,herb,van_wyk_culinary_2014
+1065,Prunus dulcis (=P. amygdalis),Rosaceae,almond,W As,seed,van_wyk_culinary_2014
+1066,Prunus laurocerasus,Rosaceae,cherry laurel,Eur; W As,fresh leaf,van_wyk_culinary_2014
+1067,Prunus laurocerasus,Rosaceae,laurel,Eur; W As,fresh leaf,van_wyk_culinary_2014
+1068,Prunus mahaleb,Rosaceae,mahaleb,Eur; As,fruit; leaf; seed,van_wyk_culinary_2014
+1069,Prunus mahaleb,Rosaceae,mahaleb cherry,Eur; As,fruit; leaf; seed,van_wyk_culinary_2014
+1070,Prunus mahaleb,Rosaceae,St Lucie cherry,Eur; As,fruit; leaf; seed,van_wyk_culinary_2014
+1071,Prunus serotina,Rosaceae,American bird cherry,E & N Am,leaf,van_wyk_culinary_2014
+1072,Prunus serotina,Rosaceae,black cherry,E & N Am,leaf,van_wyk_culinary_2014
+1073,Prunus serotina,Rosaceae,rum cherry,E & N Am,leaf,van_wyk_culinary_2014
+1074,Punica granatum,Punicaceae,pomegranate,Eur; W As,seeds,van_wyk_culinary_2014
+1075,Punica granatum,Punicaceae,anardana,Eur; W As,seeds,van_wyk_culinary_2014
+1076,Pycnanthemum pilosum,Lamiaceae,hairy mountain mint,N Am,leaf; herb,van_wyk_culinary_2014
+1077,Pycnanthemum virginianum,Lamiaceae,Virginia mountain mint,N Am,leaf,van_wyk_culinary_2014
+1078,Pycnanthemum virginianum,Lamiaceae,Virginia thyme,N Am,leaf,van_wyk_culinary_2014
+1079,Pycnanthus angolensis,Myristicaceae,African nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+1080,Pycnanthus angolensis,Myristicaceae,Angolan nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+1081,Pycnanthus angolensis,Myristicaceae,false nutmeg,Trop Afr,seed,van_wyk_culinary_2014
+1082,Quararibea fieldii,Malvaceae,saha,Trop Am,flower,van_wyk_culinary_2014
+1083,Quararibea funebris,Malvaceae,chocolate flower,Mex,flower,van_wyk_culinary_2014
+1084,Quararibea turbinata,Malvaceae,swizzlestick tree,Trop Am,twigs,van_wyk_culinary_2014
+1085,Quassia amara,Simaroubaceae,bitterwood,Braz,wood,van_wyk_culinary_2014
+1086,Quassia amara,Simaroubaceae,Jamaica wood,Braz,wood,van_wyk_culinary_2014
+1087,Quassia amara,Simaroubaceae,quassia wood,Braz,wood,van_wyk_culinary_2014
+1088,Quassia amara,Simaroubaceae,Surinam quassia,Braz,wood,van_wyk_culinary_2014
+1089,Quassia excelsa,Simaroubaceae,Jamaica wood,Trop Am,wood,van_wyk_culinary_2014
+1090,Raphanus sativus,Brassicaceae,radish,cultivated (W As?),root,van_wyk_culinary_2014
+1091,Ravensara aromatica (Cryptocarya sp.),Lauraceae,clove nutmeg,Madag,bark; leaf; seed,van_wyk_culinary_2014
+1092,Ravensara aromatica (Cryptocarya sp.),Lauraceae,Madagascar clove,Madag,bark; leaf; seed,van_wyk_culinary_2014
+1093,Ravensara aromatica (Cryptocarya sp.),Lauraceae,Madagascar nutmeg,Madag,bark; leaf; seed,van_wyk_culinary_2014
+1094,Renanthera moluccana,Orchidaceae,anggrek merah,Indomal,young leaf,van_wyk_culinary_2014
+1095,Renanthera moluccana,Orchidaceae,bunga karang,Indomal,young leaf,van_wyk_culinary_2014
+1096,Renealmia alpinia,Zingiberaceae,mountain renealmia,Mex,leaf; aril,van_wyk_culinary_2014
+1097,Reseda odorata,Resedaceae,mignonette,N Afr,flower,van_wyk_culinary_2014
+1098,Reseda odorata,Resedaceae,sweet mignonette,N Afr,flower,van_wyk_culinary_2014
+1099,Reseda odorata,Resedaceae,sweet reseda,N Afr,flower,van_wyk_culinary_2014
+1100,Rhamnus prinoides,Rhamnaceae,geisho,Afr,herb,van_wyk_culinary_2014
+1101,Rhamnus prinoides,Rhamnaceae,gesho,Afr,herb,van_wyk_culinary_2014
+1102,Rhaphidophora lobbii,Araceae,akar asam tebing paya,Pac,leaf,van_wyk_culinary_2014
+1103,Rheum rhabarbarum (R. ×hybridum),Polygonaceae,rhubarb,Eur?,petiole,van_wyk_culinary_2014
+1104,Rheum rhabarbarum (R. ×hybridum),Polygonaceae,garden rhubarb,Eur?,petiole,van_wyk_culinary_2014
+1105,Rheum rhaponticum (R. ×cultorum),Polygonaceae,rhapontic rhubarb,Eur?,petiole,van_wyk_culinary_2014
+1106,Rhododendron tomentosum (=Ledum palustre),Ericaceae,marsh tea,Eur; As; N Am,leaf,van_wyk_culinary_2014
+1107,Rhododendron tomentosum (=Ledum palustre),Ericaceae,marsh rosemary,Eur; As; N Am,leaf,van_wyk_culinary_2014
+1108,Rhus aromatica,Anacardiaceae,fragrant sumach,Eastern N Am,fruit,van_wyk_culinary_2014
+1109,Rhus aromatica,Anacardiaceae,lemon sumach,Eastern N Am,fruit,van_wyk_culinary_2014
+1110,Rhus aromatica,Anacardiaceae,skunkbush,Eastern N Am,fruit,van_wyk_culinary_2014
+1111,Rhus aromatica,Anacardiaceae,polecat bush,Eastern N Am,fruit,van_wyk_culinary_2014
+1112,Rhus aromatica,Anacardiaceae,Sicilian sumac,Eastern N Am,fruit,van_wyk_culinary_2014
+1113,Rhus coriaria,Anacardiaceae,sumac,S Eur,fruit,van_wyk_culinary_2014
+1114,Rhus coriaria,Anacardiaceae,sumach,S Eur,fruit,van_wyk_culinary_2014
+1115,Rhus coriaria,Anacardiaceae,spice sumac,S Eur,fruit,van_wyk_culinary_2014
+1116,Ribes divaricatum,Grossulariaceae,Worcesterberry,N Am,fruit,van_wyk_culinary_2014
+1117,Ribes ×nidigrolaria,Grossulariaceae,jostaberry,Eur,fruit,van_wyk_culinary_2014
+1118,Ribes nigrum,Grossulariaceae,blackcurrant,Eur; As,fruit,van_wyk_culinary_2014
+1119,Ribes nigrum,Grossulariaceae,black currant,Eur; As,fruit,van_wyk_culinary_2014
+1120,Ribes rubrum,Grossulariaceae,redcurrant,Eur; As,fruit,van_wyk_culinary_2014
+1121,Ribes uva-crispa,Grossulariaceae,gooseberry,Eur,fruit,van_wyk_culinary_2014
+1122,Ricinodendron heudelotii,Euphorbiaceae,African nut,Trop Afr,seed,van_wyk_culinary_2014
+1123,Rosa ×centifolia,Rosaceae,cabbage rose,Eur,petals,van_wyk_culinary_2014
+1124,Rosa ×centifolia,Rosaceae,Holland rose,Eur,petals,van_wyk_culinary_2014
+1125,Rosa ×centifolia,Rosaceae,Provence rose,Eur,petals,van_wyk_culinary_2014
+1126,Rosa chinensis,Rosaceae,China rose,China,petals,van_wyk_culinary_2014
+1127,Rosa chinensis,Rosaceae,Bengal rose,China,petals,van_wyk_culinary_2014
+1128,Rosa ×damascena,Rosaceae,damask rose,SW Eur; W As,petals,van_wyk_culinary_2014
+1129,Rosa ×damascena,Rosaceae,Portland rose,SW Eur; W As,petals,van_wyk_culinary_2014
+1130,Rosa ×damascena,Rosaceae,pink damask rose,SW Eur; W As,petals,van_wyk_culinary_2014
+1131,Rosa ×damascena,Rosaceae,Bulgarian rose,SW Eur; W As,petals,van_wyk_culinary_2014
+1132,Rosa gallica,Rosaceae,French rose,Eur; W As,petals,van_wyk_culinary_2014
+1133,Rosa moschata,Rosaceae,musk rose,W Himal,petals,van_wyk_culinary_2014
+1134,Rosa ×odorata,Rosaceae,tea-scented rose,cultivated,petals,van_wyk_culinary_2014
+1135,Rosa rugosa,Rosaceae,Japanese rose,E As,petals,van_wyk_culinary_2014
+1136,Rosmarinus officinalis,Lamiaceae,rosemary,S & N Eur,leaf; herb,van_wyk_culinary_2014
+1137,Rumex acetosa,Polygonaceae,sorrel,Eur; As,fresh leaf,van_wyk_culinary_2014
+1138,Rumex acetosa,Polygonaceae,common sorrel,Eur; As,fresh leaf,van_wyk_culinary_2014
+1139,Rumex acetosa,Polygonaceae,garden sorrel,Eur; As,fresh leaf,van_wyk_culinary_2014
+1140,Rumex acetosella,Polygonaceae,sheep sorrel,N Temp,fresh lea,van_wyk_culinary_2014
+1141,Rumex hastatus,Polygonaceae,speared sorrel,E As,leaf,van_wyk_culinary_2014
+1142,Rumex sanguineus,Polygonaceae,red-veined sorrel,cultivated,leaf,van_wyk_culinary_2014
+1143,Rumex scutatus,Polygonaceae,French sorrel,Eur; As,leaf,van_wyk_culinary_2014
+1144,Rumex scutatus,Polygonaceae,buckler-leaved sorrel,Eur; As,leaf,van_wyk_culinary_2014
+1145,Rumex vesicarius,Polygonaceae,bladder dock,S Eur; W As; N Afr,leaf,van_wyk_culinary_2014
+1146,Ruta chalepensis,Rutaceae,fringed rue,Med,herb,van_wyk_culinary_2014
+1147,Ruta chalepensis,Rutaceae,Egyptian rue,Med,herb,van_wyk_culinary_2014
+1148,Ruta chalepensis,Rutaceae,Syrian rue,Med,herb,van_wyk_culinary_2014
+1149,Ruta chalepensis,Rutaceae,Aleppo rue,Med,herb,van_wyk_culinary_2014
+1150,Ruta graveolens,Rutaceae,rue,Eur,leaf; herb,van_wyk_culinary_2014
+1151,Ruta graveolens,Rutaceae,common rue,Eur,leaf; herb,van_wyk_culinary_2014
+1152,Ruta graveolens,Rutaceae,herb of grace,Eur,leaf; herb,van_wyk_culinary_2014
+1153,Salvia elegans (=S. rutilans),Lamiaceae,pineapple sage,C Am,leaf; herb,van_wyk_culinary_2014
+1154,Salvia elegans (=S. rutilans),Lamiaceae,pineapple-scented sage,C Am,leaf; herb,van_wyk_culinary_2014
+1155,Salvia fruticosa,Lamiaceae,Greek sage,E Med,leaf,van_wyk_culinary_2014
+1156,Salvia fruticosa,Lamiaceae,Turkish sage,E Med,leaf,van_wyk_culinary_2014
+1157,Salvia hispanica,Lamiaceae,chia,C Mex,seed; herb,van_wyk_culinary_2014
+1158,Salvia lavandulifolia,Lamiaceae,Spanish sage,S Eur,leaf,van_wyk_culinary_2014
+1159,Salvia officinalis,Lamiaceae,sage,S Eur; Med,leaf,van_wyk_culinary_2014
+1160,Salvia officinalis,Lamiaceae,common sage,S Eur; Med,leaf,van_wyk_culinary_2014
+1161,Salvia officinalis,Lamiaceae,garden sage,S Eur; Med,leaf,van_wyk_culinary_2014
+1162,Salvia sclarea,Lamiaceae,clary,Eur; C As,leaf,van_wyk_culinary_2014
+1163,Salvia sclarea,Lamiaceae,clary sage,Eur; C As,leaf,van_wyk_culinary_2014
+1164,Sambucus canadensis (=S. nigra subsp. canadensis),Caprifoliaceae,American elder,N Am,flower; fruit,van_wyk_culinary_2014
+1165,Sambucus nigra,Caprifoliaceae,elderflowers,Eur; As; Med,flower; fruit,van_wyk_culinary_2014
+1166,Sambucus nigra,Caprifoliaceae,elderberries,Eur; As; Med,flower; fruit,van_wyk_culinary_2014
+1167,Sambucus nigra,Caprifoliaceae,black elder,Eur; As; Med,flower; fruit,van_wyk_culinary_2014
+1168,Sambucus nigra,Caprifoliaceae,common elder,Eur; As; Med,flower; fruit,van_wyk_culinary_2014
+1169,Sambucus nigra,Caprifoliaceae,European elder,Eur; As; Med,flower; fruit,van_wyk_culinary_2014
+1170,Sanguisorba minor,Rosaceae,salad burnet,C & S Eur,fresh leaf,van_wyk_culinary_2014
+1171,Sanguisorba minor,Rosaceae,burnet,C & S Eur,fresh leaf,van_wyk_culinary_2014
+1172,Sanguisorba minor,Rosaceae,small burnet,C & S Eur,fresh leaf,van_wyk_culinary_2014
+1173,Sanguisorba officinalis,Rosaceae,burnet,Eur; As,leaf,van_wyk_culinary_2014
+1174,Sanguisorba officinalis,Rosaceae,garden burnet,Eur; As,leaf,van_wyk_culinary_2014
+1175,Sanguisorba officinalis,Rosaceae,great burnet,Eur; As,leaf,van_wyk_culinary_2014
+1176,Santalum album,Santalaceae,white sandalwood,Ind,wood,van_wyk_culinary_2014
+1177,Santalum album,Santalaceae,East Indian sandalwood,Ind,wood,van_wyk_culinary_2014
+1178,Santolina rosmarinifolia,Asteraceae,green santolina,S Eur,fresh herb,van_wyk_culinary_2014
+1179,Saposhnikova divaricata,Apiaceae,fang-feng,NE As,fresh leaves,van_wyk_culinary_2014
+1180,Sassafras albidum,Lauraceae,sassafras,N Am,leaf,van_wyk_culinary_2014
+1181,Sassafras albidum,Lauraceae,filé powder,N Am,leaf,van_wyk_culinary_2014
+1182,Satureja hortensis,Lamiaceae,savory,Med,leaf; herb,van_wyk_culinary_2014
+1183,Satureja hortensis,Lamiaceae,summer savory,Med,leaf; herb,van_wyk_culinary_2014
+1184,Satureja hortensis,Lamiaceae,garden savory,Med,leaf; herb,van_wyk_culinary_2014
+1185,Satureja montana,Lamiaceae,winter savory,S Eur,leaf; herb,van_wyk_culinary_2014
+1186,Satureja thymbra,Lamiaceae,thyme-leaved savory,SE Eur,leaf,van_wyk_culinary_2014
+1187,Satureja thymbra,Lamiaceae,thymbra,SE Eur,leaf,van_wyk_culinary_2014
+1188,Saussurea costus,Asteraceae,costus,E Himal,root,van_wyk_culinary_2014
+1189,Schinus molle,Anacardiaceae,pink pepper,Peru,fruit,van_wyk_culinary_2014
+1190,Schinus molle,Anacardiaceae,Peruvian pepper,Peru,fruit,van_wyk_culinary_2014
+1191,Schinus terebinthifolius,Anacardiaceae,Brazilian pepper,Braz,fruit,van_wyk_culinary_2014
+1192,Schinus terebinthifolius,Anacardiaceae,pink pepper,Braz,fruit,van_wyk_culinary_2014
+1193,Schinus terebinthifolius,Anacardiaceae,red pepper,Braz,fruit,van_wyk_culinary_2014
+1194,Schisandra chinensis,Schisandraceae,Chinese magnolia vine,China; Jap,fruit; bark,van_wyk_culinary_2014
+1195,Schisandra chinensis,Schisandraceae,five-flavour fruit,China; Jap,fruit; bark,van_wyk_culinary_2014
+1196,Scyphocephalium mannii,Myristicaceae,West African nutmeg,W Afr,fruit; seed,van_wyk_culinary_2014
+1197,Scyphocephalium ochocoa,Myristicaceae,ochoco nutmeg,W Afr,seed,van_wyk_culinary_2014
+1198,Sesamum indicum,Pedaliaceae,sesame,Afr; Ind,seed,van_wyk_culinary_2014
+1199,Sesamum indicum,Pedaliaceae,sesam,Afr; Ind,seed,van_wyk_culinary_2014
+1200,Sinapis alba,Brassicaceae,white mustard,Med,seed,van_wyk_culinary_2014
+1201,Sinapis alba,Brassicaceae,yellow mustard,Med,seed,van_wyk_culinary_2014
+1202,Sinapis alba,Brassicaceae,mustard,Med,seed,van_wyk_culinary_2014
+1203,Sinapis arvensis,Brassicaceae,charlock,Eur; Med,seed,van_wyk_culinary_2014
+1204,Sinapis arvensis,Brassicaceae,field mustard,Eur; Med,seed,van_wyk_culinary_2014
+1205,Sinapis arvensis,Brassicaceae,California rape,Eur; Med,seed,van_wyk_culinary_2014
+1206,Sinapis arvensis,Brassicaceae,wild mustard,Eur; Med,seed,van_wyk_culinary_2014
+1207,Siphonochilus aethiopicus,Zingiberaceae,African ginger,Trop Afr,rhizome; root,van_wyk_culinary_2014
+1208,Sison amonum,Apiaceae,hedge sison,Eur; Med,fruit (seed),van_wyk_culinary_2014
+1209,Sison amonum,Apiaceae,honewort,Eur; Med,fruit (seed),van_wyk_culinary_2014
+1210,Sison amonum,Apiaceae,stone parsley,Eur; Med,fruit (seed),van_wyk_culinary_2014
+1211,Sium bracteatum,Apiaceae,jellico,St Helena,petiole,van_wyk_culinary_2014
+1212,Sium sisarum,Apiaceae,skirret,E As,leaf,van_wyk_culinary_2014
+1213,Sium sisarum,Apiaceae,crummock,E As,leaf,van_wyk_culinary_2014
+1214,Smilax aristolochiifolia,Smilacaceae,Mexican sarsaparilla,S & N Am,rhizome; root; bark,van_wyk_culinary_2014
+1215,Smilax aristolochiifolia,Smilacaceae,Veracruz sarsaparilla,S & N Am,rhizome; root; bark,van_wyk_culinary_2014
+1216,Smyrnium olusatrum,Apiaceae,alexanders,E Med,leaf; fruit,van_wyk_culinary_2014
+1217,Smyrnium olusatrum,Apiaceae,black lovage,E Med,leaf; fruit,van_wyk_culinary_2014
+1218,Solanum aethiopicum,Solanaceae,scarlet egg plant,Trop Afr,leaf; fruit,van_wyk_culinary_2014
+1219,Solanum aethiopicum,Solanaceae,bitter berry,Trop Afr,leaf; fruit,van_wyk_culinary_2014
+1220,Solanum macrocarpon,Solanaceae,African eggplant,W Afr,fresh herb,van_wyk_culinary_2014
+1221,Solanum macrocarpon,Solanaceae,gboma egg plant,W Afr,fresh herb,van_wyk_culinary_2014
+1222,Sonneratia caseolaris,Lythraceae,red-flowered Pornupan mangrove,Indomal,young fruit,van_wyk_culinary_2014
+1223,Sorbus aucuparia,Rosaceae,rowan,Eur; SW Asia,fruit,van_wyk_culinary_2014
+1224,Spilanthes acmella,Asteraceae,spilanthes,Braz,leaf; flower head,van_wyk_culinary_2014
+1225,Spilanthes acmella,Asteraceae,pará cress,Braz,leaf; flower head,van_wyk_culinary_2014
+1226,Spondias dulcis,Anacardiaceae,ambarella,Pac,fruit,van_wyk_culinary_2014
+1227,Spondias dulcis,Anacardiaceae,Otaheite apple,Pac,fruit,van_wyk_culinary_2014
+1228,Spondias mombin,Anacardiaceae,caja fruit,Trop Am,fruit,van_wyk_culinary_2014
+1229,Spondias mombin,Anacardiaceae,yellow mombin,Trop Am,fruit,van_wyk_culinary_2014
+1230,Spondias mombin,Anacardiaceae,jobo,Trop Am,fruit,van_wyk_culinary_2014
+1231,Stevia rebaudiana,Asteraceae,stevia,S Am,leaf,van_wyk_culinary_2014
+1232,Stevia rebaudiana,Asteraceae,sugar-leaf,S Am,leaf,van_wyk_culinary_2014
+1233,Swertia chirata,Gentianaceae,chirata,C As,herb,van_wyk_culinary_2014
+1234,Swertia chirata,Gentianaceae,chireta,C As,herb,van_wyk_culinary_2014
+1235,Syzygium aromaticum,Myrtaceae,clove,Moluccas,flower buds,van_wyk_culinary_2014
+1236,Syzygium aromaticum,Myrtaceae,cloves,Moluccas,flower buds,van_wyk_culinary_2014
+1237,Syzygium polyanthum,Myrtaceae,salam,Indomal,leaf,van_wyk_culinary_2014
+1238,Syzygium polyanthum,Myrtaceae,Indonesian bay-leaf,Indomal,leaf,van_wyk_culinary_2014
+1239,Tagetes erecta (=T. patula),Asteraceae,African marigold,Mex; C Am,flower,van_wyk_culinary_2014
+1240,Tagetes erecta (=T. patula),Asteraceae,French marigold,Mex; C Am,flower,van_wyk_culinary_2014
+1241,Tagetes filifolia,Asteraceae,Irish lace marigold,Trop Am,leaf,van_wyk_culinary_2014
+1242,Tagetes lemmonii,Asteraceae,Mexican marigold,N Am,petals,van_wyk_culinary_2014
+1243,Tagetes lucida,Asteraceae,Mexican marigold mint,Mex; Guatemala,herb,van_wyk_culinary_2014
+1244,Tagetes lucida,Asteraceae,Mexican tarragon,Mex; Guatemala,herb,van_wyk_culinary_2014
+1245,Tagetes maxima,Asteraceae,great marigold,Trop Am,herb; flower,van_wyk_culinary_2014
+1246,Tagetes minuta,Asteraceae,huacataya,S Am,flower; herb,van_wyk_culinary_2014
+1247,Tagetes minuta,Asteraceae,tagette,S Am,flower; herb,van_wyk_culinary_2014
+1248,Tagetes minuta,Asteraceae,stinking roger,S Am,flower; herb,van_wyk_culinary_2014
+1249,Tagetes minuta,Asteraceae,wild marigold,S Am,flower; herb,van_wyk_culinary_2014
+1250,Tagetes minuta,Asteraceae,Mexican marigold,S Am,flower; herb,van_wyk_culinary_2014
+1251,Tagetes tenuifolia,Asteraceae,American saffron,Trop & warm Am,flower; leaf,van_wyk_culinary_2014
+1252,Tagetes tenuifolia,Asteraceae,signet marygold,Trop & warm Am,flower; leaf,van_wyk_culinary_2014
+1253,Tagetes tenuifolia,Asteraceae,slender leaf marigold,Trop & warm Am,flower; leaf,van_wyk_culinary_2014
+1254,Tagetes tenuifolia,Asteraceae,striped Mexican marigold,Trop & warm Am,flower; leaf,van_wyk_culinary_2014
+1255,Tagetes tenuifolia,Asteraceae,lemon gem,Trop & warm Am,flower; leaf,van_wyk_culinary_2014
+1256,Tagetes tenuifolia,Asteraceae,orange gem,Trop & warm Am,flower; leaf,van_wyk_culinary_2014
+1257,Talinum triangulare,Portulacaceae,talinum,N Am,leaf,van_wyk_culinary_2014
+1258,Talinum triangulare,Portulacaceae,flameflower,N Am,leaf,van_wyk_culinary_2014
+1259,Talinum triangulare,Portulacaceae,waterleaf,N Am,leaf,van_wyk_culinary_2014
+1260,Tamarindus indica,Leguminosae,tamarind,N Afr,fruit pulp; leaf,van_wyk_culinary_2014
+1261,Tamarindus indica,Leguminosae,Indian tamarind,N Afr,fruit pulp; leaf,van_wyk_culinary_2014
+1262,Tanacetum balsamita,Asteraceae,alecost,Eur; C As,herb,van_wyk_culinary_2014
+1263,Tanacetum balsamita,Asteraceae,costmary,Eur; C As,herb,van_wyk_culinary_2014
+1264,Tanacetum vulgare,Asteraceae,tansy,Euras,herb,van_wyk_culinary_2014
+1265,Taraxacum officinale,Asteraceae,dandelion,Euras,fresh leaf,van_wyk_culinary_2014
+1266,Tetrapleura tetraptera,Leguminosae,aridan,Trop Afr,fruit,van_wyk_culinary_2014
+1267,Tetrapleura tetraptera,Leguminosae,akpa,Trop Afr,fruit,van_wyk_culinary_2014
+1268,Tetrapleura tetraptera,Leguminosae,dawo,Trop Afr,fruit,van_wyk_culinary_2014
+1269,Tetrapleura tetraptera,Leguminosae,essanga,Trop Afr,fruit,van_wyk_culinary_2014
+1270,Tetrapleura tetraptera,Leguminosae,sanga,Trop Afr,fruit,van_wyk_culinary_2014
+1271,Theobroma cacao,Malvaceae,cacao,S Am (Andes),seed,van_wyk_culinary_2014
+1272,Thonningia sanguinea,Balanophoraceae,ground pineapple,W Afr,roots,van_wyk_culinary_2014
+1273,Thymus caespititius,Lamiaceae,Azores thyme,Euras,fresh leaves,van_wyk_culinary_2014
+1274,Thymus caespititius,Lamiaceae,mountain thyme,Euras,fresh leaves,van_wyk_culinary_2014
+1275,Thymus caespititius,Lamiaceae,tiny thyme,Euras,fresh leaves,van_wyk_culinary_2014
+1276,Thymus capitatus,Lamiaceae,catir,Euras,flowering herb,van_wyk_culinary_2014
+1277,Thymus capitatus,Lamiaceae,conehead thyme,Euras,flowering herb,van_wyk_culinary_2014
+1278,Thymus capitatus,Lamiaceae,Cretan thyme,Euras,flowering herb,van_wyk_culinary_2014
+1279,Thymus capitatus,Lamiaceae,Senegal savory,Euras,flowering herb,van_wyk_culinary_2014
+1280,Thymus capitatus,Lamiaceae,zatir,Euras,flowering herb,van_wyk_culinary_2014
+1281,Thymus ×citriodorus,Lamiaceae,lemon thyme,Euras,fresh leaves; fresh herb,van_wyk_culinary_2014
+1282,Thymus herba-barona,Lamiaceae,caraway thyme,Sardinia; Corsica,leaf,van_wyk_culinary_2014
+1283,Thymus hyemalis,Lamiaceae,lemon thyme,Euras,leaf,van_wyk_culinary_2014
+1284,Thymus hyemalis,Lamiaceae,winter thyme,Euras,leaf,van_wyk_culinary_2014
+1285,Thymus mastichina,Lamiaceae,mastic thyme,Euras,herb,van_wyk_culinary_2014
+1286,Thymus mastichina,Lamiaceae,Spanish (wild) marjoram,Euras,herb,van_wyk_culinary_2014
+1287,Thymus mastichina,Lamiaceae,Spanish thyme,Euras,herb,van_wyk_culinary_2014
+1288,Thymus oenipontanus,Lamiaceae,Austrian thyme,Euras,fresh leaf,van_wyk_culinary_2014
+1289,Thymus praecox,Lamiaceae,alba thyme,Euras,leaf; herb,van_wyk_culinary_2014
+1290,Thymus praecox,Lamiaceae,creeping thyme,Euras,leaf; herb,van_wyk_culinary_2014
+1291,Thymus praecox,Lamiaceae,hairy thyme,Euras,leaf; herb,van_wyk_culinary_2014
+1292,Thymus pubescens,Lamiaceae,hairy thyme,Euras,leaf; herb,van_wyk_culinary_2014
+1293,Thymus pulegioides,Lamiaceae,lemon thyme,Eur,herb,van_wyk_culinary_2014
+1294,Thymus pulegioides,Lamiaceae,caraway thyme,Eur,herb,van_wyk_culinary_2014
+1295,Thymus pulegioides,Lamiaceae,wild thyme,Eur,herb,van_wyk_culinary_2014
+1296,Thymus pulegioides,Lamiaceae,herba barona,Eur,herb,van_wyk_culinary_2014
+1297,Thymus quinquecostatus,Lamiaceae,Japanese thyme,Euras,herb,van_wyk_culinary_2014
+1298,Thymus quinquecostatus,Lamiaceae,five-ribbed thyme,Euras,herb,van_wyk_culinary_2014
+1299,Thymus serpyllum,Lamiaceae,wild thyme,Euras,leaf; herb,van_wyk_culinary_2014
+1300,Thymus schimperi,Lamiaceae,Ethiopian thyme,N Afr,herb,van_wyk_culinary_2014
+1301,Thymus vulgaris,Lamiaceae,common thyme,W Med; SE Italy,leaf; herb,van_wyk_culinary_2014
+1302,Thymus vulgaris,Lamiaceae,garden thyme,W Med; SE Italy,leaf; herb,van_wyk_culinary_2014
+1303,Thymus zygis,Lamiaceae,Spanish thyme,W Med,herb,van_wyk_culinary_2014
+1304,Thymus zygis,Lamiaceae,sauce thyme,W Med,herb,van_wyk_culinary_2014
+1305,Toddalia asiatica,Rutaceae,Lopez fruit,Trop OW,fruit,van_wyk_culinary_2014
+1306,Toddalia asiatica,Rutaceae,wild orange tree,Trop OW,fruit,van_wyk_culinary_2014
+1307,Trachyspermum ammi,Apiaceae,ajowan,Egypt; Ethiopia,fruit,van_wyk_culinary_2014
+1308,Trachyspermum ammi,Apiaceae,bishop’s weed,Egypt; Ethiopia,fruit,van_wyk_culinary_2014
+1309,Trachyspermum ammi,Apiaceae,omum,Egypt; Ethiopia,fruit,van_wyk_culinary_2014
+1310,Trachyspermum ammi,Apiaceae,omam,Egypt; Ethiopia,fruit,van_wyk_culinary_2014
+1311,Trachyspermum ammi,Apiaceae,white cumin,Egypt; Ethiopia,fruit,van_wyk_culinary_2014
+1312,Trachyspermum ammi,Apiaceae,Ethiopian caraway,Egypt; Ethiopia,fruit,van_wyk_culinary_2014
+1313,Trachyspermum roxburghianum,Apiaceae,ajmud,Indomal,fruit,van_wyk_culinary_2014
+1314,Trachyspermum roxburghianum,Apiaceae,radhuni,Indomal,fruit,van_wyk_culinary_2014
+1315,Treculia africana,Moraceae,African bread fruit,Afr,seed,van_wyk_culinary_2014
+1316,Treculia africana,Moraceae,African boxwood,Afr,seed,van_wyk_culinary_2014
+1317,Trigonella caerulea,Leguminosae,blue trefoil,Eur; W As,seed; herb,van_wyk_culinary_2014
+1318,Trigonella corniculata,Leguminosae,clustered trefoil,Eur; Med; W As,seed,van_wyk_culinary_2014
+1319,Trigonella foenumgraecum,Leguminosae,fenugreek,S Eur; W As,seed; herb,van_wyk_culinary_2014
+1320,Triphasia trifolia,Rutaceae,lime berry,SE As,fruit,van_wyk_culinary_2014
+1321,Triphasia trifolia,Rutaceae,trifoliate lime,SE As,fruit,van_wyk_culinary_2014
+1322,Triphasia trifolia,Rutaceae,Chinese lime,SE As,fruit,van_wyk_culinary_2014
+1323,Triphasia trifolia,Rutaceae,myrtle lime,SE As,fruit,van_wyk_culinary_2014
+1324,Tropaeolum majus,Tropaeolaceae,Indian cress,Peru,bud; leaf; flower,van_wyk_culinary_2014
+1325,Tropaeolum majus,Tropaeolaceae,garden nasturtium,Peru,bud; leaf; flower,van_wyk_culinary_2014
+1326,Turneria diffusa,Turneraceae,damiana,Trop Am,fruit,van_wyk_culinary_2014
+1327,Urophyllum arboreum,Rubiaceae,ki cengkeh,Trop OW; Jap,bruised leaves,van_wyk_culinary_2014
+1328,Vaccaria hispanica,Caryophyllaceae,cow cockle,Euras; Med,herb,van_wyk_culinary_2014
+1329,Vaccaria hispanica,Caryophyllaceae,cow herb,Euras; Med,herb,van_wyk_culinary_2014
+1330,Vaccaria hispanica,Caryophyllaceae,dairy pink,Euras; Med,herb,van_wyk_culinary_2014
+1331,Valerianella locusta,Caprifoliaceae,corn salad,Eur; Med,herb,van_wyk_culinary_2014
+1332,Valerianella locusta,Caprifoliaceae,lamb’s lettuce,Eur; Med,herb,van_wyk_culinary_2014
+1333,Valerianella locusta,Caprifoliaceae,mache,Eur; Med,herb,van_wyk_culinary_2014
+1334,Vanilla planifolia,Orchidaceae,vanilla,Trop Am,fruit,van_wyk_culinary_2014
+1335,Vanilla planifolia,Orchidaceae,Bourbon vanilla,Trop Am,fruit,van_wyk_culinary_2014
+1336,Vanilla planifolia,Orchidaceae,Mexican vanilla,Trop Am,fruit,van_wyk_culinary_2014
+1337,Verbascum densiflorum,Scrophulariaceae,large flowered mullein,C Eur,flower,van_wyk_culinary_2014
+1338,Verbascum densiflorum,Scrophulariaceae,common mullein,C Eur,flower,van_wyk_culinary_2014
+1339,Verbascum phlomoides,Scrophulariaceae,clasping mullein,S Eur,flower,van_wyk_culinary_2014
+1340,Verbascum phlomoides,Scrophulariaceae,orange mullein,S Eur,flower,van_wyk_culinary_2014
+1341,Verbena officinalis,Verbenaceae,common verbena,Euras; Afr; Am,leaf; herb,van_wyk_culinary_2014
+1342,Verbena officinalis,Verbenaceae,European vervain,Euras; Afr; Am,leaf; herb,van_wyk_culinary_2014
+1343,Verbena officinalis,Verbenaceae,lemon-scented verbena,Euras; Afr; Am,leaf; herb,van_wyk_culinary_2014
+1344,Verbena officinalis,Verbenaceae,vervain,Euras; Afr; Am,leaf; herb,van_wyk_culinary_2014
+1345,Vernonia amygdalina,Asteraceae,almond veronia,Trop Afr,leaf,van_wyk_culinary_2014
+1346,Vernonia amygdalina,Asteraceae,bitter leaf,Trop Afr,leaf,van_wyk_culinary_2014
+1347,Viola odorata,Violaceae,common violet,Euras; Afr,flower; herb,van_wyk_culinary_2014
+1348,Viola odorata,Violaceae,florist’s violet,Euras; Afr,flower; herb,van_wyk_culinary_2014
+1349,Viola odorata,Violaceae,garden violet,Euras; Afr,flower; herb,van_wyk_culinary_2014
+1350,Viola odorata,Violaceae,sweet-scented violet,Euras; Afr,flower; herb,van_wyk_culinary_2014
+1351,Vitex agnus-castus,Verbenaceae,chaste pepper,S Eur,fruit,van_wyk_culinary_2014
+1352,Warburgia salutaris,Canellaceae,pepperbark tree,E Afr,leaf; bark,van_wyk_culinary_2014
+1353,Wasabia japonica,Brassicaceae,Japanese horseradish,Jap,stem,van_wyk_culinary_2014
+1354,Wasabia japonica,Brassicaceae,mountain hollyhock,Jap,stem,van_wyk_culinary_2014
+1355,Wasabia japonica,Brassicaceae,wasabi,Jap,stem,van_wyk_culinary_2014
+1356,Xylopia aethiopica,Annonaceae,African pepper,Trop W Afr,fruit,van_wyk_culinary_2014
+1357,Xylopia aethiopica,Annonaceae,Ethiopian pepper,Trop W Afr,fruit,van_wyk_culinary_2014
+1358,Xylopia aethiopica,Annonaceae,Guinea pepper,Trop W Afr,fruit,van_wyk_culinary_2014
+1359,Xylopia aethiopica,Annonaceae,kimba pepper,Trop W Afr,fruit,van_wyk_culinary_2014
+1360,Xylopia aethiopica,Annonaceae,negro pepper,Trop W Afr,fruit,van_wyk_culinary_2014
+1361,Xylopia aethiopica,Annonaceae,grains of Selim,Trop W Afr,fruit,van_wyk_culinary_2014
+1362,Xylopia aethiopica,Annonaceae,spice tree,Trop W Afr,fruit,van_wyk_culinary_2014
+1363,Xylopia aromatica,Annonaceae,pachinhos,E Braz,seed,van_wyk_culinary_2014
+1364,Xylopia aromatica,Annonaceae,pimenta de macaco,E Braz,seed,van_wyk_culinary_2014
+1365,Xylopia aromatica,Annonaceae,pimenta de negro,E Braz,seed,van_wyk_culinary_2014
+1366,Xylopia parviflora,Annonaceae,striped African pepper,Liberia,fruit,van_wyk_culinary_2014
+1367,Xylopia sericea,Annonaceae,hairy peppper,Braz,seed,van_wyk_culinary_2014
+1368,Zanthoxylum acanthopodium,Rutaceae,adaliman,Indonesia,fruit,van_wyk_culinary_2014
+1369,Zanthoxylum acanthopodium,Rutaceae,tomar seed,Indonesia,fruit,van_wyk_culinary_2014
+1370,Zanthoxylum ailanthoides,Rutaceae,yue jiao,Vietnam,fruit,van_wyk_culinary_2014
+1371,Zanthoxylum alatum,Rutaceae,timur,Nepal,fruit,van_wyk_culinary_2014
+1372,Zanthoxylum armatum,Rutaceae,zhu ye jiao,China,fruit,van_wyk_culinary_2014
+1373,Zanthoxylum armatum,Rutaceae,Chinese pepper,China,fruit,van_wyk_culinary_2014
+1374,Zanthoxylum bungeanum,Rutaceae,Chinese pepper,N China,leaf; fruit,van_wyk_culinary_2014
+1375,Zanthoxylum piperitum,Rutaceae,sansho,E As,fruit; leaf,van_wyk_culinary_2014
+1376,Zanthoxylum piperitum,Rutaceae,Japanese pepper,E As,fruit; leaf,van_wyk_culinary_2014
+1377,Zanthoxylum rhetsa,Rutaceae,tippal,N Ind,fruit; seed,van_wyk_culinary_2014
+1378,Zanthoxylum rhetsa,Rutaceae,Indian pepper,N Ind,fruit; seed,van_wyk_culinary_2014
+1379,Zanthoxylum schinifolium,Rutaceae,sancho,C & E As,fruit; leaf,van_wyk_culinary_2014
+1380,Zanthoxylum simulans,Rutaceae,Chinese pepper,China,fruit; leaf,van_wyk_culinary_2014
+1381,Zanthoxylum simulans,Rutaceae,Sichuan pepper,China,fruit; leaf,van_wyk_culinary_2014
+1382,Zanthoxylum simulans,Rutaceae,chuan jiao,China,fruit; leaf,van_wyk_culinary_2014
+1383,Zanthoxylum tessmannii,Rutaceae,African pepper,Afr,fruit,van_wyk_culinary_2014
+1384,Zingiber mioga,Zingiberaceae,mioga ginger,Jap,rhizome,van_wyk_culinary_2014
+1385,Zingiber mioga,Zingiberaceae,Japanese (wild) ginger,Jap,rhizome,van_wyk_culinary_2014
+1386,Zingiber officinale,Zingiberaceae,ginger,Ind,rhizome,van_wyk_culinary_2014
+1387,Zingiber officinale,Zingiberaceae,common ginger,Ind,rhizome,van_wyk_culinary_2014
+1388,Zingiber zerumbet,Zingiberaceae,wild ginger,Indomal,rhizome,van_wyk_culinary_2014
+1389,Zingiber zerumbet,Zingiberaceae,zerumbet ginger,Indomal,rhizome,van_wyk_culinary_2014
+1390,Ziziphora tenuior,Lamiaceae,ziziphora,C As (Turkey),leaf,van_wyk_culinary_2014

@@ -1,7 +1,8 @@
 +++
 title = "Materials"
-# weight = 11
+weight = 10
 menuPre = ""
+menuTitle = "The Materials"
 +++
 
 {{% icon pepper-hot %}} Spices
