@@ -159,6 +159,13 @@ var relearn_search_index = [
     "uri": "/materials/mace/"
   },
   {
+    "content": " Spices\nHerbs\nIncense\nPerfume\n",
+    "description": "",
+    "tags": null,
+    "title": "Materials",
+    "uri": "/materials/"
+  },
+  {
     "content": " Nutmeg (Myristica fragrans Houtt.) is a culinary spice from the Myristicaceae family,1 originating in the region(s) of Moluccas (Indonesia).2 It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.3\nHungarian Arabic Chinese szerecsendió جوز الطيب 肉豆蔻 Overview id nutmeg species name Myristica fragrans Houtt. family Myristicaceae part used seed macroarea Asia region of origin Moluccas (Indonesia) cultivation Grenada; Indonesia color pale brown nut, dark when powdered botanical database POWO POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ ↩︎\nvan Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001 ↩︎\nMedicinal Spices Exhibit. (2002). UCLA Biomedical Library: History \u0026 Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt\u0026itemsuppress=yes\u0026displayswitch=0 ↩︎\n",
     "description": "The seed of a peach-like fruit of the nutmeg tree of the moluccas, indonesia, related to mace.",
     "tags": [
@@ -234,6 +241,15 @@ var relearn_search_index = [
     "uri": "/testing/"
   },
   {
+    "content": "In what follows, you can find the main resources that were used while creating the database, and the rationale behind the selection. The first step was to try and assemble a list of spices that are relatively well-known, using materials and information gathered by professionals from various fields. The second step was to collate information on these materials, standardize our “master list”, and conduct research on each. Along the way, new and less common materials would reveal themselves, and their addition would help the ultimate goal of an exhaustive, comprehensive list of spices.\nEncyclopedias are a good starting point in any topic, and the Encyclopaedia Britannica does have a list of herbs and spices. Regarding the realm of plants, we relied on the book of South African botanist Ben-Erik van Wyk. For cultural and historical account, we turned towards the book of English historian and linguist Andrew Dalby. Finally, for a perspective from the culinary arts we used the book of Tony Hill, a spice merchant from Seattle.\nSource Field Number of items Petruzzello (\rCitation: 2023 Petruzzello, \rM.\r \r(2023).\r \rList of herbs and spices.\r Retrieved from \rhttps://www.britannica.com/topic/list-of-herbs-and-spices-2024392\r)\rReference 70 Hill (\rCitation: 2004 Hill, \rT. \r(2004).\r \rThe contemporary encyclopedia of herbs and spices: Seasonings for the global kitchen.\r \rJ. Wiley.\r)\rGastronomy 127 Dalby (\rCitation: 2000 Dalby, \rA. \r(2000).\r \rDangerous Tastes: The Story of Spices.\r \rUniversity of California Press. Retrieved from \rhttps://www.worldcat.org/title/44979585\r)\rHistory 297 van Wyk (\rCitation: 2014 Wyk, \rB. \r(2014).\r \rCulinary Herbs and Spices of the World.\r \rUniversity of Chicago Press, joint publication with the Royal Botanic Gardens, Kew.\rhttps://doi.org/10.7208/chicago/9780226091839.001.0001\r)\rBotany 667 The main challenge of collating different spice datasets is that the basis of comparison is not straightforward. Depending on discipline, sources identify spices by species name or common name, where the latter is always problematic since many spices have many different names and name variations.\nDalby\r(2000)\rDalby, \rA. \r(2000).\r \rDangerous Tastes: The Story of Spices.\r \rUniversity of California Press. Retrieved from \rhttps://www.worldcat.org/title/44979585\rHill\r(2004)\rHill, \rT. \r(2004).\r \rThe contemporary encyclopedia of herbs and spices: Seasonings for the global kitchen.\r \rJ. Wiley.\rPetruzzello\r(2023)\rPetruzzello, \rM.\r \r(2023).\r \rList of herbs and spices.\r Retrieved from \rhttps://www.britannica.com/topic/list-of-herbs-and-spices-2024392\rWyk\r(2014)\rWyk, \rB. \r(2014).\r \rCulinary Herbs and Spices of the World.\r \rUniversity of Chicago Press, joint publication with the Royal Botanic Gardens, Kew.\rhttps://doi.org/10.7208/chicago/9780226091839.001.0001\r",
+    "description": "Resources for the spice database.",
+    "tags": [
+      "culinary"
+    ],
+    "title": "Sources",
+    "uri": "/sources/"
+  },
+  {
     "content": "",
     "description": "",
     "tags": null,
@@ -260,13 +276,6 @@ var relearn_search_index = [
     "tags": null,
     "title": "Category  -  herb",
     "uri": "/categories/herb/"
-  },
-  {
-    "content": " Spices\nHerbs\nIncense\nPerfume\n",
-    "description": "",
-    "tags": null,
-    "title": "Materials",
-    "uri": "/materials/"
   },
   {
     "content": "",
