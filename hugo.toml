@@ -173,7 +173,7 @@ weight = 50
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
   themeVariant = ["dark", "light", "neon"]
   # Change the breadcrumb separator. Default to ">".
-  breadcrumbSeparator = " || "
+  breadcrumbSeparator = " | "
   # Change the title separator. Default to "::".
   titleSeparator = " - "
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
@@ -187,7 +187,6 @@ weight = 50
   disableExplicitIndexURLs = true
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
-
 
   # To use these native HTML elements in your Markdown (such as FontAwesome icons), add this in your config.toml:
   # [markup.goldmark.renderer]
