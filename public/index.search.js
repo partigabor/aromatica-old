@@ -232,7 +232,7 @@ var relearn_search_index = [
     "uri": "/materials/vanilla/"
   },
   {
-    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nBadge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly\n",
+    "content": "I want this:\nhttps://mcshelby.github.io/hugo-theme-relearn/cont/markdown/index.html#inline\nBut I got this:\nLorem Ipsum.\nBox There may be pirates It is all about the boxes.\nBadge Version6.6.6 Button Get Hugo Expand me… Thank you! Code\rIcons pie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly ",
     "description": "Description.",
     "tags": [
       "culinary"

@@ -36,7 +36,12 @@ tags = ['culinary']
 # LastModifierEmail = ""
 +++
 
-Lorem Ipsum.
+
+I want this:
+
+https://mcshelby.github.io/hugo-theme-relearn/cont/markdown/index.html#inline
+
+But I got this:
 
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
 ![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
@@ -45,7 +50,9 @@ Lorem Ipsum.
 
 ***
 
-Box
+Lorem Ipsum.
+
+## Box
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
 It is all about the boxes.
@@ -53,11 +60,11 @@ It is all about the boxes.
 
 <!-- {{% attachments sort="asc" /%}} -->
 
-Badge
+## Badge
 
 {{% badge style="primary" title="Version" %}}6.6.6{{% /badge %}}
 
-Button 
+## Button 
 
 {{% button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button %}}
 
@@ -65,7 +72,7 @@ Button
 
     Code
 
-Icons
+## Icons
 
 {{% icon mortar-pestle %}}
 
@@ -78,7 +85,7 @@ pie title Spice names by language
     "Chinese" : 60
 {{< /mermaid >}}
 
-Plotly
+## Plotly
 
 {{< load-plotly >}}
 
