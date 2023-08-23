@@ -26,14 +26,6 @@ Encyclopedias are a good starting point in any topic, and the *Encyclopaedia Bri
 ![Dalby](/images/books/dalby.jpg?height=300px)
 ![van Wyk](/images/books/vanwyk.jpg?height=300px)
 
-<!-- {{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
-![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
-![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
-![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline)
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
-{{% /notice %}} -->
-
-
 
 
 The main challenge of collating different spice datasets is that the basis of comparison is not straightforward. Depending on discipline, sources identify spices by species name or common name, where the latter is always problematic since many spices have many different names and name variations. 
