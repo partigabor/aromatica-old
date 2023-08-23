@@ -37,7 +37,7 @@ printf("Hello World!");
 
 ````go
 {{ partial "shortcodes/tab.html" (dict
-  "context" .
+  "page"  .
   "title" "c"
   "content" ("```c\nprintf(\"Hello World!\")\n```" | .RenderString)
 )}}
@@ -49,7 +49,7 @@ printf("Hello World!");
 ### Parameter
 
 | Name                  | Default         | Notes       |
-|:----------------------|:----------------|:------------|
+|-----------------------|-----------------|-------------|
 | **style**             | see notes       | The style scheme used for the tab. If you don't set a style and you display a single code block inside of the tab, its default styling will adapt to that of a `code` block. Otherwise `default` is used.<br><br>- by severity: `info`, `note`, `tip`, `warning`<br>- by brand color: `primary`, `secondary`, `accent`<br>- by color: `blue`, `green`, `grey`, `orange`, `red`<br>- by special color: `default`, `transparent`, `code` |
 | **color**             | see notes       | The [CSS color value](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) to be used. If not set, the chosen color depends on the **style**. Any given value will overwrite the default.<br><br>- for severity styles: a nice matching color for the severity<br>- for all other styles: the corresponding color |
 | **title**             | see notes       | Arbitrary title for the tab. Depending on the **style** there may be a default title. Any given value will overwrite the default.<br><br>- for severity styles: the matching title for the severity<br>- for all other styles: _&lt;empty&gt;_<br><br>If you want no title for a severity style, you have to set this parameter to `" "` (a non empty string filled with spaces) |
@@ -59,6 +59,14 @@ printf("Hello World!");
 ## Examples
 
 ### Single Code Block with Collapsed Margins
+
+````go
+{{%/* tab title="Code" */%}}
+```python
+printf("Hello World!");
+```
+{{%/* /tab */%}}
+````
 
 {{% tab title="Code" %}}
 
@@ -70,9 +78,18 @@ printf("Hello World!");
 
 ### Mixed Markdown Content
 
+````go
+{{%/* tab title="_**Mixed**_" */%}}
+A tab can not only contain code but arbitrary text. In this case text **and** code will get a margin.
+```python
+printf("Hello World!");
+```
+{{%/* /tab */%}}
+````
+
 {{% tab title="_**Mixed**_" %}}
 
-A tab can not only contain code but arbitrary text. In this case text and code will get a margin.
+A tab can not only contain code but arbitrary text. In this case text **and** code will get a margin.
 
 ```python
 printf("Hello World!");

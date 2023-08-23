@@ -17,6 +17,8 @@
     {{- $options = $v }}
   {{- else if eq $k "type" }}
     {{- $type = $v }}
+  {{- else if eq $k "title" }}
+    {{- $attributes = $attributes | merge (dict $k $v) }}
   {{- else if eq $k "wrap" }}
     {{- $attributes = $attributes | merge (dict $k $v) }}
   {{- else }}
@@ -24,7 +26,7 @@
   {{- end }}
 {{- end }}
 {{- partial "shortcodes/highlight.html" (dict
-  "context"    .Page
+  "page"       .Page
   "attributes" $attributes
   "content"    $content
   "options"    $options

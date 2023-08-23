@@ -21,6 +21,7 @@
         text-align: center
       }
       .notfound #body {
+          margin-inline-start: 0;
           max-width: 100%;
           min-width: 100%;
           width: 100%;
@@ -61,12 +62,12 @@
     {{- partial "custom-header.html" . }}
   </head>
   <body class="mobile-support html notfound" data-url="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .) }}">
-    <div id="body" class="default-animation" style="margin-left: 0;">
+    <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
       <main id="body-inner" class="chapter" tabindex="-1">
         <div class="flex-block-wrapper">
           <article>
-            <h1 id="404"><span>4</span>{{ partial "shortcodes/icon.html" (dict "context" . "icon" "far fa-frown" )}}<span>4</span></h1>
+            <h1 id="404"><span>4</span>{{ partial "shortcodes/icon.html" (dict "page" . "icon" "far fa-frown" )}}<span>4</span></h1>
             <h2 id="{{ T "title-404" | anchorize }}">{{ T "title-404" }}</h2>
             <p></p>
             <p>{{ T "message-404" }}</p>

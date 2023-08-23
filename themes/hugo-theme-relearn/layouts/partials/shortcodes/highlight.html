@@ -1,4 +1,8 @@
-{{- $context := .context }}
+{{- $page := .page }}
+{{- if and (not $page) .context }}
+  {{- $page = .context }}
+  {{- warnf "%q: DEPRECATED parameter 'context' for shortcode 'highlight' found, use 'page' instead; see https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5180" $page.File.Path }}
+{{- end }}
 {{- $attributes := dict }}
 {{- $otherAttributes := dict }}
 {{- $content := "" }}
@@ -22,6 +26,8 @@
     {{- end }}
   {{- else if eq $k "type" }}
     {{- $type = $v }}
+  {{- else if eq $k "title" }}
+    {{- $otherAttributes = $otherAttributes | merge (dict $k $v) }}
   {{- else if eq $k "wrap" }}
     {{- $otherAttributes = $otherAttributes | merge (dict $k $v) }}
   {{- else }}
@@ -31,7 +37,9 @@
 {{- $options = $options | merge $otherOptions }}
 {{- $otherOptions := dict }}
 {{- range $k, $v := $options }}
-  {{- if eq $k "wrap" }}
+  {{- if eq $k "title" }}
+    {{- $otherAttributes = (dict $k $v) | merge $otherAttributes }}
+  {{- else if eq $k "wrap" }}
     {{- $otherAttributes = (dict $k $v) | merge $otherAttributes }}
   {{- else }}
     {{- $otherOptions = (dict $k $v) | merge $otherOptions }}
@@ -44,15 +52,18 @@
   {{- $params = $params | append (printf "%s=%s" $k $v) }}
 {{- end }}
 {{- $params = delimit $params ", " }}
+{{- $title := "" }}
 {{- $wrap := true }}
-{{- if isset $context.Site.Params "highlightwrap" }}
-  {{- $wrap = $context.Site.Params.highlightWrap  }}
+{{- if isset $page.Site.Params "highlightwrap" }}
+  {{- $wrap = $page.Site.Params.highlightWrap  }}
 {{- end }}
-{{- if isset $context.Params "highlightwrap" }}
-  {{- $wrap = $context.Params.highlightWrap }}
+{{- if isset $page.Params "highlightwrap" }}
+  {{- $wrap = $page.Params.highlightWrap }}
 {{- end }}
 {{- range $k, $v := $attributes }}
-  {{- if eq $k "wrap" }}
+  {{- if eq $k "title" }}
+    {{- $title = $v }}
+  {{- else if eq $k "wrap" }}
     {{- $wrap = $v }}
   {{- end }}
 {{- end }}
@@ -64,4 +75,12 @@
 {{- if $wrap }}
   {{- $content = replaceRE "^([\\s\\n\\r]*<div\\s+class=\")" "${1}wrap-code " $content 1 }}
 {{- end }}
-{{- $content | safeHTML }}
+{{- if $title }}
+  {{ partial "shortcodes/tab.html" (dict
+    "page"  $page
+    "title" $title
+    "content" $content
+  )}}
+{{- else }}
+  {{- $content | safeHTML }}
+{{- end }}

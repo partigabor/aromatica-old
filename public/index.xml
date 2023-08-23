@@ -24,7 +24,8 @@ Perfume</description>
       <guid>https://partigabor.github.io/aromatica/testing/</guid>
       <description>I want this:
 https://mcshelby.github.io/hugo-theme-relearn/cont/markdown/index.html#inline
-But I got this:
+But using the same code:
+![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline) ![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline) ![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline) ![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)I got this:
 Lorem Ipsum.
 Box There may be pirates It is all about the boxes.
 Badge Version6.6.6 Button Get Hugo Expand me&amp;hellip; Thank you! CodeIcons pie title Spice names by language&amp;#34;English&amp;#34; : 120&amp;#34;Arabic&amp;#34; : 90&amp;#34;Chinese&amp;#34; : 60Plotly </description>

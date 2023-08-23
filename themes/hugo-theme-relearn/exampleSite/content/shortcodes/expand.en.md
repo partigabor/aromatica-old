@@ -27,7 +27,7 @@ This only works in modern browsers flawlessly. While Internet Explorer 11 has is
 
 While the examples are using shortcodes with named parameter you are free to use positional as well or also call this shortcode from your own partials.
 
-{{< tabs groupId="shortcode-parameter">}}
+{{< tabs groupid="shortcode-parameter">}}
 {{% tab title="shortcode" %}}
 
 ````go
@@ -46,7 +46,7 @@ While the examples are using shortcodes with named parameter you are free to use
 
 ````go
 {{ partial "shortcodes/expand.html" (dict
-  "context" .
+  "page"  .
   "title" "Expand me..."
   "content" "Thank you!"
 )}}
@@ -58,7 +58,7 @@ While the examples are using shortcodes with named parameter you are free to use
 ### Parameter
 
 | Name                  | Position | Default          | Notes       |
-|:----------------------|:---------|:-----------------|:------------|
+|-----------------------|----------|------------------|-------------|
 | **title**             | 1        | `"Expand me..."` | Arbitrary text to appear next to the expand/collapse icon. |
 | **open**              | 2        | `false`          | When `true` the content text will be initially shown as expanded. |
 | _**&lt;content&gt;**_ |          | _&lt;empty&gt;_  | Arbitrary text to be displayed on expand. |

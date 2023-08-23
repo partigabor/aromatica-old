@@ -15,7 +15,7 @@ The `badge` shortcode displays little markers in your text with adjustable color
 
 While the examples are using shortcodes with named parameter you are free to also call this shortcode from your own partials.
 
-{{< tabs groupId="shortcode-parameter">}}
+{{< tabs groupid="shortcode-parameter">}}
 {{% tab title="shortcode" %}}
 
 ````go
@@ -31,30 +31,30 @@ While the examples are using shortcodes with named parameter you are free to als
 
 ````go
 {{ partial "shortcodes/badge.html" (dict
-    "context" .
+    "page"    .
     "content" "Important"
 )}}
 {{ partial "shortcodes/badge.html" (dict
-  "context" .
+  "page"  .
   "style" "primary"
   "title" "Version"
   "content" "6.6.6"
 )}}
 {{ partial "shortcodes/badge.html" (dict
-  "context" .
+  "page"  .
   "style" "red"
-  "icon" "angle-double-up"
+  "icon"  "angle-double-up"
   "content" "Captain"
 )}}
 {{ partial "shortcodes/badge.html" (dict
-  "context" .
+  "page"  .
   "style" "info"
   "content" "New"
 )}}
 {{ partial "shortcodes/badge.html" (dict
-  "context" .
+  "page"  .
   "color" "fuchsia"
-  "icon" "fab fa-hackerrank"
+  "icon"  "fab fa-hackerrank"
   "content" "Awesome"
 )}}
 ````
@@ -65,7 +65,7 @@ While the examples are using shortcodes with named parameter you are free to als
 ### Parameter
 
 | Name                  | Default         | Notes       |
-|:----------------------|:----------------|:------------|
+|-----------------------|-----------------|-------------|
 | **style**             | `default`       | The style scheme used for the badge.<br><br>- by severity: `info`, `note`, `tip`, `warning`<br>- by brand color: `primary`, `secondary`, `accent`<br>- by color: `blue`, `green`, `grey`, `orange`, `red`<br>- by special color: `default`, `transparent`, `code` |
 | **color**             | see notes       | The [CSS color value](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) to be used. If not set, the chosen color depends on the **style**. Any given value will overwrite the default.<br><br>- for severity styles: a nice matching color for the severity<br>- for all other styles: the corresponding color |
 | **title**             | see notes       | Arbitrary text for the badge title. Depending on the **style** there may be a default title. Any given value will overwrite the default.<br><br>- for severity styles: the matching title for the severity<br>- for all other styles: _&lt;empty&gt;_<br><br>If you want no title for a severity style, you have to set this parameter to `" "` (a non empty string filled with spaces) |

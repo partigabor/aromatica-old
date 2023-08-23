@@ -41,7 +41,16 @@ I want this:
 
 https://mcshelby.github.io/hugo-theme-relearn/cont/markdown/index.html#inline
 
-But I got this:
+But using the same code:
+
+```md
+![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
+![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
+![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline)
+![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
+```
+
+I got this:
 
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
 ![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)

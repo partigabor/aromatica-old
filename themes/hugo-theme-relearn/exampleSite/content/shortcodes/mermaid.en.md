@@ -29,7 +29,7 @@ You are free to also call this shortcode from your own partials.
 To use codefence syntax you have to turn off `guessSyntax` for the `markup.highlight` setting ([see the configuration section](#configuration)).
 {{% /notice %}}
 
-{{< tabs groupId="shortcode-parameter">}}
+{{< tabs groupid="shortcode-parameter">}}
 {{% tab title="codefence" %}}
 
 ````md
@@ -56,7 +56,7 @@ graph LR;
 
 ````go
 {{ partial "shortcodes/mermaid.html" (dict
-  "context" .
+  "page"    .
   "content" "graph LR;\nIf --> Then\nThen --> Else"
   "align"   "center"
   "zoom"    "true"
@@ -72,7 +72,7 @@ The generated graphs can be be panned by dragging them and zoomed by using the m
 ### Parameter
 
 | Name                  | Default          | Notes       |
-|:----------------------|:-----------------|:------------|
+|-----------------------|------------------|-------------|
 | **align**             | `center`         | Allowed values are `left`, `center` or `right`. |
 | **zoom**              | see notes        | Whether the graph is pan- and zoomable.<br><br>If not set the value is determined by the `mermaidZoom` setting of the [site](#global-configuration-file) or the [pages frontmatter](#pages-frontmatter) or `false` if not set at all.<br><br>- `false`: no pan or zoom<br>- `true`: pan and zoom active |
 | _**&lt;content&gt;**_ | _&lt;empty&gt;_  | Your Mermaid graph. |
@@ -367,6 +367,44 @@ pie title Pets adopted by volunteers
     "Rats" : 15
 {{< /mermaid >}}
 
+### Quadrant Chart
+
+````go
+{{</* mermaid */>}}
+pie title Pets adopted by volunteers
+    title Reach and engagement of campaigns
+    x-axis Low Reach --> High Reach
+    y-axis Low Engagement --> High Engagement
+    quadrant-1 We should expand
+    quadrant-2 Need to promote
+    quadrant-3 Re-evaluate
+    quadrant-4 May be improved
+    Campaign A: [0.3, 0.6]
+    Campaign B: [0.45, 0.23]
+    Campaign C: [0.57, 0.69]
+    Campaign D: [0.78, 0.34]
+    Campaign E: [0.40, 0.34]
+    Campaign F: [0.35, 0.78]
+{{</* /mermaid */>}}
+````
+
+{{< mermaid >}}
+quadrantChart
+    title Reach and engagement of campaigns
+    x-axis Low Reach --> High Reach
+    y-axis Low Engagement --> High Engagement
+    quadrant-1 We should expand
+    quadrant-2 Need to promote
+    quadrant-3 Re-evaluate
+    quadrant-4 May be improved
+    Campaign A: [0.3, 0.6]
+    Campaign B: [0.45, 0.23]
+    Campaign C: [0.57, 0.69]
+    Campaign D: [0.78, 0.34]
+    Campaign E: [0.40, 0.34]
+    Campaign F: [0.35, 0.78]
+{{< /mermaid >}}
+
 ### Requirement Diagram
 
 ````go
@@ -597,4 +635,26 @@ timeline
          : Google
     2005 : Youtube
     2006 : Twitter
+{{< /mermaid >}}
+
+### Sankey
+
+````go
+{{</* mermaid */>}}
+sankey-beta
+
+%% source,target,value
+Electricity grid,Over generation / exports,104.453
+Electricity grid,Heating and cooling - homes,113.726
+Electricity grid,H2 conversion,27.14
+{{</* /mermaid */>}}
+````
+
+{{< mermaid >}}
+sankey-beta
+
+%% source,target,value
+Electricity grid,Over generation / exports,104.453
+Electricity grid,Heating and cooling - homes,113.726
+Electricity grid,H2 conversion,27.14
 {{< /mermaid >}}

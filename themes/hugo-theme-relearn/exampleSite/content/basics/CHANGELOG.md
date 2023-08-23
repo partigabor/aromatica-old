@@ -1,5 +1,50 @@
 # Changelog
 
+## 5.19.0 (2023-08-12)
+
+### Enhancements
+
+- [**feature**] highlight: add title parameter [#616](https://github.com/McShelby/hugo-theme-relearn/issues/616)
+- [**feature**] variant: signal variant switch as event [#614](https://github.com/McShelby/hugo-theme-relearn/issues/614)
+- [**feature**] variant: add zen variant in light and dark [#613](https://github.com/McShelby/hugo-theme-relearn/issues/613)
+- [**feature**] i18n: add Hungarian translation [#604](https://github.com/McShelby/hugo-theme-relearn/issues/604)
+- [**feature**] mermaid: update to 10.3.0 [#601](https://github.com/McShelby/hugo-theme-relearn/issues/601)
+
+### Fixes
+
+- [**bug**] siteparam: avoid halt if param is a map/slice [#611](https://github.com/McShelby/hugo-theme-relearn/issues/611)
+- [**bug**] mermaid: fix broken zoom since update to v10 [#608](https://github.com/McShelby/hugo-theme-relearn/issues/608)
+- [**bug**] mermaid: variant generator diagram does not respond to events [#607](https://github.com/McShelby/hugo-theme-relearn/issues/607)
+- [**bug**] print: avoid chroma leak for relearn-dark [#605](https://github.com/McShelby/hugo-theme-relearn/issues/605)
+
+### Maintenance
+
+- [**task**] mermaid: update to 10.3.1 [#610](https://github.com/McShelby/hugo-theme-relearn/issues/610)
+
+---
+
+## 5.18.0 (2023-07-27)
+
+### Enhancements
+
+- [**feature**][**change**] shortcodes: add more deprecation warnings [#598](https://github.com/McShelby/hugo-theme-relearn/issues/598)
+- [**feature**][**change**] shortcodes: change `context` parameter to `page` if called as partial [#595](https://github.com/McShelby/hugo-theme-relearn/issues/595)
+- [**feature**] siteparam: support nested parameters and text formatting [#590](https://github.com/McShelby/hugo-theme-relearn/issues/590)
+- [**feature**][**change**] a11y: improve when tabbing thru links [#581](https://github.com/McShelby/hugo-theme-relearn/issues/581)
+
+### Fixes
+
+- [**bug**] openapi: inherit RTL setting from Hugo content [#600](https://github.com/McShelby/hugo-theme-relearn/issues/600)
+- [**bug**] 404: fix display in RTL [#597](https://github.com/McShelby/hugo-theme-relearn/issues/597)
+- [**bug**] highlight: fix position of copy-to-clipboard button in RTL [#594](https://github.com/McShelby/hugo-theme-relearn/issues/594)
+- [**bug**] openapi: fix spelling [#593](https://github.com/McShelby/hugo-theme-relearn/issues/593)
+- [**bug**] search: fix typo in output format [#591](https://github.com/McShelby/hugo-theme-relearn/issues/591)
+- [**bug**] tabs: fix tab selection by groupid [#582](https://github.com/McShelby/hugo-theme-relearn/issues/582)
+- [**bug**] theme: restore compat with Hugo 0.95.0 [#580](https://github.com/McShelby/hugo-theme-relearn/issues/580)
+- [**bug**][**change**] theme: improve display of links [#577](https://github.com/McShelby/hugo-theme-relearn/issues/577)
+
+---
+
 ## 5.17.1 (2023-06-22)
 
 ### Enhancements
