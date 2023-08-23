@@ -7,9 +7,6 @@ other = "Ara"
 [Search-placeholder]
 other = "Ara..."
 
-[Clear-search]
-other = "Aramayı temizle"
-
 [No-results-found]
 other = "\"{0}\" için sonuç bulunamadı"
 

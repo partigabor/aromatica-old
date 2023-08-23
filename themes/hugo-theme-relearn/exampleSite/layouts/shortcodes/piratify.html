@@ -1,5 +1,5 @@
 {{- partial "shortcodes/piratify.html" (dict
-  "page"        .Page
+  "context"     .Page
   "pagefield"   "Content"
   "writenotice" (.Get "writenotice" | default (.Get 0))
 ) }}

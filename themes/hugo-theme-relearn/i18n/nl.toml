@@ -7,9 +7,6 @@ other = "Zoeken"
 [Search-placeholder]
 other = "Zoeken..."
 
-[Clear-search]
-other = "Zoekopdracht wissen"
-
 [No-results-found]
 other = "Geen resultaten gevonden voor \"{0}\""
 

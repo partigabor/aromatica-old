@@ -1,44 +1,38 @@
-{{- $page := .page }}
-{{- if and (not $page) .context }}
-  {{- $page = .context }}
-  {{- warnf "%q: DEPRECATED parameter 'context' for shortcode 'piratify' found, use 'page' instead; see https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5180" $page.File.Path }}
-{{- end }}
+{{- $context := .context }}
 {{- $content := .content }}
 {{- $pagefield := cond (ne $content nil) nil (.pagefield | default "Content") }}
 {{- $writenotice := cond (ne .writenotice nil) .writenotice false }}
 {{- $langtrg := "pir" }}
-{{- $langsrc := cond (eq $page.Lang $langtrg) (.langsrc | default "en") $page.Lang }}
+{{- $langsrc := cond (eq $context.Lang $langtrg) (.langsrc | default "en") $context.Lang }}
 {{- $baseURL := urls.Parse site.BaseURL }}
 {{- $baseURLpath := $baseURL.Path | default "/" }}
-{{- $l := $page.RelPermalink }}
+{{- $l := $context.RelPermalink }}
 {{- $c := "" }}
-{{- $srcPage := "" }}
 {{- if ne $content nil }}
 	{{- $c = $content }}
 {{- else if eq $pagefield "Content" }}
-	{{- $c = $page.Content }}
+	{{- $c = $context.Content }}
 {{- else if eq $pagefield "TableOfContents" }}
-	{{- $c = $page.TableOfContents }}
+	{{- $c = $context.TableOfContents }}
 {{- end }}
-{{- range $page.AllTranslations }}
+{{- range $context.AllTranslations }}
 	{{- if eq .Language.Lang $langsrc }}
 		{{- $l = .RelPermalink }}
 		{{- if ne $content nil }}
 			{{- $c = $content }}
 		{{- else if eq $pagefield "Content" }}
 			{{- $c = .Content }}
-			{{- $srcPage = . }}
 		{{- else if eq $pagefield "TableOfContents" }}
 			{{- $c = .TableOfContents }}
 		{{- end }}
 		{{- break }}
 	{{- end }}
 {{- end }}
-{{- if eq $page.Lang $langtrg }}
+{{- if eq $context.Lang $langtrg }}
 	{{- if $writenotice }}
 		{{- partial "shortcodes/notice.html" (dict
-			"page" $page
-			"content" "<p>Fello' pirrrates, grog made us dizzy! Be awarrre <b>some stuff may look weird</b> in this trrranslat'n. Like <b>Merrrmaids</b>, do'n <b>math or chemistrrry</b> and stuff.</p>\n"
+			"context" $context
+			"content" "<p>Fello' pirrrates, grog made us dizzy! Be awarrre <b>some stuff may not work</b> in this trrranslat'n. Like see'n <b>Merrrmaids</b>, do'n <b>math or chemistrrry</b>, writ'n docs and stuff.</p>\n"
 			"icon" "skull-crossbones"
 			"style" "warning"
 			"title" "Arrr! Pirrrates"
@@ -78,6 +72,7 @@
 		"Where" "Whar'"
 		"where" "whar'"
 		"After" "Aft"
+		"after" "aft"
 		"And" "An'"
 		"and" "an'"
 		"Load" "Board"
@@ -132,10 +127,5 @@
 		{{- $c = replaceRE "(src|href)=\"(images/[^\"]*?\")" (printf "${1}=\"%s${2}" $l) $c }}
 	{{- end }}
 	{{- $c = replaceRE (printf "(src|href)=\"([^\"]*?)/%s/([^\"]*?.files/[^\"]*?\")" $langtrg) "${1}=\"${2}/${3}" $c }}
-	{{- if $srcPage }}
-		{{- $page.Store.Set "hasMathJax" (or ($page.Store.Get "hasMathJax") ($srcPage.Store.Get "hasMathJax")) }}
-		{{- $page.Store.Set "hasMermaid" (or ($page.Store.Get "hasMermaid") ($srcPage.Store.Get "hasMermaid")) }}
-		{{- $page.Store.Set "hasOpenapi" (or ($page.Store.Get "hasOpenapi") ($srcPage.Store.Get "hasOpenapi")) }}
-	{{- end }}
 {{- end }}
 {{ $c | safeHTML }}

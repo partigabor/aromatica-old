@@ -7,9 +7,6 @@ other = "Cerca"
 [Search-placeholder]
 other = "Cerca..."
 
-[Clear-search]
-other = "Cancella ricerca"
-
 [No-results-found]
 other = "Nessun risultato trovato per \"{0}\""
 

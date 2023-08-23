@@ -1,5 +1,5 @@
-{{- $page := . }}
-{{- if (ne $page.Site.Params.disableRandomIds true) }}
+{{- $context := . }}
+{{- if (ne $context.Site.Params.disableRandomIds true) }}
 	{{- $random := "" }}
 	{{- $set := split "012345abcdefghijklmnopqrstuvwxyz" "" }}
 	{{- range (seq 16) }}

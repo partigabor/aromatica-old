@@ -13,7 +13,6 @@ else{
 var isPrint = document.querySelector( 'body' ).classList.contains( 'print' );
 
 var isRtl = document.querySelector( 'html' ).getAttribute( 'dir' ) == 'rtl';
-var lang = document.querySelector( 'html' ).getAttribute( 'lang' );
 var dir_padding_start = 'padding-left';
 var dir_padding_end = 'padding-right';
 var dir_key_start = 37;
@@ -164,13 +163,13 @@ function initMermaid( update, attrs ) {
         var YAML=1;
         var INIT=2;
         var GRAPH=3;
-        var d = /^(?:\s*[\n\r])*(?:-{3}(\s*[\n\r](?:.*?)[\n\r])-{3}(?:\s*[\n\r]+)+)?(?:\s*(?:%%\s*\{\s*\w+\s*:([^%]*?)%%\s*[\n\r]?))?(.*)$/s
+        var d = /^(?:\s*[\n\r])*(-{3}\s*[\n\r](?:.*?)[\n\r]-{3}(?:\s*[\n\r]+)+)?(?:\s*(?:%%\s*\{\s*\w+\s*:([^%]*?)%%\s*[\n\r]?))?(.*)$/s
         var m = d.exec( graph );
-        var yaml = {};
+        var yaml = '';
         var dir = {};
         var content = graph;
         if( m && m.length == 4 ){
-            yaml = m[YAML] ? jsyaml.load( m[YAML] ) : yaml;
+            yaml = m[YAML] ? m[YAML] : yaml;
             dir = m[INIT] ? JSON.parse( '{ "init": ' + m[INIT] ).init : dir;
             content = m[GRAPH] ? m[GRAPH] : content;
         }
@@ -179,15 +178,8 @@ function initMermaid( update, attrs ) {
     };
 
     var serializeGraph = function( graph ){
-        var yamlPart = '';
-        if( Object.keys( graph.yaml ).length ){
-            yamlPart = '---\n' + jsyaml.dump( graph.yaml ) + '---\n';
-        }
-        var dirPart = '';
-        if( Object.keys( graph.dir ).length ){
-            dirPart = '%%{init: ' + JSON.stringify( graph.dir ) + '}%%\n';
-        }
-        return yamlPart + dirPart + graph.content;
+        var s = graph.yaml + '%%{init: ' + JSON.stringify( graph.dir ) + '}%%\n' + graph.content;
+        return s;
     };
 
     var init_func = function( attrs ){
@@ -196,14 +188,11 @@ function initMermaid( update, attrs ) {
         document.querySelectorAll('.mermaid').forEach( function( element ){
             var parse = parseGraph( decodeHTML( element.innerHTML ) );
 
-            if( parse.yaml.theme ){
-                parse.yaml.relearn_user_theme = true;
-            }
             if( parse.dir.theme ){
                 parse.dir.relearn_user_theme = true;
             }
-            if( !parse.yaml.relearn_user_theme && !parse.dir.relearn_user_theme ){
-                parse.yaml.theme = theme;
+            if( !parse.dir.relearn_user_theme ){
+                parse.dir.theme = theme;
             }
             is_initialized = true;
 
@@ -225,15 +214,15 @@ function initMermaid( update, attrs ) {
             var code = e.querySelector( '.mermaid-code' );
             var parse = parseGraph( decodeHTML( code.innerHTML ) );
 
-            if( parse.yaml.relearn_user_theme || parse.dir.relearn_user_theme ){
+            if( parse.dir.relearn_user_theme ){
                 return;
             }
-            if( parse.yaml.theme == theme || parse.dir.theme == theme ){
+            if( parse.dir.theme == theme ){
                 return;
             }
             is_initialized = true;
 
-            parse.yaml.theme = theme;
+            parse.dir.theme = theme;
             var graph = serializeGraph( parse );
             element.removeAttribute('data-processed');
             element.innerHTML = graph;
@@ -276,24 +265,18 @@ function initMermaid( update, attrs ) {
     }
     var is_initialized = ( update ? update_func( attrs ) : init_func( attrs ) );
     if( is_initialized ){
-        mermaid.initialize( Object.assign( { "securityLevel": "antiscript", "startOnLoad": false }, window.relearn.mermaidConfig, { theme: attrs.theme } ) );
-        mermaid.run({
-            postRenderCallback: function(){
-                // zoom for Mermaid
-                // https://github.com/mermaid-js/mermaid/issues/1860#issuecomment-1345440607
-                var svgs = d3.selectAll( '.mermaid.zoom svg' );
-                svgs.each( function(){
-                    var svg = d3.select( this );
-                    svg.html( '<g>' + svg.html() + '</g>' );
-                    var inner = svg.select( 'g' );
-                    var zoom = d3.zoom().on( 'zoom', function( e ){
-                        inner.attr( 'transform', e.transform);
-                    });
-                    svg.call( zoom );
-                });
-            },
-            querySelector: '.mermaid',
-            suppressErrors: true
+        mermaid.init();
+        // zoom for Mermaid
+        // https://github.com/mermaid-js/mermaid/issues/1860#issuecomment-1345440607
+        var svgs = d3.selectAll( '.mermaid.zoom svg' );
+        svgs.each( function(){
+            var svg = d3.select( this );
+            svg.html( '<g>' + svg.html() + '</g>' );
+            var inner = svg.select( 'g' );
+            var zoom = d3.zoom().on( 'zoom', function( e ){
+                inner.attr( 'transform', e.transform);
+            });
+            svg.call( zoom );
         });
     }
     if( update && search && search.length ){
@@ -358,7 +341,7 @@ function initOpenapi( update, attrs ){
         oi.classList.toggle('sc-openapi-iframe', true);
         oi.srcdoc =
             '<!doctype html>' +
-            '<html lang="' + lang + '" dir="' + (isRtl ? 'rtl' : 'ltr') + '">' +
+            '<html lang="en">' +
                 '<head>' +
                     '<link rel="stylesheet" href="' + window.themeUseOpenapi.css + '">' +
                     '<link rel="stylesheet" href="' + theme + '">' +
@@ -367,7 +350,7 @@ function initOpenapi( update, attrs ){
                 '</head>' +
                 '<body>' +
                     '<a class="relearn-expander" href="" onclick="return relearn_collapse_all()">Collapse all</a>' +
-                    '<a class="relearn-expander" href="" onclick="return relearn_expand_all()">Expand all</a>' +
+                    '<a class="relearn-expander" href="" onclick="return relearn_expand_all()">Exapnd all</a>' +
                     '<div id="relearn-swagger-ui"></div>' +
                     '<script>' +
                         'function relearn_expand_all(){' +
@@ -1328,19 +1311,6 @@ function initSearch() {
     window.relearn.runInitialSearch && window.relearn.runInitialSearch();
 }
 
-function updateTheme( detail ){
-    if( window.relearn.lastVariant == detail.variant ){
-        return;
-    }
-    window.relearn.lastVariant = detail.variant;
-
-    initMermaid( true );
-    initOpenapi( true );
-    document.dispatchEvent( new CustomEvent( 'themeVariantLoaded', {
-        detail: detail
-    }));
-}
-
 ready( function(){
     initArrowNav();
     initMermaid();
@@ -1364,9 +1334,8 @@ function useMermaid( config ){
         // We don't support Mermaid for IE11 anyways, so bail out early
         return;
     }
-    window.relearn.mermaidConfig = config;
     if (typeof mermaid != 'undefined' && typeof mermaid.mermaidAPI != 'undefined') {
-        mermaid.initialize( Object.assign( { "securityLevel": "antiscript", "startOnLoad": false }, config ) );
+        mermaid.initialize( Object.assign( { "securityLevel": "antiscript", "startOnLoad": false     }, config ) );
         if( config.theme && variants ){
             var write_style = variants.findLoadedStylesheet( 'variant-style' );
             write_style.setProperty( '--CONFIG-MERMAID-theme', config.theme );

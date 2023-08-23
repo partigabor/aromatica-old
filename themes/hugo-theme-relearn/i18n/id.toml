@@ -7,9 +7,6 @@ other = "Telusuri"
 [Search-placeholder]
 other = "Telusuri..."
 
-[Clear-search]
-other = "Hapus pencarian"
-
 [No-results-found]
 other = "Tidak ada hasil yang ditemukan untuk \"{0}\""
 

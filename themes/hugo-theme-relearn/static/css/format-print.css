@@ -147,9 +147,7 @@ mark {
     background: inherit;
     color: inherit;
 }
-.mermaid > svg:hover,
-.mermaid > svg:active,
-.mermaid > svg:focus {
+.mermaid > svg:hover {
     border-color: transparent;
 }
 div.box > .box-content {

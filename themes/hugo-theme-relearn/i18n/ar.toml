@@ -7,9 +7,6 @@ other = "البحث"
 [Search-placeholder]
 other = "...البحث"
 
-[Clear-search]
-other = "مسح البحث"
-
 [No-results-found]
 other = "لم يتم العثور على نتائج لـ \"{0}\""
 

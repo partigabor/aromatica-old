@@ -7,9 +7,6 @@ other = "Etsi"
 [Search-placeholder]
 other = "Etsi..."
 
-[Clear-search]
-other = "Tyhjennä haku"
-
 [No-results-found]
 other = "Ei tuloksia haulle \"{0}\""
 

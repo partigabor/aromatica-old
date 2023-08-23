@@ -23,7 +23,7 @@
     permalinkable = false
     noUgly = true
 
-  [outputFormats.SEARCHPAGE]
+  [outputFormats.SERCHPAGE]
     name= "SEARCHPAGE"
     baseName = "search"
     isHTML = true

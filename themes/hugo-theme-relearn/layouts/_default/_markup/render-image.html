@@ -6,7 +6,7 @@
   {{- $id = "" }}
 {{- end }}
 {{- partial "shortcodes/image.html" (dict
-  "page" .Page
+  "context" .Page
   "url" .Destination
   "title" .Title
   "alt" .Text
