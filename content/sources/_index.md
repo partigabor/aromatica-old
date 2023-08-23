@@ -26,12 +26,12 @@ Encyclopedias are a good starting point in any topic, and the *Encyclopaedia Bri
 ![Dalby](/images/books/dalby.jpg?height=300px)
 ![van Wyk](/images/books/vanwyk.jpg?height=300px)
 
-{{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
+<!-- {{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
 ![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
 ![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline)
 ![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
-{{% /notice %}}
+{{% /notice %}} -->
 
 
 

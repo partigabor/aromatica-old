@@ -44,7 +44,7 @@ Box
 It is all about the boxes.
 {{% /notice %}}
 
-{{% attachments sort="asc" /%}}
+<!-- {{% attachments sort="asc" /%}} -->
 
 Badge
 
