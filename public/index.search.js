@@ -232,7 +232,7 @@ var relearn_search_index = [
     "uri": "/materials/vanilla/"
   },
   {
-    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nBadge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly\nThere may be pirates ",
+    "content": "Lorem Ipsum.\nBox\nThere may be pirates It is all about the boxes.\nBadge\nVersion6.6.6 Button\nGet Hugo Expand me… Thank you! Code\rIcons\npie title Spice names by language\r\"English\" : 120\r\"Arabic\" : 90\r\"Chinese\" : 60\rPlotly\n",
     "description": "Description.",
     "tags": [
       "culinary"

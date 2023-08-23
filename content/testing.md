@@ -38,6 +38,13 @@ tags = ['culinary']
 
 Lorem Ipsum.
 
+![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
+![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
+![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline)
+![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
+
+***
+
 Box
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
@@ -76,10 +83,3 @@ Plotly
 {{< load-plotly >}}
 
 {{< plotly json="/aromatica/plotly/distribution_map.json" height="400" >}}
-
-{{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
-![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
-![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
-![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline)
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
-{{% /notice %}}
