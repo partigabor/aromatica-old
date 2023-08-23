@@ -10,14 +10,14 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Kategóriák",
+    "title": "Categories",
     "uri": "/hu/categories/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Címkék",
+    "title": "Tags",
     "uri": "/hu/tags/"
   }
 ]
