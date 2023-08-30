@@ -28,7 +28,8 @@ But using the same code:
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline) ![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline) ![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline) ![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)I got this:
 Lorem Ipsum.
 Box There may be piratesIt is all about the boxes.
-Badge Version6.6.6 Button Get HugoExpand me&amp;hellip;Thank you!CodeIcons pie title Spice names by language&amp;#34;English&amp;#34; : 120&amp;#34;Arabic&amp;#34; : 90&amp;#34;Chinese&amp;#34; : 60Plotly </description>
+Badge Version6.6.6 Button Get HugoExpand me&amp;hellip;Thank you!CodeIcons pie title Spice names by language&amp;#34;English&amp;#34; : 120&amp;#34;Arabic&amp;#34; : 90&amp;#34;Chinese&amp;#34; : 60Plotly Highlighting Inline code style.
+#!/usr/bin/env python &amp;#34;&amp;#34;&amp;#34;Test file for Python syntax highlighting in editors / IDEs.</description>
     </item>
     <item>
       <title>Sources</title>
