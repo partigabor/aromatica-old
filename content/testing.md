@@ -75,7 +75,7 @@ pie title Spice names by language
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distribution_map.json" height="400" >}}
+{{< plotly json="/aromatica/plotly/test.json" height="400" >}}
 
 ## Images
 
