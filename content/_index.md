@@ -25,7 +25,7 @@ The term therefore refers to any substance of fragrance, focusing on spices, but
 
 ### Versioning \& Updates
 
-{{% badge style="primary" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01)&ensp; website creation; entering development mode (alpha) 
+{{% badge style="secondary" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01)&ensp; website creation; entering development mode (alpha) 
 
 <!-- {{% notice accent "Recipe" "mortar-pestle" %}}
 It is all about the boxes.
