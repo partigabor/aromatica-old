@@ -7,7 +7,7 @@ bibFile = "static/files/bibliography.json"
 
 +++
 
-Welcome to **Aromatica**, a database containing information about spices, herbs, incense, and other aromatics, aiming to gather whole spectrum of these unique materials.
+Welcome to **Aromatica**, a database containing historical, cultural, and linguistic information about spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.
 
 >The website is currently under construction, come back in 2024.
 
