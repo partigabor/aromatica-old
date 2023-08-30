@@ -28,7 +28,7 @@ Encyclopedias can be a great starting point to kick off research in any topic, a
 | --- | --- | --- |
 | Petruzzello {{< cite -petruzzello_list_2023 >}} | Reference | 70 |
 | Hill {{< cite -hill_contemporary_2004 >}} | Gastronomy | 127 |
-| Dalby {{< cite -dalby_dangerous_2000 >}} | History | 297 |
+| Dalby {{< cite -dalby_dangerous_2000 >}} | History | 183 |
 | van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
 
 ![van Wyk](/images/books/vanwyk.jpg?height=20vw&classes=inline)
