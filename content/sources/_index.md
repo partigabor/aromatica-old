@@ -11,9 +11,18 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-In what follows, you can find the main resources that were used while creating the database, and the rationale behind the selection. The first step was to try and assemble a list of spices that are relatively well-known, using materials and information gathered by professionals from various fields. The second step was to collate information on these materials, standardize our "master list", and conduct research on each. Along the way, new and less common materials would reveal themselves, and their addition would help the ultimate goal of an exhaustive, comprehensive list of spices.
+In what follows, you can find the main resources that were used while building the database, and the rationale behind the selections.
 
-Encyclopedias are a good starting point in any topic, and the *Encyclopaedia Britannica* does have a list of herbs and spices. Regarding the realm of plants, we relied on the book of South African botanist Ben-Erik van Wyk. For cultural and historical account, we turned towards the book of English historian and linguist Andrew Dalby. Finally, for a perspective from the culinary arts we used the book of Tony Hill, a spice merchant from Seattle.
+## 1. A Master List of Spices
+
+The first step was to create a list of spices that are relatively well-known, using information gathered by professionals from various fields. The second step was to collate the data on these materials, and morph it into a unified database to faciliate further enquiries. In the later stages of researching specific items, new and less common substances would reveal themselves, and their addition will help to reach the ultimate goal of a comprehensive list of spices.
+
+Encyclopedias can be a great starting point to kick off research in any topic, and the *Encyclopaedia Britannica* does have a non-exhaustive list of herbs and spices assembled by Melissa Petruzzello {{< cite -petruzzello_list_2023 >}}. I consider three academic fields crucial for research into the spice domain: *botany*, *history*, and *gastronomy*. Regarding the realm of plants, I relied on the book of South African botanist Ben-Erik van Wyk {{< cite -vanwyk_culinary_2014 >}}. For a cultural and historical account, I turned towards the book of English historian and linguist Andrew Dalby {{< cite -dalby_dangerous_2000 >}}. Finally, for a perspective from the culinary arts I used the book of Tony Hill {{< cite -hill_contemporary_2004 >}}, a spice merchant from Seattle.
+
+
+{{< center >}}
+**Table 1.** The main resources used for the spice list, and the number of items found in each.
+{{< /center >}}
 
 |Source | Field | Number of items |
 | --- | --- | --- |
@@ -22,24 +31,20 @@ Encyclopedias are a good starting point in any topic, and the *Encyclopaedia Bri
 | Dalby {{< cite -dalby_dangerous_2000 >}} | History | 297 |
 | van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
 
-<!-- {{< center >}}
-
-{{< /center >}} -->
-
 ![van Wyk](/images/books/vanwyk.jpg?height=20vw&classes=inline)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Dalby](/images/books/dalby.jpg?height=20vw&classes=inline)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Hill](/images/books/hill.jpg?height=20vw&classes=inline)
 
-<!-- ![van Wyk](/images/books/vanwyk.jpg?height=20vw&classes=inline,shadow)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-![Dalby](/images/books/dalby.jpg?height=20vw&classes=inline,shadow)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-![Hill](/images/books/hill.jpg?height=20vw&classes=inline,shadow) -->
+The main challenge of combining different spice datasets is that the basis of comparison is not always straightforward. Depending on scientific discipline, sources identify spices either by the binomial name of the species, common names, or even some general culinary/medicinal functions and uses. Binomial names are the safe way to go when we talk about the plants, but differentiating certain spices that might or might not be of the same flora can be challenging, not to mention trying to navigate historical data. Common names are almost always problematic, since many spices have many distinct names and name variations in different times, and they are often confused &ndash; especially so in multilingual settings. Moreover, the information complied by experts of a certain scientific field is vastly different in nature, focusing on botany, chemistry, history, economics, gastronomy, etc. The problematics of spice identification is due to the fact that different disciplines focus on different aspects of these fascinating subjects of study: the magnifying glass of the botanist, the zeal of the historian, and the needs of the chefs are all enormously diverse perspectives.
 
-The main challenge of collating different spice datasets is that the basis of comparison is not straightforward. Depending on discipline, sources identify spices by species name or common name, where the latter is always problematic since many spices have many different names and name variations. 
+<!-- ### 1.1. Other important sources -->
+
+<!-- ## 2. Historical Sources -->
 
 ***
+
+# Bibliography
 
 {{< bibliography cited >}}
