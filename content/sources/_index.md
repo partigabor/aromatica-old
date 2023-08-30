@@ -15,18 +15,28 @@ In what follows, you can find the main resources that were used while creating t
 
 Encyclopedias are a good starting point in any topic, and the *Encyclopaedia Britannica* does have a list of herbs and spices. Regarding the realm of plants, we relied on the book of South African botanist Ben-Erik van Wyk. For cultural and historical account, we turned towards the book of English historian and linguist Andrew Dalby. Finally, for a perspective from the culinary arts we used the book of Tony Hill, a spice merchant from Seattle.
 
-| Source | Field | Number of items |
+|Source | Field | Number of items |
 | --- | --- | --- |
 | Petruzzello {{< cite -petruzzello_list_2023 >}} | Reference | 70 |
 | Hill {{< cite -hill_contemporary_2004 >}} | Gastronomy | 127 |
 | Dalby {{< cite -dalby_dangerous_2000 >}} | History | 297 |
 | van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
 
-![Hill](/images/books/hill.jpg?height=300px)
-![Dalby](/images/books/dalby.jpg?height=300px)
-![van Wyk](/images/books/vanwyk.jpg?height=300px)
+<!-- {{< center >}}
 
+{{< /center >}} -->
 
+![van Wyk](/images/books/vanwyk.jpg?height=20vw&classes=inline)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![Dalby](/images/books/dalby.jpg?height=20vw&classes=inline)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![Hill](/images/books/hill.jpg?height=20vw&classes=inline)
+
+<!-- ![van Wyk](/images/books/vanwyk.jpg?height=20vw&classes=inline,shadow)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![Dalby](/images/books/dalby.jpg?height=20vw&classes=inline,shadow)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![Hill](/images/books/hill.jpg?height=20vw&classes=inline,shadow) -->
 
 The main challenge of collating different spice datasets is that the basis of comparison is not straightforward. Depending on discipline, sources identify spices by species name or common name, where the latter is always problematic since many spices have many different names and name variations. 
 

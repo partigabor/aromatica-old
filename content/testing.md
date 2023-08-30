@@ -52,10 +52,10 @@ But using the same code:
 
 I got this:
 
-![Spidertocat](https://octodex.github.com/images/spidertocat.png?classes=inline)
-![DrOctocat](https://octodex.github.com/images/droctocat.png?classes=inline)
-![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?classes=inline)
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=inline)
+![Spidertocat](https://octodex.github.com/images/spidertocat.png?width=11vw&classes=inline)
+![DrOctocat](https://octodex.github.com/images/droctocat.png?width=11vw&classes=inline)
+![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?width=11vw&classes=inline)
+![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?width=11vw&classes=inline)
 
 ***
 
