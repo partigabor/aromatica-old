@@ -1372,8 +1372,8 @@
       },
       "projection": {
         "rotation": {
-          "lat": 15,
-          "lon": 75,
+          "lat": 20,
+          "lon": 80,
           "roll": 0
         },
         "type": "orthographic",
