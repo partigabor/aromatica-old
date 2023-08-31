@@ -1372,8 +1372,8 @@
       },
       "projection": {
         "rotation": {
-          "lat": 20,
-          "lon": 80,
+          "lat": 15,
+          "lon": 75,
           "roll": 0
         },
         "type": "orthographic",
@@ -1454,8 +1454,6 @@
     },
     "paper_bgcolor": "rgba(0,0,0,0)",
     "plot_bgcolor": "rgba(0,0,0,0)",
-    "showlegend": true,
-    "width": 600,
-    "height": 600
+    "showlegend": true
   }
 }
