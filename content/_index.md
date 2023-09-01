@@ -1,13 +1,15 @@
 +++
 archetype = "home"
-title = "Home"
+title = ""
 date = "2023-08-01T00:00:00+08:00"
 author = "Gabor Parti"
 bibFile = "static/files/bibliography.json"
 
 +++
 
-Welcome to **Aromatica**, a database containing historical, cultural, and linguistic information about spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.
+# Welcome to **Aromatica**!
+
+Aromatica is a database containing historical, cultural, and linguistic information about spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.
 
 >The website is currently under construction, come back in 2024.
 

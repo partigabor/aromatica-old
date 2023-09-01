@@ -311,12 +311,5 @@ var relearn_search_index = [
     "tags": null,
     "title": "Category  -  vegetable",
     "uri": "/categories/vegetable/"
-  },
-  {
-    "content": "Welcome to Aromatica, a database containing historical, cultural, and linguistic information about spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.\nThe website is currently under construction, come back in 2024.\nOn the Name The name aromatica was inspired by the word exotica.1 Aromatica is the singular feminine or the plural neuter nominative form of arōmāticus (f. arōmātica, n. arōmāticum), an adjective meaning “composed of spice, aromatic, fragrant” (Lewis \u0026 Short, 1879), cf. Ancient Greek ἀρωματικός arōmatikós adj. ‘aromatic’, and the etymon ἄρωμα árōma n. “aromatic herb or spice” (Liddell–Scott–Jones, 1843).\nThe term therefore refers to any substance of fragrance, focusing on spices, but also including, oils and perfume, incense, fragrant woods, medicine, and other aromatic exotica with special olfactory and gustatory qualities.\nVersioning \u0026 Updates Version0.0.1 (2023-08-01) website creation; entering development mode (alpha)\nobjects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country ↩︎\n",
-    "description": "",
-    "tags": null,
-    "title": "Home",
-    "uri": "/"
   }
 ]
