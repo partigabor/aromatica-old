@@ -15,6 +15,7 @@ Aromatica is a database containing historical, cultural, and linguistic informat
 
 <!-- ### Background -->
 
+
 ### On the Name
 
 The name *aromatica* was inspired by the word *exotica*.[^1] *Aromatica* is the singular feminine or the plural neuter nominative form of *arōmāticus* (f. *arōmātica*, n. *arōmāticum*), an adjective meaning "composed of spice, aromatic, fragrant" [(Lewis & Short, 1879)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek *ἀρωματικός* arōmatikós adj. 'aromatic', and the etymon *ἄρωμα* árōma n. "aromatic herb or spice" [(Liddell–Scott–Jones, 1843)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1). 
