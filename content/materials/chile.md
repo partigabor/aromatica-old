@@ -1,8 +1,8 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "The fruits of several species from central and south america , related to paprika, also known as chilli; chili pepper."
+date = "2023-09-04"
+description = "The fruits of several species from central and south america , also known as chilli; chili pepper, related to paprika."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Capsicum annuum](/images/kohler/chile.png?height=600px "Illustration of Capsicum annuum L. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Capsicum annuum* L.](/images/illustrations/chile.png?width=25vw "Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887), II 127.")
+
+>Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887), II 127.
 
 Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 

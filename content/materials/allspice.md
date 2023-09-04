@@ -1,20 +1,22 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "Dried unripe berries of a caribbean tree, also known as pimento; Jamaica pepper."
+date = "2023-09-04"
+description = "The dried unripe berries of a caribbean tree, also known as pimento; Jamaica pepper."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
 categories = ['spice']
-tags = ['culinary']
+tags = ['culinary', ' perfumery']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Pimenta dioica](/images/kohler/allspice.png?height=600px "Illustration of Pimenta dioica (L.) Merr. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=25vw "Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen (1887), II 174.")
 
-Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean.[^van_wyk_culinary_2014] It is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
+>Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen (1887), II 174.
+
+Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean.[^van_wyk_culinary_2014] It is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors; spice for jerking meat; leaf oil for flavouring rum; wood to smoke and grill meat. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
 
 | Hungarian|   Arabic  |Chinese|
 |----------|-----------|-------|

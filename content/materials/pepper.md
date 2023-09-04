@@ -1,20 +1,22 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-08-21"
+date = "2023-09-04"
 description = "The dried fruits of an indian vine, also known as black pepper."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
 categories = ['spice']
-tags = ['culinary', 'medicinal']
+tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Piper nigrum](/images/kohler/pepper.png?height=600px "Illustration of Piper nigrum L. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Piper nigrum* L.](/images/illustrations/pepper.png?width=25vw "Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887), II 144.")
 
-Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
+>Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887), II 144.
+
+Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 |Hungarian|Arabic|Chinese|
 |---------|------|-------|

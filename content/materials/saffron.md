@@ -1,8 +1,8 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "The stigmas or styles of the saffron crocus flower."
+date = "2023-09-04"
+description = "The stigmas or styles of the saffron crocus flower; stamen of crocus sativus."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,9 +12,11 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Crocus sativus](/images/kohler/saffron.png?height=600px "Illustration of Crocus sativus L. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Crocus sativus* L.](/images/illustrations/saffron.png?width=25vw "Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.")
 
-Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
+>Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.
+
+Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for paella, bouillabaise, rice, tagine, fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
 |Hungarian|Arabic|Chinese|
 |---------|------|-------|

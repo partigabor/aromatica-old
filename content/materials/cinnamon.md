@@ -1,18 +1,20 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-08-21"
+date = "2023-09-04"
 description = "The inner bark of the cinnamon tree from sri lanka, related to cassia."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
 categories = ['spice']
-tags = ['culinary', 'medicinal']
+tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Cinnamomum verum](/images/kohler/cinnamon.png?height=600px "Illustration of Cinnamomum verum J.Presl. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=25vw "Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.")
+
+>Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.
 
 Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India.[^van_wyk_culinary_2014] It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 

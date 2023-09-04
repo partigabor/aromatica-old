@@ -1,20 +1,22 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "The bright-green seed pods of an indian plant; fruit of elettaria cardamomum."
+date = "2023-09-04"
+description = "The bright-green seed pods of an indian plant; fruit of elettaria cardamomum, also known as true cardamom; green cardamom."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
-categories = ['spice']
-tags = ['culinary']
+categories = ['spice', 'cardamoms']
+tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Elettaria cardamomum](/images/kohler/cardamom.png?height=600px "Illustration of Elettaria cardamomum (L.) Maton from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=25vw "Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.")
 
-Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its fruit (seed pods, capsules), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
+>Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.
+
+Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice and cardamoms from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia.[^van_wyk_culinary_2014] It is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
 |Hungarian|Arabic|Chinese|
 |---------|------|-------|
@@ -26,9 +28,9 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 |------------------|-------------------------------------------------------|
 |   species name   |           *Elettaria cardamomum* (L.) Maton           |
 |      family      |                     Zingiberaceae                     |
-|     part used    |              fruit (seed pods, capsules)              |
+|     part used    |                    fruit (seed pod)                   |
 |     macroarea    |                          Asia                         |
-| region of origin |                         India                         |
+| region of origin |            Kerala, S. India; southern Asia            |
 |    cultivation   |Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea|
 |       color      |              green seed pods, brown seeds             |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |

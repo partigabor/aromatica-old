@@ -1,20 +1,22 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "The seed-like fruits of a mediterranean herb, related to star anise, also known as aniseed."
+date = "2023-09-04"
+description = "The seed-like fruits of a mediterranean herb, also known as aniseed, related to fennel."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
 categories = ['spice']
-tags = ['culinary']
+tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Pimpinella anisum](/images/kohler/anise.png?height=600px "Illustration of Pimpinella anisum L. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Pimpinella anisum* L.](/images/illustrations/anise.png?width=25vw "Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen (1887), II 93.")
 
-Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of nan.[^van_wyk_culinary_2014] It is used for its fruit and oil, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
+>Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen (1887), II 93.
+
+Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia Minor.[^van_wyk_culinary_2014] It is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 |Hungarian|Arabic|Chinese|
 |---------|------|-------|
@@ -26,9 +28,9 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 |------------------|---------------------------------------------------|
 |   species name   |               *Pimpinella anisum* L.              |
 |      family      |                      Apiaceae                     |
-|     part used    |                     fruit; oil                    |
-|     macroarea    |                   Med.; W. Asia                   |
-| region of origin |                        nan                        |
+|     part used    |                  fruit; oil; leaf                 |
+|     macroarea    |                   Mediterranean                   |
+| region of origin |       E. Mediterranean; W. Asia; Asia Minor       |
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|

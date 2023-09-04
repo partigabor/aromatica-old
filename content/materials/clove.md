@@ -1,20 +1,22 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "The dried flower-buds of a tropical tree from the moluccas, indonesia."
+date = "2023-09-04"
+description = "The dried flower-buds of a tropical tree from the moluccas, indonesia; bud of syzygium aromaticum."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
 categories = ['spice']
-tags = ['culinary', 'medicinal']
+tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Syzygium aromaticum](/images/kohler/clove.png?height=600px "Illustration of Syzygium aromaticum (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=25vw "Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.")
 
-Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
+>Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.
+
+Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, Indonesia.[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
 | Hungarian|Arabic|Chinese|
 |----------|------|-------|
@@ -28,7 +30,7 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |      family      |                     Myrtaceae                     |
 |     part used    |                    flower buds                    |
 |     macroarea    |                        Asia                       |
-| region of origin |                Moluccas (Indonesia)               |
+| region of origin |               N. Moluccas, Indonesia              |
 |    cultivation   |           Indonesia; Malaysia; Tanzania           |
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|

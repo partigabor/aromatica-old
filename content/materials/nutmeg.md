@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-08-21"
+date = "2023-09-04"
 description = "The seed of a peach-like fruit of the nutmeg tree of the moluccas, indonesia, related to mace."
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Myristica fragrans](/images/kohler/nutmeg.png?height=600px "Illustration of Myristica fragrans Houtt. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=25vw "Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.")
+
+>Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.
 
 Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 

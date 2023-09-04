@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-08-21"
+date = "2023-09-04"
 description = "The seeds and leaves of a mediterranean herb used to flavour food in european cuisine."
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Anethum graveolens](/images/kohler/dill.png?height=600px "Illustration of Anethum graveolens L. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Anethum graveolens* L.](/images/illustrations/dill.png?width=25vw "Illustration of *Anethum graveolens* L. from Köhler's Medizinal-Pflanzen (1887), nan.")
+
+>Illustration of *Anethum graveolens* L. from Köhler's Medizinal-Pflanzen (1887), nan.
 
 Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
 

@@ -1,18 +1,20 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-08-21"
-description = "The bright yellow powder yielded from the rhizomes of curcuma longa."
+date = "2023-09-04"
+description = "The bright yellow powder yielded from the rhizomes of curcuma longa; root of curcuma domestica."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
 categories = ['spice', 'dye']
-tags = ['culinary', 'medicinal', 'ritualistic']
+tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of Curcuma longa](/images/kohler/turmeric.png?height=600px "Illustration of Curcuma longa L. from Köhler's Medizinal-Pflanzen (1887)")
+![Illustration of *Curcuma longa* L.](/images/illustrations/turmeric.png?width=25vw "Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.")
+
+>Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.
 
 Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
