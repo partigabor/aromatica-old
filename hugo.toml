@@ -189,3 +189,9 @@ weight = 50
   # To use these native HTML elements in your Markdown (such as FontAwesome icons), add this in your config.toml:
   # [markup.goldmark.renderer]
   #   unsafe = true
+
+  [params.utterances]
+  repo = "partigabor/partigabor.github.io" # https://utteranc.es/#heading-repository
+  issueTerm = "" # https://utteranc.es/#heading-mapping
+  label = "" # https://utteranc.es/#heading-issue-label
+  theme = "photon-dark" # https://utteranc.es/#heading-theme
