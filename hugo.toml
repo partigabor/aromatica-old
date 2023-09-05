@@ -190,8 +190,9 @@ weight = 50
   # [markup.goldmark.renderer]
   #   unsafe = true
 
-  [params.utterances]
+# Comments
+[params.utterances]
   repo = "partigabor/aromatica" # https://utteranc.es/#heading-repository
-  issueTerm = "" # https://utteranc.es/#heading-mapping
-  label = "" # https://utteranc.es/#heading-issue-label
+  issueTerm = "pathname" # https://utteranc.es/#heading-mapping
+  label = "comment" # https://utteranc.es/#heading-issue-label
   theme = "photon-dark" # https://utteranc.es/#heading-theme
