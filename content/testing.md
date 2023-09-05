@@ -7,6 +7,7 @@ weight = 10
 # draft = "false"
 categories = ['spice']
 tags = ['culinary']
+disableComments = "true"
 # plotly = "true"
 # mermaidZoom = true
 # bibFile = "static/files/bibliography.json"
