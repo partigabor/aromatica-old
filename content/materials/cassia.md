@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-09-04"
+date = "2023-09-06"
 description = "The inner bark of a southeast asian tree."
 weight = 10
 # draft = "true"
