@@ -4,7 +4,7 @@ canonifyURLs = true
 relativeURLs = true
 
 # Language default
-languageCode = 'en-us'
+# languageCode = 'en-us'
 
 # Change the default theme to be use when building the site with Hugo
 theme = ["hugo-theme-relearn", "hugo-cite"]
