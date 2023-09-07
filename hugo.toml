@@ -123,7 +123,7 @@ weight = 50
   # Disable search in hidden pages, otherwise they will be shown in search box
   disableSearchHiddenPages = false
   # Disables hidden pages from showing up in the sitemap and on Google (et al.), otherwise they may be indexed by search engines
-  disableSeoHiddenPages = true
+  disableSeoHiddenPages = false
   # Disables hidden pages from showing up on the tags page although the tag term will be displayed even if all pages are hidden
   disableTagHiddenPages = false
   # Javascript and CSS cache are automatically busted when new version of site is generated.
@@ -169,23 +169,30 @@ weight = 50
   # this can be overridden in the pages frontmatter
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
-  themeVariant = ["dark", "light", "neon"]
+  # themeVariant = ["dark", "light", "neon"]
+  # themeVariant = [ "relearn-light", "relearn-dark" ]
+  themeVariant = "auto"
   # Change the breadcrumb separator. Default to ">".
   breadcrumbSeparator = "|"
   # Change the title separator. Default to "::".
-  titleSeparator = "::"
+  titleSeparator = "-"
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
   collapsibleMenu = true
   # English is the default language
-  defaultContentLanguage = "en"
+  # defaultContentLanguage = "en"
   # If a single page can contain content in multiple languages, add those here
-  # additionalContentLanguage = [ "en" ]
+  additionalContentLanguage = [ "en" ]
   # If set to true, no index.html will be appended to prettyURLs; this will cause pages not
   # to be servable from the file system
   disableExplicitIndexURLs = true
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
-
+  # Override default values for image effects, you can even add your own arbitrary effects to the list
+  [params.imageEffects]
+    border = false
+    lightbox = true
+    shadow = false
+    
   # To use these native HTML elements in your Markdown (such as FontAwesome icons), add this in your config.toml:
   # [markup.goldmark.renderer]
   #   unsafe = true

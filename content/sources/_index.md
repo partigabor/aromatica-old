@@ -32,10 +32,10 @@ Encyclopedias can be a great starting point to kick off research in any topic, a
 | van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
 
 ![van Wyk](/images/books/vanwyk.jpg?height=20vw&classes=inline)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Dalby](/images/books/dalby.jpg?height=20vw&classes=inline)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Hill](/images/books/hill.jpg?height=20vw&classes=inline)
+
+<!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -->
 
 The main challenge of combining different spice datasets is that the basis of comparison is not always straightforward. Depending on scientific discipline, sources identify spices either by the binomial name of the species, common names, or even some general culinary/medicinal functions and uses. Binomial names are the safe way to go when we talk about the plants, but differentiating certain spices that might or might not be of the same flora can be challenging, not to mention trying to navigate historical data. Common names are almost always problematic, since many spices have many distinct names and name variations in different times, and they are often confused &ndash; especially so in multilingual settings. Moreover, the information complied by experts of a certain scientific field is vastly different in nature, focusing on botany, chemistry, history, economics, gastronomy, etc. The problematics of spice identification is due to the fact that different disciplines focus on different aspects of these fascinating subjects of study: the magnifying glass of the botanist, the zeal of the historian, and the needs of the chefs are all enormously diverse perspectives.
 
