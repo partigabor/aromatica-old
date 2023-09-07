@@ -192,9 +192,9 @@ weight = 50
     border = false
     lightbox = true
     shadow = false
-    
+
   # To use these native HTML elements in your Markdown (such as FontAwesome icons), add this in your config.toml:
-  # [markup.goldmark.renderer]
+  [markup.goldmark.renderer]
   #   unsafe = true
 
 # Comments
