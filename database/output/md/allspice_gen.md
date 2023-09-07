@@ -39,6 +39,3 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from th
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
-***
-
-This is a manuscript.
