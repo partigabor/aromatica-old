@@ -169,9 +169,7 @@ weight = 50
   # this can be overridden in the pages frontmatter
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
-  # themeVariant = ["dark", "light", "neon"]
-  # themeVariant = [ "relearn-light", "relearn-dark" ]
-  themeVariant = "auto"
+  themeVariant = ["dark", "light", "neon"]
   # Change the breadcrumb separator. Default to ">".
   breadcrumbSeparator = "|"
   # Change the title separator. Default to "::".
