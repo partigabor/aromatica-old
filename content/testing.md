@@ -39,6 +39,12 @@ disableComments = "true"
 
 Lorem Ipsum.
 
+## Plotly
+
+{{< load-plotly >}}
+
+{{< plotly json="/aromatica/plotly/test.json" height="700" >}}
+
 ## Box
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
@@ -65,18 +71,14 @@ It is all about the boxes.
 
 {{% include "content/materials/something.md" %}}
 
+## Mermaid
+
 {{< mermaid zoom="true" >}}
 pie title Spice names by language
     "English" : 120
     "Arabic" : 90
     "Chinese" : 60
 {{< /mermaid >}}
-
-## Plotly
-
-{{< load-plotly >}}
-
-{{< plotly json="/aromatica/plotly/test.json" height="400" >}}
 
 ## Images
 
