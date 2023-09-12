@@ -39,6 +39,12 @@ disableComments = "true"
 
 Lorem Ipsum.
 
+## Gallery
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/cardamom/" />}}
+
 ## Plotly
 
 {{< load-plotly >}}
@@ -81,15 +87,6 @@ pie title Spice names by language
 {{< /mermaid >}}
 
 ## Images
-
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?width=11vw&classes=inline)
-
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?width=11vw&classes=shadow)
-
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?width=11vw&classes=left)
-
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?width=20vw)
-
 
 ```md
 ![Spidertocat](https://octodex.github.com/images/spidertocat.png?width=11vw&classes=inline)
