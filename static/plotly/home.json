@@ -1660,13 +1660,13 @@
       "center": {},
       "lataxis": {
         "dtick": 10,
-        "gridcolor": "#283747",
+        "gridcolor": "#04293A",
         "gridwidth": 0.5,
         "showgrid": true
       },
       "lonaxis": {
         "dtick": 10,
-        "gridcolor": "#283747",
+        "gridcolor": "#04293A",
         "gridwidth": 0.5,
         "showgrid": true
       },
@@ -1680,17 +1680,17 @@
         "scale": 1
       },
       "bgcolor": "rgba(0,0,0,0)",
-      "coastlinecolor": "#34495e",
+      "coastlinecolor": "#064663",
       "coastlinewidth": 1,
-      "countrycolor": "#34495e",
+      "countrycolor": "#064663",
       "countrywidth": 1,
-      "framecolor": "#34495e",
+      "framecolor": "#064663",
       "framewidth": 1,
-      "lakecolor": "#2b2b2b",
-      "landcolor": " #2e4053",
-      "oceancolor": "#2b2b2b",
+      "lakecolor": "#041C32",
+      "landcolor": "#064663",
+      "oceancolor": "#041C32",
       "resolution": 110,
-      "rivercolor": "#2b2b2b",
+      "rivercolor": "#041C32",
       "riverwidth": 1,
       "scope": "world",
       "showcoastlines": true,
@@ -1701,7 +1701,7 @@
       "showocean": true,
       "showrivers": true,
       "showsubunits": false,
-      "subunitcolor": "#34495e",
+      "subunitcolor": "#064663",
       "subunitwidth": 1
     },
     "legend": {
@@ -1720,7 +1720,7 @@
         "family": "Sans-Serif",
         "size": 14
       },
-      "bgcolor": "rgba(0,0,0,0.5)",
+      "bgcolor": "rgba(0,0,0,0.25)",
       "orientation": "v",
       "traceorder": "normal",
       "x": 0,
