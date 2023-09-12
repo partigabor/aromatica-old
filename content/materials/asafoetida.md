@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-09-11"
+date = "2023-09-12"
 description = "The dried gum-resin of several species of ferula plants, also known as hing; devil's dung."
 weight = 10
 # draft = "true"
