@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-09-12"
+date = "2023-09-13"
 description = "The star shaped pericarps of a tree from vietnam and south china; fruit of illicium verum."
 weight = 10
 # draft = "true"

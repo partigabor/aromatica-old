@@ -1660,13 +1660,13 @@
       "center": {},
       "lataxis": {
         "dtick": 10,
-        "gridcolor": "#04293A",
+        "gridcolor": "#3b4252",
         "gridwidth": 0.5,
         "showgrid": true
       },
       "lonaxis": {
         "dtick": 10,
-        "gridcolor": "#04293A",
+        "gridcolor": "#3b4252",
         "gridwidth": 0.5,
         "showgrid": true
       },
@@ -1680,17 +1680,17 @@
         "scale": 1
       },
       "bgcolor": "rgba(0,0,0,0)",
-      "coastlinecolor": "#064663",
+      "coastlinecolor": "#4c566a",
       "coastlinewidth": 1,
-      "countrycolor": "#064663",
+      "countrycolor": "#4c566a",
       "countrywidth": 1,
-      "framecolor": "#064663",
+      "framecolor": "#4c566a",
       "framewidth": 1,
-      "lakecolor": "#041C32",
-      "landcolor": "#064663",
-      "oceancolor": "#041C32",
+      "lakecolor": "#2e3440",
+      "landcolor": "#434c5e",
+      "oceancolor": "#2e3440",
       "resolution": 110,
-      "rivercolor": "#041C32",
+      "rivercolor": "#2e3440",
       "riverwidth": 1,
       "scope": "world",
       "showcoastlines": true,
@@ -1701,7 +1701,7 @@
       "showocean": true,
       "showrivers": true,
       "showsubunits": false,
-      "subunitcolor": "#064663",
+      "subunitcolor": "#4c566a",
       "subunitwidth": 1
     },
     "legend": {

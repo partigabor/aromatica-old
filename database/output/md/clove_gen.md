@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-09-12"
+date = "2023-09-13"
 description = "The dried flower-buds of a tropical tree from the moluccas, indonesia; bud of syzygium aromaticum."
 weight = 10
 # draft = "true"
