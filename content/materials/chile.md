@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-09-13"
+date = "2023-09-14"
 description = "The fruits of several species from central and south america , also known as chilli; chili pepper, related to paprika."
 weight = 10
 # draft = "true"

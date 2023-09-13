@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-09-13"
+date = "2023-09-14"
 description = "The seeds and leaves of a mediterranean herb used to flavour food in european cuisine."
 weight = 10
 # draft = "true"

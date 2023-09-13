@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-09-13"
+date = "2023-09-14"
 description = "The seeds of a west asian herb."
 weight = 10
 # draft = "true"
