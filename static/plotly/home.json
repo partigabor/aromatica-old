@@ -1680,11 +1680,11 @@
         "scale": 1
       },
       "bgcolor": "rgba(0,0,0,0)",
-      "coastlinecolor": "#4c566a",
+      "coastlinecolor": "#434c5e",
       "coastlinewidth": 1,
-      "countrycolor": "#4c566a",
+      "countrycolor": "#434c5e",
       "countrywidth": 1,
-      "framecolor": "#4c566a",
+      "framecolor": "#434c5e",
       "framewidth": 1,
       "lakecolor": "#2e3440",
       "landcolor": "#434c5e",
@@ -1701,7 +1701,7 @@
       "showocean": true,
       "showrivers": true,
       "showsubunits": false,
-      "subunitcolor": "#4c566a",
+      "subunitcolor": "#434c5e",
       "subunitwidth": 1
     },
     "legend": {
