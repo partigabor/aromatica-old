@@ -43,7 +43,7 @@
         "-77"
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#5f4690",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -127,7 +127,7 @@
         "75"
       ],
       "marker": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#1d6996",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -197,7 +197,7 @@
         "130"
       ],
       "marker": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#38a6a5",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -251,7 +251,7 @@
         "22"
       ],
       "marker": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#0f8554",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -304,7 +304,7 @@
         "106"
       ],
       "marker": {
-        "color": "rgb(115, 175, 72)",
+        "color": "#73af48",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -447,7 +447,7 @@
         "30"
       ],
       "marker": {
-        "color": "rgb(237, 173, 8)",
+        "color": "#edae08",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -521,7 +521,7 @@
         "81"
       ],
       "marker": {
-        "color": "rgb(225, 124, 5)",
+        "color": "#e17909",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -590,7 +590,7 @@
         "80"
       ],
       "marker": {
-        "color": "rgb(204, 80, 62)",
+        "color": "#cc503e",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -644,7 +644,7 @@
         "-85"
       ],
       "marker": {
-        "color": "rgb(148, 52, 110)",
+        "color": "#94346e",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -697,7 +697,7 @@
         "67"
       ],
       "marker": {
-        "color": "rgb(111, 64, 112)",
+        "color": "#6f4070",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -750,7 +750,7 @@
         "105"
       ],
       "marker": {
-        "color": "rgb(102, 102, 102)",
+        "color": "#a28aba",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -803,7 +803,7 @@
         "-55"
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#6baed6",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
