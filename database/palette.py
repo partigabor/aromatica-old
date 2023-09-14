@@ -1,11 +1,18 @@
 # Colour palette file
 
-# General
+# Transparency from black
 transparent = "rgba(0,0,0,0)"
 three_quarters_transparent = 'rgba(0,0,0,0.75)'
 half_transparent = 'rgba(0,0,0,0.5)'
 quarter_transparent = 'rgba(0,0,0,0.25)'
 tenth_transparent = 'rgba(0,0,0,0.1)'
+
+# Transparency from white
+transparent_white = "rgba(255,255,255,0)"
+three_quarters_transparent_white = 'rgba(255,255,255,0.75)'
+half_transparent_white = 'rgba(255,255,255,0.5)'
+quarter_transparent_white = 'rgba(255,255,255,0.25)'
+tenth_transparent_white = 'rgba(255,255,255,0.1)'
 
 # Colors
 
