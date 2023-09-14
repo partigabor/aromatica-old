@@ -49,7 +49,7 @@ Lorem Ipsum.
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/test.json" height="700" >}}
+{{< plotly json="/aromatica/plotly/test.json" height="600" >}}
 
 ## Box
 

@@ -15,7 +15,7 @@ Aromatica is a database containing historical, cultural, and linguistic informat
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/test.json" height="600" >}}
+{{< plotly json="/aromatica/plotly/distribution_map.json" height="600" >}}
 
 <!-- ### Background -->
 

@@ -39,7 +39,7 @@ fuchsia = '#6f4070'
 gray = '#666666'
 black = '#000000'
 
-# Nord colour scheme (https://www.nordtheme.com/docs/colors-and-palettes).
+# Nord colour scheme (https://www.nordtheme.com/docs/colors-and-palettes) © 2016-2023 Arctic Ice Studio & Sven Greb
 # Polar Night
 nord0 = "#2e3440"
 nord1 = "#3b4252"

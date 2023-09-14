@@ -70,7 +70,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -165,7 +165,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -241,7 +241,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -298,7 +298,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -355,7 +355,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -526,7 +526,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -602,7 +602,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -678,7 +678,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -735,7 +735,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -792,7 +792,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -849,7 +849,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -906,7 +906,7 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
@@ -1747,17 +1747,17 @@
         "scale": 1
       },
       "bgcolor": "rgba(0,0,0,0)",
-      "coastlinecolor": "#d8dee9",
+      "coastlinecolor": "#eceff4",
       "coastlinewidth": 1,
-      "countrycolor": "#d8dee9",
+      "countrycolor": "#eceff4",
       "countrywidth": 1,
-      "framecolor": "#d8dee9",
+      "framecolor": "#eceff4",
       "framewidth": 1,
-      "lakecolor": "#eceff4",
-      "landcolor": "#d8dee9",
-      "oceancolor": "#eceff4",
+      "lakecolor": "#d8dee9",
+      "landcolor": "#eceff4",
+      "oceancolor": "#d8dee9",
       "resolution": 110,
-      "rivercolor": "#eceff4",
+      "rivercolor": "#d8dee9",
       "riverwidth": 1,
       "scope": "world",
       "showcoastlines": true,
@@ -1768,26 +1768,26 @@
       "showocean": true,
       "showrivers": true,
       "showsubunits": false,
-      "subunitcolor": "#d8dee9",
+      "subunitcolor": "#eceff4",
       "subunitwidth": 1
     },
     "legend": {
       "title": {
         "text": "family",
         "font": {
-          "color": "white",
+          "color": "#2e3440",
           "family": "Sans-Serif",
-          "size": 16
+          "size": 18
         }
       },
       "tracegroupgap": 0,
       "itemsizing": "constant",
       "font": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
         "size": 14
       },
-      "bgcolor": "rgba(0,0,0,0.5)",
+      "bgcolor": "rgba(216,222,233,0.5)",
       "orientation": "v",
       "traceorder": "normal",
       "x": 0,
@@ -1809,18 +1809,61 @@
     },
     "title": {
       "font": {
-        "color": "white",
+        "color": "#2e3440",
         "family": "Sans-Serif",
-        "size": 18
+        "size": 20
       },
-      "text": "",
+      "text": "Title",
       "x": 0.5,
       "xanchor": "center",
-      "y": 0.99,
+      "y": 0.98,
       "yanchor": "top"
     },
     "paper_bgcolor": "rgba(0,0,0,0)",
     "plot_bgcolor": "rgba(0,0,0,0)",
-    "showlegend": true
+    "showlegend": true,
+    "annotations": [
+      {
+        "font": {
+          "color": "#2e3440",
+          "family": "Sans-Serif",
+          "size": 14
+        },
+        "name": "info",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "Click on a material to navigate to its corresponding page!",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0.1,
+        "yref": "paper"
+      },
+      {
+        "font": {
+          "color": "#d8dee9",
+          "family": "Sans-Serif",
+          "size": 8
+        },
+        "name": "copyright",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "\u00a9 G\u00e1bor Parti, 2023",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0,
+        "yref": "paper"
+      }
+    ],
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https:\u002f\u002fupload.wikimedia.org\u002fwikipedia\u002fen\u002fthumb\u002f9\u002f9e\u002fPolyU_Logo_with_wordmark.svg\u002f1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
   }
 }
