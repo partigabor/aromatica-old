@@ -25,28 +25,39 @@ prism_dark = ['#3f2b5b', '#0b4f6c', '#1f7872', '#0b4228', '#4f6228', '#9c6d00', 
 # Combine the above three lists into one
 prism = prism + prism_light + prism_dark
 
-
+# Color names
+purple = '#5f4690'
+blue = '#1d6996'
+turquoise = '#38a6a5'
+green = '#0f8554'
+lime = '#73af48'
+yellow = '#edad08'
+orange = '#e17c05'
+red = '#cc503e'
+magenta = '#94346e'
+fuchsia = '#6f4070'
+gray = '#666666'
+black = '#000000'
 
 # Nord colour scheme (https://www.nordtheme.com/docs/colors-and-palettes).
-
 # Polar Night
 nord0 = "#2e3440"
 nord1 = "#3b4252"
 nord2 = "#434c5e"
+nord3 = "#4c566a"
 
 # Snow Storm
-nord3 = "#4c566a"
 nord4 = "#d8dee9"
 nord5 = "#e5e9f0"
+nord6 = "#eceff4"
 
 # Frost
-nord6 = "#eceff4"
 nord7 = "#8fbcbb"
 nord8 = "#88c0d0"
 nord9 = "#81a1c1"
+nord10 = "#5e81ac"
 
 # Aurora
-nord10 = "#5e81ac"
 nord11 = "#bf616a"
 nord12 = "#d08770"
 nord13 = "#ebcb8b"
