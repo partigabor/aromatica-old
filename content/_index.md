@@ -13,10 +13,6 @@ Aromatica is a database containing historical, cultural, and linguistic informat
 
 >The website is currently under construction, come back in 2024.
 
-{{< load-plotly >}}
-
-{{< plotly json="/aromatica/plotly/distribution_map.json" height="600" >}}
-
 <!-- ### Background -->
 
 ### On the Name

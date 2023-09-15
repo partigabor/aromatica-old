@@ -57,7 +57,7 @@ Transition styles
 figure styles
 */
 figure {
-    position :relative; /* purely to allow absolution positioning of figcaption */
+    position:relative; /* purely to allow absolution positioning of figcaption */
     overflow: hidden;
 }
 .gallery figure {
@@ -120,8 +120,8 @@ figcaption styles
     background: #000;
     color: #FFF;
     text-align: center;
-    font-size: 90%; /* change this if you want bigger text */
-    background: rgba(0, 0, 0, 0.6);
+    font-size: 75%; /* change this if you want bigger text */
+    background: rgba(0, 0, 0, 0.5);
     opacity: 1;
     cursor: pointer;
 }

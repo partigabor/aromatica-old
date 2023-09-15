@@ -43,6 +43,8 @@ Lorem Ipsum.
 
 {{< load-photoswipe >}}
 
+<!-- {{< figure src="/images/cardamom/white-cardamom.jpg" alt="This is a caption" >}} -->
+
 {{< gallery dir="/images/cardamom/" />}}
 
 ## Plotly
