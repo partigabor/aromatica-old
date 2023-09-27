@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-09-14"
+date = "2023-09-27"
 description = "The dried seeds of a west asian flowering plant; seed of cuminum cyminum."
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 >Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen (1887), III 23.
 
-Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
+Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; India.[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
 |  Hungarian |Arabic|Chinese|
 |------------|------|-------|
@@ -30,7 +30,7 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |      family      |                      Apiaceae                     |
 |     part used    |                       fruit                       |
 |     macroarea    |                        Asia                       |
-| region of origin |               W. \& C. Asia; India                |
+| region of origin |           S. Europe; W. & C. Asia; India          |
 |    cultivation   |                India; Iran; Lebanon               |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|

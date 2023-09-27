@@ -1,8 +1,8 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-09-14"
-description = "The fruits of several species from central and south america , also known as chilli; chili pepper, related to paprika."
+date = "2023-09-27"
+description = "The fruits of capsicum annuum and other species, also known as chilli; chili pepper, related to paprika."
 weight = 10
 # draft = "true"
 # hidden = "true"

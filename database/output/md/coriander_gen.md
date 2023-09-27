@@ -1,13 +1,13 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-09-14"
-description = "The dried fruits of an annual herb, also used for its fresh leaves, also known as cilantro; Chinese parsley."
+date = "2023-09-27"
+description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
 # hidden = "true"
 # plotly = true
-categories = ['spice', 'herb']
+categories = ['spice']
 tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 >Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen (1887), II 145.
 
-Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
+Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 |Hungarian|Arabic|Chinese|
 |---------|------|-------|
@@ -28,9 +28,9 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 |------------------|-----------------------------------------------------|
 |   species name   |               *Coriandrum sativum* L.               |
 |      family      |                       Apiaceae                      |
-|     part used    |                     fruit; leaf                     |
+|     part used    |                        fruit                        |
 |     macroarea    |                         Asia                        |
-| region of origin |         Mediterranean; W. Asia; India; SW As        |
+| region of origin |              E. Mediterranean; W. Asia              |
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
