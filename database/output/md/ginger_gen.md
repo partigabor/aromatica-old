@@ -1,12 +1,12 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-09-14"
+date = "2023-10-04"
 description = "The rhizomes of the ginger plant, fresh or dried; root of zingiber officinale."
 weight = 10
 # draft = "true"
 # hidden = "true"
-# plotly = true
+plotly = true
 categories = ['spice']
 tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
@@ -34,6 +34,10 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
+
+{{< load-plotly >}}
+
+{{< plotly json="/aromatica/plotly/regions_gingerhome.json" height="600" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

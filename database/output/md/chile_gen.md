@@ -1,12 +1,12 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-09-27"
+date = "2023-10-04"
 description = "The fruits of capsicum annuum and other species, also known as chilli; chili pepper, related to paprika."
 weight = 10
 # draft = "true"
 # hidden = "true"
-# plotly = true
+plotly = true
 categories = ['spice']
 tags = ['culinary']
 bibFile = "static/files/bibliography.json"
@@ -34,6 +34,10 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 |    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
 |       color      |                   red and green in many shades                  |
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
+
+{{< load-plotly >}}
+
+{{< plotly json="/aromatica/plotly/regions_chilehome.json" height="600" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

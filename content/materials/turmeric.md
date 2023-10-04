@@ -1,12 +1,12 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-09-14"
+date = "2023-10-04"
 description = "The bright yellow powder yielded from the rhizomes of curcuma longa; root of curcuma domestica."
 weight = 10
 # draft = "true"
 # hidden = "true"
-# plotly = true
+plotly = true
 categories = ['spice', 'dye']
 tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
@@ -34,6 +34,10 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
+
+{{< load-plotly >}}
+
+{{< plotly json="/aromatica/plotly/regions_turmerichome.json" height="600" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

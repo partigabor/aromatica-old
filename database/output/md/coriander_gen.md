@@ -1,12 +1,12 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-09-27"
+date = "2023-10-04"
 description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
 # hidden = "true"
-# plotly = true
+plotly = true
 categories = ['spice']
 tags = ['culinary']
 bibFile = "static/files/bibliography.json"
@@ -34,6 +34,10 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
+
+{{< load-plotly >}}
+
+{{< plotly json="/aromatica/plotly/regions_corianderhome.json" height="600" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
