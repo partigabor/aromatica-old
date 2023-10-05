@@ -827,6 +827,59 @@
         "size": 14
       },
       "textposition": "top right"
+    },
+    {
+      "customdata": [
+        [
+          "Bixa orellana",
+          "Bixaceae",
+          "Trop. Am.; C. Am.",
+          "\u0623\u0646\u0627\u062a\u0648",
+          "an\u0101t\u016b",
+          "\u80ed\u8102\u6a39\u7d05",
+          "y\u0101n\u200bzh\u012bsh\u00f9h\u00f3ng",
+          -81.0,
+          9.0,
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "annatto"
+      ],
+      "lat": [
+        9.0
+      ],
+      "legendgroup": "Bixaceae",
+      "lon": [
+        -81.0
+      ],
+      "marker": {
+        "color": "#8dd3d7",
+        "opacity": 0.7,
+        "size": 14,
+        "sizemode": "area",
+        "sizeref": 0.0009765625,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Bixaceae",
+      "showlegend": true,
+      "text": [
+        "annatto"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "white",
+        "family": "Sans-Serif",
+        "size": 14
+      },
+      "textposition": "top right"
     }
   ],
   "layout": {

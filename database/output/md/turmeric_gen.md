@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-04"
+date = "2023-10-05"
 description = "The bright yellow powder yielded from the rhizomes of curcuma longa; root of curcuma domestica."
 weight = 10
 # draft = "true"

@@ -1,0 +1,41 @@
++++
+title = "Annatto"
+author = "Gabor Parti"
+date = "2023-10-05"
+description = "The red juice of the seeds of bixa orellana."
+weight = 10
+# draft = "true"
+# hidden = "true"
+plotly = true
+categories = ['spice', 'dye']
+tags = ['culinary', ' medicinal']
+bibFile = "static/files/bibliography.json"
++++
+
+Annatto (*Bixa orellana* L.) is a culinary and medicinal spice and dye from the *Bixaceae* family,[^powo] originating in the region(s) of Trop. Am.; C. Am..[^van_wyk_culinary_2014] It is used for its seed, primarily for dye, stews; insect repellant; dyeing; colouring cheese. Its aroma is described as sweet, peppery, with a heat index of 2.[^ucla_medicinal_2002]
+
+|Hungarian|Arabic|Chinese|
+|---------|------|-------|
+| annatto | أناتو|  胭脂樹紅 |
+
+## Overview
+
+|        id        |                      annatto                     |
+|------------------|--------------------------------------------------|
+|   species name   |                *Bixa orellana* L.                |
+|      family      |                     Bixaceae                     |
+|     part used    |                       seed                       |
+|     macroarea    |                     Americas                     |
+| region of origin |                 Trop. Am.; C. Am.                |
+|    cultivation   |                        nan                       |
+|       color      |                        nan                       |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
+
+{{< load-plotly >}}
+
+{{< plotly json="/aromatica/plotly/regions_annattohome.json" height="600" >}}
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+

@@ -6,12 +6,12 @@
 @import "chroma-light.css";
 
 :root {
-    --PRIMARY-color: #86B049; /*rgba( 125, 201, 3, 1 ); /* brand primary color */
-    --SECONDARY-color: #86B049; /*( 108, 140, 227, 1 ); /* brand secondary color */
-    --ACCENT-color: #499ab0; /* brand accent color, used for search highlights */
+    --PRIMARY-color: #477050; /*rgba( 125, 201, 3, 1 ); /* brand primary color */
+    --SECONDARY-color: #477050; /*( 108, 140, 227, 1 ); /* brand secondary color */
+    --ACCENT-color: #475770; /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: #101010; /* text color of content and h1 titles */
-    --MAIN-LINK-HOVER-color: #678d2d; /* hovered link color of content */
+    --MAIN-LINK-HOVER-color: #477050; /* hovered link color of content */
     --MAIN-BG-color: #ffffff; /* background color of content */
     --MAIN-TITLES-TEXT-color: #4a4a4a; /* text color of h2-h6 titles and transparent box titles */
 
