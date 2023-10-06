@@ -1,7 +1,7 @@
 +++
 title = "Annatto"
 author = "Gabor Parti"
-date = "2023-10-05"
+date = "2023-10-06"
 description = "The red juice of the seeds of bixa orellana."
 weight = 10
 # draft = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Annatto (*Bixa orellana* L.) is a culinary and medicinal spice and dye from the *Bixaceae* family,[^powo] originating in the region(s) of Trop. Am.; C. Am..[^van_wyk_culinary_2014] It is used for its seed, primarily for dye, stews; insect repellant; dyeing; colouring cheese. Its aroma is described as sweet, peppery, with a heat index of 2.[^ucla_medicinal_2002]
+Annatto (*Bixa orellana* L.) is a culinary and medicinal spice and dye from the *Bixaceae* family,[^powo] originating in the region(s) of Trop. Am.; C. Am..[^van_wyk_culinary_2014] It is used for its seed, primarily for dye, stews; insect repellant; colouring margarin and cheese. Its aroma is described as slightly nutty, sweet and peppery; no taste or aroma, with a heat index of nan.[^ucla_medicinal_2002]
 
 |Hungarian|Arabic|Chinese|
 |---------|------|-------|
@@ -27,8 +27,8 @@ Annatto (*Bixa orellana* L.) is a culinary and medicinal spice and dye from the 
 |     part used    |                       seed                       |
 |     macroarea    |                     Americas                     |
 | region of origin |                 Trop. Am.; C. Am.                |
-|    cultivation   |                        nan                       |
-|       color      |                        nan                       |
+|    cultivation   |         Brazil, Peru, Kenya, Philippines         |
+|       color      |                    bright red                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
 
 {{< load-plotly >}}

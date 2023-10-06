@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-10-05"
+date = "2023-10-06"
 description = "The dried resin of ferula foetida and f. assa-foetida, also known as hing; devil's dung."
 weight = 10
 # draft = "true"

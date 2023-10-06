@@ -146,7 +146,7 @@
         [
           "Foeniculum vulgare",
           "Apiaceae",
-          "Med",
+          "Mediterranean",
           "\u0634\u0645\u0631",
           "shamar",
           "\u8334\u9999",
@@ -221,6 +221,59 @@
     {
       "customdata": [
         [
+          "Bixa orellana",
+          "Bixaceae",
+          "Trop. Am.; C. Am.",
+          "\u0623\u0646\u0627\u062a\u0648",
+          "an\u0101t\u016b",
+          "\u80ed\u8102\u6a39\u7d05",
+          "y\u0101n\u200bzh\u012bsh\u00f9h\u00f3ng",
+          -81.0,
+          9.0,
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "annatto"
+      ],
+      "lat": [
+        9.0
+      ],
+      "legendgroup": "Bixaceae",
+      "lon": [
+        -81.0
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.7,
+        "size": 14,
+        "sizemode": "area",
+        "sizeref": 0.0009765625,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Bixaceae",
+      "showlegend": true,
+      "text": [
+        "annatto"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "white",
+        "family": "Sans-Serif",
+        "size": 14
+      },
+      "textposition": "top right"
+    },
+    {
+      "customdata": [
+        [
           "Elettaria cardamomum",
           "Zingiberaceae",
           "Kerala, S. India; southern Asia",
@@ -276,7 +329,7 @@
         79.0
       ],
       "marker": {
-        "color": "#38a6a5",
+        "color": "#0f8554",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -346,7 +399,7 @@
         81.0
       ],
       "marker": {
-        "color": "#0f8554",
+        "color": "#73af48",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -400,7 +453,7 @@
         -85.0
       ],
       "marker": {
-        "color": "#73af48",
+        "color": "#edae08",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -428,62 +481,21 @@
     {
       "customdata": [
         [
-          "Trigonella foenum-graecum",
-          "Fabaceae",
-          "S Eur; W As",
-          "\u062d\u0644\u0628\u0629",
-          "\u1e25ulba",
-          "\u80e1\u8606\u5df4",
-          "h\u00fal\u00fab\u0101",
-          67.0,
-          33.0,
+          "Piper cubeba",
+          "Piperaceae",
+          "Southeast Asia",
+          "\u0643\u0628\u0627\u0628\u0629",
+          "kab\u0101ba, kub\u0101ba",
+          "\u84fd\u6f84\u8304",
+          "b\u00ecch\u00e9ngqi\u00e9",
+          101.0,
+          0.0,
           1
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
-      "hovertext": [
-        "fenugreek"
-      ],
-      "lat": [
-        33.0
-      ],
-      "legendgroup": "Fabaceae",
-      "lon": [
-        67.0
-      ],
-      "marker": {
-        "color": "#edae08",
-        "opacity": 0.7,
-        "size": 14,
-        "sizemode": "area",
-        "sizeref": 0.0009765625,
-        "symbol": "circle",
-        "line": {
-          "color": "rgba(0,0,0,0)",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Fabaceae",
-      "showlegend": true,
-      "text": [
-        "fenugreek"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "white",
-        "family": "Sans-Serif",
-        "size": 14
-      },
-      "textposition": "top right"
-    },
-    {
-      "customdata": [
+        ],
         [
           "Piper longum",
           "Piperaceae",
-          "E. Himalaya to S. China; Indo-China",
+          "E. Himalaya to S. China; Indo-China; India",
           "\u062f\u0627\u0631\u0641\u0644\u0641\u0644",
           "d\u0101rfilfil",
           "\u84fd\u64a5",
@@ -508,15 +520,18 @@
       "geo": "geo",
       "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
+        "cubeb",
         "long pepper",
         "pepper"
       ],
       "lat": [
+        0.0,
         23.0,
         14.0
       ],
       "legendgroup": "Piperaceae",
       "lon": [
+        101.0,
         80.0,
         76.0
       ],
@@ -536,8 +551,62 @@
       "name": "Piperaceae",
       "showlegend": true,
       "text": [
+        "cubeb",
         "long pepper",
         "pepper"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "white",
+        "family": "Sans-Serif",
+        "size": 14
+      },
+      "textposition": "top right"
+    },
+    {
+      "customdata": [
+        [
+          "Trigonella foenum-graecum",
+          "Fabaceae",
+          "S. Europe; W. Asia",
+          "\u062d\u0644\u0628\u0629",
+          "\u1e25ulba",
+          "\u80e1\u8606\u5df4",
+          "h\u00fal\u00fab\u0101",
+          67.0,
+          33.0,
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "fenugreek"
+      ],
+      "lat": [
+        33.0
+      ],
+      "legendgroup": "Fabaceae",
+      "lon": [
+        67.0
+      ],
+      "marker": {
+        "color": "#cc503e",
+        "opacity": 0.7,
+        "size": 14,
+        "sizemode": "area",
+        "sizeref": 0.0009765625,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Fabaceae",
+      "showlegend": true,
+      "text": [
+        "fenugreek"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -590,7 +659,7 @@
         129.0
       ],
       "marker": {
-        "color": "#cc503e",
+        "color": "#94346e",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -621,13 +690,13 @@
         [
           "Crocus sativus",
           "Iridaceae",
-          "Greece",
+          "Greece; Near East",
           "\u0632\u0639\u0641\u0631\u0627\u0646",
           "za\u02bffar\u0101n",
           "\u85cf\u7d05\u82b1",
           "z\u00e0ngh\u00f3nghu\u0101",
-          22.0,
-          39.0,
+          25.0,
+          36.0,
           1
         ]
       ],
@@ -637,14 +706,14 @@
         "saffron"
       ],
       "lat": [
-        39.0
+        36.0
       ],
       "legendgroup": "Iridaceae",
       "lon": [
-        22.0
+        25.0
       ],
       "marker": {
-        "color": "#94346e",
+        "color": "#6f4070",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -697,7 +766,7 @@
         105.0
       ],
       "marker": {
-        "color": "#6f4070",
+        "color": "#a28aba",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -750,7 +819,7 @@
         106.0
       ],
       "marker": {
-        "color": "#a28aba",
+        "color": "#6baed6",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -803,7 +872,7 @@
         -55.0
       ],
       "marker": {
-        "color": "#6baed6",
+        "color": "#8dd3d7",
         "opacity": 0.7,
         "size": 14,
         "sizemode": "area",
@@ -819,59 +888,6 @@
       "showlegend": true,
       "text": [
         "vanilla"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "white",
-        "family": "Sans-Serif",
-        "size": 14
-      },
-      "textposition": "top right"
-    },
-    {
-      "customdata": [
-        [
-          "Bixa orellana",
-          "Bixaceae",
-          "Trop. Am.; C. Am.",
-          "\u0623\u0646\u0627\u062a\u0648",
-          "an\u0101t\u016b",
-          "\u80ed\u8102\u6a39\u7d05",
-          "y\u0101n\u200bzh\u012bsh\u00f9h\u00f3ng",
-          -81.0,
-          9.0,
-          1
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
-      "hovertext": [
-        "annatto"
-      ],
-      "lat": [
-        9.0
-      ],
-      "legendgroup": "Bixaceae",
-      "lon": [
-        -81.0
-      ],
-      "marker": {
-        "color": "#8dd3d7",
-        "opacity": 0.7,
-        "size": 14,
-        "sizemode": "area",
-        "sizeref": 0.0009765625,
-        "symbol": "circle",
-        "line": {
-          "color": "rgba(0,0,0,0)",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Bixaceae",
-      "showlegend": true,
-      "text": [
-        "annatto"
       ],
       "type": "scattergeo",
       "textfont": {

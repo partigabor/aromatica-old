@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-10-05"
+date = "2023-10-06"
 description = "The dried unripe berries of a caribbean tree, also known as pimento; Jamaica pepper."
 weight = 10
 # draft = "true"

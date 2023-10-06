@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-10-05"
+date = "2023-10-06"
 description = "The spike-like cluster of fruits of piper longum from india; fruit of piper longum."
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 >Illustration of *Piper longum* L. from Bentley, R., & Trimen, H. (1880). Medicinal Plants: Being descriptions with original figures of the principal plants employed in medicine and an account of the characters, properties, and uses of their parts and products of medicinal value. J. & A. Churchill., nan.
 
-Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
+Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China; India.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
 
 | Hungarian | Arabic|Chinese|
 |-----------|-------|-------|
@@ -30,7 +30,7 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 |      family      |                     Piperaceae                    |
 |     part used    |                       fruit                       |
 |     macroarea    |                        Asia                       |
-| region of origin |        E. Himalaya to S. China; Indo-China        |
+| region of origin |     E. Himalaya to S. China; Indo-China; India    |
 |    cultivation   |             India; Indonesia; Thailand            |
 |       color      |   dreen to red when ripe, dark brown when dried   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|

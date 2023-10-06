@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-05"
+date = "2023-10-06"
 description = "The inner bark of the cinnamon tree (cinnamomum zeylanicum) from sri lanka, related to cassia."
 weight = 10
 # draft = "true"
@@ -32,7 +32,7 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 |     macroarea    |                        Asia                       |
 | region of origin |                Sri Lanka; SW. India               |
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
-|       color      |  warm yellowish-brown, cinnamon \sample{cinnamon} |
+|       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
 {{< load-plotly >}}
