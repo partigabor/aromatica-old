@@ -71,9 +71,24 @@ nord13 = "#ebcb8b"
 nord14 = "#a3be8c"
 nord15 = "#b48ead"
 
-
-
 # Others
 polyu='#8f1329'
 polyu_complimenter = '#138f79'
 midnight_blue='#006795'
+
+# relearn
+primary = '#73af48'
+secondary = '#73af48'
+accent = '#489caf'
+
+main_text = '#e0e0e0'
+main_link_hover = '#8dd759'
+main_bg = '#202020'
+main_titles_text = '#ffffff'
+
+code_block = '#f8f8f2'
+code_block_bg = '#2b2b2b'
+
+code_inline = '#489caf'
+code_inline_bg = '#2d2d2d'
+code_inline_border = '#464646'

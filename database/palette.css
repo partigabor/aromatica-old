@@ -1,17 +1,17 @@
 :what {
-    --primary: #86b049;
-    --secondary: #86b049;
-    --accent: #499ab0;
+    --primary: #73af48;
+    --secondary: #73af48;
+    --accent: #489caf;
 
     --main-text: #e0e0e0;
-    --main-link-hover: #5cbed9;
+    --main-link-hover: #8dd759;
     --main-bg: #202020;
     --main-titles-text: #ffffff;
 
-    --code-block: #f8f8f8;
+    --code-block: #f8f8f2;
     --code-block-bg: #2b2b2b;
 
-    --code-inline: #499ab0;
+    --code-inline: #489caf;
     --code-inline-bg: #2d2d2d;
     --code-inline-border: #464646;
 
