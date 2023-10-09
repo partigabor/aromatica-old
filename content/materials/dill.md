@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of *Anethum graveolens* L.](/images/illustrations/dill.png?width=25vw "Illustration of *Anethum graveolens* L. from Thomé, Otto Wilhelm (1888). Flora von Deutschland, Österreich und der Schweiz (in German). Vol. 3. Gera, Germany. p. 142, III 142.")
+![Illustration of *Anethum graveolens* L.](/images/illustrations/dill.png?width=25vw "Illustration of *Anethum graveolens* L. from Thomé, Otto Wilhelm (1888). Flora von Deutschland, Österreich und der Schweiz. Gera, Germany., Vol. 3., p. 142..")
 
->Illustration of *Anethum graveolens* L. from Thomé, Otto Wilhelm (1888). Flora von Deutschland, Österreich und der Schweiz (in German). Vol. 3. Gera, Germany. p. 142, III 142.
+>Illustration of *Anethum graveolens* L. from Thomé, Otto Wilhelm (1888). Flora von Deutschland, Österreich und der Schweiz. Gera, Germany., Vol. 3., p. 142..
 
 Dill (*Anethum graveolens* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. Asia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
 
