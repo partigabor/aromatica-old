@@ -39,6 +39,14 @@ disableComments = "true"
 
 Lorem Ipsum.
 
+<!-- ![saffron](/images/saffron_distribution.png?height=20vw&classes=shadow) -->
+
+![saffron](/images/saffron-1.jpg?height=20vw&classes=inline,shadow)
+&nbsp;
+![saffron](/images/saffron-2.jpg?height=20vw&classes=inline,shadow)
+&nbsp;
+![saffron](/images/saffron-3.jpg?height=20vw&classes=inline,shadow)
+
 ## Gallery
 
 {{< load-photoswipe >}}
