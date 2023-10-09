@@ -53,6 +53,7 @@ Lorem Ipsum.
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
+{{< plotly json="/aromatica/plotly/regions_allspice.json" height="300" >}}
 ## Box
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
