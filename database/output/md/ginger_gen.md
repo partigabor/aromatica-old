@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-10-04"
+date = "2023-10-09"
 description = "The rhizomes of the ginger plant, fresh or dried; root of zingiber officinale."
 weight = 10
 # draft = "true"
@@ -37,7 +37,7 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/regions_gingerhome.json" height="600" >}}
+{{< plotly json="/aromatica/plotly/regions_ginger.json" height="300" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
