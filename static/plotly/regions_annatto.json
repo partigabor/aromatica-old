@@ -13,7 +13,82 @@
       ],
       "customdata": [
         [
-          "Maluku"
+          "Argentina Northeast"
+        ],
+        [
+          "Argentina Northwest"
+        ],
+        [
+          "Belize"
+        ],
+        [
+          "Bolivia"
+        ],
+        [
+          "Brazil West-Central"
+        ],
+        [
+          "Brazil Northeast"
+        ],
+        [
+          "Brazil Southeast"
+        ],
+        [
+          "Brazil North"
+        ],
+        [
+          "Colombia"
+        ],
+        [
+          "Costa Rica"
+        ],
+        [
+          "Ecuador"
+        ],
+        [
+          "El Salvador"
+        ],
+        [
+          "French Guiana"
+        ],
+        [
+          "Guatemala"
+        ],
+        [
+          "Guyana"
+        ],
+        [
+          "Honduras"
+        ],
+        [
+          "Mexico Central"
+        ],
+        [
+          "Mexico Northeast"
+        ],
+        [
+          "Mexico Gulf"
+        ],
+        [
+          "Mexico Northwest"
+        ],
+        [
+          "Mexico Southwest"
+        ],
+        [
+          "Mexico Southeast"
+        ],
+        [
+          "Nicaragua"
+        ],
+        [
+          "Paraguay"
+        ],
+        [
+          "Peru"
+        ],
+        [
+          "Venezuela"
         ]
       ],
       "featureidkey": "properties.LEVEL3_COD",
@@ -21,12 +96,62 @@
       "geojson": "data\\resources\\geo\\level3.geojson",
       "hovertemplate": "Region=Native\u003cbr\u003eLEVEL3_COD=%{location}\u003cbr\u003eLEVEL3_NAM=%{customdata[0]}\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
-        "MOL"
+        "AGE",
+        "AGW",
+        "BLZ",
+        "BOL",
+        "BZC",
+        "BZE",
+        "BZL",
+        "BZN",
+        "CLM",
+        "COS",
+        "ECU",
+        "ELS",
+        "FRG",
+        "GUA",
+        "GUY",
+        "HON",
+        "MXC",
+        "MXE",
+        "MXG",
+        "MXN",
+        "MXS",
+        "MXT",
+        "NIC",
+        "PAR",
+        "PER",
+        "VEN"
       ],
       "name": "Native",
       "showlegend": true,
       "showscale": false,
       "z": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
       ],
       "type": "choropleth"
@@ -44,10 +169,22 @@
       ],
       "customdata": [
         [
-          "Assam"
+          "Angola"
         ],
         [
           "Bangladesh"
+        ],
+        [
+          "Benin"
+        ],
+        [
+          "Burkina"
+        ],
+        [
+          "Cambodia"
+        ],
+        [
+          "Chad"
         ],
         [
           "China South-Central"
@@ -59,31 +196,133 @@
           "Comoros"
         ],
         [
+          "Congo"
+        ],
+        [
+          "Caroline Is."
+        ],
+        [
+          "Cuba"
+        ],
+        [
+          "Dominican Republic"
+        ],
+        [
+          "Eritrea"
+        ],
+        [
+          "Ethiopia"
+        ],
+        [
+          "Gabon"
+        ],
+        [
+          "Gal\u00e1pagos"
+        ],
+        [
           "Gulf of Guinea Is."
         ],
         [
-          "Jawa"
+          "Ghana"
         ],
         [
-          "Laos"
+          "Guinea-Bissau"
+        ],
+        [
+          "Guinea"
+        ],
+        [
+          "Haiti"
+        ],
+        [
+          "Hawaii"
+        ],
+        [
+          "India"
+        ],
+        [
+          "Jamaica"
+        ],
+        [
+          "Kenya"
+        ],
+        [
+          "Liberia"
         ],
         [
           "Mauritius"
         ],
         [
-          "Philippines"
+          "Mozambique"
+        ],
+        [
+          "Marianas"
+        ],
+        [
+          "Nicobar Is."
+        ],
+        [
+          "Nigeria"
+        ],
+        [
+          "New Caledonia"
+        ],
+        [
+          "Puerto Rico"
         ],
         [
           "R\u00e9union"
         ],
         [
+          "Samoa"
+        ],
+        [
+          "Society Is."
+        ],
+        [
+          "Sierra Leone"
+        ],
+        [
+          "Sri Lanka"
+        ],
+        [
+          "Sudan"
+        ],
+        [
+          "Southwest Caribbean"
+        ],
+        [
           "Taiwan"
         ],
         [
-          "Thailand"
+          "Tanzania"
         ],
         [
-          "Vietnam"
+          "Trinidad-Tobago"
+        ],
+        [
+          "Uganda"
+        ],
+        [
+          "Vanuatu"
+        ],
+        [
+          "Venezuelan Antilles"
+        ],
+        [
+          "Wallis-Futuna Is."
+        ],
+        [
+          "Windward Is."
+        ],
+        [
+          "Christmas I."
+        ],
+        [
+          "Za\u00efre"
+        ],
+        [
+          "Zimbabwe"
         ]
       ],
       "featureidkey": "properties.LEVEL3_COD",
@@ -91,25 +330,101 @@
       "geojson": "data\\resources\\geo\\level3.geojson",
       "hovertemplate": "Region=Introduced\u003cbr\u003eLEVEL3_COD=%{location}\u003cbr\u003eLEVEL3_NAM=%{customdata[0]}\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
-        "ASS",
+        "ANG",
         "BAN",
+        "BEN",
+        "BKN",
+        "CBD",
+        "CHA",
         "CHC",
         "CHS",
         "COM",
+        "CON",
+        "CRL",
+        "CUB",
+        "DOM",
+        "ERI",
+        "ETH",
+        "GAB",
+        "GAL",
         "GGI",
-        "JAW",
-        "LAO",
+        "GHA",
+        "GNB",
+        "GUI",
+        "HAI",
+        "HAW",
+        "IND",
+        "JAM",
+        "KEN",
+        "LBR",
         "MAU",
-        "PHI",
+        "MOZ",
+        "MRN",
+        "NCB",
+        "NGA",
+        "NWC",
+        "PUE",
         "REU",
+        "SAM",
+        "SCI",
+        "SIE",
+        "SRL",
+        "SUD",
+        "SWC",
         "TAI",
-        "THA",
-        "VIE"
+        "TAN",
+        "TRT",
+        "UGA",
+        "VAN",
+        "VNA",
+        "WAL",
+        "WIN",
+        "XMS",
+        "ZAI",
+        "ZIM"
       ],
       "name": "Introduced",
       "showlegend": true,
       "showscale": false,
       "z": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -959,8 +1274,8 @@
       "projection": {
         "type": "orthographic",
         "rotation": {
-          "lat": -11.367821716487622,
-          "lon": 128.01567497176774,
+          "lat": -42.59968865611982,
+          "lon": -61.27612874318087,
           "roll": 0
         },
         "scale": 1

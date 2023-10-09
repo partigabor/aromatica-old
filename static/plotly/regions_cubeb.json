@@ -13,74 +13,28 @@
       ],
       "customdata": [
         [
+          "Borneo"
+        ],
+        [
+          "Cambodia"
+        ],
+        [
+          "Lesser Sunda Is."
+        ],
+        [
+          "Malaya"
+        ],
+        [
           "Maluku"
-        ]
-      ],
-      "featureidkey": "properties.LEVEL3_COD",
-      "geo": "geo",
-      "geojson": "data\\resources\\geo\\level3.geojson",
-      "hovertemplate": "Region=Native\u003cbr\u003eLEVEL3_COD=%{location}\u003cbr\u003eLEVEL3_NAM=%{customdata[0]}\u003cextra\u003e\u003c\u002fextra\u003e",
-      "locations": [
-        "MOL"
-      ],
-      "name": "Native",
-      "showlegend": true,
-      "showscale": false,
-      "z": [
-        1
-      ],
-      "type": "choropleth"
-    },
-    {
-      "colorscale": [
-        [
-          0.0,
-          "#7f5dc2"
         ],
         [
-          1.0,
-          "#7f5dc2"
-        ]
-      ],
-      "customdata": [
-        [
-          "Assam"
+          "Myanmar"
         ],
         [
-          "Bangladesh"
+          "Sulawesi"
         ],
         [
-          "China South-Central"
-        ],
-        [
-          "China Southeast"
-        ],
-        [
-          "Comoros"
-        ],
-        [
-          "Gulf of Guinea Is."
-        ],
-        [
-          "Jawa"
-        ],
-        [
-          "Laos"
-        ],
-        [
-          "Mauritius"
-        ],
-        [
-          "Philippines"
-        ],
-        [
-          "R\u00e9union"
-        ],
-        [
-          "Taiwan"
-        ],
-        [
-          "Thailand"
+          "Sumatera"
         ],
         [
           "Vietnam"
@@ -89,32 +43,22 @@
       "featureidkey": "properties.LEVEL3_COD",
       "geo": "geo",
       "geojson": "data\\resources\\geo\\level3.geojson",
-      "hovertemplate": "Region=Introduced\u003cbr\u003eLEVEL3_COD=%{location}\u003cbr\u003eLEVEL3_NAM=%{customdata[0]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "Region=Native\u003cbr\u003eLEVEL3_COD=%{location}\u003cbr\u003eLEVEL3_NAM=%{customdata[0]}\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
-        "ASS",
-        "BAN",
-        "CHC",
-        "CHS",
-        "COM",
-        "GGI",
-        "JAW",
-        "LAO",
-        "MAU",
-        "PHI",
-        "REU",
-        "TAI",
-        "THA",
+        "BOR",
+        "CBD",
+        "LSI",
+        "MLY",
+        "MOL",
+        "MYA",
+        "SUL",
+        "SUM",
         "VIE"
       ],
-      "name": "Introduced",
+      "name": "Native",
       "showlegend": true,
       "showscale": false,
       "z": [
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -959,8 +903,8 @@
       "projection": {
         "type": "orthographic",
         "rotation": {
-          "lat": -11.367821716487622,
-          "lon": 128.01567497176774,
+          "lat": -9.140618873889915,
+          "lon": 114.19007427792658,
           "roll": 0
         },
         "scale": 1
