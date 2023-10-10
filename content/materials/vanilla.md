@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The aromatic seed pods of orchid species from america; fruit of vanilla fragrans."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_vanilla.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_vanilla.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of vanilla.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Belize, Brazil North, Brazil Northeast, Brazil Southeast, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá
+
+**Introduced regions:** Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

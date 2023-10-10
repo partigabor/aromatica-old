@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The dried seeds of a west asian flowering plant; seed of cuminum cyminum."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_cumin.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_cumin.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of cumin.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Iraq
+
+**Introduced regions:** Algeria, Andaman Is., Bangladesh, Benin, Bulgaria, East Himalaya, Eritrea, France, India, Kazakhstan, Laos, Lebanon-Syria, Libya, Massachusetts, Mexico Northeast, Morocco, Nicobar Is., Pakistan, Saudi Arabia, Sicilia, Spain, Texas, Transcaucasus, Tunisia, Uzbekistan, Xinjiang
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

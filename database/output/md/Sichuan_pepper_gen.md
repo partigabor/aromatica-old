@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The numbing, red or green fruits of east asian prickly ash trees, related to sansho."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 |       color      |                     red; green                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_Sichuan pepper.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_sichuan_pepper.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of Sichuan pepper.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;China North-Central, China South-Central, China Southeast, East Himalaya, Inner Mongolia, Manchuria, Nepal, Qinghai, Tibet, Xinjiang
+
+**Introduced regions:** Uzbekistan
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

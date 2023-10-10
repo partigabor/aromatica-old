@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The inner bark of the cinnamon tree (cinnamomum zeylanicum) from sri lanka, related to cassia."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 |       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_cinnamon.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_cinnamon.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of cinnamon.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Sri Lanka
+
+**Introduced regions:** Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

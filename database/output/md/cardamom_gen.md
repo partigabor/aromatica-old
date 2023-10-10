@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The bright-green seed pods of an indian plant; fruit of elettaria cardamomum, also known as true cardamom; green cardamom."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice a
 |       color      |              green seed pods, brown seeds             |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_cardamom.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_cardamom.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of cardamom.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India, the Western Ghats
+
+**Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

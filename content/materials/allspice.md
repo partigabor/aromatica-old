@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The dried unripe berries of a caribbean tree, also known as pimento; Jamaica pepper."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from th
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_allspice.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_allspice.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of allspice.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Bahamas, Belize, Cayman Is., Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Jamaica, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua
+
+**Introduced regions:** Bermuda, Caroline Is., Colombia, El Salvador, Florida, Hawaii, Puerto Rico, Society Is., Southwest Caribbean, Trinidad-Tobago, Venezuela
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

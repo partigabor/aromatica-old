@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The stigmas or styles of the saffron crocus flower; stamen of crocus sativus."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |       color      |              deep red; dyes in orange             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_saffron.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_saffron.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of saffron.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Greece
+
+**Introduced regions:** Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

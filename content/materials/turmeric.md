@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The bright yellow powder yielded from the rhizomes of curcuma longa; root of curcuma domestica."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_turmeric.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_turmeric.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of turmeric.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India
+
+**Introduced regions:** Andaman Is., Assam, Bangladesh, Belize, Borneo, Cambodia, Caroline Is., China South-Central, China Southeast, Comoros, Congo, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Easter Is., Fiji, Gilbert Is., Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Ivory Coast, Jawa, Leeward Is., Lesser Sunda Is., Malaya, Marquesas, Mauritius, Myanmar, New Caledonia, New Guinea, Nicobar Is., Philippines, Pitcairn Is., Puerto Rico, Queensland, Réunion, Samoa, Society Is., Solomon Is., Sri Lanka, Sumatera, Taiwan, Thailand, Tibet, Tonga, Trinidad-Tobago, Tuamotu, Tubuai Is., Vietnam, Windward Is.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

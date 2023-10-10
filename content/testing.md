@@ -39,22 +39,6 @@ disableComments = "true"
 
 Lorem Ipsum.
 
-<!-- ![saffron](/images/saffron_distribution.png?height=20vw&classes=shadow) -->
-
-![saffron](/images/saffron-1.jpg?height=20vw&classes=inline,shadow)
-&nbsp;
-![saffron](/images/saffron-2.jpg?height=20vw&classes=inline,shadow)
-&nbsp;
-![saffron](/images/saffron-3.jpg?height=20vw&classes=inline,shadow)
-
-## Gallery
-
-{{< load-photoswipe >}}
-
-<!-- {{< figure src="/images/cardamom/white-cardamom.jpg" alt="This is a caption" >}} -->
-
-{{< gallery dir="/images/cardamom/" />}}
-
 ## Plotly
 
 {{< load-plotly >}}
@@ -62,6 +46,22 @@ Lorem Ipsum.
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
 {{< plotly json="/aromatica/plotly/regions_allspice.json" height="300" >}}
+
+![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
+&nbsp;
+![saffron](/images/saffron-2.jpg?width=15vw&classes=inline,shadow)
+&nbsp;
+![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow)
+
+<!-- 
+## Gallery
+
+{{< load-photoswipe >}}
+
+{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
+
+{{< gallery dir="/images/cardamom/" />}} -->
+
 ## Box
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}

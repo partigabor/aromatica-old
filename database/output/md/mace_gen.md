@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-10"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
 weight = 10
 # draft = "true"
@@ -35,9 +35,17 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 |       color      | crimson red aril whn fresh, pale yellow when dried|
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_mace.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_mace.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of mace.
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
+
+**Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
