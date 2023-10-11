@@ -12,11 +12,15 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice and cardamoms from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia.[^van_wyk_culinary_2014] It is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
+![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=25vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
-|Hungarian|Arabic|Chinese|
-|---------|------|-------|
-| kardamom|  هال |   豆蔻  |
+>Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 186.
+
+| English|Arabic|Chinese|Hungarian|
+|--------|------|-------|---------|
+|cardamom|  هال |   豆蔻  | kardamom|
+
+Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice and cardamoms from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -37,18 +41,20 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice a
 
 {{< plotly json="/aromatica/plotly/distributions/dist_cardamom.json" weight="600" height="300" >}}
 
->Native and introduced habitats of 0    *Elettaria cardamomum* (L.) Maton
-Name: species name, dtype: object.[^powo]
+>Native and introduced habitats of *Elettaria cardamomum* (L.) Maton[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;India, the Western Ghats
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India, the Western Ghats
 
-**Introduced regions:** &nbsp;Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
-
-![Illustration of *Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=33vw&classes=shadow "Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.")
-
->Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.
+**Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+
+
+***
+
+# Bibliography
+
+{{< bibliography cited >}}
 

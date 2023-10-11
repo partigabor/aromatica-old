@@ -28,7 +28,7 @@
       visibility 0s .3s,
       transform .3s ease 0s,
       opacity .3s ease 0s;
-    opacity: 0;
+    opacity: 1;
     transform: translateY(-8px);
 }
 .hugo-cite-group:hover

@@ -7,16 +7,20 @@ weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ["'spice'"]
+categories = ['spice']
 tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, Indonesia.[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=25vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
-| Hungarian|Arabic|Chinese|
-|----------|------|-------|
-|szegfűszeg| قرنفل|   丁香  |
+>Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 125.
+
+|English|Arabic|Chinese| Hungarian|
+|-------|------|-------|----------|
+| clove | قرنفل|   丁香  |szegfűszeg|
+
+Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -37,18 +41,20 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 {{< plotly json="/aromatica/plotly/distributions/dist_clove.json" weight="600" height="300" >}}
 
->Native and introduced habitats of 0    *Syzygium aromaticum* (L.) Merr. \& L.M.Perry
-Name: species name, dtype: object.[^powo]
+>Native and introduced habitats of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Maluku
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
 
-**Introduced regions:** &nbsp;Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
-
-![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=33vw&classes=shadow "Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.")
-
->Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.
+**Introduced regions:** Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+
+
+***
+
+# Bibliography
+
+{{< bibliography cited >}}
 

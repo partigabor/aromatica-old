@@ -7,16 +7,20 @@ weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ["'spice'"]
+categories = ['spice']
 tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=25vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
-|Hungarian|Arabic|Chinese|
-|---------|------|-------|
-|   bors  | فلفل |   胡椒  |
+>Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 144.
+
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+| pepper| فلفل |   胡椒  |   bors  |
+
+Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -37,18 +41,12 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 
 {{< plotly json="/aromatica/plotly/distributions/dist_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of 0    *Piper nigrum* L.
-Name: species name, dtype: object.[^powo]
+>Native and introduced habitats of *Piper nigrum* L.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;India
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India
 
-**Introduced regions:** &nbsp;Andaman Is., Assam, Bangladesh, Benin, Cambodia, Cameroon, Caroline Is., China South-Central, China Southeast, Comoros, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Ethiopia, French Guiana, Guinea, Gulf of Guinea Is., Haiti, Honduras, Laos, Leeward Is., Marianas, Mauritius, Mexico Gulf, Nicobar Is., Philippines, Puerto Rico, Réunion, Seychelles, Sri Lanka, Thailand, Trinidad-Tobago, Venezuela, Vietnam, Windward Is.
-
-![Illustration of *Piper nigrum* L.](/images/illustrations/pepper.png?width=33vw&classes=shadow "Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887), II 144.")
-
->Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887), II 144.
+**Introduced regions:** Andaman Is., Assam, Bangladesh, Benin, Cambodia, Cameroon, Caroline Is., China South-Central, China Southeast, Comoros, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Ethiopia, French Guiana, Guinea, Gulf of Guinea Is., Haiti, Honduras, Laos, Leeward Is., Marianas, Mauritius, Mexico Gulf, Nicobar Is., Philippines, Puerto Rico, Réunion, Seychelles, Sri Lanka, Thailand, Trinidad-Tobago, Venezuela, Vietnam, Windward Is.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 

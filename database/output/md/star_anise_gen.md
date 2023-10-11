@@ -7,16 +7,20 @@ weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ["'spice'"]
-tags = ["'culinary'"]
+categories = ['spice']
+tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
+![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=25vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
-|  Hungarian |   Arabic  |Chinese|
-|------------|-----------|-------|
-|csillagánizs|يانسون نجمي|   八角  |
+>Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 117*.
+
+|  English |   Arabic  |Chinese|  Hungarian |
+|----------|-----------|-------|------------|
+|star anise|يانسون نجمي|   八角  |csillagánizs|
+
+Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; VietnamIt is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -37,18 +41,12 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 
 {{< plotly json="/aromatica/plotly/distributions/dist_star_anise.json" weight="600" height="300" >}}
 
->Native and introduced habitats of 0    *Illicium verum* Hook.f.
-Name: species name, dtype: object.[^powo]
+>Native and introduced habitats of *Illicium verum* Hook.f.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;China Southeast, Vietnam
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;China Southeast, Vietnam
 
-**Introduced regions:** &nbsp;Cambodia, China South-Central
-
-![Illustration of *Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=33vw&classes=shadow "Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen (1887), II 117*.")
-
->Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen (1887), II 117*.
+**Introduced regions:** Cambodia, China South-Central
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 

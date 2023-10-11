@@ -45,7 +45,7 @@ Lorem Ipsum.
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
-{{< plotly json="/aromatica/plotly/regions_allspice.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/regions_allspice.json" height="400" >}}
 
 ![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
 &nbsp;

@@ -7,16 +7,20 @@ weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ["'spice'"]
-tags = ["'culinary'"]
+categories = ['spice']
+tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=25vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
-|Hungarian| Arabic|Chinese|
-|---------|-------|-------|
-| vanília |فانيليا|   香草  |
+>Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 114.
+
+|English| Arabic|Chinese|Hungarian|
+|-------|-------|-------|---------|
+|vanilla|فانيليا|   香草  | vanília |
+
+Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical AmericaIt is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -37,18 +41,20 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 
 {{< plotly json="/aromatica/plotly/distributions/dist_vanilla.json" weight="600" height="300" >}}
 
->Native and introduced habitats of 0    *Vanilla planifolia* Jacks. ex Andrews
-Name: species name, dtype: object.[^powo]
+>Native and introduced habitats of *Vanilla planifolia* Jacks. ex Andrews[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Belize, Brazil North, Brazil Northeast, Brazil Southeast, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Belize, Brazil North, Brazil Northeast, Brazil Southeast, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá
 
-**Introduced regions:** &nbsp;Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
-
-![Illustration of *Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=33vw&classes=shadow "Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887), II 114.")
-
->Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887), II 114.
+**Introduced regions:** Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+
+
+***
+
+# Bibliography
+
+{{< bibliography cited >}}
 

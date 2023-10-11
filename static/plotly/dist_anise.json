@@ -23217,7 +23217,7 @@
           71.11300649511718
         ]
       },
-      "hovertemplate": "Region: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eCode: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eHabitat: \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "Region: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eCode: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
         88,
         168,
@@ -46596,7 +46596,7 @@
           71.11300649511718
         ]
       },
-      "hovertemplate": "Region: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eCode: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eHabitat: \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "Region: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eCode: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
         2,
         4,
