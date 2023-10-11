@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The bright-green seed pods of an indian plant; fruit of elettaria cardamomum, also known as true cardamom; green cardamom."
 weight = 10
 # draft = "true"
@@ -11,10 +11,6 @@ categories = ['spice', 'cardamoms']
 tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=25vw "Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.")
-
->Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.
 
 Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice and cardamoms from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia.[^van_wyk_culinary_2014] It is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice a
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India, the Western Ghats
 
 **Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
+
+![Illustration of *Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=33vw&classes=shadow "Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.")
+
+>Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

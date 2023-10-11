@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The bright yellow powder yielded from the rhizomes of curcuma longa; root of curcuma domestica."
 weight = 10
 # draft = "true"
@@ -11,10 +11,6 @@ categories = ['spice', 'dye']
 tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Curcuma longa* L.](/images/illustrations/turmeric.png?width=25vw "Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.")
-
->Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.
 
 Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India
 
 **Introduced regions:** Andaman Is., Assam, Bangladesh, Belize, Borneo, Cambodia, Caroline Is., China South-Central, China Southeast, Comoros, Congo, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Easter Is., Fiji, Gilbert Is., Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Ivory Coast, Jawa, Leeward Is., Lesser Sunda Is., Malaya, Marquesas, Mauritius, Myanmar, New Caledonia, New Guinea, Nicobar Is., Philippines, Pitcairn Is., Puerto Rico, Queensland, Réunion, Samoa, Society Is., Solomon Is., Sri Lanka, Sumatera, Taiwan, Thailand, Tibet, Tonga, Trinidad-Tobago, Tuamotu, Tubuai Is., Vietnam, Windward Is.
+
+![Illustration of *Curcuma longa* L.](/images/illustrations/turmeric.png?width=33vw&classes=shadow "Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.")
+
+>Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

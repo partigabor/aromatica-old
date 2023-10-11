@@ -56555,7 +56555,7 @@
           71.11300649511718
         ]
       },
-      "hovertemplate": "region=native\u003cbr\u003eindex=%{location}\u003cbr\u003ename=%{customdata[0]}\u003cbr\u003ecode=%{customdata[1]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "Region: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eCode: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
         8,
         55,
@@ -113618,7 +113618,7 @@
           71.11300649511718
         ]
       },
-      "hovertemplate": "region=introduced\u003cbr\u003eindex=%{location}\u003cbr\u003ename=%{customdata[0]}\u003cbr\u003ecode=%{customdata[1]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "Region: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eCode: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "locations": [
         0,
         1,
@@ -114722,7 +114722,6 @@
         "scale": 2
       },
       "center": {},
-      "fitbounds": "locations",
       "lataxis": {
         "dtick": 10,
         "gridcolor": "#303030",
@@ -114758,7 +114757,8 @@
       "showrivers": true,
       "showsubunits": true,
       "subunitcolor": "#383838",
-      "subunitwidth": 0
+      "subunitwidth": 0,
+      "fitbounds": "locations"
     },
     "legend": {
       "title": {

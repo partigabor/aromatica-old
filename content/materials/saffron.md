@@ -1,20 +1,16 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The stigmas or styles of the saffron crocus flower; stamen of crocus sativus."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice', 'dye']
-tags = ['culinary']
+tags = ["'culinary'"]
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Crocus sativus* L.](/images/illustrations/saffron.png?width=25vw "Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.")
-
->Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.
 
 Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near East.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for paella, bouillabaise, rice, tagine, fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Greece
 
 **Introduced regions:** Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
+
+![Illustration of *Crocus sativus* L.](/images/illustrations/saffron.png?width=33vw&classes=shadow "Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.")
+
+>Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

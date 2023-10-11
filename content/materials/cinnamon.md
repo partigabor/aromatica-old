@@ -1,20 +1,16 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The inner bark of the cinnamon tree (cinnamomum zeylanicum) from sri lanka, related to cassia."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ['spice']
+categories = ["'spice'"]
 tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=25vw "Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.")
-
->Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.
 
 Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India.[^van_wyk_culinary_2014] It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Sri Lanka
 
 **Introduced regions:** Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
+
+![Illustration of *Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=33vw&classes=shadow "Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.")
+
+>Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

@@ -1,20 +1,16 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The fruits of capsicum annuum and other species, also known as chilli; chili pepper, related to paprika."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ['spice']
-tags = ['culinary']
+categories = ["'spice'"]
+tags = ["'culinary'"]
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Capsicum annuum* L.](/images/illustrations/chile.png?width=25vw "Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887), II 127.")
-
->Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887), II 127.
 
 Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Guatemala, Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest
 
 **Introduced regions:** Alabama, Aldabra, Algeria, Andaman Is., Angola, Assam, Austria, Bahamas, Bangladesh, Belize, Benin, Bismarck Archipelago, Bolivia, Borneo, Botswana, Brazil North, Brazil Northeast, Bulgaria, Burundi, Cambodia, Cameroon, Canary Is., Cape Verde, Caroline Is., Cayman Is., Central African Repu, Chad, Colombia, Comoros, Congo, Cook Is., Costa Rica, Cuba, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Galápagos, Gambia, Ghana, Gilbert Is., Greece, Guinea-Bissau, Gulf of Guinea Is., Guyana, Haiti, Honduras, India, Ivory Coast, Jawa, Kazakhstan, Kazan-retto, Kenya, Korea, Laos, Leeward Is., Line Is., Madagascar, Madeira, Maldives, Mali, Marianas, Marquesas, Marshall Is., Mauritius, Morocco, Myanmar, Nepal, New Guinea, New South Wales, New York, Nicobar Is., Niger, Nigeria, Northern Provinces, Northern Territory, Oman, Pakistan, Panamá, Peru, Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Senegal, Sierra Leone, Society Is., Solomon Is., Somalia, Southwest Caribbean, Sri Lanka, Sulawesi, Suriname, Tadzhikistan, Tanzania, Togo, Trinidad-Tobago, Tuamotu, Tunisia, Turkey, Turkmenistan, Turks-Caicos Is., Uganda, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wake I., West Himalaya, Windward Is., Zambia, Zaïre, Zimbabwe
+
+![Illustration of *Capsicum annuum* L.](/images/illustrations/chile.png?width=33vw&classes=shadow "Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887), II 127.")
+
+>Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887), II 127.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

@@ -1,20 +1,16 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The seed of a peach-like fruit of the nutmeg tree of the moluccas, indonesia, related to mace."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ['spice']
-tags = ['culinary']
+categories = ["'spice'"]
+tags = ["'culinary'"]
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=25vw "Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.")
-
->Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.
 
 Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
 
 **Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
+
+![Illustration of *Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=33vw&classes=shadow "Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.")
+
+>Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

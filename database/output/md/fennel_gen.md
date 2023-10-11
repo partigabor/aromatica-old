@@ -1,20 +1,16 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ['spice']
-tags = ['culinary']
+categories = ["'spice'"]
+tags = ["'culinary'"]
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=25vw "Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887), II 88.")
-
->Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887), II 88.
 
 Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean.[^van_wyk_culinary_2014] It is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Albania, Algeria, Azores, Baleares, Bulgaria, Canary Is., Cape Verde, Corse, Cyprus, East Aegean Is., Egypt, Eritrea, Ethiopia, France, Greece, Gulf States, Iran, Iraq, Italy, Kriti, Lebanon-Syria, Libya, Madeira, Morocco, Nepal, North Caucasus, Pakistan, Palestine, Portugal, Sardegna, Saudi Arabia, Sicilia, Sinai, Spain, Tadzhikistan, Transcaucasus, Tunisia, Turkey, Turkey-in-Europe, Turkmenistan, Uzbekistan, West Himalaya, Yemen, Yugoslavia
 
 **Introduced regions:** Alberta, Amsterdam-St.Paul Is, Angola, Argentina Northeast, Argentina Northwest, Argentina South, Arizona, Assam, Austria, Bahamas, Bangladesh, Belgium, Bermuda, Brazil South, Brazil Southeast, British Columbia, California, Cape Provinces, Central European Rus, Chile Central, Chile North, Chile South, China North-Central, China South-Central, China Southeast, Colombia, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Fiji, Finland, Florida, Georgia, Germany, Great Britain, Guatemala, Gulf of Guinea Is., Haiti, Hawaii, Hungary, Illinois, India, Iowa, Ireland, Jamaica, Jawa, Juan Fernández Is., Kansas, Kazakhstan, Kentucky, Kenya, Korea, Krym, KwaZulu-Natal, Leeward Is., Lesotho, Louisiana, Maine, Marianas, Maryland, Massachusetts, Mauritius, Mexico Northwest, Michigan, Mississippi, Missouri, Mongolia, Mozambique, Myanmar, Nebraska, Netherlands, Nevada, New Jersey, New Mexico, New York, New Zealand North, New Zealand South, Niue, Norfolk Is., North Carolina, Northern Provinces, Norway, Ohio, Ontario, Oregon, Paraguay, Pennsylvania, Peru, Poland, Puerto Rico, Québec, Rhode I., Rodrigues, Romania, Réunion, Society Is., Somalia, South Carolina, South European Russi, St.Helena, Sudan, Sweden, Switzerland, Tanzania, Tennessee, Texas, Thailand, Ukraine, Uruguay, Utah, Vietnam, Virginia, Washington, West Virginia, Windward Is., Wisconsin, Zimbabwe
+
+![Illustration of *Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=33vw&classes=shadow "Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887), II 88.")
+
+>Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887), II 88.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

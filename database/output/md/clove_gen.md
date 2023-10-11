@@ -1,20 +1,16 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The dried flower-buds of a tropical tree from the moluccas, indonesia; bud of syzygium aromaticum."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ['spice']
+categories = ["'spice'"]
 tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=25vw "Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.")
-
->Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.
 
 Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, Indonesia.[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
 
 **Introduced regions:** Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
+
+![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=33vw&classes=shadow "Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.")
+
+>Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

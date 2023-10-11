@@ -1,20 +1,16 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-10"
+date = "2023-10-11"
 description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
-categories = ['spice']
-tags = ['culinary']
+categories = ["'spice'"]
+tags = ["'culinary'"]
 bibFile = "static/files/bibliography.json"
 +++
-
-![Illustration of *Coriandrum sativum* L.](/images/illustrations/coriander.png?width=25vw "Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen (1887), II 145.")
-
->Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen (1887), II 145.
 
 Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
@@ -46,6 +42,10 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 **Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Lebanon-Syria, North Caucasus, Pakistan, Palestine, Saudi Arabia, Sinai, Transcaucasus, Turkey
 
 **Introduced regions:** Algeria, Amur, Andaman Is., Angola, Argentina Northeast, Argentina Northwest, Argentina South, Arizona, Assam, Austria, Azores, Baltic States, Bangladesh, Belarus, Belgium, Borneo, Brazil South, Bulgaria, California, Cambodia, Cameroon, Canary Is., Cape Provinces, Cape Verde, Central European Rus, Chad, China North-Central, China South-Central, China Southeast, Colombia, Connecticut, Costa Rica, Cuba, Cyprus, Czechoslovakia, Delaware, Denmark, Dominican Republic, East European Russia, East Himalaya, Ecuador, Egypt, El Salvador, Eritrea, Ethiopia, Fiji, Finland, Florida, France, Free State, Germany, Great Britain, Greece, Guatemala, Haiti, Hawaii, Hungary, Illinois, India, Iraq, Italy, Japan, Jawa, Juan Fernández Is., Kazakhstan, Kenya, Khabarovsk, Korea, Kriti, Krym, KwaZulu-Natal, Laos, Lesser Sunda Is., Libya, Louisiana, Madeira, Malaya, Maluku, Maryland, Massachusetts, Mauritius, Mexico Central, Mexico Northwest, Michigan, Missouri, Mongolia, Montana, Morocco, Mozambique, Nepal, Nevada, New Guinea, New Jersey, New Mexico, New York, New Zealand North, New Zealand South, Nicobar Is., Norfolk Is., North Carolina, North Dakota, Northern Provinces, Norway, Nova Scotia, Ohio, Oklahoma, Ontario, Oregon, Paraguay, Pennsylvania, Peru, Philippines, Poland, Portugal, Primorye, Puerto Rico, Québec, Rhode I., Rodrigues, Romania, Réunion, Sicilia, Somalia, South Carolina, South Dakota, South European Russi, Spain, Sri Lanka, Sudan, Sulawesi, Sumatera, Sweden, Switzerland, Tadzhikistan, Tanzania, Texas, Thailand, Trinidad-Tobago, Tunisia, Turkey-in-Europe, Turkmenistan, Uganda, Ukraine, Uzbekistan, Vietnam, Virginia, Washington, West Siberia, Yugoslavia, Zimbabwe
+
+![Illustration of *Coriandrum sativum* L.](/images/illustrations/coriander.png?width=33vw&classes=shadow "Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen (1887), II 145.")
+
+>Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen (1887), II 145.
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
