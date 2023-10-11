@@ -57,10 +57,10 @@
 }
 
 :root {
-    --dark-jungle0: #1b1f23; /* Dark charcoal */
-    --dark-jungle1: #23272b; /* Slightly lighter charcoal */
-    --dark-jungle2: #2c3034; /* Even lighter charcoal */
-    --dark-jungle3: #353a3f; /* Lighter charcoal */
+    --dark-jungle0: #303030; /* Adjusted Dark charcoal to match the background */
+    --dark-jungle1: #383838; /* Slightly lighter charcoal */
+    --dark-jungle2: #404040; /* Even lighter charcoal */
+    --dark-jungle3: #484848; /* Lighter charcoal */
 
     --dark-jungle4: #7e8a97; /* Light gray */
     --dark-jungle5: #8f979f; /* Slightly darker light gray */

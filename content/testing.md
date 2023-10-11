@@ -39,150 +39,24 @@ disableComments = "true"
 
 Lorem Ipsum.
 
-<!-- ![saffron](/images/saffron_distribution.png?height=20vw&classes=shadow) -->
-
-![saffron](/images/saffron-1.jpg?height=20vw&classes=inline,shadow)
-&nbsp;
-![saffron](/images/saffron-2.jpg?height=20vw&classes=inline,shadow)
-&nbsp;
-![saffron](/images/saffron-3.jpg?height=20vw&classes=inline,shadow)
-
-## Gallery
-
-{{< load-photoswipe >}}
-
-<!-- {{< figure src="/images/cardamom/white-cardamom.jpg" alt="This is a caption" >}} -->
-
-{{< gallery dir="/images/cardamom/" />}}
-
 ## Plotly
 
 {{< load-plotly >}}
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
-{{< plotly json="/aromatica/plotly/regions_allspice.json" height="300" >}}
-## Box
+{{< plotly json="/aromatica/plotly/regions_allspice.json" height="400" >}}
 
-{{% notice primary "There may be pirates" "skull-crossbones" %}}
-It is all about the boxes.
-{{% /notice %}}
+![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
+&nbsp;
+![saffron](/images/saffron-2.jpg?width=15vw&classes=inline,shadow)
+&nbsp;
+![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow)
 
-<!-- {{% attachments sort="asc" /%}} -->
+<!-- ## Gallery
 
-## Badge
+{{< load-photoswipe >}}
 
-{{% badge style="primary" title="Version" %}}6.6.6{{% /badge %}}
+{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
 
-## Button 
-
-{{% button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button %}}
-
-{{% expand "Expand me..." %}}Thank you!{{% /expand %}}
-
-    Code
-
-## Icons
-
-{{% icon mortar-pestle %}}
-
-{{% include "content/materials/something.md" %}}
-
-## Mermaid
-
-{{< mermaid zoom="true" >}}
-pie title Spice names by language
-    "English" : 120
-    "Arabic" : 90
-    "Chinese" : 60
-{{< /mermaid >}}
-
-## Images
-
-```md
-![Spidertocat](https://octodex.github.com/images/spidertocat.png?width=11vw&classes=inline)
-![DrOctocat](https://octodex.github.com/images/droctocat.png?width=11vw&classes=inline)
-![Supertocat](https://octodex.github.com/images/okal-eltocat.jpg?width=11vw&classes=inline)
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?width=11vw&classes=inline)
-```
-
-## Highlighting
-
-Inline `code` style.
-
-```python
-#!/usr/bin/env python
-"""Test file for Python syntax highlighting in editors / IDEs.
-Meant to cover a wide range of different types of statements and expressions.
-Not necessarily sensical or comprehensive (assume that if one exception is
-highlighted that all are, for instance).
-Extraneous trailing whitespace can't be tested because of svn pre-commit hook
-checks for such things.
-"""
-# Comment
-# OPTIONAL: XXX catch your attention
-# TODO(me): next big thing
-# FIXME: this does not work
-
-# Statements
-from __future__ import with_statement  # Import
-from sys import path as thing
-
-print(thing)
-
-assert True  # keyword
-
-
-def foo():  # function definition
-    return []
-
-
-class Bar(object):  # Class definition
-    def __enter__(self):
-        pass
-
-    def __exit__(self, *args):
-        pass
-
-foo()  # UNCOLOURED: function call
-while False:  # 'while'
-    continue
-for x in foo():  # 'for'
-    break
-with Bar() as stuff:
-    pass
-if False:
-    pass  # 'if'
-elif False:
-    pass
-else:
-    pass
-
-# Constants
-'single-quote', u'unicode'  # Strings of all kinds; prefixes not highlighted
-"double-quote"
-"""triple double-quote"""
-'''triple single-quote'''
-r'raw'
-ur'unicode raw'
-'escape\n'
-'\04'  # octal
-'\xFF'  # hex
-'\u1111'  # unicode character
-1  # Integral
-1L
-1.0  # Float
-.1
-1+2j  # Complex
-
-# Expressions
-1 and 2 or 3  # Boolean operators
-2 < 3  # UNCOLOURED: comparison operators
-spam = 42  # UNCOLOURED: assignment
-2 + 3  # UNCOLOURED: number operators
-[]  # UNCOLOURED: list
-{}  # UNCOLOURED: dict
-(1,)  # UNCOLOURED: tuple
-all  # Built-in functions
-GeneratorExit  # Exceptions
-```
+{{< gallery dir="/images/cardamom/" />}} -->

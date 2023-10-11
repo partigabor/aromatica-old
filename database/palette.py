@@ -72,10 +72,10 @@ nord14 = "#a3be8c"
 nord15 = "#b48ead"
 
 # Dark jungle
-dark_jungle0 = "#1b1f23"  # Dark charcoal
-dark_jungle1 = "#23272b"  # Slightly lighter charcoal
-dark_jungle2 = "#2c3034"  # Even lighter charcoal
-dark_jungle3 = "#353a3f"  # Lighter charcoal
+dark_jungle0 = "#282828"  # Dark charcoal
+dark_jungle1 = "#303030"  # Slightly lighter charcoal
+dark_jungle2 = "#383838"  # Even lighter charcoal
+dark_jungle3 = "#404040"  # Lighter charcoal
 
 dark_jungle4 = "#7e8a97"  # Light gray
 dark_jungle5 = "#8f979f"  # Slightly darker light gray

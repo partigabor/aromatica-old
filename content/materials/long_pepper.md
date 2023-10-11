@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-10-09"
+date = "2023-10-11"
 description = "The spike-like cluster of fruits of piper longum from india; fruit of piper longum."
 weight = 10
 # draft = "true"
@@ -12,15 +12,11 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![Illustration of *Piper longum* L.](/images/illustrations/long_pepper.png?width=25vw "Illustration of *Piper longum* L. from Bentley, R., & Trimen, H. (1880). Medicinal Plants: Being descriptions with original figures of the principal plants employed in medicine and an account of the characters, properties, and uses of their parts and products of medicinal value. J. & A. Churchill., nan.")
+|  English  | Arabic|Chinese| Hungarian |
+|-----------|-------|-------|-----------|
+|long pepper|دارفلفل|   蓽撥  |hosszú bors|
 
->Illustration of *Piper longum* L. from Bentley, R., & Trimen, H. (1880). Medicinal Plants: Being descriptions with original figures of the principal plants employed in medicine and an account of the characters, properties, and uses of their parts and products of medicinal value. J. & A. Churchill., nan.
-
-Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China; India.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
-
-| Hungarian | Arabic|Chinese|
-|-----------|-------|-------|
-|hosszú bors|دارفلفل|   蓽撥  |
+Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China; IndiaIt is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -35,11 +31,26 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 |       color      |   dreen to red when ripe, dark brown when dried   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 
+## Distribution
+
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/regions_long pepper.json" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dist_long_pepper.json" weight="600" height="300" >}}
+
+>Native and introduced habitats of *Piper longum* L.[^powo]
+
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Assam, Bangladesh, Cambodia, China South-Central, East Himalaya, Laos, Myanmar, Nicobar Is., Thailand, Vietnam
+
+**Introduced regions:** China Southeast, Hainan, India, Malaya, Nepal, Philippines, Sri Lanka
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+
+
+***
+
+# Bibliography
+
+{{< bibliography cited >}}
 
