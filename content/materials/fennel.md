@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=25vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
+>Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1899 >}} II 88.
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|
@@ -51,8 +51,6 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

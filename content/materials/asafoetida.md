@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=25vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
+>Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1889 >}} II 147.
 
 |  English |Arabic|Chinese| Hungarian |
 |----------|------|-------|-----------|
@@ -49,8 +49,6 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

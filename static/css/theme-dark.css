@@ -3,23 +3,23 @@
    - remove `markup.highlight.noClasses` from your config.toml
    - set `markup.highlight.style` to a predefined style name in your config.toml
    - remove the following `@import` of the self-defined chroma stylesheet */
-@import "chroma-dark.css";
+   @import "chroma-relearn-dark.css";
 
 :root {
-    --PRIMARY-color: #73af48; /* brand primary color */
-    --SECONDARY-color: #73af48; /* brand secondary color */
-    --ACCENT-color: #489caf; /* brand accent color, used for search highlights */
+    --PRIMARY-color: #88ae43 ; /* brand primary color */
+    --SECONDARY-color: #88ae43 ; /* brand secondary color */
+    --ACCENT-color: #4388ae; /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: #e0e0e0; /* text color of content and h1 titles */
-    --MAIN-LINK-HOVER-color: #8dd759; /* hovered link color of content */
+    --MAIN-LINK-HOVER-color: #abc974; /* hovered link color of content */
     --MAIN-BG-color: #202020; /* background color of content */
     --MAIN-TITLES-TEXT-color: #ffffff; /* text color of h2-h6 titles and transparent box titles */
 
     /* adjusted to relearn-dark chroma style */
-    --CODE-BLOCK-color: #f8f8f2; /* fallback text color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-color: #f8f8f8; /* fallback text color of block code; should be adjusted to your selected chroma style */
     --CODE-BLOCK-BG-color: #2b2b2b; /* fallback background color of block code; should be adjusted to your selected chroma style */
 
-    --CODE-INLINE-color: #489caf; /* text color of inline code */
+    --CODE-INLINE-color: #82e550; /* text color of inline code */
     --CODE-INLINE-BG-color: #2d2d2d; /* background color of inline code */
     --CODE-INLINE-BORDER-color: #464646; /* border color of inline code */
 
@@ -39,10 +39,10 @@
     --MENU-SECTIONS-LINK-color: #bababa; /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hovered link color of menu topics */
     --MENU-SECTIONS-ACTIVE-BG-color: #323232; /* background color of the active menu section */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #73af48; /* text color of the displayed menu topic */
-    --MENU-SECTION-HR-color: #606060; /* separator color of menu footer */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #88ae43; /* text color of the displayed menu topic */
+    --MENU-SECTION-SEPARATOR-color: #606060; /* separator color between menu sections and menu footer */
 
-    --MENU-VISITED-color: #8dd759; /* icon color of visited menu topics if configured */
+    --MENU-VISITED-color: #88ae43; /* icon color of visited menu topics if configured */
 
     --BOX-CAPTION-color: #f0f0f0; /* text color of colored box titles */
     --BOX-BG-color: #141414; /* background color of colored boxes */

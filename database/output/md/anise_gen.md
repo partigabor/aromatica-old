@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=25vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
+>Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1888 >}} II 93.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|

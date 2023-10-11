@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=25vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
+>Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1896 >}} II 145.
 
 | English |Arabic|Chinese|Hungarian|
 |---------|------|-------|---------|
@@ -51,8 +51,6 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

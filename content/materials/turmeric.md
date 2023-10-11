@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=25vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
+>Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1909 >}} II 178.
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|
@@ -51,8 +51,6 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

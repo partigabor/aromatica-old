@@ -48,8 +48,6 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 
 
 
-***
-
 # Bibliography
 
 {{< bibliography cited >}}

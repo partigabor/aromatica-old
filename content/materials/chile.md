@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Capsicum annuum* L.](/images/illustrations/chile.png?width=25vw "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
+>Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1893 >}} II 127.
 
 |English| Arabic |Chinese|Hungarian|
 |-------|--------|-------|---------|
@@ -51,8 +51,6 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

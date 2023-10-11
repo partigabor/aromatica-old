@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=25vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
+>Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1899 >}} II 88.
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|

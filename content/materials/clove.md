@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=25vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
+>Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1895 >}} II 125.
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|
@@ -51,8 +51,6 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

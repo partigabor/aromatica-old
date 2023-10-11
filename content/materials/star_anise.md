@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=25vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
+>Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1908 >}} II 117*.
 
 |  English |   Arabic  |Chinese|  Hungarian |
 |----------|-----------|-------|------------|
@@ -51,8 +51,6 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

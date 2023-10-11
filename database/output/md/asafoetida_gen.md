@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=25vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
+>Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1889 >}} II 147.
 
 |  English |Arabic|Chinese| Hungarian |
 |----------|------|-------|-----------|

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=25vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
+>Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1901 >}} II 172.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
@@ -51,8 +51,6 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

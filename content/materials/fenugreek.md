@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=25vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
+>Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1900 >}} II 155.
 
 | English |Arabic|Chinese| Hungarian|
 |---------|------|-------|----------|
@@ -51,8 +51,6 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

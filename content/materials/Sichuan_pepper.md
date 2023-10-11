@@ -48,8 +48,6 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 
 
 
-***
-
 # Bibliography
 
 {{< bibliography cited >}}

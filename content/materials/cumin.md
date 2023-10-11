@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=25vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
+>Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1897 >}} III 23.
 
 |English|Arabic|Chinese|  Hungarian |
 |-------|------|-------|------------|
@@ -51,8 +51,6 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

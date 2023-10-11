@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=25vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
+>Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1891 >}} II 186.
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|
@@ -51,8 +51,6 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice a
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

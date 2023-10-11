@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Piper nigrum* L.](/images/illustrations/pepper.png?width=25vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
+>Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1905 >}} II 144.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
@@ -51,8 +51,6 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Crocus sativus* L.](/images/illustrations/saffron.png?width=25vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 164.
+>Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1906 >}} II 164.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
@@ -51,8 +51,6 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Carum carvi* L.](/images/illustrations/caraway.png?width=25vw "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Carum carvi* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 91.
+>Illustration of *Carum carvi* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1890 >}} II 91.
 
 |English|Arabic|Chinese|  Hungarian  |
 |-------|------|-------|-------------|

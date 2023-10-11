@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?width=25vw "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 77.
+>Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1892 >}} I 77.
 
 |English|Arabic|Chinese|   Hungarian  |
 |-------|------|-------|--------------|
@@ -51,8 +51,6 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

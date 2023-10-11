@@ -48,8 +48,6 @@ Dill (*Anethum graveolens* L.) is a culinary spice from the *Apiaceae* family,[^
 
 
 
-***
-
 # Bibliography
 
 {{< bibliography cited >}}

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=25vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
+>Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1888 >}} II 93.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
@@ -51,8 +51,6 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

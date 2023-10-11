@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=25vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
+>Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1901 >}} II 172.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|

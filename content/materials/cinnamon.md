@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=25vw "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
+>Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1894 >}} I 78.
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|
@@ -51,8 +51,6 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 
