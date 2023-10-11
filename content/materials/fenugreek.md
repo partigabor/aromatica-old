@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=25vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 155.
+>Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 
 | English |Arabic|Chinese| Hungarian|
 |---------|------|-------|----------|

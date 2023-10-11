@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=25vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 117*.
+>Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
 
 |  English |   Arabic  |Chinese|  Hungarian |
 |----------|-----------|-------|------------|

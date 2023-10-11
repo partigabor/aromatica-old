@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Piper nigrum* L.](/images/illustrations/pepper.png?width=25vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 144.
+>Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|

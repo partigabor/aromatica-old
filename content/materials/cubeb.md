@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=25vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Piper cubeba* L.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 103.
+>Illustration of *Piper cubeba* L.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 103.
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=25vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 125.
+>Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|

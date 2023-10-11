@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=25vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 178.
+>Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=25vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 114.
+>Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 
 |English| Arabic|Chinese|Hungarian|
 |-------|-------|-------|---------|

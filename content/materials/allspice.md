@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=25vw "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 174.
+>Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 174.
 
 | English|   Arabic  |Chinese| Hungarian|
 |--------|-----------|-------|----------|

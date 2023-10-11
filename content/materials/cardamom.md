@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=25vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 186.
+>Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|

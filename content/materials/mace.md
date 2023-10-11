@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=25vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, II 132.
+>Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 
 |English|Arabic|Chinese|     Hungarian    |
 |-------|------|-------|------------------|

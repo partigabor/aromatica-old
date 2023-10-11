@@ -1,14 +1,6 @@
 +++
-title = "Materials"
+title = "Spices"
 weight = 10
 menuPre = ""
-menuTitle = "The Materials"
+menuTitle = "The Spices"
 +++
-
-{{% icon pepper-hot %}} Spices
-
-{{% icon seedling %}} Herbs
-
-{{% icon fire-alt %}} Incense
-
-{{% icon vial %}} Perfume

@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 ![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=25vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}}, III 23.
+>Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
 
 |English|Arabic|Chinese|  Hungarian |
 |-------|------|-------|------------|
