@@ -37,9 +37,10 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 
 {{< plotly json="/aromatica/plotly/distributions/dist_asafoetida.json" weight="600" height="300" >}}
 
->Native and introduced habitats of asafoetida.
+>Native and introduced habitats of 0    *Ferula foetida* (Bunge) Regel
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Kazakhstan, Kirgizstan, Pakistan, Tadzhikistan, Turkmenistan, Uzbekistan
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Kazakhstan, Kirgizstan, Pakistan, Tadzhikistan, Turkmenistan, Uzbekistan
 
 ![Illustration of *Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=33vw&classes=shadow "Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen (1887), II 147.")
 

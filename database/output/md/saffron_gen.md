@@ -37,11 +37,12 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 
 {{< plotly json="/aromatica/plotly/distributions/dist_saffron.json" weight="600" height="300" >}}
 
->Native and introduced habitats of saffron.
+>Native and introduced habitats of 0    *Crocus sativus* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Greece
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Greece
 
-**Introduced regions:** Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
+**Introduced regions:** &nbsp;Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
 
 ![Illustration of *Crocus sativus* L.](/images/illustrations/saffron.png?width=33vw&classes=shadow "Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887), II 164.")
 

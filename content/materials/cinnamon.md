@@ -37,11 +37,12 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 
 {{< plotly json="/aromatica/plotly/distributions/dist_cinnamon.json" weight="600" height="300" >}}
 
->Native and introduced habitats of cinnamon.
+>Native and introduced habitats of 0    *Cinnamomum verum* J.Presl.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Sri Lanka
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sri Lanka
 
-**Introduced regions:** Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
+**Introduced regions:** &nbsp;Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
 
 ![Illustration of *Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=33vw&classes=shadow "Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 78.")
 

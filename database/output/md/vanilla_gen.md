@@ -37,11 +37,12 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 
 {{< plotly json="/aromatica/plotly/distributions/dist_vanilla.json" weight="600" height="300" >}}
 
->Native and introduced habitats of vanilla.
+>Native and introduced habitats of 0    *Vanilla planifolia* Jacks. ex Andrews
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Belize, Brazil North, Brazil Northeast, Brazil Southeast, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Belize, Brazil North, Brazil Northeast, Brazil Southeast, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá
 
-**Introduced regions:** Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
+**Introduced regions:** &nbsp;Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
 
 ![Illustration of *Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=33vw&classes=shadow "Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887), II 114.")
 

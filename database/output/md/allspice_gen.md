@@ -37,11 +37,12 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from th
 
 {{< plotly json="/aromatica/plotly/distributions/dist_allspice.json" weight="600" height="300" >}}
 
->Native and introduced habitats of allspice.
+>Native and introduced habitats of 0    *Pimenta dioica* (L.) Merr.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Bahamas, Belize, Cayman Is., Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Jamaica, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bahamas, Belize, Cayman Is., Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Jamaica, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua
 
-**Introduced regions:** Bermuda, Caroline Is., Colombia, El Salvador, Florida, Hawaii, Puerto Rico, Society Is., Southwest Caribbean, Trinidad-Tobago, Venezuela
+**Introduced regions:** &nbsp;Bermuda, Caroline Is., Colombia, El Salvador, Florida, Hawaii, Puerto Rico, Society Is., Southwest Caribbean, Trinidad-Tobago, Venezuela
 
 ![Illustration of *Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=33vw&classes=shadow "Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen (1887), II 174.")
 

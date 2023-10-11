@@ -37,11 +37,12 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 
 {{< plotly json="/aromatica/plotly/distributions/dist_sichuan_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of Sichuan pepper.
+>Native and introduced habitats of 0    *Zanthoxylum bungeanum* Maxim.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;China North-Central, China South-Central, China Southeast, East Himalaya, Inner Mongolia, Manchuria, Nepal, Qinghai, Tibet, Xinjiang
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;China North-Central, China South-Central, China Southeast, East Himalaya, Inner Mongolia, Manchuria, Nepal, Qinghai, Tibet, Xinjiang
 
-**Introduced regions:** Uzbekistan
+**Introduced regions:** &nbsp;Uzbekistan
 
 ![Illustration of *Zanthoxylum bungeanum* Maxim.](/images/illustrations/Sichuan_pepper.png?width=33vw&classes=shadow "Illustration of *Zanthoxylum bungeanum* Maxim. from Matilda Smith (del.), John Nugent Fitch (lith.). (1918) Zanthoxylum planispinum (= Zanthoxylum armatum), Rutaceae. In Curtis's Botanical Magazine (Ed. Sir David Prain), London., vol. 144 [= ser. 4, vol. 14]: Tab. 8754., nan.")
 

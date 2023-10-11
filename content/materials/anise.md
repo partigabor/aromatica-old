@@ -37,11 +37,12 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 
 {{< plotly json="/aromatica/plotly/distributions/dist_anise.json" weight="600" height="300" >}}
 
->Native and introduced habitats of anise.
+>Native and introduced habitats of 0    *Pimpinella anisum* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Cyprus, Lebanon-Syria, Palestine, Turkey
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Cyprus, Lebanon-Syria, Palestine, Turkey
 
-**Introduced regions:** Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia
+**Introduced regions:** &nbsp;Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia
 
 ![Illustration of *Pimpinella anisum* L.](/images/illustrations/anise.png?width=33vw&classes=shadow "Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen (1887), II 93.")
 

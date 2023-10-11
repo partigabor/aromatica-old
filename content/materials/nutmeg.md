@@ -37,11 +37,12 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 
 {{< plotly json="/aromatica/plotly/distributions/dist_nutmeg.json" weight="600" height="300" >}}
 
->Native and introduced habitats of nutmeg.
+>Native and introduced habitats of 0    *Myristica fragrans* Houtt.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Maluku
 
-**Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
+**Introduced regions:** &nbsp;Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
 
 ![Illustration of *Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=33vw&classes=shadow "Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887), II 132.")
 

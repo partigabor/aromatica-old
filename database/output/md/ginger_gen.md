@@ -37,11 +37,12 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 
 {{< plotly json="/aromatica/plotly/distributions/dist_ginger.json" weight="600" height="300" >}}
 
->Native and introduced habitats of ginger.
+>Native and introduced habitats of 0    *Zingiber officinale* Roscoe
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Assam, China South-Central, East Himalaya, India
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Assam, China South-Central, East Himalaya, India
 
-**Introduced regions:** Andaman Is., Bangladesh, Borneo, Cambodia, Caroline Is., China Southeast, Comoros, Costa Rica, Cuba, Dominican Republic, Gulf of Guinea Is., Hainan, Haiti, Honduras, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Mauritius, Mexico Southwest, Myanmar, New Guinea, Nicobar Is., Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Solomon Is., Sri Lanka, Taiwan, Thailand, Trinidad-Tobago, Vietnam, Windward Is.
+**Introduced regions:** &nbsp;Andaman Is., Bangladesh, Borneo, Cambodia, Caroline Is., China Southeast, Comoros, Costa Rica, Cuba, Dominican Republic, Gulf of Guinea Is., Hainan, Haiti, Honduras, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Mauritius, Mexico Southwest, Myanmar, New Guinea, Nicobar Is., Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Solomon Is., Sri Lanka, Taiwan, Thailand, Trinidad-Tobago, Vietnam, Windward Is.
 
 ![Illustration of *Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=33vw&classes=shadow "Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen (1887), II 172.")
 

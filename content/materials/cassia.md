@@ -37,11 +37,12 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 
 {{< plotly json="/aromatica/plotly/distributions/dist_cassia.json" weight="600" height="300" >}}
 
->Native and introduced habitats of cassia.
+>Native and introduced habitats of 0    *Cinnamomum cassia* (L.) J.Presl.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;China Southeast
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;China Southeast
 
-**Introduced regions:** Bangladesh, Cambodia, China South-Central, Guatemala, Hainan, Honduras, India, Laos, Malaya, Myanmar, Sumatera, Taiwan, Thailand, Trinidad-Tobago, Vietnam
+**Introduced regions:** &nbsp;Bangladesh, Cambodia, China South-Central, Guatemala, Hainan, Honduras, India, Laos, Malaya, Myanmar, Sumatera, Taiwan, Thailand, Trinidad-Tobago, Vietnam
 
 ![Illustration of *Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?width=33vw&classes=shadow "Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen (1887), I 77.")
 

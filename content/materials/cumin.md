@@ -37,11 +37,12 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 
 {{< plotly json="/aromatica/plotly/distributions/dist_cumin.json" weight="600" height="300" >}}
 
->Native and introduced habitats of cumin.
+>Native and introduced habitats of 0    *Cuminum cyminum* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Iraq
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Iraq
 
-**Introduced regions:** Algeria, Andaman Is., Bangladesh, Benin, Bulgaria, East Himalaya, Eritrea, France, India, Kazakhstan, Laos, Lebanon-Syria, Libya, Massachusetts, Mexico Northeast, Morocco, Nicobar Is., Pakistan, Saudi Arabia, Sicilia, Spain, Texas, Transcaucasus, Tunisia, Uzbekistan, Xinjiang
+**Introduced regions:** &nbsp;Algeria, Andaman Is., Bangladesh, Benin, Bulgaria, East Himalaya, Eritrea, France, India, Kazakhstan, Laos, Lebanon-Syria, Libya, Massachusetts, Mexico Northeast, Morocco, Nicobar Is., Pakistan, Saudi Arabia, Sicilia, Spain, Texas, Transcaucasus, Tunisia, Uzbekistan, Xinjiang
 
 ![Illustration of *Cuminum cyminum* L.](/images/illustrations/cumin.png?width=33vw&classes=shadow "Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen (1887), III 23.")
 

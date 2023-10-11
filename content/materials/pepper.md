@@ -37,11 +37,12 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 
 {{< plotly json="/aromatica/plotly/distributions/dist_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of pepper.
+>Native and introduced habitats of 0    *Piper nigrum* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;India
 
-**Introduced regions:** Andaman Is., Assam, Bangladesh, Benin, Cambodia, Cameroon, Caroline Is., China South-Central, China Southeast, Comoros, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Ethiopia, French Guiana, Guinea, Gulf of Guinea Is., Haiti, Honduras, Laos, Leeward Is., Marianas, Mauritius, Mexico Gulf, Nicobar Is., Philippines, Puerto Rico, Réunion, Seychelles, Sri Lanka, Thailand, Trinidad-Tobago, Venezuela, Vietnam, Windward Is.
+**Introduced regions:** &nbsp;Andaman Is., Assam, Bangladesh, Benin, Cambodia, Cameroon, Caroline Is., China South-Central, China Southeast, Comoros, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Ethiopia, French Guiana, Guinea, Gulf of Guinea Is., Haiti, Honduras, Laos, Leeward Is., Marianas, Mauritius, Mexico Gulf, Nicobar Is., Philippines, Puerto Rico, Réunion, Seychelles, Sri Lanka, Thailand, Trinidad-Tobago, Venezuela, Vietnam, Windward Is.
 
 ![Illustration of *Piper nigrum* L.](/images/illustrations/pepper.png?width=33vw&classes=shadow "Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887), II 144.")
 

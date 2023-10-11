@@ -37,11 +37,12 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice a
 
 {{< plotly json="/aromatica/plotly/distributions/dist_cardamom.json" weight="600" height="300" >}}
 
->Native and introduced habitats of cardamom.
+>Native and introduced habitats of 0    *Elettaria cardamomum* (L.) Maton
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India, the Western Ghats
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;India, the Western Ghats
 
-**Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
+**Introduced regions:** &nbsp;Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
 
 ![Illustration of *Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=33vw&classes=shadow "Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887), II 186.")
 

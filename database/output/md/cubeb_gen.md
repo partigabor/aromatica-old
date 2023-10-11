@@ -37,9 +37,10 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 
 {{< plotly json="/aromatica/plotly/distributions/dist_cubeb.json" weight="600" height="300" >}}
 
->Native and introduced habitats of cubeb.
+>Native and introduced habitats of 0    *Piper cubeba* L.f.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Borneo, Cambodia, Lesser Sunda Is., Malaya, Maluku, Myanmar, Sulawesi, Sumatera, Vietnam
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Borneo, Cambodia, Lesser Sunda Is., Malaya, Maluku, Myanmar, Sulawesi, Sumatera, Vietnam
 
 ![Illustration of *Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=33vw&classes=shadow "Illustration of *Piper cubeba* L.f. from Köhler's Medizinal-Pflanzen (1887), II 103.")
 

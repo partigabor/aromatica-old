@@ -37,11 +37,12 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 
 {{< plotly json="/aromatica/plotly/distributions/dist_long_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of long pepper.
+>Native and introduced habitats of 0    *Piper longum* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Assam, Bangladesh, Cambodia, China South-Central, East Himalaya, Laos, Myanmar, Nicobar Is., Thailand, Vietnam
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Assam, Bangladesh, Cambodia, China South-Central, East Himalaya, Laos, Myanmar, Nicobar Is., Thailand, Vietnam
 
-**Introduced regions:** China Southeast, Hainan, India, Malaya, Nepal, Philippines, Sri Lanka
+**Introduced regions:** &nbsp;China Southeast, Hainan, India, Malaya, Nepal, Philippines, Sri Lanka
 
 ![Illustration of *Piper longum* L.](/images/illustrations/long_pepper.png?width=33vw&classes=shadow "Illustration of *Piper longum* L. from Bentley, R., & Trimen, H. (1880). Medicinal Plants: Being descriptions with original figures of the principal plants employed in medicine and an account of the characters, properties, and uses of their parts and products of medicinal value. J. & A. Churchill., nan.")
 

@@ -37,11 +37,12 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 
 {{< plotly json="/aromatica/plotly/distributions/dist_turmeric.json" weight="600" height="300" >}}
 
->Native and introduced habitats of turmeric.
+>Native and introduced habitats of 0    *Curcuma longa* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;India
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;India
 
-**Introduced regions:** Andaman Is., Assam, Bangladesh, Belize, Borneo, Cambodia, Caroline Is., China South-Central, China Southeast, Comoros, Congo, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Easter Is., Fiji, Gilbert Is., Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Ivory Coast, Jawa, Leeward Is., Lesser Sunda Is., Malaya, Marquesas, Mauritius, Myanmar, New Caledonia, New Guinea, Nicobar Is., Philippines, Pitcairn Is., Puerto Rico, Queensland, Réunion, Samoa, Society Is., Solomon Is., Sri Lanka, Sumatera, Taiwan, Thailand, Tibet, Tonga, Trinidad-Tobago, Tuamotu, Tubuai Is., Vietnam, Windward Is.
+**Introduced regions:** &nbsp;Andaman Is., Assam, Bangladesh, Belize, Borneo, Cambodia, Caroline Is., China South-Central, China Southeast, Comoros, Congo, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Easter Is., Fiji, Gilbert Is., Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Ivory Coast, Jawa, Leeward Is., Lesser Sunda Is., Malaya, Marquesas, Mauritius, Myanmar, New Caledonia, New Guinea, Nicobar Is., Philippines, Pitcairn Is., Puerto Rico, Queensland, Réunion, Samoa, Society Is., Solomon Is., Sri Lanka, Sumatera, Taiwan, Thailand, Tibet, Tonga, Trinidad-Tobago, Tuamotu, Tubuai Is., Vietnam, Windward Is.
 
 ![Illustration of *Curcuma longa* L.](/images/illustrations/turmeric.png?width=33vw&classes=shadow "Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887), II 178.")
 

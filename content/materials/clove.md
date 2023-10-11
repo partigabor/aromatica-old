@@ -37,11 +37,12 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 {{< plotly json="/aromatica/plotly/distributions/dist_clove.json" weight="600" height="300" >}}
 
->Native and introduced habitats of clove.
+>Native and introduced habitats of 0    *Syzygium aromaticum* (L.) Merr. \& L.M.Perry
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Maluku
 
-**Introduced regions:** Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
+**Introduced regions:** &nbsp;Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
 
 ![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=33vw&classes=shadow "Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887), II 125.")
 

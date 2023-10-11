@@ -37,11 +37,12 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 
 {{< plotly json="/aromatica/plotly/distributions/dist_fenugreek.json" weight="600" height="300" >}}
 
->Native and introduced habitats of fenugreek.
+>Native and introduced habitats of 0    *Trigonella foenum-graecum* L.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Iraq, Pakistan
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Afghanistan, Iran, Iraq, Pakistan
 
-**Introduced regions:** Albania, Algeria, Assam, Austria, Baltic States, Bangladesh, Belgium, Bulgaria, Central European Rus, China North-Central, China South-Central, Cyprus, Czechoslovakia, East Aegean Is., East European Russia, Ethiopia, Fiji, France, Germany, Greece, Hungary, India, Inner Mongolia, Italy, Kenya, Kirgizstan, Kriti, Krym, Kuwait, Lebanon-Syria, Libya, Mali, Manchuria, Morocco, Mozambique, Myanmar, Nepal, North Caucasus, North European Russi, Northern Provinces, Northwest European R, Oman, Palestine, Portugal, Qinghai, Romania, Saudi Arabia, Sicilia, Sinai, South European Russi, Spain, Sudan, Switzerland, Tadzhikistan, Tanzania, Tibet, Transcaucasus, Tunisia, Turkey, Turkey-in-Europe, Turkmenistan, Ukraine, Uzbekistan, West Himalaya, Xinjiang, Yemen, Yugoslavia, Zimbabwe
+**Introduced regions:** &nbsp;Albania, Algeria, Assam, Austria, Baltic States, Bangladesh, Belgium, Bulgaria, Central European Rus, China North-Central, China South-Central, Cyprus, Czechoslovakia, East Aegean Is., East European Russia, Ethiopia, Fiji, France, Germany, Greece, Hungary, India, Inner Mongolia, Italy, Kenya, Kirgizstan, Kriti, Krym, Kuwait, Lebanon-Syria, Libya, Mali, Manchuria, Morocco, Mozambique, Myanmar, Nepal, North Caucasus, North European Russi, Northern Provinces, Northwest European R, Oman, Palestine, Portugal, Qinghai, Romania, Saudi Arabia, Sicilia, Sinai, South European Russi, Spain, Sudan, Switzerland, Tadzhikistan, Tanzania, Tibet, Transcaucasus, Tunisia, Turkey, Turkey-in-Europe, Turkmenistan, Ukraine, Uzbekistan, West Himalaya, Xinjiang, Yemen, Yugoslavia, Zimbabwe
 
 ![Illustration of *Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=33vw&classes=shadow "Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen (1887), II 155.")
 

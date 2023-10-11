@@ -37,11 +37,12 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 
 {{< plotly json="/aromatica/plotly/distributions/dist_star_anise.json" weight="600" height="300" >}}
 
->Native and introduced habitats of star anise.
+>Native and introduced habitats of 0    *Illicium verum* Hook.f.
+Name: species name, dtype: object.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;China Southeast, Vietnam
+**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;China Southeast, Vietnam
 
-**Introduced regions:** Cambodia, China South-Central
+**Introduced regions:** &nbsp;Cambodia, China South-Central
 
 ![Illustration of *Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=33vw&classes=shadow "Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen (1887), II 117*.")
 
