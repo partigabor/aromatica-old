@@ -1,8 +1,8 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
+date = "2023-10-12"
+description = "Spice made from the dried fleshy covering of the nutmeg seed, related to nutmeg. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=25vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=33vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1903 >}} II 132.
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
+
+Spice made from the dried fleshy covering of the nutmeg seed, related to nutmeg. Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|     Hungarian    |
 |-------|------|-------|------------------|
 |  mace |بسباسة|  肉豆蔻皮 |szerecsendió-virág|
-
-Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 

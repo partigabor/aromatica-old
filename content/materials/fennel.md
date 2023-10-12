@@ -1,8 +1,8 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The dried fruits of a perennial herb."
+date = "2023-10-12"
+description = "Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=25vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=33vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1899 >}} II 88.
+>Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
+
+Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|
 | fennel|  شمر |   茴香  |édeskömény|
-
-Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 

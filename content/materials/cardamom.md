@@ -1,8 +1,8 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The bright-green seed pods of an indian plant; fruit of elettaria cardamomum, also known as true cardamom; green cardamom."
+date = "2023-10-12"
+description = "Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=25vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=33vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1891 >}} II 186.
+>Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
+
+Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice and cardamoms from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|
 |cardamom|  هال |   豆蔻  | kardamom|
-
-Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice and cardamoms from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
 ## Overview
 

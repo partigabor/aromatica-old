@@ -1,8 +1,8 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The bright yellow powder yielded from the rhizomes of curcuma longa; root of curcuma domestica."
+date = "2023-10-12"
+description = "Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=25vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=33vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1909 >}} II 178.
+>Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
+
+Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of IndiaIt is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|
 |turmeric| كركم |   薑黃  | kurkuma |
-
-Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of IndiaIt is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 

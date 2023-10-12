@@ -1,8 +1,8 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The dried fruits of an annual herb, also known as cilantro."
+date = "2023-10-12"
+description = "Dried coriander seeds used whole or ground. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=25vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=33vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1896 >}} II 145.
+>Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
+
+Dried coriander seeds used whole or ground. Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. AsiaIt is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 | English |Arabic|Chinese|Hungarian|
 |---------|------|-------|---------|
 |coriander| كزبرة|   芫荽  |koriander|
-
-Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. AsiaIt is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 

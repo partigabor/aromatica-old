@@ -1,8 +1,8 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The star shaped pericarps of a tree from vietnam and south china; fruit of illicium verum."
+date = "2023-10-12"
+description = "Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see also anise. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=25vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
+![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=33vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1908 >}} II 117*.
+>Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
+
+Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see also anise. Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; VietnamIt is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 |  English |   Arabic  |Chinese|  Hungarian |
 |----------|-----------|-------|------------|
 |star anise|يانسون نجمي|   八角  |csillagánizs|
-
-Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; VietnamIt is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 

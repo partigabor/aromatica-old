@@ -1,8 +1,8 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The dried fruits of an indian vine, also known as black pepper."
+date = "2023-10-12"
+description = "Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Piper nigrum* L.](/images/illustrations/pepper.png?width=25vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=33vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1905 >}} II 144.
+>Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
+
+Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | pepper| فلفل |   胡椒  |   bors  |
-
-Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 ## Overview
 

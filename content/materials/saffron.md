@@ -1,8 +1,8 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The stigmas or styles of the saffron crocus flower; stamen of crocus sativus."
+date = "2023-10-12"
+description = "Dried pungent stigmas of the old world saffron crocus. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Crocus sativus* L.](/images/illustrations/saffron.png?width=25vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
+![*Crocus sativus* L.](/images/illustrations/saffron.png?width=33vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1906 >}} II 164.
+>Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 164.
+
+Dried pungent stigmas of the old world saffron crocus. Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near EastIt is used for its stigma (style), primarily for paella, bouillabaise, rice, tagine, fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 |saffron|زعفران|  藏紅花  | sáfrány |
-
-Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near EastIt is used for its stigma (style), primarily for paella, bouillabaise, rice, tagine, fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
 ## Overview
 

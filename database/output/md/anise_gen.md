@@ -1,8 +1,8 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The seed-like fruits of a mediterranean herb, also known as aniseed, related to fennel."
+date = "2023-10-12"
+description = "Liquorice-flavored seeds, used medicinally and in cooking and liquors, also known as aniseed, related to fennel, see also star anise. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=25vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=33vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1888 >}} II 93.
+>Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
+
+Liquorice-flavored seeds, used medicinally and in cooking and liquors, also known as aniseed, related to fennel, see also star anise. Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia MinorIt is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | anise |أنيسون|   茴芹  |  ánizs  |
-
-Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia MinorIt is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 

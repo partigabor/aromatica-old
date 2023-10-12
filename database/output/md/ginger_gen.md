@@ -1,8 +1,8 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The rhizomes of the ginger plant, fresh or dried; root of zingiber officinale."
+date = "2023-10-12"
+description = "Dried ground gingerroot, see also Wild ginger. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,15 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=25vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=33vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1901 >}} II 172.
+>Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
+
+Dried ground gingerroot, see also Wild ginger. Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary)It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | ginger|زنجبيل|   薑   | gyömbér |
-
-Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary)It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
 ## Overview
 
