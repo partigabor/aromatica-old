@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-12"
+date = "2023-10-13"
 description = "Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled strips or ground, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"

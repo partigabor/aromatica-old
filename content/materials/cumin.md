@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-10-12"
+date = "2023-10-13"
 description = "Aromatic seeds of the cumin herb of the carrot family. "
 weight = 10
 # draft = "true"
