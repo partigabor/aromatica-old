@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-15"
 description = "Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. "
 weight = 10
 # draft = "true"

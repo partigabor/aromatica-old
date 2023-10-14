@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-15"
 description = "Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
 weight = 10
 # draft = "true"

@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-15"
 description = "Hard aromatic seed of the nutmeg tree used as spice when grated or ground, related to mace. "
 weight = 10
 # draft = "true"
