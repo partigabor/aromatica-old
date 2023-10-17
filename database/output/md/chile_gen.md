@@ -1,14 +1,14 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "Very hot and finely tapering pepper of special pungency, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary']
+tags = ['culinary', 'chiles']
 bibFile = "static/files/bibliography.json"
 +++
 

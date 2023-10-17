@@ -1,14 +1,14 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "The inner bark of southeast asian trees, related to cinnamon, see also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal']
+tags = ['culinary', ' medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "Dried ground gingerroot, see also Wild ginger. "
 weight = 10
 # draft = "true"

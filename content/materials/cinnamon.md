@@ -1,14 +1,14 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled strips or ground, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal']
+tags = ['culinary', ' medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 

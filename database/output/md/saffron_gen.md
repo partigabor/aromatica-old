@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "Dried pungent stigmas of the old world saffron crocus. "
 weight = 10
 # draft = "true"

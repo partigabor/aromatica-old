@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "The numbing, red or green fruits of east asian prickly ash trees, related to sansho, see also sansho. "
 weight = 10
 # draft = "true"

@@ -47,11 +47,14 @@ Lorem Ipsum.
 
 {{< plotly json="/aromatica/plotly/regions_allspice.json" height="400" >}}
 
+![saffron](/images/saffron-1.jpg?width=20vw&classes=shadow)
+
+<!-- 
 ![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
 &nbsp;
 ![saffron](/images/saffron-2.jpg?width=15vw&classes=inline,shadow)
 &nbsp;
-![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow)
+![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow) -->
 
 <!-- ## Gallery
 

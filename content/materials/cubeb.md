@@ -1,26 +1,26 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-11"
-description = "The fruit of piper cubeba, related to pepper."
+date = "2023-10-17"
+description = "Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes, related to pepper, see also Ashanti pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal', ' perfume']
+tags = ['culinary', ' medicinal', ' perfume', 'false peppers']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=25vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen")
+![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=33vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
 
->Illustration of *Piper cubeba* L.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 103.
+>Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
+
+Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes, related to pepper, see also Ashanti pepper. Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast AsiaIt is used for its unripe fruit, primarily for gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | cubeb | كبابة|  蓽澄茄  |   nan   |
-
-Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast AsiaIt is used for its unripe fruit, primarily for gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -49,8 +49,6 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
-
-***
 
 # Bibliography
 

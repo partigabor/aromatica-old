@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-10-13"
+date = "2023-10-17"
 description = "The brownish gum resin of various plants; has strong taste and odor; formerly used as an antispasmodic, also known as hing; devil's dung. "
 weight = 10
 # draft = "true"
