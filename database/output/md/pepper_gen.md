@@ -1,7 +1,11 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
+<<<<<<< HEAD
 date = "2023-10-17"
+=======
+date = "2023-10-15"
+>>>>>>> 945df6d7229931fde5589cb55c6e7e728a378649
 description = "Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"

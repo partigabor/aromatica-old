@@ -1,7 +1,11 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
+<<<<<<< HEAD
 date = "2023-10-17"
+=======
+date = "2023-10-15"
+>>>>>>> 945df6d7229931fde5589cb55c6e7e728a378649
 description = "The inner bark of southeast asian trees, related to cinnamon, see also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
 weight = 10
 # draft = "true"

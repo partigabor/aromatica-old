@@ -1,7 +1,11 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
+<<<<<<< HEAD
 date = "2023-10-17"
+=======
+date = "2023-10-15"
+>>>>>>> 945df6d7229931fde5589cb55c6e7e728a378649
 description = "A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans), see also Tahitian vanilla; West Indian vanilla. "
 weight = 10
 # draft = "true"

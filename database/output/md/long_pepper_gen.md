@@ -1,7 +1,11 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
+<<<<<<< HEAD
 date = "2023-10-17"
+=======
+date = "2023-10-15"
+>>>>>>> 945df6d7229931fde5589cb55c6e7e728a378649
 description = "The spike-like cluster of fruits of piper longum from india; fruit of piper longum, see also Java long pepper. "
 weight = 10
 # draft = "true"

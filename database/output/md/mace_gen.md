@@ -1,7 +1,11 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
+<<<<<<< HEAD
 date = "2023-10-17"
+=======
+date = "2023-10-15"
+>>>>>>> 945df6d7229931fde5589cb55c6e7e728a378649
 description = "Spice made from the dried fleshy covering of the nutmeg seed, related to nutmeg. "
 weight = 10
 # draft = "true"
