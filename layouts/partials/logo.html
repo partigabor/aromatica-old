@@ -1,34 +1,35 @@
           <style>
             #logo svg,
             #logo svg * {
-              color: #282828;
-              color: var(--MENU-SECTIONS-BG-color);
-              /* fill: #282828 !important; */
-              /* fill: var(--MENU-SECTIONS-BG-color) !important; */
-              opacity: .945;
+              /* color: #202020; */
+              /* color: var(--MENU-SECTIONS-BG-color); */
+              /* fill: #202020 !important; */ /* svg color */
+              fill: var(--MENU-SECTIONS-BG-color) !important; /* svg color */
+              /* opacity: .945; */ /* svg opacity only*/
             }
             a#logo {
-              color: #282828;
-              color: var(--MENU-SECTIONS-BG-color);
+              /* color: #202020; */ /* text color */
+              color: var(--MENU-SECTIONS-BG-color); /* text color */
               font-family: 'Work Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
               font-size: 1.875rem;
-              font-weight: 300;
-              margin-top: -.8125rem;
-              /* max-width: 60%; */
+              font-weight: 400;
+              margin-top: -0.1rem; /* -.8125rem; */
+              max-width: 80%;
               /* text-transform: uppercase; */
-              width: 14.125rem;
+              width: 16rem; /* 14.125rem; */
               /* white-space: nowrap; */
+              opacity: .945; /* text and svg opacity*/
             }
             a#logo:hover {
-              color: #282828;
-              color: var(--MENU-SECTIONS-BG-color);
+              /* color: #ffffff; */
+              color: var(--MENU-SECTIONS-LINK-HOVER-color);
             }
             #logo svg {
               margin-bottom: -1.25rem;
               margin-inline-start: -1.47rem;
-              width: 40.5%;
+              width: 50%; /* 40.5% */
             }
-            @media only all and (max-width: 60rem) {
+            @media only all and (max-width: 80rem) {
               a#logo {
                 font-size: 1.5625rem;
                 margin-top: -.1875rem;
@@ -56,11 +57,10 @@
           </style>
           <a id="logo" href="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .Site.Home) }}">
             <!-- <i class='fas fa-pepper-hot'></i> -->
-
+            <!-- <img src="images/borobudur.png" alt="Borobudur ship" width="200" > -->
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
             width="100pt" height="50pt" viewBox="0 0 990 495" preserveAspectRatio="xMidYMid meet">
-            <g transform="translate(0,495) scale(0.050505,-0.050505)" fill="#202020" stroke="none">
-            
+            <g transform="translate(0,495) scale(0.050505,-0.050505)" fill="none" stroke="none">
             <path d="M11200 10915 c-172 -24 -373 -81 -495 -142 -149 -75 -153 -79 -1665
             -1590 l-1476 -1474 -41 15 c-70 25 -242 64 -358 82 -152 23 -468 23 -630 0
             -152 -22 -301 -57 -435 -102 -101 -34 -335 -143 -431 -200 l-46 -27 -94 75
