@@ -39,6 +39,8 @@ disableComments = "true"
 
 Lorem Ipsum.
 
+{{< svg "static/images/svgs/borobudur.svg" >}}
+
 ## Plotly
 
 {{< load-plotly >}}
