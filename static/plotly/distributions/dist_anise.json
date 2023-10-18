@@ -47580,9 +47580,9 @@
       "bgcolor": "rgba(0,0,0,0.25)",
       "orientation": "v",
       "traceorder": "normal",
-      "x": 0.1,
+      "x": 0,
       "xanchor": "left",
-      "y": 0.1,
+      "y": 0,
       "yanchor": "bottom"
     },
     "margin": {
