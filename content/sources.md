@@ -43,6 +43,20 @@ The main challenge of combining different spice datasets is that the basis of co
 
 <!-- ## 2. Historical Sources -->
 
+# Resources
+
+
+<!-- 
+Plant names backbone and maps
+
+POWO uses WCVP as the names backbone and therefore the taxonomy in POWO is identical to that on the WCVP website https://wcvp.science.kew.org/. The names and distribution data are updated weekly from WCVP. The maps are generated from the level 3 [TDWG geographical codes](https://web.archive.org/web/20160125135239/http:/www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf) in the WCVP database and are also refreshed weekly on POWO. 
+
+World Geographical Scheme for Recording Plant Distributions (WGSRPD)
+
+International Working Group on Taxonomic Databases (TDWG)
+
+https://github.com/tdwg/wgsrpd -->
+
 ***
 
 # Bibliography
