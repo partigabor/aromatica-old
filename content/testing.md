@@ -39,7 +39,9 @@ disableComments = "true"
 
 Lorem Ipsum.
 
-{{< svg "static/images/svgs/borobudur.svg" >}}
+<!-- {{< svg "static/images/svgs/borobudur.svg" >}} -->
+
+![Borobudur](/images/borobudur.png?width=50vw)
 
 ## Plotly
 
@@ -47,7 +49,7 @@ Lorem Ipsum.
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
-<!-- ![saffron](/images/saffron-1.jpg?width=20vw&classes=shadow) -->
+
 
 <!-- 
 ![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
