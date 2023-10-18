@@ -5,8 +5,8 @@ date = "2023-08-01T00:00:00+08:00"
 description = "Description."
 weight = 10
 # draft = "false"
-categories = ['spice']
-tags = ['culinary']
+categories = ['test']
+tags = ['test']
 disableComments = "true"
 # plotly = "true"
 # mermaidZoom = true
@@ -45,9 +45,7 @@ Lorem Ipsum.
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
-{{< plotly json="/aromatica/plotly/regions_allspice.json" height="400" >}}
-
-![saffron](/images/saffron-1.jpg?width=20vw&classes=shadow)
+<!-- ![saffron](/images/saffron-1.jpg?width=20vw&classes=shadow) -->
 
 <!-- 
 ![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
