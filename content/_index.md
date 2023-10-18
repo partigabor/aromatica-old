@@ -22,7 +22,9 @@ Currently the website contains information on 24 items.
 
 ### On the Name
 
-The name *aromatica* was inspired by the word *exotica*.[^1] *Aromatica* is the singular feminine or the plural neuter nominative form of *arōmāticus* (f. *arōmātica*, n. *arōmāticum*), an adjective meaning "composed of spice, aromatic, fragrant" {{< cite lewis_latin_1879 >}} [(Lewis & Short, 1879)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek *ἀρωματικός* arōmatikós adj. 'aromatic', and the etymon *ἄρωμα* árōma n. "aromatic herb or spice" {{< cite liddell_greekenglish_1940 >}} [(Liddell–Scott–Jones, 1843)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1). 
+*Aromatica* is the singular feminine or the plural neuter nominative form of *arōmāticus* (f. *arōmātica*, n. *arōmāticum*), an adjective meaning "composed of spice, aromatic, fragrant" {{< cite lewis_latin_1879 >}} [{{< icon arrow-up-right-from-square>}}](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek *ἀρωματικός* arōmatikós adj. 'aromatic', and the etymon *ἄρωμα* árōma n. "aromatic herb or spice" {{< cite liddell_greekenglish_1940 >}} [{{< icon arrow-up-right-from-square>}}](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1). 
+
+The name *aromatica* was inspired by the word *exotica*.[^1] 
 
 The term therefore refers to any substance of fragrance, focusing on spices, but also including, oils and perfume, incense, fragrant woods, medicine, and other aromatic exotica with special olfactory and gustatory qualities. 
 
@@ -35,3 +37,76 @@ The term therefore refers to any substance of fragrance, focusing on spices, but
 # Bibliography
 
 {{< bibliography cited >}}
+
+#
+<!-- Other name ideas:
+
+Philologia Aromatica
+Philologia Exotica
+
+Arcana
+Exotica
+Aromarama (aroma + panorama)
+Scental
+PerfumeOdes
+AromaTrove
+PerfumeAntiquum (Latin: "Ancient Perfumes")
+FragrantLegacy
+AromaTales
+AromaSaga
+HistoricalScents
+OdorumVentus (Latin: "Scented Winds")
+FragranceHorizon
+AromaCulturalis (Latin: "Cultural Aromas")
+SpiceMystique
+    HistoraAromata (Latin: "History of Aromas")
+    HerbaeVetustas (Latin: "Ancient Herbs")
+    AromataAntiqua (Latin: "Ancient Aromas")
+    LinguaAromatum (Latin: "Language of Aromas")
+    OdoribusVetustis (Latin: "Ancient Fragrances")
+    SpiceRerum (Latin: "Spice of Things")
+    HerbarumMemoria (Latin: "Memory of Herbs")
+    AromatumRes (Latin: "Matters of Aromas")
+    PhilologiaAromaton (Greek: "Philology of Aromas")
+    ArchaiaAromata (Greek: "Ancient Aromas")
+        SpiceSway
+    AromaTrail
+    HerbHist
+    FragranceNet
+    SilkSpices
+    TradeScents
+    SpiceVoyage
+    AromaRoutes
+    HerbLore
+    ScentSaga
+    SpiceTrek
+    FragrantWeb
+    TradeTales
+    SpiceHub
+    AromaArk
+    IncenseInk
+    SilkAroma
+    HerbWeave
+    ScentLine
+    SpicePulse
+        SpiceScribes
+    FragrantTales
+    TradeRoutesAroma
+    SilkRoadSensations
+    SpiceTrailNarratives
+    PerfumedPassages
+    HerbloreExpeditions
+    IncenseChronicles
+    AromaHistoria
+    ScentedVoyages
+    SpiceSagaNetworks
+    FragranceCaravans
+    PerfumedPast
+    SpiceJourneyTales
+    TradewindsAromas
+    MysticFragranceRoutes
+    AromaticaOdysseys
+    SpiceStoryArc
+    ScentedTradeTrek
+    SpiceCaravanChronicles
+ -->
