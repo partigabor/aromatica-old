@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Very hot and finely tapering pepper of special pungency, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"

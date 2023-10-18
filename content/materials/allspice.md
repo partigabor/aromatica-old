@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Ground dried berrylike fruit of a west indian allspice tree; suggesting combined flavors of cinnamon and nutmeg and cloves, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice. "
 weight = 10
 # draft = "true"

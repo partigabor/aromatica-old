@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Aromatic seeds used as seasoning especially in curry. "
 weight = 10
 # draft = "true"

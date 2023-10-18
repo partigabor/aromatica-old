@@ -10080,7 +10080,12 @@
         ]
       },
       "projection": {
-        "type": "natural earth",
+        "type": "orthographic",
+        "rotation": {
+          "lat": -1.3678217164876232,
+          "lon": 128.01567497176774,
+          "roll": 0
+        },
         "scale": 2
       },
       "center": {},
@@ -10119,8 +10124,7 @@
       "showrivers": true,
       "showsubunits": true,
       "subunitcolor": "#383838",
-      "subunitwidth": 0,
-      "fitbounds": "locations"
+      "subunitwidth": 0
     },
     "legend": {
       "title": {

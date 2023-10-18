@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Dried coriander seeds used whole or ground. "
 weight = 10
 # draft = "true"

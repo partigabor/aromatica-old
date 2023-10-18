@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Liquorice-flavored seeds, used medicinally and in cooking and liquors, also known as aniseed, related to fennel, see also star anise. "
 weight = 10
 # draft = "true"

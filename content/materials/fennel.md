@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. "
 weight = 10
 # draft = "true"

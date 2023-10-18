@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see also anise. "
 weight = 10
 # draft = "true"

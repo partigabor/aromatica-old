@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes, related to pepper, see also Ashanti pepper. "
 weight = 10
 # draft = "true"

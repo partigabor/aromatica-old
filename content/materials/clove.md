@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-17"
+date = "2023-10-18"
 description = "Spice from dried unopened flower bud of the clove tree; used whole or ground, see also nutmeg; mace. "
 weight = 10
 # draft = "true"
