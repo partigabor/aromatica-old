@@ -47,7 +47,7 @@ The logo of Aromatica depicts the [Borobodur ship](https://en.wikipedia.org/wiki
 
 #### Fonts
 
-This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans font commissioned by Google.  -->
+This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans font commissioned by Google. Privacy: The website hosts these fonts locally, and does not send or receive requests to Google's servers. -->
 
 ***
 
