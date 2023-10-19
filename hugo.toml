@@ -59,7 +59,7 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 [[languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub"
 identifier = "ds" # ?
-url = "https://github.com/partigabor"
+url = "https://github.com/partigabor/aromatica"
 weight = 10
 
 [[languages.en.menu.shortcuts]]
