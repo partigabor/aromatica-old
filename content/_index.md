@@ -10,7 +10,7 @@ bibFile = "static/files/bibliography.json"
 
 Aromatica is a database containing historical, cultural, and linguistic information on spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials. The website currently contains information on 24 items.
 
->The website is under construction, come back in 2024.
+>The website is under construction, please come back in 2024.
 
 
 {{< load-plotly >}}
