@@ -53,9 +53,13 @@ This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans f
 
 ### Versioning \& Updates
 
-{{% badge style="accent" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; website creation; entering development mode (alpha)
+{{% badge style="accent" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; (alpha) website creation; entering development mode
 
-<!-- {{% badge style="accent" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; website creation; entering development mode (alpha) -->
+{{% badge style="accent" title="Version" %}}0.0.2{{% /badge %}} &ensp;(2023-10-01) &ensp; (alpha) functionality and theme tested and finalized; some placeholder content added
+
+<!-- {{% badge style="accent" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; (beta) initial development release -->
+
+
 
 
 # Bibliography
