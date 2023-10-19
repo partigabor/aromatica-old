@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Hard aromatic seed of the nutmeg tree used as spice when grated or ground, related to mace. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=33vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
-
->Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
-
 Hard aromatic seed of the nutmeg tree used as spice when grated or ground, related to mace. Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|  Arabic |Chinese|  Hungarian |
@@ -24,7 +20,7 @@ Hard aromatic seed of the nutmeg tree used as spice when grated or ground, relat
 
 ## Overview
 
-|        id        |                       nutmeg                      |
+|       item       |                       nutmeg                      |
 |------------------|---------------------------------------------------|
 |   species name   |            *Myristica fragrans* Houtt.            |
 |      family      |                   Myristicaceae                   |
@@ -34,6 +30,10 @@ Hard aromatic seed of the nutmeg tree used as spice when grated or ground, relat
 |    cultivation   |                 Grenada; Indonesia                |
 |       color      |         pale brown nut, dark when powdered        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
+
+![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=33vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 
 ## Distribution
 

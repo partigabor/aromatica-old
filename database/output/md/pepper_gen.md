@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Piper nigrum* L.](/images/illustrations/pepper.png?width=33vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
-
 Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Pungent seasoning from the berry of the common pepper plant of east india; use w
 
 ## Overview
 
-|        id        |                       pepper                      |
+|       item       |                       pepper                      |
 |------------------|---------------------------------------------------|
 |   species name   |                 *Piper nigrum* L.                 |
 |      family      |                     Piperaceae                    |
@@ -34,6 +30,10 @@ Pungent seasoning from the berry of the common pepper plant of east india; use w
 |    cultivation   | Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.|
 |       color      |                black; white; green                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
+
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=33vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 
 ## Distribution
 

@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Fruit of amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Amomum subulatum* Roxb.](/images/illustrations/black_cardamom.png?width=33vw "Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819)")
-
->Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819){{< cite -nan >}} nan. [{{% icon image %}}](http://plantillustrations.org/illustration.php?id_illustration=61488)
-
 Fruit of amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*. Black Cardamom (*Amomum subulatum* Roxb.) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of HimalayasIt is used for its seed pod, primarily for nan. Its aroma is described as smoky, with a heat index of nan.[^ucla_medicinal_2002]
 
 |    English   |Arabic|Chinese|   Hungarian   |
@@ -24,7 +20,7 @@ Fruit of amomum subulatum, also known as brown cardamom; greater cardamom; India
 
 ## Overview
 
-|        id        |                   black cardamom                  |
+|       item       |                   black cardamom                  |
 |------------------|---------------------------------------------------|
 |   species name   |              *Amomum subulatum* Roxb.             |
 |      family      |                   Zingiberaceae                   |
@@ -34,6 +30,10 @@ Fruit of amomum subulatum, also known as brown cardamom; greater cardamom; India
 |    cultivation   |                     Himalayas                     |
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/872166-1)|
+
+![*Amomum subulatum* Roxb.](/images/illustrations/black_cardamom.png?width=33vw "Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819)")
+
+>Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819){{< cite -nan >}} nan. [{{% icon image %}}](http://plantillustrations.org/illustration.php?id_illustration=61488)
 
 ## Distribution
 

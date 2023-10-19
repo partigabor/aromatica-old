@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Aromatic seeds used as seasoning especially in curry. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=33vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
-
 Aromatic seeds used as seasoning especially in curry. Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. AsiaIt is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
 | English |Arabic|Chinese| Hungarian|
@@ -24,7 +20,7 @@ Aromatic seeds used as seasoning especially in curry. Fenugreek (*Trigonella foe
 
 ## Overview
 
-|        id        |                     fenugreek                     |
+|       item       |                     fenugreek                     |
 |------------------|---------------------------------------------------|
 |   species name   |           *Trigonella foenum-graecum* L.          |
 |      family      |                      Fabaceae                     |
@@ -34,6 +30,10 @@ Aromatic seeds used as seasoning especially in curry. Fenugreek (*Trigonella foe
 |    cultivation   |                       India                       |
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
+
+![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=33vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 
 ## Distribution
 

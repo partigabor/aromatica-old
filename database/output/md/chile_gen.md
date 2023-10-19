@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Very hot and finely tapering pepper of special pungency, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', 'chiles']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Capsicum annuum* L.](/images/illustrations/chile.png?width=33vw "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
-
 Very hot and finely tapering pepper of special pungency, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central AmericaIt is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
 |English| Arabic |Chinese|Hungarian|
@@ -24,7 +20,7 @@ Very hot and finely tapering pepper of special pungency, also known as chilli; c
 
 ## Overview
 
-|        id        |                              chile                              |
+|       item       |                              chile                              |
 |------------------|-----------------------------------------------------------------|
 |   species name   |                       *Capsicum annuum* L.                      |
 |      family      |                            Solanaceae                           |
@@ -34,6 +30,10 @@ Very hot and finely tapering pepper of special pungency, also known as chilli; c
 |    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
 |       color      |                   red and green in many shades                  |
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
+
+![*Capsicum annuum* L.](/images/illustrations/chile.png?width=33vw "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
 
 ## Distribution
 

@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "The brownish gum resin of various plants; has strong taste and odor; formerly used as an antispasmodic, also known as hing; devil's dung. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=33vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
-
->Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
-
 The brownish gum resin of various plants; has strong taste and odor; formerly used as an antispasmodic, also known as hing; devil's dung. Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. AsiaIt is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 
 |  English |Arabic|Chinese| Hungarian |
@@ -24,7 +20,7 @@ The brownish gum resin of various plants; has strong taste and odor; formerly us
 
 ## Overview
 
-|        id        |                     asafoetida                    |
+|       item       |                     asafoetida                    |
 |------------------|---------------------------------------------------|
 |   species name   |           *Ferula foetida* (Bunge) Regel          |
 |      family      |                      Apiaceae                     |
@@ -34,6 +30,10 @@ The brownish gum resin of various plants; has strong taste and odor; formerly us
 |    cultivation   |                 Iran; Afghanistan                 |
 |       color      |             from pale yellow to brown             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
+
+![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=33vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
 
 ## Distribution
 

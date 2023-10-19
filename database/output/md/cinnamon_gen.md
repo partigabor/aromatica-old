@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled strips or ground, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=33vw "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
-
 Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled strips or ground, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled s
 
 ## Overview
 
-|        id        |                      cinnamon                     |
+|       item       |                      cinnamon                     |
 |------------------|---------------------------------------------------|
 |   species name   |            *Cinnamomum verum* J.Presl.            |
 |      family      |                     Lauraceae                     |
@@ -34,6 +30,10 @@ Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled s
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 |       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
+
+![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=33vw "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
 
 ## Distribution
 

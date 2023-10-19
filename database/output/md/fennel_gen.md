@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=33vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
-
->Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
-
 Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese| Hungarian|
@@ -24,7 +20,7 @@ Fennel seeds are ground and used as a spice or as an ingredient of a spice mixtu
 
 ## Overview
 
-|        id        |                       fennel                       |
+|       item       |                       fennel                       |
 |------------------|----------------------------------------------------|
 |   species name   |             *Foeniculum vulgare* Mill.             |
 |      family      |                      Apiaceae                      |
@@ -34,6 +30,10 @@ Fennel seeds are ground and used as a spice or as an ingredient of a spice mixtu
 |    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
+
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=33vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 
 ## Distribution
 

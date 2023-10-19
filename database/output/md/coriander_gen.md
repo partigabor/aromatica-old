@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Dried coriander seeds used whole or ground. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=33vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
-
 Dried coriander seeds used whole or ground. Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. AsiaIt is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 | English |Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Dried coriander seeds used whole or ground. Coriander (*Coriandrum sativum* L.) 
 
 ## Overview
 
-|        id        |                      coriander                      |
+|       item       |                      coriander                      |
 |------------------|-----------------------------------------------------|
 |   species name   |               *Coriandrum sativum* L.               |
 |      family      |                       Apiaceae                      |
@@ -34,6 +30,10 @@ Dried coriander seeds used whole or ground. Coriander (*Coriandrum sativum* L.) 
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
+
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=33vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 
 ## Distribution
 

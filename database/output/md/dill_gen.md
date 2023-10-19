@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "The seeds of a mediterranean herb. "
 weight = 10
 # draft = "true"
@@ -12,8 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-
-
 The seeds of a mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. AsiaIt is used for its fruit, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
@@ -22,7 +20,7 @@ The seeds of a mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary 
 
 ## Overview
 
-|        id        |                        dill                       |
+|       item       |                        dill                       |
 |------------------|---------------------------------------------------|
 |   species name   |              *Anethum graveolens* L.              |
 |      family      |                      Apiaceae                     |
@@ -32,6 +30,8 @@ The seeds of a mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary 
 |    cultivation   |             India; Pakistan; worldwide            |
 |       color      |                   greyish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
+
+
 
 ## Distribution
 

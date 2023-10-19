@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Aromatic seeds of the cumin herb of the carrot family. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=33vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
-
 Aromatic seeds of the cumin herb of the carrot family. Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; IndiaIt is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|  Hungarian |
@@ -24,7 +20,7 @@ Aromatic seeds of the cumin herb of the carrot family. Cumin (*Cuminum cyminum* 
 
 ## Overview
 
-|        id        |                       cumin                       |
+|       item       |                       cumin                       |
 |------------------|---------------------------------------------------|
 |   species name   |                *Cuminum cyminum* L.               |
 |      family      |                      Apiaceae                     |
@@ -34,6 +30,10 @@ Aromatic seeds of the cumin herb of the carrot family. Cumin (*Cuminum cyminum* 
 |    cultivation   |                India; Iran; Lebanon               |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
+
+![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=33vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
 
 ## Distribution
 

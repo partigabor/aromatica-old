@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Dried ground gingerroot, see also Wild ginger. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=33vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
-
->Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
-
 Dried ground gingerroot, see also Wild ginger. Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary)It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Dried ground gingerroot, see also Wild ginger. Ginger (*Zingiber officinale* Ros
 
 ## Overview
 
-|        id        |                       ginger                      |
+|       item       |                       ginger                      |
 |------------------|---------------------------------------------------|
 |   species name   |            *Zingiber officinale* Roscoe           |
 |      family      |                   Zingiberaceae                   |
@@ -34,6 +30,10 @@ Dried ground gingerroot, see also Wild ginger. Ginger (*Zingiber officinale* Ros
 |    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
+
+![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=33vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
 
 ## Distribution
 

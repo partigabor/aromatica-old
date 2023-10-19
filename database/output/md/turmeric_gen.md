@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=33vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
-
->Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
-
 Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of IndiaIt is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow ze
 
 ## Overview
 
-|        id        |                      turmeric                     |
+|       item       |                      turmeric                     |
 |------------------|---------------------------------------------------|
 |   species name   |                 *Curcuma longa* L.                |
 |      family      |                   Zingiberaceae                   |
@@ -34,6 +30,10 @@ Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow ze
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
+
+![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=33vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 
 ## Distribution
 

@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes, related to pepper, see also Ashanti pepper. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal', ' perfume', 'false peppers']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=33vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
-
->Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
-
 Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes, related to pepper, see also Ashanti pepper. Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast AsiaIt is used for its unripe fruit, primarily for gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in 
 
 ## Overview
 
-|        id        |                       cubeb                       |
+|       item       |                       cubeb                       |
 |------------------|---------------------------------------------------|
 |   species name   |                *Piper cubeba* L.f.                |
 |      family      |                     Piperaceae                    |
@@ -34,6 +30,10 @@ Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in 
 |    cultivation   |                     Indonesia                     |
 |       color      |                dark brown to black                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
+
+![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=33vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
+
+>Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
 
 ## Distribution
 

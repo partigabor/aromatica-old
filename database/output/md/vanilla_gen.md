@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans), see also Tahitian vanilla; West Indian vanilla. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=33vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
-
->Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
-
 A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans), see also Tahitian vanilla; West Indian vanilla. Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical AmericaIt is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English| Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanil
 
 ## Overview
 
-|        id        |                        vanilla                       |
+|       item       |                        vanilla                       |
 |------------------|------------------------------------------------------|
 |   species name   |        *Vanilla planifolia* Jacks. ex Andrews        |
 |      family      |                      Orchidaceae                     |
@@ -34,6 +30,10 @@ A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanil
 |    cultivation   |Madagascar; Indonesia; Mexico; Papua New Guinea; China|
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
+
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=33vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 
 ## Distribution
 

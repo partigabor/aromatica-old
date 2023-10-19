@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Liquorice-flavored seeds, used medicinally and in cooking and liquors, also known as aniseed, related to fennel, see also star anise. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=33vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
-
 Liquorice-flavored seeds, used medicinally and in cooking and liquors, also known as aniseed, related to fennel, see also star anise. Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia MinorIt is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
@@ -24,7 +20,7 @@ Liquorice-flavored seeds, used medicinally and in cooking and liquors, also know
 
 ## Overview
 
-|        id        |                       anise                       |
+|       item       |                       anise                       |
 |------------------|---------------------------------------------------|
 |   species name   |               *Pimpinella anisum* L.              |
 |      family      |                      Apiaceae                     |
@@ -34,6 +30,10 @@ Liquorice-flavored seeds, used medicinally and in cooking and liquors, also know
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
+
+![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=33vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
 
 ## Distribution
 

@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see also anise. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=33vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
-
 Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see also anise. Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; VietnamIt is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 |  English |   Arabic  |Chinese|  Hungarian |
@@ -24,7 +20,7 @@ Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see 
 
 ## Overview
 
-|        id        |                              star anise                              |
+|       item       |                              star anise                              |
 |------------------|----------------------------------------------------------------------|
 |   species name   |                       *Illicium verum* Hook.f.                       |
 |      family      |                            Schisandraceae                            |
@@ -34,6 +30,10 @@ Anise-scented star-shaped fruit or seed used in asian cooking and medicine, see 
 |    cultivation   |China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)|
 |       color      |                             orange brown                             |
 |botanical database|          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
+
+![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=33vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
 
 ## Distribution
 

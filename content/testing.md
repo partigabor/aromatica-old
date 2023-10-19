@@ -41,7 +41,7 @@ Lorem Ipsum.
 
 <!-- {{< svg "static/images/svgs/borobudur.svg" >}} -->
 
-![Borobudur](/images/borobudur.png?width=50vw)
+<!-- ![Borobudur](/images/borobudur.png?width=50vw) -->
 
 ## Plotly
 

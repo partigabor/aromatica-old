@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-18"
+date = "2023-10-19"
 description = "Spice from dried unopened flower bud of the clove tree; used whole or ground, see also nutmeg; mace. "
 weight = 10
 # draft = "true"
@@ -12,10 +12,6 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=33vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
-
 Spice from dried unopened flower bud of the clove tree; used whole or ground, see also nutmeg; mace. Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese| Hungarian|
@@ -24,7 +20,7 @@ Spice from dried unopened flower bud of the clove tree; used whole or ground, se
 
 ## Overview
 
-|        id        |                       clove                       |
+|       item       |                       clove                       |
 |------------------|---------------------------------------------------|
 |   species name   |   *Syzygium aromaticum* (L.) Merr. \& L.M.Perry   |
 |      family      |                     Myrtaceae                     |
@@ -34,6 +30,10 @@ Spice from dried unopened flower bud of the clove tree; used whole or ground, se
 |    cultivation   |           Indonesia; Malaysia; Tanzania           |
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
+
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=33vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
 
 ## Distribution
 
