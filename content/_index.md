@@ -27,15 +27,35 @@ Aromatica is a database containing historical, cultural, and linguistic informat
 
 The term therefore refers to any substance of fragrance, focusing on spices, but also includes, incense, medicinal herbs, oils and perfume, aromatic woods, and other exotica[^1] with special olfactory and gustatory qualities. 
 
-<!-- Definition -->
-
 [^1]: objects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country
+
+<!-- Definition -->
+<!-- 
+### Credits
+
+#### Data
+
+[Plants of the World Online (POWO)](https://powo.science.kew.org/)
+
+World Checklist of Vascular Plants (WCVP)
+
+TDWG
+
+#### Logo
+
+The logo of Aromatica depicts the [Borobodur ship](https://en.wikipedia.org/wiki/Borobudur_ship), an 8th to 9th-century wooden double outrigger Javanese ship carved on the wall of the ꦧꦫꦧꦸꦝꦸꦂ Borobodur temple. The ship is depicted as a symbol of the maritime trade routes of the Indian Ocean, which connected the ancient world and allowed the spread of spices and other aromatics.
+
+#### Fonts
+
+This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans font commissioned by Google.  -->
 
 ***
 
 ### Versioning \& Updates
 
-{{% badge style="secondary" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; website creation; entering development mode (alpha)
+{{% badge style="accent" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; website creation; entering development mode (alpha)
+
+<!-- {{% badge style="accent" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; website creation; entering development mode (alpha) -->
 
 
 # Bibliography

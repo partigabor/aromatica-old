@@ -20,9 +20,7 @@ The first step was to create a list of spices that are relatively well-known, us
 Encyclopedias can be a great starting point to kick off research in any topic, and the *Encyclopaedia Britannica* does have a non-exhaustive list of herbs and spices assembled by Melissa Petruzzello {{< cite -petruzzello_list_2023 >}}. I consider three academic fields crucial for research into the spice domain: *botany*, *history*, and *gastronomy*. Regarding the realm of plants, I relied on the book of South African botanist Ben-Erik van Wyk {{< cite -vanwyk_culinary_2014 >}}. For a cultural and historical account, I turned towards the book of English historian and linguist Andrew Dalby {{< cite -dalby_dangerous_2000 >}}. Finally, for a perspective from the culinary arts I used the book of Tony Hill {{< cite -hill_contemporary_2004 >}}, a spice merchant from Seattle.
 
 
-{{< center >}}
 **Table 1.** The main resources used for the spice list, and the number of items found in each.
-{{< /center >}}
 
 |Source | Discipline | Number of items |
 | --- | --- | --- |

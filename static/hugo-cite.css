@@ -11,9 +11,9 @@
 .hugo-cite-group
   .hugo-cite-citation {
     visibility: hidden;
-    background-color: #404040;
+    background-color: var(--MAIN-BG-color);
     color: inherit;
-    border: 1px solid #404040; /* currentColor */
+    border: 1px solid var(--MAIN-BG-color); /* currentColor */
     padding: 1rem;
     position: absolute;
     width: 600px;
