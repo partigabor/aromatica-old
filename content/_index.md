@@ -57,7 +57,7 @@ This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans f
 
 {{% badge style="accent" title="Version" %}}0.0.2{{% /badge %}} &ensp;(2023-10-01) &ensp; [alpha] functionality and theme finalized; placeholder content added
 
-<!-- {{% badge style="accent" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; (beta) initial development release -->
+<!-- {{% badge style="accent" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; [beta] initial development release -->
 
 
 
@@ -71,7 +71,6 @@ This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans f
 
 Philologia Aromatica
 Philologia Exotica
-
 Arcana
 Exotica
 Aromarama (aroma + panorama)
