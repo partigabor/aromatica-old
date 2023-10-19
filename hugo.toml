@@ -35,12 +35,6 @@ languageName = "Hungarian"
 landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 
 # [[menu.shortcuts]]
-# name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-# identifier = "ds"
-# url = "https://github.com/McShelby/hugo-theme-relearn"
-# weight = 10
-
-# [[menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-camera'></i> Showcases"
 # url = "showcase/"
 # weight = 11
@@ -49,7 +43,7 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 # name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
 # identifier = "hugodoc"
 # url = "https://gohugo.io/"
-# weight = 20
+# weight = 11
 
 # [[menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
@@ -57,48 +51,49 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 # weight = 30
 
 [[languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub"
-identifier = "ds" # ?
-url = "https://github.com/partigabor/aromatica"
-weight = 10
-
-[[languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-pen-nib'></i> Creator"
-url = "https://partigabor.github.io/" #"local/"
+name = "<i class='fas fa-fw fa-list'></i> Categories" # fa-box
+pageRef = "categories/"
 weight = 20
 
 [[languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-tags'></i> Tags"
 pageRef = "tags/"
+weight = 30
+
+[[languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds" # ?
+url = "https://github.com/partigabor/aromatica"
 weight = 40
 
 [[languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categories" # fa-box
-pageRef = "categories/"
+name = "<i class='fas fa-fw fa-pen-nib'></i> Creator"
+url = "https://partigabor.github.io/" #"local/"
 weight = 50
 
 
 
 [[languages.hu.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub"
-identifier = "ds"
-url = "https://github.com/partigabor"
-weight = 10
-
-[[languages.hu.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-pen-nib'></i> Szerkesztő"
-url = "https://partigabor.github.io/" # "local/"
+name = "<i class='fas fa-fw fa-list'></i> Categóriák"
+pageRef = "categories/"
 weight = 20
 
 [[languages.hu.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-tags'></i> Címkék"
 pageRef = "tags/"
+weight = 30
+
+[[languages.hu.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Forráskód"
+identifier = "ds"
+url = "https://github.com/partigabor"
 weight = 40
 
 [[languages.hu.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categóriák"
-pageRef = "categories/"
+name = "<i class='fas fa-fw fa-pen-nib'></i> Szerkesztő"
+url = "https://partigabor.github.io/" # "local/"
 weight = 50
+
 
 
 [params]
