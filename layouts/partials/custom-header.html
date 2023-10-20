@@ -1,5 +1,4 @@
 <!-- Partial intended to be overwritten to add custom headers, like CSS or any other info -->
-
 <style>
     body {
         font-family: 'Noto Sans TC', sans-serif;
@@ -8,12 +7,24 @@
     }
 </style>
 
-<!-- Hugo cite -->
-
-<link rel="stylesheet" type="text/css" href="{{ "/hugo-cite.css" | relURL }}" />
-
 <!-- Google fonts -->
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Noto+Sans+Devanagari&family=Noto+Sans+TC&display=swap" rel="stylesheet">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GN7EQ53CMS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GN7EQ53CMS');
+</script>
+
+
+
+<!-- Hugo cite -->
+
+<link rel="stylesheet" type="text/css" href="{{ "/hugo-cite.css" | relURL }}" />
