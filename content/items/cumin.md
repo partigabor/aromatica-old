@@ -2,7 +2,13 @@
 title = "Cumin"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Aromatic seeds of the cumin herb of the carrot family. "
+description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
+
+.
+
+According to WordNet: Aromatic seeds of the cumin herb of the carrot family.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-Aromatic seeds of the cumin herb of the carrot family. Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; IndiaIt is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
+The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
+
+.
+
+According to WordNet: Aromatic seeds of the cumin herb of the carrot family.
+
+Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; IndiaIt is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|  Hungarian |
 |-------|------|-------|------------|

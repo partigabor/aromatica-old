@@ -2,7 +2,9 @@
 title = "Caraway"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The seed-like fruits of an eurasian herb. "
+description = "The seed-like fruits of an Eurasian herb.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +14,9 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-The seed-like fruits of an eurasian herb. Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; C. Europe; EurasiaIt is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
+The seed-like fruits of an Eurasian herb.
+
+Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; C. Europe; EurasiaIt is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|  Hungarian  |
 |-------|------|-------|-------------|

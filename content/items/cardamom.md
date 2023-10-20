@@ -2,7 +2,13 @@
 title = "Cardamom"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
+description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
+
+, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
+
+According to WordNet: Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary', ' medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
-Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
+The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
+
+, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
+
+According to WordNet: Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces.
+
+Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|

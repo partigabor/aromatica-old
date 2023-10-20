@@ -2,7 +2,13 @@
 title = "Ginger"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Dried ground gingerroot, see also Wild ginger. "
+description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale, see also Wild ginger.
+
+, see also Wild ginger.
+
+According to WordNet: Dried ground gingerroot.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Dried ground gingerroot, see also Wild ginger. Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary)It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
+The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale, see also Wild ginger.
+
+, see also Wild ginger.
+
+According to WordNet: Dried ground gingerroot.
+
+Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary)It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|

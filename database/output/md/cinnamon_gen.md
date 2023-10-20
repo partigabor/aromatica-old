@@ -2,7 +2,13 @@
 title = "Cinnamon"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled strips or ground, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
+description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+
+, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+
+According to WordNet: Spice from the dried aromatic bark of the Ceylon cinnamon tree; used as rolled strips or ground.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary', ' medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 
-Spice from the dried aromatic bark of the ceylon cinnamon tree; used as rolled strips or ground, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
+The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+
+, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+
+According to WordNet: Spice from the dried aromatic bark of the Ceylon cinnamon tree; used as rolled strips or ground.
+
+Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|

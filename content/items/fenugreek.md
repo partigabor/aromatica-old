@@ -2,7 +2,13 @@
 title = "Fenugreek"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Aromatic seeds used as seasoning especially in curry. "
+description = "The seeds of a West Asian herb.
+
+.
+
+According to WordNet: Aromatic seeds used as seasoning especially in curry.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-Aromatic seeds used as seasoning especially in curry. Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. AsiaIt is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
+The seeds of a West Asian herb.
+
+.
+
+According to WordNet: Aromatic seeds used as seasoning especially in curry.
+
+Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. AsiaIt is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
 | English |Arabic|Chinese| Hungarian|
 |---------|------|-------|----------|

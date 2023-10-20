@@ -2,7 +2,13 @@
 title = "Clove"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Spice from dried unopened flower bud of the clove tree; used whole or ground, see also nutmeg; mace. "
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace.
+
+, see also nutmeg; mace.
+
+According to WordNet: Spice from dried unopened flower bud of the clove tree; used whole or ground.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Spice from dried unopened flower bud of the clove tree; used whole or ground, see also nutmeg; mace. Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
+The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace.
+
+, see also nutmeg; mace.
+
+According to WordNet: Spice from dried unopened flower bud of the clove tree; used whole or ground.
+
+Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|

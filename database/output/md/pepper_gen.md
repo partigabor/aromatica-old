@@ -2,7 +2,13 @@
 title = "Pepper"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. "
+description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
+
+, also known as black pepper, related to long pepper.
+
+According to WordNet: Pungent seasoning from the berry of the common pepper plant of East India; use whole or ground.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
+The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
+
+, also known as black pepper, related to long pepper.
+
+According to WordNet: Pungent seasoning from the berry of the common pepper plant of East India; use whole or ground.
+
+Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|

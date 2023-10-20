@@ -2,7 +2,13 @@
 title = "Turmeric"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. "
+description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, see also Yellow zedoary.
+
+, see also Yellow zedoary.
+
+According to WordNet: Ground dried rhizome of the turmeric plant used as seasoning.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
-Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of IndiaIt is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
+The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, see also Yellow zedoary.
+
+, see also Yellow zedoary.
+
+According to WordNet: Ground dried rhizome of the turmeric plant used as seasoning.
+
+Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of IndiaIt is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|

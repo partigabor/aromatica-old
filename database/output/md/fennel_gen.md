@@ -2,7 +2,13 @@
 title = "Fennel"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. "
+description = "The dried fruits of a perennial herb.
+
+.
+
+According to WordNet: Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
+The dried fruits of a perennial herb.
+
+.
+
+According to WordNet: Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture.
+
+Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|

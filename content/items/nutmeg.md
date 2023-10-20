@@ -2,7 +2,13 @@
 title = "Nutmeg"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "Hard aromatic seed of the nutmeg tree used as spice when grated or ground, related to mace. "
+description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
+
+, related to mace.
+
+According to WordNet: Hard aromatic seed of the nutmeg tree used as spice when grated or ground.
+
+"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +18,13 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-Hard aromatic seed of the nutmeg tree used as spice when grated or ground, related to mace. Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
+The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
+
+, related to mace.
+
+According to WordNet: Hard aromatic seed of the nutmeg tree used as spice when grated or ground.
+
+Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|  Arabic |Chinese|  Hungarian |
 |-------|---------|-------|------------|
