@@ -2,13 +2,7 @@
 title = "Coriander"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The dried fruits of an annual herb, also known as cilantro.
-
-.
-
-According to WordNet: Dried coriander seeds used whole or ground.
-
-"
+description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=50vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?height=50vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 

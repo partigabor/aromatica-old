@@ -2,13 +2,7 @@
 title = "Fennel"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The dried fruits of a perennial herb.
-
-.
-
-According to WordNet: Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture.
-
-"
+description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=50vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?height=50vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 

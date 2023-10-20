@@ -2,13 +2,7 @@
 title = "Ginger"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale, see also Wild ginger.
-
-, see also Wild ginger.
-
-According to WordNet: Dried ground gingerroot.
-
-"
+description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale, see also Wild ginger."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=50vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?height=50vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
 

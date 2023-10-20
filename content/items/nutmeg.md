@@ -2,13 +2,7 @@
 title = "Nutmeg"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
-
-, related to mace.
-
-According to WordNet: Hard aromatic seed of the nutmeg tree used as spice when grated or ground.
-
-"
+description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 |       color      |         pale brown nut, dark when powdered        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
-![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?height=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 

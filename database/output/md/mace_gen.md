@@ -2,13 +2,7 @@
 title = "Mace"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The aril (seed-covering) of the nutmeg, related to nutmeg.
-
-, related to nutmeg.
-
-According to WordNet: Spice made from the dried fleshy covering of the nutmeg seed.
-
-"
+description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 |       color      | crimson red aril whn fresh, pale yellow when dried|
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
-![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?height=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 

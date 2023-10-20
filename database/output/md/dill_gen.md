@@ -2,9 +2,7 @@
 title = "Dill"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The seeds of a Mediterranean herb.
-
-"
+description = "The seeds of a Mediterranean herb."
 weight = 10
 # draft = "true"
 # hidden = "true"

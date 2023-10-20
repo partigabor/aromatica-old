@@ -2,13 +2,7 @@
 title = "Turmeric"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, see also Yellow zedoary.
-
-, see also Yellow zedoary.
-
-According to WordNet: Ground dried rhizome of the turmeric plant used as seasoning.
-
-"
+description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, see also Yellow zedoary."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=50vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+![*Curcuma longa* L.](/images/illustrations/turmeric.png?height=50vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 

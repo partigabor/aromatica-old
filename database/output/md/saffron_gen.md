@@ -2,13 +2,7 @@
 title = "Saffron"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.
-
-.
-
-According to WordNet: Dried pungent stigmas of the Old World saffron crocus.
-
-"
+description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -18,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![saffron](/images/photos/saffron-1-aromatiques.jpg?width=33vw&classes=shadow "Image source: Aromatiques")
+![saffron](/images/photos/saffron-1-aromatiques.jpg?height=33vw&classes=shadow "Image source: Aromatiques")
 
 The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.
 
@@ -45,7 +39,7 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |       color      |              deep red; dyes in orange             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 
-![*Crocus sativus* L.](/images/illustrations/saffron.png?width=50vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
+![*Crocus sativus* L.](/images/illustrations/saffron.png?height=50vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 164.
 

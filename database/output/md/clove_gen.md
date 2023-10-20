@@ -2,13 +2,7 @@
 title = "Clove"
 author = "Gabor Parti"
 date = "2023-10-20"
-description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace.
-
-, see also nutmeg; mace.
-
-According to WordNet: Spice from dried unopened flower bud of the clove tree; used whole or ground.
-
-"
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -43,7 +37,7 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=50vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?height=50vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
 
