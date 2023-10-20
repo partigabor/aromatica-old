@@ -1,5 +1,5 @@
 +++
-title = "Testing (One)"
+title = "Testing"
 author = "Gabor Parti"
 date = "2023-08-01T00:00:00+08:00"
 description = "Description."

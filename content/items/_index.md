@@ -1,5 +1,5 @@
 +++
-title = "The Materials"
+title = "Materials"
 weight = 10
 menuPre = ""
 menuPost = ""
