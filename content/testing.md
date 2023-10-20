@@ -37,6 +37,36 @@ disableComments = "true"
 # LastModifierEmail = ""
 +++
 
+# One
+
+## Two
+
+### Three
+
+#### Four
+
+##### Five
+
+###### Six
+
+>Blockquote
+
+    Code snippet example
+
+`code inline example`
+
+[Example for a link](www.link.com)
+
+{{% notice primary "There may be pirates" "skull-crossbones" %}}
+It is all about the boxes.
+{{% /notice %}}
+
+{{% notice accent "There may be pirates" "skull-crossbones" %}}
+It is all about the boxes.
+{{% /notice %}}
+
+**Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
+
 لمّا كان الاعتراف بالكرامة المتأصلة في جميع
 
 <p style="font-family: 'Noto Sans Arabic', sans-serif;">لمّا كان الاعتراف بالكرامة المتأصلة في جميع</p>
