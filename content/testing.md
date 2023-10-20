@@ -37,6 +37,19 @@ disableComments = "true"
 # LastModifierEmail = ""
 +++
 
+لمّا كان الاعتراف بالكرامة المتأصلة في جميع
+
+<p style="font-family: 'Noto Sans Arabic', sans-serif;">لمّا كان الاعتراف بالكرامة المتأصلة في جميع</p>
+
+鑑於人類社會個成員儕有個固有尊嚴脫仔平等個脫仔勿移個權利承認，是世界自由、正義脫仔和平個基礎
+
+<p style="font-family: 'Noto Sans Arabic', sans-serif;">鑑於人類社會個成員儕有個固有尊嚴脫仔平等個脫仔勿移個權利承認，是世界自由、正義脫仔和平個基礎</p>
+
+चूंकि मानव परिवार के सभी सदस्यों के जन्मजात गौरव और समान
+
+<p style="font-family: 'Noto Sans Arabic', sans-serif;">चूंकि मानव परिवार के सभी सदस्यों के जन्मजात गौरव और समान</p>
+
+
 Lorem Ipsum.
 
 <!-- {{< svg "static/images/svgs/borobudur.svg" >}} -->
