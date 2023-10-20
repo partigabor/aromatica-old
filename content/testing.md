@@ -1,5 +1,5 @@
 +++
-title = "Testing"
+title = "Testing (One)"
 author = "Gabor Parti"
 date = "2023-08-01T00:00:00+08:00"
 description = "Description."
@@ -36,8 +36,6 @@ disableComments = "true"
 # # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 # LastModifierEmail = ""
 +++
-
-# One
 
 ## Two
 
