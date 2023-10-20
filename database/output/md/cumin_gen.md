@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Aromatic seeds of the cumin herb of the carrot family. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Aromatic seeds of the cumin herb of the carrot family. Cumin (*Cuminum cyminum* 
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 
-![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=33vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
+![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=50vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
 

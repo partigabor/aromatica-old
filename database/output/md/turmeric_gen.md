@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow zedoary. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Ground dried rhizome of the turmeric plant used as seasoning, see also Yellow ze
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=33vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=50vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 

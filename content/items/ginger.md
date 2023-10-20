@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Dried ground gingerroot, see also Wild ginger. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Dried ground gingerroot, see also Wild ginger. Ginger (*Zingiber officinale* Ros
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=33vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=50vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
 

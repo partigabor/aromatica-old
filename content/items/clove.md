@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Spice from dried unopened flower bud of the clove tree; used whole or ground, see also nutmeg; mace. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Spice from dried unopened flower bud of the clove tree; used whole or ground, se
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=33vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=50vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
 

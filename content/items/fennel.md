@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Fennel seeds are ground and used as a spice or as an ingredient of a spice mixture. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Fennel seeds are ground and used as a spice or as an ingredient of a spice mixtu
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=33vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=50vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 

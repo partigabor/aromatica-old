@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes, related to pepper, see also Ashanti pepper. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in 
 |       color      |                dark brown to black                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
 
-![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=33vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
+![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=50vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
 
 >Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
 

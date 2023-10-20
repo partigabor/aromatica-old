@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Ground dried berrylike fruit of a west indian allspice tree; suggesting combined flavors of cinnamon and nutmeg and cloves, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', ' perfumery']
 bibFile = "static/files/bibliography.json"
 +++
 
-![allspice](/images/photos/allspice-1-pexels.jpg?width=20vw&classes=shadow "Image source: Pexels")
+![allspice](/images/photos/allspice-1-pexels.jpg?width=33vw&classes=shadow "Image source: Pexels")
 
 Ground dried berrylike fruit of a west indian allspice tree; suggesting combined flavors of cinnamon and nutmeg and cloves, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice. Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; CaribbeanIt is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors; spice for jerking meat; leaf oil for flavouring rum; wood to smoke and grill meat. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
 
@@ -33,7 +33,7 @@ Ground dried berrylike fruit of a west indian allspice tree; suggesting combined
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2)|
 
-![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=33vw "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
+![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=50vw "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 174. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)
 

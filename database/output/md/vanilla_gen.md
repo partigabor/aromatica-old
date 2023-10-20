@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans), see also Tahitian vanilla; West Indian vanilla. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanil
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=33vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=50vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 

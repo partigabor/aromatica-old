@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Liquorice-flavored seeds, used medicinally and in cooking and liquors, also known as aniseed, related to fennel, see also star anise. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Liquorice-flavored seeds, used medicinally and in cooking and liquors, also know
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=33vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=50vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
 

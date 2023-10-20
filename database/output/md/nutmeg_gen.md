@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Hard aromatic seed of the nutmeg tree used as spice when grated or ground, related to mace. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Hard aromatic seed of the nutmeg tree used as spice when grated or ground, relat
 |       color      |         pale brown nut, dark when powdered        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
-![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=33vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 

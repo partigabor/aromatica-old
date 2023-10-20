@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Very hot and finely tapering pepper of special pungency, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Very hot and finely tapering pepper of special pungency, also known as chilli; c
 |       color      |                   red and green in many shades                  |
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 
-![*Capsicum annuum* L.](/images/illustrations/chile.png?width=33vw "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
+![*Capsicum annuum* L.](/images/illustrations/chile.png?width=50vw "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
 

@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Aromatic seeds used as seasoning especially in curry. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Aromatic seeds used as seasoning especially in curry. Fenugreek (*Trigonella foe
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=33vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
+![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=50vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 

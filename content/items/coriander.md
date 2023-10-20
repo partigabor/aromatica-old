@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Dried coriander seeds used whole or ground. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Dried coriander seeds used whole or ground. Coriander (*Coriandrum sativum* L.) 
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=33vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=50vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 

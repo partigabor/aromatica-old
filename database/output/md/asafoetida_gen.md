@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "The brownish gum resin of various plants; has strong taste and odor; formerly used as an antispasmodic, also known as hing; devil's dung. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ The brownish gum resin of various plants; has strong taste and odor; formerly us
 |       color      |             from pale yellow to brown             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
-![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=33vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
+![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=50vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
 

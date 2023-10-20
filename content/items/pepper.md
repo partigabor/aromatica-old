@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "Pungent seasoning from the berry of the common pepper plant of east india; use whole or ground, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ Pungent seasoning from the berry of the common pepper plant of east india; use w
 |       color      |                black; white; green                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 
-![*Piper nigrum* L.](/images/illustrations/pepper.png?width=33vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=50vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 

@@ -341,6 +341,7 @@ dd {
     position: relative; /* PS */
     width: calc( 100% - 18.75rem);
     z-index: 70;
+    text-align: justify; /* align here, left, right, justify, or center */
 }
 
 #body img,
@@ -472,15 +473,15 @@ mark {
 }
 
 h1 {
-    font-size: 3.2rem; /* 3.25rem; */
-    font-weight: 100; /* here */
+    font-size: 3.25rem; /* 3.25rem; */
+    font-weight: 200; /* heading here */
     margin: 0.85rem 0 1rem 0;
     /* big titles cause a horizontal scrollbar - fixing this by wrapping text */
     overflow-wrap: break-word;
     overflow-x: hidden;
     text-align: center;
     text-rendering: optimizeLegibility;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 body:not(.print) #body-inner.narrow h1 {
@@ -494,18 +495,18 @@ body:not(.print) #body-inner.narrow h1 {
 }
 @media only screen and (max-width: 48rem) {
     body:not(.print) #body-inner.narrow h1 {
-        font-size: 2.4rem;
+        font-size: 2.2rem; /* 2.4rem; */
     }
 }
 
 h2 {
     font-size: 2.2rem;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 h3, .article-subheading {
     font-size: 1.8rem;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 h4 {
@@ -538,11 +539,12 @@ h2, h3, h4, h5, h6 {
 }
 
 blockquote {
-    border-inline-start: .6rem solid var(--INTERNAL-PRIMARY-color);/* #86868666; */
+    border-inline-start: .75rem solid var(--INTERNAL-PRIMARY-color);/* #86868666; */
 }
 
 blockquote p {
-    font-size: 1.06640625rem;
+    /* font-family: serif; */
+    font-size: 1.075rem;
     font-style: italic;
     opacity: .75;
     text-align: justify;

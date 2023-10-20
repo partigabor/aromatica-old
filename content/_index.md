@@ -8,9 +8,9 @@ bibFile = "static/files/bibliography.json"
 
 # Welcome to Aromatica
 
-Aromatica is a database containing historical, cultural, and linguistic information on spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials. The website currently contains information on 24 items.
+*Aromatica* is a database containing historical, cultural, and linguistic information on spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials. The website currently contains information on 24 items.
 
->The website is under construction, please come back in 2024.
+>The database is under construction, please come back in 2024.
 
 
 {{< load-plotly >}}
@@ -53,9 +53,11 @@ This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans f
 
 ### Versioning \& Updates
 
-{{% badge style="accent" title="Version" %}}0.0.1{{% /badge %}} &ensp;(2023-08-01) &ensp; [alpha] website creation; entering development mode
+{{% badge color="#6943ae" style="primary" icon="angle-double-up" title="Version" %}}0.0.1{{% /badge %}} &ensp; (2023-08-01) &ensp; [alpha] website creation; entering development mode
 
-{{% badge style="accent" title="Version" %}}0.0.2{{% /badge %}} &ensp;(2023-10-01) &ensp; [alpha] functionality and theme finalized; placeholder content added
+{{% badge color="#6943ae" icon="angle-double-up" title="Version" %}}0.0.2{{% /badge %}} &ensp; (2023-10-20) &ensp; [alpha] functionality, theme finalized; placeholder content
+
+{{% badge color="#6943ae" icon="angle-double-up" title="Version" %}}0.0.3{{% /badge %}} &ensp; (2023-10-21) &ensp; [alpha] implemented [Noto](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google) typeface
 
 <!-- {{% badge style="accent" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; [beta] initial development release -->
 

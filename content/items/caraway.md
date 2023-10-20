@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-10-19"
+date = "2023-10-20"
 description = "The seed-like fruits of an eurasian herb. "
 weight = 10
 # draft = "true"
@@ -31,7 +31,7 @@ The seed-like fruits of an eurasian herb. Caraway (*Carum carvi* L.) is a culina
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
 
-![*Carum carvi* L.](/images/illustrations/caraway.png?width=33vw "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
+![*Carum carvi* L.](/images/illustrations/caraway.png?width=50vw "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 91.
 
