@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-10-20"
+date = "2023-10-21"
 description = "The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon."
 weight = 10
 # draft = "true"
@@ -16,9 +16,9 @@ The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese c
 
 Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Southeast ChinaIt is used for its bark and fruit, primarily for flavor; diarrhea. Its aroma is described as pungent, cinnamon-like, with a heat index of 3.[^ucla_medicinal_2002]
 
-|English|Arabic|Chinese|   Hungarian  |
-|-------|------|-------|--------------|
-| cassia| سليخة|   肉桂  |kasszia(fahéj)|
+### Quick names
+
+**English:** cassia **Hungarian:** kasszia(fahéj) **Arabic:** سليخة **Chinese:** 肉桂
 
 ## Overview
 
@@ -33,7 +33,7 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 |       color      |                   reddish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
-![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?height=50vw "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
+![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?height=33vw "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 77.
 

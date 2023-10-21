@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-10-20"
+date = "2023-10-21"
 description = "The seeds of a West Asian herb."
 weight = 10
 # draft = "true"
@@ -20,9 +20,9 @@ According to WordNet: Aromatic seeds used as seasoning especially in curry.
 
 Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. AsiaIt is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
-| English |Arabic|Chinese| Hungarian|
-|---------|------|-------|----------|
-|fenugreek| حلبة |  胡蘆巴  |görögszéna|
+### Quick names
+
+**English:** fenugreek **Hungarian:** görögszéna **Arabic:** حلبة **Chinese:** 胡蘆巴
 
 ## Overview
 
@@ -37,7 +37,7 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?height=50vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
+![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?height=33vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 

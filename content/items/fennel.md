@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-20"
+date = "2023-10-21"
 description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
@@ -20,9 +20,9 @@ According to WordNet: Fennel seeds are ground and used as a spice or as an ingre
 
 Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
-|English|Arabic|Chinese| Hungarian|
-|-------|------|-------|----------|
-| fennel|  شمر |   茴香  |édeskömény|
+### Quick names
+
+**English:** fennel **Hungarian:** édeskömény **Arabic:** شمر **Chinese:** 茴香
 
 ## Overview
 
@@ -37,7 +37,7 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?height=50vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?height=33vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 

@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-20"
+date = "2023-10-21"
 description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
@@ -20,9 +20,9 @@ According to WordNet: Dried coriander seeds used whole or ground.
 
 Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. AsiaIt is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
-| English |Arabic|Chinese|Hungarian|
-|---------|------|-------|---------|
-|coriander| كزبرة|   芫荽  |koriander|
+### Quick names
+
+**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽
 
 ## Overview
 
@@ -37,7 +37,7 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?height=50vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?height=33vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 

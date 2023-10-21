@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-20"
+date = "2023-10-21"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon."
 weight = 10
 # draft = "true"
@@ -14,15 +14,15 @@ bibFile = "static/files/bibliography.json"
 
 The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
 
-, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+.
 
 According to WordNet: Spice from the dried aromatic bark of the Ceylon cinnamon tree; used as rolled strips or ground.
 
 Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
-| English|Arabic|Chinese|Hungarian|
-|--------|------|-------|---------|
-|cinnamon| قرفة |  錫蘭肉桂 |  fahéj  |
+### Quick names
+
+**English:** cinnamon **Hungarian:** fahéj **Arabic:** قرفة **Chinese:** 錫蘭肉桂
 
 ## Overview
 
@@ -37,7 +37,7 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 |       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?height=50vw "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?height=33vw "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
 
