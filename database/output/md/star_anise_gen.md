@@ -12,6 +12,8 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
+![star_anise](/images/photos/star_anise-1-Christina Rumpf on Unsplash.jpg?height=25vw&classes=shadow "Photo: Christina Rumpf On Unsplash")
+
 The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum, see also anise.
 
 According to WordNet: Anise-scented star-shaped fruit or seed used in Asian cooking and medicine.
