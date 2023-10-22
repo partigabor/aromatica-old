@@ -20,7 +20,7 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 ### Quick names
 
-**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香**French:** Clou de girofle
+**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香 **French:** Clou de girofle
 
 ## Overview
 

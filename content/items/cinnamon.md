@@ -20,7 +20,7 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 
 ### Quick names
 
-**English:** cinnamon **Hungarian:** fahéj **Arabic:** قرفة **Chinese:** 錫蘭肉桂**French:** cannelle
+**English:** cinnamon **Hungarian:** fahéj **Arabic:** قرفة **Chinese:** 錫蘭肉桂 **French:** cannelle
 
 ## Overview
 

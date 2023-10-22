@@ -117,7 +117,7 @@ body {
     display: flex;
     flex-direction: row-reverse; /* IE11 to allow body to have initial focus for PS and better SEO and a11y */
     font-size: 1.015625rem;
-    font-weight: 300;
+    font-weight: 400; /* here */
     height: 100%;
     justify-content: flex-end;
     line-height: 1.574;
@@ -363,7 +363,7 @@ dd {
 #body img:not(.lightbox-image).border,
 #body .video-container.border {
     background-clip: padding-box;
-    border: 1px solid rgba( 134, 134, 134, .333 );
+    border: 1px solid rgba(134, 134, 134, 0.333);
 }
 
 #body img:not(.lightbox-image).shadow,

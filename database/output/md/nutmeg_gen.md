@@ -20,7 +20,7 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 
 ### Quick names
 
-**English:** nutmeg **Hungarian:** szerecsendió **Arabic:** جوز الطيب **Chinese:** 肉豆蔻**French:** noix de muscade
+**English:** nutmeg **Hungarian:** szerecsendió **Arabic:** جوز الطيب **Chinese:** 肉豆蔻 **French:** noix de muscade
 
 ## Overview
 

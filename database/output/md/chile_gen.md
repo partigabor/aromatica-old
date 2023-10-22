@@ -20,7 +20,7 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 
 ### Quick names
 
-**English:** chile **Hungarian:** paprika **Arabic:** فلفل حار **Chinese:** 辣椒**French:** Chili
+**English:** chile **Hungarian:** paprika **Arabic:** فلفل حار **Chinese:** 辣椒 **French:** Chili
 
 ## Overview
 

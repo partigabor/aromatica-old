@@ -20,7 +20,7 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 
 ### Quick names
 
-**English:** turmeric **Hungarian:** kurkuma **Arabic:** كركم **Chinese:** 薑黃**French:** curcuma
+**English:** turmeric **Hungarian:** kurkuma **Arabic:** كركم **Chinese:** 薑黃 **French:** curcuma
 
 ## Overview
 

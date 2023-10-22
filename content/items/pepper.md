@@ -20,7 +20,7 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 
 ### Quick names
 
-**English:** pepper **Hungarian:** bors **Arabic:** فلفل **Chinese:** 胡椒**French:** poivre
+**English:** pepper **Hungarian:** bors **Arabic:** فلفل **Chinese:** 胡椒 **French:** poivre
 
 ## Overview
 

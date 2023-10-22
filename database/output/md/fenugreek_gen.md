@@ -20,7 +20,7 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 
 ### Quick names
 
-**English:** fenugreek **Hungarian:** görögszéna **Arabic:** حلبة **Chinese:** 胡蘆巴**French:** Fenugrec
+**English:** fenugreek **Hungarian:** görögszéna **Arabic:** حلبة **Chinese:** 胡蘆巴 **French:** Fenugrec
 
 ## Overview
 

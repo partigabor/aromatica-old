@@ -20,7 +20,7 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 
 ### Quick names
 
-**English:** ginger **Hungarian:** gyömbér **Arabic:** زنجبيل **Chinese:** 薑**French:** gingembre
+**English:** ginger **Hungarian:** gyömbér **Arabic:** زنجبيل **Chinese:** 薑 **French:** gingembre
 
 ## Overview
 

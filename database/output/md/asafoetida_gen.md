@@ -20,7 +20,7 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 
 ### Quick names
 
-**English:** asafoetida **Hungarian:** ördöggyökér **Arabic:** حلتیت **Chinese:** 阿魏**French:** asafoetida
+**English:** asafoetida **Hungarian:** ördöggyökér **Arabic:** حلتیت **Chinese:** 阿魏 **French:** asafoetida
 
 ## Overview
 

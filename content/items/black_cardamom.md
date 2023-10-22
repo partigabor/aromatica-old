@@ -16,7 +16,7 @@ Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; India
 
 ### Quick names
 
-**English:** black cardamom **Hungarian:** fekete kardamom **Arabic:** قاقلة **Chinese:** 香豆蔻
+**English:** black cardamom **Hungarian:** fekete kardamom **Arabic:** قاقلة **Chinese:** 香豆蔻 
 
 ## Overview
 

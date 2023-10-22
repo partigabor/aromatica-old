@@ -22,7 +22,7 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 
 ### Quick names
 
-**English:** saffron **Hungarian:** sáfrány **Arabic:** زعفران **Chinese:** 藏紅花**French:** Safran
+**English:** saffron **Hungarian:** sáfrány **Arabic:** زعفران **Chinese:** 藏紅花 **French:** Safran
 
 ## Overview
 

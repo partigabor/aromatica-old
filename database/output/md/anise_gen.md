@@ -20,7 +20,7 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 
 ### Quick names
 
-**English:** anise **Hungarian:** ánizs **Arabic:** أنيسون **Chinese:** 茴芹**French:** anis
+**English:** anise **Hungarian:** ánizs **Arabic:** أنيسون **Chinese:** 茴芹 **French:** anis
 
 ## Overview
 

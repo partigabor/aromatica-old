@@ -20,7 +20,7 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 
 ### Quick names
 
-**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽**French:** coriandre
+**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽 **French:** coriandre
 
 ## Overview
 

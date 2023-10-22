@@ -20,7 +20,7 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 
 ### Quick names
 
-**English:** cumin **Hungarian:** római kömény **Arabic:** كمون  **Chinese:** 孜然**French:** cumin
+**English:** cumin **Hungarian:** római kömény **Arabic:** كمون  **Chinese:** 孜然 **French:** cumin
 
 ## Overview
 

@@ -20,7 +20,7 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice f
 
 ### Quick names
 
-**English:** cardamom **Hungarian:** kardamom **Arabic:** هال **Chinese:** 豆蔻**French:** cardamome
+**English:** cardamom **Hungarian:** kardamom **Arabic:** هال **Chinese:** 豆蔻 **French:** cardamome
 
 ## Overview
 

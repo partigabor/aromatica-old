@@ -20,7 +20,7 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 
 ### Quick names
 
-**English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草**French:** vanille
+**English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草 **French:** vanille
 
 ## Overview
 
