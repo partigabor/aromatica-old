@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![saffron](/images/photos/saffron-1-aromatiques.jpg?height=25vw&classes=shadow "Photo: Aromatiques")
+![saffron](/images/photos/saffron-1-Aromatiques.jpg?height=25vw&classes=shadow "Photo: Aromatiques")
 
 The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.
 
