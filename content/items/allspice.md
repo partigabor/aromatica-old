@@ -22,7 +22,7 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from th
 
 ### Quick names
 
-**English:** allspice **Hungarian:** szegfűbors **Arabic:** فلفل إفرنجي **Chinese:** 多香果 **French:** piment de la Jamaïque
+**English:** allspice **Hungarian:** szegfűbors **Arabic:** فلفل إفرنجي **Chinese:** 多香果 **French:** quatre-épices
 
 ## Overview
 

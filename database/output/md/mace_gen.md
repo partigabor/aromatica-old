@@ -20,7 +20,7 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 
 ### Quick names
 
-**English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮 **French:** masse
+**English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮 **French:** macis
 
 ## Overview
 

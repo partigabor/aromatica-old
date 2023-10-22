@@ -20,7 +20,7 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 
 ### Quick names
 
-**English:** fennel **Hungarian:** édeskömény **Arabic:** شمر **Chinese:** 茴香 **French:** fenouil
+**English:** fennel **Hungarian:** édeskömény **Arabic:** شمر **Chinese:** 茴香 **French:** 
 
 ## Overview
 

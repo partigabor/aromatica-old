@@ -16,7 +16,7 @@ The spike-like cluster of fruits of Piper longum from India; fruit of Piper long
 
 ### Quick names
 
-**English:** long pepper **Hungarian:** hosszú bors **Arabic:** دارفلفل **Chinese:** 蓽撥 
+**English:** long pepper **Hungarian:** hosszú bors **Arabic:** دارفلفل **Chinese:** 蓽撥 **French:** poivre long
 
 ## Overview
 

@@ -20,7 +20,7 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 
 ### Quick names
 
-**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄 **French:** cubèbe
+**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄 **French:** 
 
 ## Overview
 

@@ -20,7 +20,7 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 
 ### Quick names
 
-**English:** star anise **Hungarian:** csillagánizs **Arabic:** يانسون نجمي **Chinese:** 八角 **French:** anis étoilé
+**English:** star anise **Hungarian:** csillagánizs **Arabic:** يانسون نجمي **Chinese:** 八角 **French:** anis étoilé, badiane chinoise
 
 ## Overview
 

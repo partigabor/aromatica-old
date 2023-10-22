@@ -16,7 +16,7 @@ The seed-like fruits of an Eurasian herb.Caraway (*Carum carvi* L.) is a culinar
 
 ### Quick names
 
-**English:** caraway **Hungarian:** fűszerkömény  **Arabic:** كراويا **Chinese:** 葛縷子 
+**English:** caraway **Hungarian:** fűszerkömény  **Arabic:** كراويا **Chinese:** 葛縷子 **French:** Carvi
 
 ## Overview
 

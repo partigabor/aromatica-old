@@ -16,7 +16,7 @@ The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese c
 
 ### Quick names
 
-**English:** cassia **Hungarian:** kasszia(fahéj) **Arabic:** سليخة **Chinese:** 肉桂 
+**English:** cassia **Hungarian:** kasszia(fahéj) **Arabic:** سليخة **Chinese:** 肉桂 **French:** Cassie
 
 ## Overview
 
