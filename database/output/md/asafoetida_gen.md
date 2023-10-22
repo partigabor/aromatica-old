@@ -1,8 +1,8 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung."
+date = "2023-10-22"
+description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung., also known as hing; devil's dung."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung.
 
-.
-
 According to WordNet: The brownish gum resin of various plants; has strong taste and odor; formerly used as an antispasmodic.
 
 Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. AsiaIt is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** asafoetida **Hungarian:** ördöggyökér **Arabic:** حلتیت **Chinese:** 阿魏
+**English:** asafoetida **Hungarian:** ördöggyökér **Arabic:** حلتیت **Chinese:** 阿魏**French:** asafoetida
 
 ## Overview
 

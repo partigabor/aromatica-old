@@ -1,8 +1,8 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The fruit of Piper cubeba, related to pepper, see also Ashanti pepper."
+date = "2023-10-22"
+description = "The fruit of Piper cubeba, related to pepper, see also Ashanti pepper., related to pepper, see also Ashanti pepper."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The fruit of Piper cubeba, related to pepper, see also Ashanti pepper.
 
-.
-
 According to WordNet: Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes.
 
 Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast AsiaIt is used for its unripe fruit, primarily for gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄
+**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄**French:** cubèbe
 
 ## Overview
 

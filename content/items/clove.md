@@ -1,8 +1,8 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace."
+date = "2023-10-22"
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace., see also nutmeg; mace."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace.
 
-.
-
 According to WordNet: Spice from dried unopened flower bud of the clove tree; used whole or ground.
 
 Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香
+**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香**French:** Clou de girofle
 
 ## Overview
 

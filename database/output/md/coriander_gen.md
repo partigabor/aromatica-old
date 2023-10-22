@@ -1,8 +1,8 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The dried fruits of an annual herb, also known as cilantro."
+date = "2023-10-22"
+description = "The dried fruits of an annual herb, also known as cilantro.."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The dried fruits of an annual herb, also known as cilantro.
 
-.
-
 According to WordNet: Dried coriander seeds used whole or ground.
 
 Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. AsiaIt is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽
+**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽**French:** coriandre
 
 ## Overview
 

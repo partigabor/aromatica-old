@@ -1,8 +1,8 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
+date = "2023-10-22"
+description = "The aril (seed-covering) of the nutmeg, related to nutmeg., related to nutmeg."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The aril (seed-covering) of the nutmeg, related to nutmeg.
 
-.
-
 According to WordNet: Spice made from the dried fleshy covering of the nutmeg seed.
 
 Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮
+**English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮**French:** masse
 
 ## Overview
 

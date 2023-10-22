@@ -1,8 +1,8 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice."
+date = "2023-10-22"
+description = "The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice., also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -16,15 +16,13 @@ bibFile = "static/files/bibliography.json"
 
 The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice.
 
-.
-
 According to WordNet: Ground dried berrylike fruit of a West Indian allspice tree; suggesting combined flavors of cinnamon and nutmeg and cloves.
 
 Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; CaribbeanIt is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors; spice for jerking meat; leaf oil for flavouring rum; wood to smoke and grill meat. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** allspice **Hungarian:** szegfűbors **Arabic:** فلفل إفرنجي **Chinese:** 多香果
+**English:** allspice **Hungarian:** szegfűbors **Arabic:** فلفل إفرنجي **Chinese:** 多香果**French:** piment de la Jamaïque
 
 ## Overview
 

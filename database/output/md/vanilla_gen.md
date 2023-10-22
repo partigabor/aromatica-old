@@ -1,8 +1,8 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, see also Tahitian vanilla; West Indian vanilla."
+date = "2023-10-22"
+description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, see also Tahitian vanilla; West Indian vanilla., see also Tahitian vanilla; West Indian vanilla."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, see also Tahitian vanilla; West Indian vanilla.
 
-.
-
 According to WordNet: A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans).
 
 Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical AmericaIt is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草
+**English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草**French:** vanille
 
 ## Overview
 

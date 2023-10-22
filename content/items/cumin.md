@@ -1,8 +1,8 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum."
+date = "2023-10-22"
+description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
 
-.
-
 According to WordNet: Aromatic seeds of the cumin herb of the carrot family.
 
 Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; IndiaIt is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** cumin **Hungarian:** római kömény **Arabic:** كمون  **Chinese:** 孜然
+**English:** cumin **Hungarian:** római kömény **Arabic:** كمون  **Chinese:** 孜然**French:** cumin
 
 ## Overview
 

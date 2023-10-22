@@ -1,8 +1,8 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-21"
-description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica."
+date = "2023-10-22"
+description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica., also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -14,15 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika, see also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica.
 
-.
-
 According to WordNet: Very hot and finely tapering pepper of special pungency.
 
 Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central AmericaIt is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
 ### Quick names
 
-**English:** chile **Hungarian:** paprika **Arabic:** فلفل حار **Chinese:** 辣椒
+**English:** chile **Hungarian:** paprika **Arabic:** فلفل حار **Chinese:** 辣椒**French:** Chili
 
 ## Overview
 
