@@ -37,6 +37,14 @@ disableComments = "true"
 # LastModifierEmail = ""
 +++
 
+## Gallery
+
+{{< load-photoswipe >}}
+
+{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
+
+{{< gallery dir="/images/cardamom/" />}}
+
 ## Two
 
 ### Three
@@ -99,10 +107,3 @@ Lorem Ipsum.
 &nbsp;
 ![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow) -->
 
-## Gallery
-
-{{< load-photoswipe >}}
-
-{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
-
-{{< gallery dir="/images/cardamom/" />}}
