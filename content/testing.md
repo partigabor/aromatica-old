@@ -99,10 +99,10 @@ Lorem Ipsum.
 &nbsp;
 ![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow) -->
 
-<!-- ## Gallery
+## Gallery
 
 {{< load-photoswipe >}}
 
 {{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
 
-{{< gallery dir="/images/cardamom/" />}} -->
+{{< gallery dir="/images/cardamom/" />}}
