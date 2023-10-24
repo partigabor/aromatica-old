@@ -570,9 +570,12 @@ blockquote cite {
 }
 
 div.box {
-    margin: 1.5rem 0;
-    border-style: solid;
-    border-width: 1px;
+    margin: 0rem 0;
+}
+
+div.box > figure {
+    /* The code below assume that the images displayed in the boxes are squares */
+    margin: 1rem 1rem;
 }
 
 div.box > .box-label {
