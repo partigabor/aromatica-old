@@ -41,7 +41,7 @@ disableComments = "true"
 
 {{< load-photoswipe >}}
 
-{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
+<!-- {{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}} -->
 
 {{< gallery dir="/images/cardamom/" />}}
 

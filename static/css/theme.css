@@ -574,7 +574,7 @@ div.box {
 }
 
 div.box > figure {
-    /* The code below assume that the images displayed in the boxes are squares */
+    /* The code below assumes that the images displayed in the boxes are squares - fix by Tom */
     margin: 1rem 1rem;
 }
 
