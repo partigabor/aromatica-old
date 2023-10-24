@@ -140,8 +140,8 @@ weight = 50
   disableLanguageSwitchingButton = false
   # Hide breadcrumbs in the header and only show the current page title
   disableBreadcrumb = false
-  # If set to true, hide the root breadcrumb in the header of all pages 
-  disableRootBreadcrumb=true
+  # # If set to true, hide the root breadcrumb in the header of all pages 
+  # disableRootBreadcrumb = true
   # If set to true, hide table of contents menu in the header of all pages
   disableToc = false
   # If set to false, load the MathJax module on every page regardless if a MathJax shortcode is present
