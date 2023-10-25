@@ -1,16 +1,13 @@
           <style>
             #logo svg,
             #logo svg * {
-              /* color: #202020; */
-              /* color: var(--MENU-SECTIONS-BG-color); */
-              /* fill: #202020 !important; */ /* svg color */
-              fill: var(--MENU-SECTIONS-BG-color) !important; /* svg color */
-              /* opacity: .945; */ /* svg opacity only*/
+              color: var(--MENU-SECTIONS-BG-color);
+              /* fill: var(--MENU-SECTIONS-BG-color) !important; */ /* svg color */
+              /* opacity: .945; */ /* svg opacity only */
             }
             a#logo {
-              /* color: #202020; */ /* text color */
-              color: var(--MENU-SECTIONS-BG-color); /* text color */
-              font-family: 'Noto Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
+              color: var(--MENU-SECTIONS-BG-color); /* logo color */
+              font-family: 'Noto Sans', sans-serif;
               font-size: 1.425rem; /* 1.875rem; */ 
               font-weight: 300;
               margin-top: -0rem; /* -.8125rem; margin above svg */
@@ -21,13 +18,15 @@
               opacity: .945; /* text and svg opacity*/
             }
             a#logo:hover {
-              /* color: #ffffff; */
               color: var(--MENU-SECTIONS-LINK-HOVER-color);
             }
-            #logo svg {
+            a#logo svg {
               margin-bottom: -0.75rem; /* -1.25rem; * margin between svg and text/
               margin-inline-start: 0rem; /* -1.47rem; */
               width: 100%; /* 40.5% */
+            }
+            a#logo:hover svg {
+              fill: var(--MENU-SECTIONS-LINK-HOVER-color);
             }
             @media only all and (max-width: 80rem) {
               a#logo {
@@ -60,7 +59,7 @@
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
             width="100%" height="100%" viewBox="0 0 860.000000 598.000000"
             preserveAspectRatio="xMidYMid meet">
-            <g transform="translate(0.000000,598.000000) scale(0.100000,-0.100000)" >
+            <g transform="translate(0.000000,598.000000) scale(0.100000,-0.100000)">
             <path d="M816 5903 c-1 -1 -145 -3 -319 -4 -220 -1 -319 -5 -324 -12 -9 -15
             -13 -205 -16 -802 -2 -331 -6 -496 -13 -509 -8 -13 -8 -32 -2 -60 5 -23 7
             -153 4 -296 -3 -140 -8 -475 -11 -745 -4 -269 -8 -537 -10 -595 -2 -58 -4

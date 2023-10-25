@@ -8,9 +8,9 @@ weight = 10
 categories = ['test']
 tags = ['test']
 disableComments = "true"
-# plotly = "true"
-# mermaidZoom = true
-# bibFile = "static/files/bibliography.json"
+plotly = "true"
+mermaidZoom = true
+bibFile = "static/files/bibliography.json"
 
 # # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # # Note: Toc is always disabled for chapter pages
@@ -37,10 +37,6 @@ disableComments = "true"
 # LastModifierEmail = ""
 +++
 
-**Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
-
-This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعربي</span>, <span class="chinese-text">中文文字</span>, <span class="devanagari-text">हिन्दी में टेक्स्ट</span>, and <span class="hebrew-text" dir="rtl">טקסט בעברית</span> mixed inline with English text.
-
 ## Two
 
 ### Three
@@ -51,6 +47,10 @@ This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعر
 
 ###### Six
 
+**Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
+
+This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعربي</span>, <span class="chinese-text">中文文字</span>, <span class="devanagari-text">हिन्दी में टेक्स्ट</span>, and <span class="hebrew-text" dir="rtl">טקסט בעברית</span> mixed inline with English text.
+
 >Blockquote
 
     Code snippet example
@@ -59,7 +59,7 @@ This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعر
 
 [Example for a link](www.link.com)
 
-### Icons {{% icon mortar-pestle %}}
+### {{% icon mortar-pestle %}} Icons
 
 {{% icon pepper-hot %}} Spices
 
@@ -81,14 +81,6 @@ This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعر
 
 {{% expand "Expand me..." %}}Thank you!{{% /expand %}}
 
-### Attachments
-
-{{% attachments sort="asc" /%}}
-
-### Including other files
-
-{{% include "content/items/manuscripts/allspice_ms.md" %}}
-
 ### Boxes
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
@@ -97,34 +89,34 @@ It is all about the boxes.
 
 hmm...
 
-{{% notice accent "There may be pirates" "skull-crossbones" %}}
-It is all about the boxes.
+{{% notice accent "There may be corsairs" "skull-crossbones" %}}
+But it's all about the boxes.
 {{% /notice %}}
 
-### Mermaid
+### Attachments
 
-{{< mermaid zoom="true" >}}
-pie title Spice names by language
-    "English" : 120
-    "Arabic" : 90
-    "Chinese" : 60
-{{< /mermaid >}}
+{{% attachments sort="asc" /%}}
+
+### Including other files
+
+{{% include "content/items/manuscripts/allspice_ms.md" %}}
+
 
 ***
 
-## Gallery
+### Gallery
 
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/cardamom/" />}}
 
-## Plotly
+### Plotly
 
 {{< load-plotly >}}
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
-### Hugo-Cite
+### Hugo Cite
 
 {{< cite lewis_latin_1879 >}}
 
@@ -134,7 +126,14 @@ pie title Spice names by language
 
 {{< svg "static/images/svgs/borobudur.svg" >}}
 
+### Mermaid
 
+{{< mermaid zoom="true" >}}
+pie title Spice names by language
+    "English" : 120
+    "Arabic" : 90
+    "Chinese" : 60
+{{< /mermaid >}}
 
 ```python
 #!/usr/bin/env python
@@ -218,3 +217,9 @@ GeneratorExit  # Exceptions
 ### Tabs
 
 ### Columns
+
+# Questions
+
+- How to justify/center multiple inline images?
+
+- Can I re-init my git repo and all previous commits?

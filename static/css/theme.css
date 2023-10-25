@@ -481,7 +481,7 @@ h1 {
     overflow-x: hidden;
     text-align: center;
     text-rendering: optimizeLegibility;
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
 }
 
 body:not(.print) #body-inner.narrow h1 {
@@ -539,7 +539,7 @@ h2, h3, h4, h5, h6 {
 }
 
 blockquote {
-    border-inline-start: .75rem solid var(--INTERNAL-PRIMARY-color);/* #86868666; */
+    border-inline-start: .6rem solid var(--INTERNAL-PRIMARY-color);/* #86868666; */
 }
 
 blockquote p {
