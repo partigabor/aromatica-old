@@ -37,15 +37,9 @@ disableComments = "true"
 # LastModifierEmail = ""
 +++
 
-## Gallery
+**Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
 
-{{< load-photoswipe >}}
-
-{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
-
-{{< gallery dir="/images/cardamom/" />}}
-
-Fusce aliquet, nunc sit amet viverra egestas, ex ante rutrum leo, id convallis tortor ligula ac leo. Pellentesque tempor tellus velit, in mollis orci porttitor sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam placerat vehicula tellus, at rutrum nulla luctus vel. Phasellus et ex suscipit, pharetra quam vel, congue dolor. Praesent eget ante ut quam lobortis congue et et odio. Nulla fermentum sapien id eros porttitor iaculis. 
+This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعربي</span>, <span class="chinese-text">中文文字</span>, <span class="devanagari-text">हिन्दी में टेक्स्ट</span>, and <span class="hebrew-text" dir="rtl">טקסט בעברית</span> mixed inline with English text.
 
 ## Two
 
@@ -65,34 +59,64 @@ Fusce aliquet, nunc sit amet viverra egestas, ex ante rutrum leo, id convallis t
 
 [Example for a link](www.link.com)
 
+### Icons {{% icon mortar-pestle %}}
+
+{{% icon pepper-hot %}} Spices
+
+{{% icon seedling %}} Herbs
+
+{{% icon fire-alt %}} Incense
+
+{{% icon vial %}} Perfume
+
+### Badges
+
+{{% badge style="primary" title="Version" %}}6.6.6{{% /badge %}}
+
+### Buttons
+
+{{% button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button %}}
+
+### Expand
+
+{{% expand "Expand me..." %}}Thank you!{{% /expand %}}
+
+### Attachments
+
+{{% attachments sort="asc" /%}}
+
+### Including other files
+
+{{% include "content/items/manuscripts/allspice_ms.md" %}}
+
+### Boxes
+
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
 It is all about the boxes.
 {{% /notice %}}
+
+hmm...
 
 {{% notice accent "There may be pirates" "skull-crossbones" %}}
 It is all about the boxes.
 {{% /notice %}}
 
-**Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
+### Mermaid
 
-لمّا كان الاعتراف بالكرامة المتأصلة في جميع
+{{< mermaid zoom="true" >}}
+pie title Spice names by language
+    "English" : 120
+    "Arabic" : 90
+    "Chinese" : 60
+{{< /mermaid >}}
 
-<p style="font-family: 'Noto Sans Arabic', sans-serif;">لمّا كان الاعتراف بالكرامة المتأصلة في جميع</p>
+***
 
-鑑於人類社會個成員儕有個固有尊嚴脫仔平等個脫仔勿移個權利承認，是世界自由、正義脫仔和平個基礎
+## Gallery
 
-<p style="font-family: 'Noto Sans Arabic', sans-serif;">鑑於人類社會個成員儕有個固有尊嚴脫仔平等個脫仔勿移個權利承認，是世界自由、正義脫仔和平個基礎</p>
+{{< load-photoswipe >}}
 
-चूंकि मानव परिवार के सभी सदस्यों के जन्मजात गौरव और समान
-
-<p style="font-family: 'Noto Sans Arabic', sans-serif;">चूंकि मानव परिवार के सभी सदस्यों के जन्मजात गौरव और समान</p>
-
-
-Lorem Ipsum.
-
-<!-- {{< svg "static/images/svgs/borobudur.svg" >}} -->
-
-<!-- ![Borobudur](/images/borobudur.png?width=50vw) -->
+{{< gallery dir="/images/cardamom/" />}}
 
 ## Plotly
 
@@ -100,12 +124,97 @@ Lorem Ipsum.
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
 
+### Hugo-Cite
+
+{{< cite lewis_latin_1879 >}}
+
+{{< bibliography cited >}}
+
+### SVG
+
+{{< svg "static/images/svgs/borobudur.svg" >}}
 
 
-<!-- 
-![saffron](/images/saffron-1.jpg?width=15vw&classes=inline,shadow)
-&nbsp;
-![saffron](/images/saffron-2.jpg?width=15vw&classes=inline,shadow)
-&nbsp;
-![saffron](/images/saffron-3.jpg?width=15vw&classes=inline,shadow) -->
 
+```python
+#!/usr/bin/env python
+"""Test file for Python syntax highlighting in editors / IDEs.
+Meant to cover a wide range of different types of statements and expressions.
+Not necessarily sensical or comprehensive (assume that if one exception is
+highlighted that all are, for instance).
+Extraneous trailing whitespace can't be tested because of svn pre-commit hook
+checks for such things.
+"""
+# Comment
+# OPTIONAL: XXX catch your attention
+# TODO(me): next big thing
+# FIXME: this does not work
+
+# Statements
+from __future__ import with_statement  # Import
+from sys import path as thing
+
+print(thing)
+
+assert True  # keyword
+
+
+def foo():  # function definition
+    return []
+
+
+class Bar(object):  # Class definition
+    def __enter__(self):
+        pass
+
+    def __exit__(self, *args):
+        pass
+
+foo()  # UNCOLOURED: function call
+while False:  # 'while'
+    continue
+for x in foo():  # 'for'
+    break
+with Bar() as stuff:
+    pass
+if False:
+    pass  # 'if'
+elif False:
+    pass
+else:
+    pass
+
+# Constants
+'single-quote', u'unicode'  # Strings of all kinds; prefixes not highlighted
+"double-quote"
+"""triple double-quote"""
+'''triple single-quote'''
+r'raw'
+ur'unicode raw'
+'escape\n'
+'\04'  # octal
+'\xFF'  # hex
+'\u1111'  # unicode character
+1  # Integral
+1L
+1.0  # Float
+.1
+1+2j  # Complex
+
+# Expressions
+1 and 2 or 3  # Boolean operators
+2 < 3  # UNCOLOURED: comparison operators
+spam = 42  # UNCOLOURED: assignment
+2 + 3  # UNCOLOURED: number operators
+[]  # UNCOLOURED: list
+{}  # UNCOLOURED: dict
+(1,)  # UNCOLOURED: tuple
+all  # Built-in functions
+GeneratorExit  # Exceptions
+```
+
+## Missing
+
+### Tabs
+
+### Columns

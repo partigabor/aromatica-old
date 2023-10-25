@@ -53,11 +53,19 @@ This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans f
 
 ### Versioning \& Updates
 
-{{% badge color="#6943ae" style="primary" icon="angle-double-up" title="Version" %}}0.0.1{{% /badge %}} &ensp; (2023-08-01) &ensp; [alpha] &ensp; website creation; entering development mode
+{{% badge color="#6943ae" icon="angle-double-up" title="Version" %}}0.0.4{{% /badge %}} &ensp; (2023-10-24) &ensp; [alpha] &ensp; added [gallery](https://github.com/liwenyip/hugo-easy-gallery)
 
-{{% badge color="#6943ae" icon="angle-double-up" title="Version" %}}0.0.2{{% /badge %}} &ensp; (2023-10-20) &ensp; [alpha] &ensp; functionality, theme finalized; placeholder content
+{{% badge color="#666666" icon="angle-double-up" title="Version" %}}0.0.3{{% /badge %}} &ensp; (2023-10-21) &ensp; [alpha] &ensp; implemented [Noto](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google) typeface; added logo
 
-{{% badge color="#6943ae" icon="angle-double-up" title="Version" %}}0.0.3{{% /badge %}} &ensp; (2023-10-21) &ensp; [alpha] &ensp; implemented [Noto](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google) typeface
+{{% badge color="#666666" icon="angle-double-up" title="Version" %}}0.0.2{{% /badge %}} &ensp; (2023-10-20) &ensp; [alpha] &ensp; finalized functionality and [theme](https://mcshelby.github.io/hugo-theme-relearn/index.html); added placeholder content
+
+{{% badge color="#666666" style="primary" icon="angle-double-up" title="Version" %}}0.0.1{{% /badge %}} &ensp; (2023-08-01) &ensp; [alpha] &ensp; website creation; entering development mode
+
+
+
+
+
+
 
 <!-- {{% badge style="accent" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; [beta] initial development release -->
 
