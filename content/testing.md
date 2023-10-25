@@ -41,9 +41,11 @@ disableComments = "true"
 
 {{< load-photoswipe >}}
 
-<!-- {{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}} -->
+{{< figure src="/images/cardamom/cardamom-1.jpg" alt="Cardamom" >}}
 
 {{< gallery dir="/images/cardamom/" />}}
+
+Fusce aliquet, nunc sit amet viverra egestas, ex ante rutrum leo, id convallis tortor ligula ac leo. Pellentesque tempor tellus velit, in mollis orci porttitor sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam placerat vehicula tellus, at rutrum nulla luctus vel. Phasellus et ex suscipit, pharetra quam vel, congue dolor. Praesent eget ante ut quam lobortis congue et et odio. Nulla fermentum sapien id eros porttitor iaculis. 
 
 ## Two
 
