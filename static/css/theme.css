@@ -115,6 +115,7 @@ html {
 
 body {
     display: flex;
+    font-family: 'Noto Sans', sans-serif;
     flex-direction: row-reverse; /* IE11 to allow body to have initial focus for PS and better SEO and a11y */
     font-size: 1.015625rem;
     font-weight: 300; /* here */
@@ -473,8 +474,9 @@ mark {
 }
 
 h1 {
+    font-family: 'Noto Sans', sans-serif;
     font-size: 3.25rem;
-    font-weight: 100;
+    font-weight: 300;
     margin: 0.85rem 0 1rem 0;
     /* big titles cause a horizontal scrollbar - fixing this by wrapping text */
     overflow-wrap: break-word;
