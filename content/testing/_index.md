@@ -7,7 +7,7 @@ weight = 10
 # draft = "false"
 categories = ['test']
 tags = ['test']
-disableComments = "true"
+# disableComments = "true"
 plotly = "true"
 mermaidZoom = true
 bibFile = "static/files/bibliography.json"
@@ -222,3 +222,7 @@ GeneratorExit  # Exceptions
 - How to justify/center multiple inline images?
 
 - Can I re-init my git repo and all previous commits?
+
+
+
+{{< comments >}}
