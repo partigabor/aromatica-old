@@ -7,9 +7,8 @@ weight = 10
 # draft = "false"
 categories = ['test']
 tags = ['test']
-disableComments = "true"
+# disableComments = "true"
 plotly = "true"
-mermaidZoom = true
 bibFile = "static/files/bibliography.json"
 
 # # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
@@ -36,6 +35,17 @@ bibFile = "static/files/bibliography.json"
 # # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 # LastModifierEmail = ""
 +++
+
+
+### Gallery
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/cardamom/" />}}
+
+...
+
+{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
 ## Two
 
@@ -81,34 +91,23 @@ This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعر
 
 {{% expand "Expand me..." %}}Thank you!{{% /expand %}}
 
+### Including other files
+
+{{% include "content/items/manuscripts/allspice_ms.md" %}}
+
 ### Boxes
 
 {{% notice primary "There may be pirates" "skull-crossbones" %}}
 It is all about the boxes.
 {{% /notice %}}
 
-hmm...
-
 {{% notice accent "There may be corsairs" "skull-crossbones" %}}
 But it's all about the boxes.
 {{% /notice %}}
 
-### Attachments
-
-{{% attachments sort="asc" /%}}
-
-### Including other files
-
-{{% include "content/items/manuscripts/allspice_ms.md" %}}
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl.
 
 ***
-
-### Gallery
-
-{{< load-photoswipe >}}
-
-{{< gallery dir="/images/cardamom/" />}}
 
 ### Plotly
 
@@ -124,16 +123,16 @@ But it's all about the boxes.
 
 ### SVG
 
-{{< svg "static/images/svgs/borobudur.svg" >}}
+{{< svg "static/images/svgs/borobudur-green.svg" >}}
 
-### Mermaid
+<!-- ### Mermaid
 
 {{< mermaid zoom="true" >}}
 pie title Spice names by language
     "English" : 120
     "Arabic" : 90
     "Chinese" : 60
-{{< /mermaid >}}
+{{< /mermaid >}} -->
 
 ```python
 #!/usr/bin/env python
