@@ -476,7 +476,7 @@ mark {
 h1 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 3.25rem;
-    font-weight: 300;
+    font-weight: 100;
     margin: 0.85rem 0 1rem 0;
     /* big titles cause a horizontal scrollbar - fixing this by wrapping text */
     overflow-wrap: break-word;
