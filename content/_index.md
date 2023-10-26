@@ -53,97 +53,16 @@ This website uses the [Noto](https://www.youtube.com/watch?v=16_NYHUZ1kM) Sans f
 
 ### Versioning \& Update history
 
-{{% badge style="accent" icon="angle-double-up" title="Version" %}}0.0.4{{% /badge %}} &ensp; 2023-10-24 &ensp; [alpha] &ensp; added [gallery](https://github.com/liwenyip/hugo-easy-gallery) and [cite](https://github.com/loup-brun/hugo-cite) features, finalized logo
-
-{{% badge color="#666666" icon="angle-double-up" title="Version" %}}0.0.3{{% /badge %}} &ensp; 2023-10-21 &ensp; [alpha] &ensp; implemented [Noto](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google) typeface for non-Latin fonts; 
-
-{{% badge color="#666666" icon="angle-double-up" title="Version" %}}0.0.2{{% /badge %}} &ensp; 2023-10-20 &ensp; [alpha] &ensp; finalized [theme](https://mcshelby.github.io/hugo-theme-relearn/index.html) and functionality; added placeholder content
-
-{{% badge color="#666666" style="primary" icon="angle-double-up" title="Version" %}}0.0.1{{% /badge %}} &ensp; 2023-08-01 &ensp; [alpha] &ensp; website creation; entering development mode
-
-
-
-
-
-
-
 <!-- {{% badge style="accent" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; [beta] initial development release -->
 
+{{% badge style="accent" icon="angle-double-up" title="Version" %}}0.0.4{{% /badge %}} &ensp; 2023-10-24 &ensp; [alpha] &ensp; added [gallery](https://github.com/liwenyip/hugo-easy-gallery) and [cite](https://github.com/loup-brun/hugo-cite) features, finalized logo
 
+{{% badge color="#404040" icon="angle-double-up" title="Version" %}}0.0.3{{% /badge %}} &ensp; 2023-10-21 &ensp; [alpha] &ensp; implemented [Noto](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google) typeface for non-Latin fonts; 
 
+{{% badge color="#404040" icon="angle-double-up" title="Version" %}}0.0.2{{% /badge %}} &ensp; 2023-10-20 &ensp; [alpha] &ensp; finalized [theme](https://mcshelby.github.io/hugo-theme-relearn/index.html) and functionality; added placeholder content
+
+{{% badge color="#404040" style="primary" icon="angle-double-up" title="Version" %}}0.0.1{{% /badge %}} &ensp; 2023-08-01 &ensp; [alpha] &ensp; website creation; entering development mode
 
 # Bibliography
 
 {{< bibliography cited >}}
-
-#
-<!-- Other name ideas:
-
-Philologia Aromatica
-Philologia Exotica
-Arcana
-Exotica
-Aromarama (aroma + panorama)
-Scental
-PerfumeOdes
-AromaTrove
-PerfumeAntiquum (Latin: "Ancient Perfumes")
-FragrantLegacy
-AromaTales
-AromaSaga
-HistoricalScents
-OdorumVentus (Latin: "Scented Winds")
-FragranceHorizon
-AromaCulturalis (Latin: "Cultural Aromas")
-SpiceMystique
-    HistoraAromata (Latin: "History of Aromas")
-    HerbaeVetustas (Latin: "Ancient Herbs")
-    AromataAntiqua (Latin: "Ancient Aromas")
-    LinguaAromatum (Latin: "Language of Aromas")
-    OdoribusVetustis (Latin: "Ancient Fragrances")
-    SpiceRerum (Latin: "Spice of Things")
-    HerbarumMemoria (Latin: "Memory of Herbs")
-    AromatumRes (Latin: "Matters of Aromas")
-    PhilologiaAromaton (Greek: "Philology of Aromas")
-    ArchaiaAromata (Greek: "Ancient Aromas")
-        SpiceSway
-    AromaTrail
-    HerbHist
-    FragranceNet
-    SilkSpices
-    TradeScents
-    SpiceVoyage
-    AromaRoutes
-    HerbLore
-    ScentSaga
-    SpiceTrek
-    FragrantWeb
-    TradeTales
-    SpiceHub
-    AromaArk
-    IncenseInk
-    SilkAroma
-    HerbWeave
-    ScentLine
-    SpicePulse
-        SpiceScribes
-    FragrantTales
-    TradeRoutesAroma
-    SilkRoadSensations
-    SpiceTrailNarratives
-    PerfumedPassages
-    HerbloreExpeditions
-    IncenseChronicles
-    AromaHistoria
-    ScentedVoyages
-    SpiceSagaNetworks
-    FragranceCaravans
-    PerfumedPast
-    SpiceJourneyTales
-    TradewindsAromas
-    MysticFragranceRoutes
-    AromaticaOdysseys
-    SpiceStoryArc
-    ScentedTradeTrek
-    SpiceCaravanChronicles
- -->

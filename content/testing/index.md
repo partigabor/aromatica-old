@@ -83,7 +83,7 @@ This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعر
 
 ### Attachments
 
-<!-- {{% attachments sort="asc" /%}} -->
+{{% attachments sort="asc" /%}}
 
 ### Including other files
 
@@ -107,13 +107,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi eget nun
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
+{{< gallery dir="/images/testing/" hover-effect="slideup" caption-effect="fade" />}}
+
+<!-- {{< gallery >}}
+  {{< figure src="/images/testing/anatto-1.jpg" >}}
+  {{< figure src="/images/testing/anatto-2.jpg" >}}
+  {{< figure src="/images/testing/anatto-3.jpg" >}}
+{{< /gallery >}} -->
 
 ### Plotly
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/home.json" height="600" >}}
+{{< plotly json="/aromatica/plotly/home.json" height="900" >}}
 
 ### Hugo Cite
 
