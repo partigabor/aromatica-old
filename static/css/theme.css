@@ -558,7 +558,7 @@ blockquote cite {
     text-align: end;
 }
 
-/* colored boxes */
+/* colored boxes; here */
 
 .cstyle {
     --VARIABLE-BOX-color: var(--INTERNAL-BOX-NEUTRAL-color);

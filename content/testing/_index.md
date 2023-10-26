@@ -37,14 +37,6 @@ bibFile = "static/files/bibliography.json"
 # LastModifierEmail = ""
 +++
 
-### Gallery
-
-{{< load-photoswipe >}}
-
-{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
-
-{{< gallery dir="/images/cardamom/" />}}
-
 ## Two
 
 ### Three
@@ -110,6 +102,12 @@ But it's all about the boxes.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl.
 
 ***
+
+### Gallery
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
 ### Plotly
 
