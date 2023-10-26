@@ -117,7 +117,7 @@ body {
     display: flex;
     flex-direction: row-reverse; /* IE11 to allow body to have initial focus for PS and better SEO and a11y */
     font-size: 1.015625rem;
-    font-weight: 400; /* here */
+    font-weight: 300; /* here */
     height: 100%;
     justify-content: flex-end;
     line-height: 1.574;
@@ -363,12 +363,12 @@ dd {
 #body img:not(.lightbox-image).border,
 #body .video-container.border {
     background-clip: padding-box;
-    border: 1px solid rgba(134, 134, 134, 0.333);
+    border: 1px solid #86868655;
 }
 
 #body img:not(.lightbox-image).shadow,
 #body .video-container.shadow {
-    box-shadow: 0 10px 30px rgba( 176, 176, 176, .666 );
+    box-shadow: 0 10px 30px #b0b0b0aa;
 }
 
 #body img:not(.lightbox-image).inline {
@@ -473,8 +473,8 @@ mark {
 }
 
 h1 {
-    font-size: 3.25rem; /* 3.25rem; */
-    font-weight: 200; /* heading here */
+    font-size: 3.25rem;
+    font-weight: 100;
     margin: 0.85rem 0 1rem 0;
     /* big titles cause a horizontal scrollbar - fixing this by wrapping text */
     overflow-wrap: break-word;
@@ -495,32 +495,32 @@ body:not(.print) #body-inner.narrow h1 {
 }
 @media only screen and (max-width: 48rem) {
     body:not(.print) #body-inner.narrow h1 {
-        font-size: 2.2rem; /* 2.4rem; */
+        font-size: 2.5rem;
     }
 }
 
 h2 {
     font-size: 2.2rem;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 h3, .article-subheading {
     font-size: 1.8rem;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h4 {
-    font-size: 1.6rem;
+    font-size: 1.85rem;
     font-weight: 500;
 }
 
 h5 {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: 600;
 }
 
 h6 {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-weight: 700;
 }
 
@@ -544,7 +544,7 @@ blockquote {
 
 blockquote p {
     /* font-family: serif; */
-    font-size: 1.075rem;
+    font-size: 1.075rem;    
     font-style: italic;
     opacity: .75;
     text-align: justify;
@@ -570,12 +570,14 @@ blockquote cite {
 }
 
 div.box {
-    margin: 0rem 0;
+    margin: 0rem 0; /* 1.5rem 0; */
+    /* border-style: solid --MAIN-BG-color; */
+    /* border-width: 1px; */
 }
 
 div.box > figure {
-    /* The code below assumes that the images displayed in the boxes are squares - fix by Tom */
-    margin: 1rem 1rem;
+        /* The code below assumes that the images displayed in the boxes are squares - fix by Tom */
+        margin: 0.5rem 0.5rem; /* margin of images in gallery */
 }
 
 div.box > .box-label {

@@ -81,18 +81,6 @@ This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعر
 
 {{% expand "Expand me..." %}}Thank you!{{% /expand %}}
 
-### Boxes
-
-{{% notice primary "There may be pirates" "skull-crossbones" %}}
-It is all about the boxes.
-{{% /notice %}}
-
-hmm...
-
-{{% notice accent "There may be corsairs" "skull-crossbones" %}}
-But it's all about the boxes.
-{{% /notice %}}
-
 ### Attachments
 
 {{% attachments sort="asc" /%}}
@@ -101,6 +89,17 @@ But it's all about the boxes.
 
 {{% include "content/items/manuscripts/allspice_ms.md" %}}
 
+### Boxes
+
+{{% notice primary "There may be pirates" "skull-crossbones" %}}
+It is all about the boxes.
+{{% /notice %}}
+
+{{% notice accent "There may be corsairs" "skull-crossbones" %}}
+But it's all about the boxes.
+{{% /notice %}}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl.
 
 ***
 
@@ -108,7 +107,7 @@ But it's all about the boxes.
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/images/cardamom/" />}}
+{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
 ### Plotly
 
@@ -124,16 +123,16 @@ But it's all about the boxes.
 
 ### SVG
 
-{{< svg "static/images/svgs/borobudur.svg" >}}
+{{< svg "static/images/svgs/borobudur-green.svg" >}}
 
-### Mermaid
+<!-- ### Mermaid
 
 {{< mermaid zoom="true" >}}
 pie title Spice names by language
     "English" : 120
     "Arabic" : 90
     "Chinese" : 60
-{{< /mermaid >}}
+{{< /mermaid >}} -->
 
 ```python
 #!/usr/bin/env python
