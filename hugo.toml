@@ -197,4 +197,4 @@ weight = 50
   repo = "partigabor/aromatica" # https://utteranc.es/#heading-repository
   issueTerm = "pathname" # https://utteranc.es/#heading-mapping
   label = "comment" # https://utteranc.es/#heading-issue-label
-  theme = "photon-dark" # https://utteranc.es/#heading-theme
+  theme = "github-dark" # https://utteranc.es/#heading-theme
