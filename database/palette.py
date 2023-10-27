@@ -71,33 +71,6 @@ nord13 = "#ebcb8b"
 nord14 = "#a3be8c"
 nord15 = "#b48ead"
 
-# Dark jungle
-dark_jungle0 = "#282828"  # Dark charcoal
-dark_jungle1 = "#303030"  # Slightly lighter charcoal
-dark_jungle2 = "#383838"  # Even lighter charcoal
-dark_jungle3 = "#404040"  # Lighter charcoal
-
-dark_jungle4 = "#7e8a97"  # Light gray
-dark_jungle5 = "#8f979f"  # Slightly darker light gray
-dark_jungle6 = "#9ea7b0"  # Even darker light gray
-
-dark_jungle7 = "#355c47"  # Dark green
-dark_jungle8 = "#2f5440"  # Slightly darker green
-dark_jungle9 = "#294a39"  # Even darker green
-dark_jungle10 = "#1f3a28"  # Dark forest green
-
-dark_jungle11 = "#753037"  # Dark red
-dark_jungle12 = "#82523e"  # Slightly lighter dark red
-dark_jungle13 = "#8f5c34"  # Even lighter dark red
-dark_jungle14 = "#5e493b"  # Dark brown
-dark_jungle15 = "#684f55"  # Dark purple
-
-dark_jungle16 = "#425a73"  # Dark blue
-dark_jungle17 = "#3b4f64"  # Slightly lighter dark blue
-dark_jungle18 = "#34475d"  # Even lighter dark blue
-dark_jungle19 = "#2c3a4e"  # Dark navy blue
-dark_jungle20 = "#594770"  # Dark violet
-
 # Others
 polyu='#8f1329'
 polyu_complimenter = '#138f79'

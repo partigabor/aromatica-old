@@ -6,12 +6,12 @@
    @import "chroma-relearn-light.css";
 
 :root {
-    --PRIMARY-color: #88ae43 ; /* brand primary color */
-    --SECONDARY-color: #88ae43 ; /* brand secondary color */
-    --ACCENT-color: #4388ae; /* brand accent color, used for search highlights */
+    --PRIMARY-color: #4388ae ; /* brand primary color */
+    --SECONDARY-color: #4388ae ; /* brand secondary color */
+    --ACCENT-color: #ae4376; /* brand accent color, used for search highlights */
 
     --MAIN-TEXT-color: #444444; /* text color of content and h1 titles */
-    --MAIN-LINK-HOVER-color: #5f792e; /* hovered link color of content */
+    --MAIN-LINK-HOVER-color: #84a8cf; /* hovered link color of content */
     --MAIN-BG-color: #ffffff; /* background color of content */
     --MAIN-TITLES-TEXT-color: #444444; /* text color of h2-h6 titles and transparent box titles */
 
