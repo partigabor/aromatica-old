@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![vanilla](/images/photos/vanilla-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+![vanilla](/images/photos/vanilla-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
 
 The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, see also Tahitian vanilla; West Indian vanilla.
 
@@ -23,6 +23,10 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 ### Quick names
 
 **English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草 
+
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 |    cultivation   |Madagascar; Indonesia; Mexico; Papua New Guinea; China|
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
-
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?height=50vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
-
->Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 
 ## Distribution
 

@@ -22,6 +22,10 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 **English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香 
 
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
+
 ## Overview
 
 |       item       |                       clove                       |
@@ -34,10 +38,6 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |    cultivation   |           Indonesia; Malaysia; Tanzania           |
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
-
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?height=50vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
 
 ## Distribution
 

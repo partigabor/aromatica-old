@@ -18,6 +18,10 @@ The seed-like fruits of an Eurasian herb.Caraway (*Carum carvi* L.) is a culinar
 
 **English:** caraway **Hungarian:** fűszerkömény  **Arabic:** كراويا **Chinese:** 葛縷子 
 
+![*Carum carvi* L.](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 91.
+
 ## Overview
 
 |       item       |                      caraway                      |
@@ -30,10 +34,6 @@ The seed-like fruits of an Eurasian herb.Caraway (*Carum carvi* L.) is a culinar
 |    cultivation   |     Denmark; Lebanon; The Netherlands; Poland     |
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
-
-![*Carum carvi* L.](/images/illustrations/caraway.png?height=50vw "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
-
->Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 91.
 
 ## Distribution
 

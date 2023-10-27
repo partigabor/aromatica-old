@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![star anise](/images/photos/star_anise-1-Christina_Rumpf_on_Unsplash.jpg?height=25vw&classes=shadow "Photo: Christina Rumpf on Unsplash")
+![star anise](/images/photos/star_anise-1-Christina_Rumpf_on_Unsplash.jpg?width=20rem&classes=shadow "Photo: Christina Rumpf on Unsplash")
 
 The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum, see also anise.
 
@@ -23,6 +23,10 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 ### Quick names
 
 **English:** star anise **Hungarian:** csillagánizs **Arabic:** يانسون نجمي **Chinese:** 八角 
+
+![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 |    cultivation   |China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)|
 |       color      |                             orange brown                             |
 |botanical database|          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
-
-![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?height=50vw "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
 
 ## Distribution
 

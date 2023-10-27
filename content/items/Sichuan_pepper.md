@@ -18,6 +18,8 @@ The numbing, red or green fruits of East Asian prickly ash trees, related to san
 
 **English:** Sichuan pepper **Hungarian:** szecsuáni bors **Arabic:** فلفل سيتشوان **Chinese:** 花椒 
 
+
+
 ## Overview
 
 |       item       |                   Sichuan pepper                  |

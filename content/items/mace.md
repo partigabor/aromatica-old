@@ -22,6 +22,10 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 
 **English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮 
 
+![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
+
 ## Overview
 
 |       item       |                        mace                       |
@@ -34,10 +38,6 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 |    cultivation   |                 Grenada; Indonesia                |
 |       color      | crimson red aril whn fresh, pale yellow when dried|
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
-
-![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?height=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
-
->Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 
 ## Distribution
 

@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![nutmeg](/images/photos/nutmeg-1-.jpg?height=25vw&classes=shadow "Photo: ")
+![nutmeg](/images/photos/nutmeg-1-.jpg?width=20rem&classes=shadow "Photo: ")
 
 The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
 
@@ -23,6 +23,10 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 ### Quick names
 
 **English:** nutmeg **Hungarian:** szerecsendió **Arabic:** جوز الطيب **Chinese:** 肉豆蔻 
+
+![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 |    cultivation   |                 Grenada; Indonesia                |
 |       color      |         pale brown nut, dark when powdered        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
-
-![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?height=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
-
->Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 
 ## Distribution
 

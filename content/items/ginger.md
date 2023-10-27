@@ -22,6 +22,10 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 
 **English:** ginger **Hungarian:** gyömbér **Arabic:** زنجبيل **Chinese:** 薑 
 
+![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
+
 ## Overview
 
 |       item       |                       ginger                      |
@@ -34,10 +38,6 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
-
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?height=50vw "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
-
->Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
 
 ## Distribution
 

@@ -22,6 +22,10 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 
 **English:** cinnamon **Hungarian:** fahéj **Arabic:** قرفة **Chinese:** 錫蘭肉桂 
 
+![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
+
 ## Overview
 
 |       item       |                      cinnamon                     |
@@ -34,10 +38,6 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 |       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
-
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?height=50vw "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
 
 ## Distribution
 

@@ -22,6 +22,10 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 
 **English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄 
 
+![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=40rem "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
+
+>Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
+
 ## Overview
 
 |       item       |                       cubeb                       |
@@ -34,10 +38,6 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 |    cultivation   |                     Indonesia                     |
 |       color      |                dark brown to black                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
-
-![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?height=50vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
-
->Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
 
 ## Distribution
 

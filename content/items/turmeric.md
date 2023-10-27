@@ -12,7 +12,7 @@ tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
-![turmeric](/images/photos/turmeric-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+![turmeric](/images/photos/turmeric-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
 
 The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, see also Yellow zedoary.
 
@@ -23,6 +23,10 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 ### Quick names
 
 **English:** turmeric **Hungarian:** kurkuma **Arabic:** كركم **Chinese:** 薑黃 
+
+![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
-
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?height=50vw "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
-
->Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 
 ## Distribution
 

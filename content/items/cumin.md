@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![cumin](/images/photos/cumin-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+![cumin](/images/photos/cumin-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
 
 The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
 
@@ -23,6 +23,10 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 ### Quick names
 
 **English:** cumin **Hungarian:** római kömény **Arabic:** كمون  **Chinese:** 孜然 
+
+![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |    cultivation   |                India; Iran; Lebanon               |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
-
-![*Cuminum cyminum* L.](/images/illustrations/cumin.png?height=50vw "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
 
 ## Distribution
 

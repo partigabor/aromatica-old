@@ -12,7 +12,7 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![pepper](/images/photos/pepper-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+![pepper](/images/photos/pepper-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
 
 The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
 
@@ -23,6 +23,10 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 ### Quick names
 
 **English:** pepper **Hungarian:** bors **Arabic:** فلفل **Chinese:** 胡椒 
+
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 |    cultivation   | Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.|
 |       color      |                black; white; green                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
-
-![*Piper nigrum* L.](/images/illustrations/pepper.png?height=50vw "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 
 ## Distribution
 

@@ -22,6 +22,10 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 
 **English:** fennel **Hungarian:** édeskömény **Arabic:** شمر **Chinese:** 茴香 
 
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
+
 ## Overview
 
 |       item       |                       fennel                       |
@@ -34,10 +38,6 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 |    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
-
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?height=50vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
-
->Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 
 ## Distribution
 

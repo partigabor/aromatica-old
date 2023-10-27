@@ -18,6 +18,10 @@ The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese c
 
 **English:** cassia **Hungarian:** kasszia(fahéj) **Arabic:** سليخة **Chinese:** 肉桂 
 
+![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 77.
+
 ## Overview
 
 |       item       |                       cassia                      |
@@ -30,10 +34,6 @@ The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese c
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
 |       color      |                   reddish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
-
-![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?height=50vw "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
-
->Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 77.
 
 ## Distribution
 

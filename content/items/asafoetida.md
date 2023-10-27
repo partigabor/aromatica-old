@@ -12,7 +12,7 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![asafoetida](/images/photos/asafoetida-1-Glorian.png?height=25vw&classes=shadow "Photo: Glorian")
+![asafoetida](/images/photos/asafoetida-1-Glorian.png?width=20rem&classes=shadow "Photo: Glorian")
 
 The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung.
 
@@ -23,6 +23,10 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 ### Quick names
 
 **English:** asafoetida **Hungarian:** ördöggyökér **Arabic:** حلتیت **Chinese:** 阿魏 
+
+![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 |    cultivation   |                 Iran; Afghanistan                 |
 |       color      |             from pale yellow to brown             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
-
-![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?height=50vw "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
-
->Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
 
 ## Distribution
 

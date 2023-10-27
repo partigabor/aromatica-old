@@ -22,6 +22,10 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 
 **English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽 
 
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
+
 ## Overview
 
 |       item       |                      coriander                      |
@@ -34,10 +38,6 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
-
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?height=50vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 
 ## Distribution
 

@@ -12,7 +12,7 @@ tags = ['culinary', ' perfumery']
 bibFile = "static/files/bibliography.json"
 +++
 
-![allspice](/images/photos/allspice-1-Pexels.jpg?height=25vw&classes=shadow "Photo: Pexels")
+![allspice](/images/photos/allspice-1-Pexels.jpg?width=20rem&classes=shadow "Photo: Pexels")
 
 The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree, see also wild allspice.
 
@@ -23,6 +23,10 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from th
 ### Quick names
 
 **English:** allspice **Hungarian:** szegfűbors **Arabic:** فلفل إفرنجي **Chinese:** 多香果 
+
+![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 174. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)
 
 ## Overview
 
@@ -37,11 +41,7 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary and perfumery spice from th
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2)|
 
-![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?height=50vw "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
-
->Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 174.
-
- [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)## Distribution
+## Distribution
 
 {{< load-plotly >}}
 

@@ -18,6 +18,8 @@ The spike-like cluster of fruits of Piper longum from India; fruit of Piper long
 
 **English:** long pepper **Hungarian:** hosszú bors **Arabic:** دارفلفل **Chinese:** 蓽撥 
 
+
+
 ## Overview
 
 |       item       |                    long pepper                    |

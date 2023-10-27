@@ -22,6 +22,10 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 
 **English:** fenugreek **Hungarian:** görögszéna **Arabic:** حلبة **Chinese:** 胡蘆巴 
 
+![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
+
 ## Overview
 
 |       item       |                     fenugreek                     |
@@ -34,10 +38,6 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |    cultivation   |                       India                       |
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
-
-![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?height=50vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 
 ## Distribution
 

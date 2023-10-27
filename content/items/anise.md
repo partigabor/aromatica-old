@@ -12,7 +12,7 @@ tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
-![anise](/images/photos/anise-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+![anise](/images/photos/anise-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
 
 The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel, see also star anise.
 
@@ -23,6 +23,10 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 ### Quick names
 
 **English:** anise **Hungarian:** ánizs **Arabic:** أنيسون **Chinese:** 茴芹 
+
+![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
-
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?height=50vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
 
 ## Distribution
 

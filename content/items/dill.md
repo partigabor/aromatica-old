@@ -18,6 +18,8 @@ The seeds of a Mediterranean herb.Dill (*Anethum graveolens* L.) is a culinary s
 
 **English:** dill **Hungarian:** kapor **Arabic:** شبت **Chinese:** 蒔蘿 
 
+
+
 ## Overview
 
 |       item       |                        dill                       |

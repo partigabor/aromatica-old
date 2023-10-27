@@ -12,7 +12,7 @@ tags = ['culinary', ' medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
-![cardamom](/images/photos/cardamom-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+![cardamom](/images/photos/cardamom-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
 
 The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
 
@@ -23,6 +23,10 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice f
 ### Quick names
 
 **English:** cardamom **Hungarian:** kardamom **Arabic:** هال **Chinese:** 豆蔻 
+
+![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
 
 ## Overview
 
@@ -36,10 +40,6 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice f
 |    cultivation   |Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea|
 |       color      |              green seed pods, brown seeds             |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
-
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?height=50vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
 
 ## Distribution
 
