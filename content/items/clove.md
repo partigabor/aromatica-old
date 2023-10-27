@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace., see also nutmeg; mace."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 ### Quick names
 
-**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香 **French:** clou de girofle, giroflier
+**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香 
 
 ## Overview
 
@@ -35,7 +35,7 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?height=33vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?height=50vw "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
 

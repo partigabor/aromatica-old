@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, see also Tahitian vanilla; West Indian vanilla., see also Tahitian vanilla; West Indian vanilla."
 weight = 10
 # draft = "true"
@@ -12,6 +12,8 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
+![vanilla](/images/photos/vanilla-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+
 The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, see also Tahitian vanilla; West Indian vanilla.
 
 According to WordNet: A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans).
@@ -20,7 +22,7 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 
 ### Quick names
 
-**English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草 **French:** vanille
+**English:** vanilla **Hungarian:** vanília **Arabic:** فانيليا **Chinese:** 香草 
 
 ## Overview
 
@@ -35,7 +37,7 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?height=33vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?height=50vw "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 

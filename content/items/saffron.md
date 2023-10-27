@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.."
 weight = 10
 # draft = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![saffron](/images/photos/saffron-1-Aromatiques.jpg?height=25vw&classes=shadow "Photo: Aromatiques")
+![saffron](/images/photos/saffron-1-Photo by Vera De on Unsplash.jpg?height=25vw&classes=shadow "Photo: Photo by Vera De on Unsplash")
 
 The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.
 
@@ -22,7 +22,7 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 
 ### Quick names
 
-**English:** saffron **Hungarian:** sáfrány **Arabic:** زعفران **Chinese:** 藏紅花 **French:** safran
+**English:** saffron **Hungarian:** sáfrány **Arabic:** زعفران **Chinese:** 藏紅花 
 
 ## Overview
 
@@ -37,7 +37,7 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |       color      |              deep red; dyes in orange             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 
-![*Crocus sativus* L.](/images/illustrations/saffron.png?height=33vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
+![*Crocus sativus* L.](/images/illustrations/saffron.png?height=50vw "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 164.
 

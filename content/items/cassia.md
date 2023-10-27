@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon., related to cinnamon, see also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon."
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese c
 
 ### Quick names
 
-**English:** cassia **Hungarian:** kasszia(fahéj) **Arabic:** سليخة **Chinese:** 肉桂 **French:** Cassie
+**English:** cassia **Hungarian:** kasszia(fahéj) **Arabic:** سليخة **Chinese:** 肉桂 
 
 ## Overview
 
@@ -31,7 +31,7 @@ The inner bark of Southeast Asian trees, related to cinnamon, see also Chinese c
 |       color      |                   reddish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
-![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?height=33vw "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
+![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?height=50vw "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 77.
 

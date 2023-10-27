@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel, see also star anise., also known as aniseed, related to fennel, see also star anise."
 weight = 10
 # draft = "true"
@@ -12,6 +12,8 @@ tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
+![anise](/images/photos/anise-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+
 The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel, see also star anise.
 
 According to WordNet: Liquorice-flavored seeds, used medicinally and in cooking and liquors.
@@ -20,7 +22,7 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 
 ### Quick names
 
-**English:** anise **Hungarian:** ánizs **Arabic:** أنيسون **Chinese:** 茴芹 **French:** anis, anis vert, graine d'anis
+**English:** anise **Hungarian:** ánizs **Arabic:** أنيسون **Chinese:** 茴芹 
 
 ## Overview
 
@@ -35,7 +37,7 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?height=33vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+![*Pimpinella anisum* L.](/images/illustrations/anise.png?height=50vw "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
 

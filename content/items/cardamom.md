@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom., also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom."
 weight = 10
 # draft = "true"
@@ -12,6 +12,8 @@ tags = ['culinary', ' medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
+![cardamom](/images/photos/cardamom-1-Unsplash.jpg?height=25vw&classes=shadow "Photo: Unsplash")
+
 The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom, see also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
 
 According to WordNet: Aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces.
@@ -20,7 +22,7 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice f
 
 ### Quick names
 
-**English:** cardamom **Hungarian:** kardamom **Arabic:** هال **Chinese:** 豆蔻 **French:** cardamome
+**English:** cardamom **Hungarian:** kardamom **Arabic:** هال **Chinese:** 豆蔻 
 
 ## Overview
 
@@ -35,7 +37,7 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice f
 |       color      |              green seed pods, brown seeds             |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
 
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?height=33vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?height=50vw "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
 

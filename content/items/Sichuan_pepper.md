@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho, see also sansho., related to sansho, see also sansho."
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ The numbing, red or green fruits of East Asian prickly ash trees, related to san
 
 ### Quick names
 
-**English:** Sichuan pepper **Hungarian:** szecsuáni bors **Arabic:** فلفل سيتشوان **Chinese:** 花椒 **French:** Poivre du Sichuan
+**English:** Sichuan pepper **Hungarian:** szecsuáni bors **Arabic:** فلفل سيتشوان **Chinese:** 花椒 
 
 ## Overview
 
@@ -30,8 +30,6 @@ The numbing, red or green fruits of East Asian prickly ash trees, related to san
 |    cultivation   |                       China                       |
 |       color      |                     red; green                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
-
-
 
 ## Distribution
 

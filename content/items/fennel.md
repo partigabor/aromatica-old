@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The dried fruits of a perennial herb.."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 
 ### Quick names
 
-**English:** fennel **Hungarian:** édeskömény **Arabic:** شمر **Chinese:** 茴香 **French:** 
+**English:** fennel **Hungarian:** édeskömény **Arabic:** شمر **Chinese:** 茴香 
 
 ## Overview
 
@@ -35,7 +35,7 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* fami
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?height=33vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?height=50vw "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 

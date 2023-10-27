@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The fruit of Piper cubeba, related to pepper, see also Ashanti pepper., related to pepper, see also Ashanti pepper."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 
 ### Quick names
 
-**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄 **French:** 
+**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄 
 
 ## Overview
 
@@ -35,7 +35,7 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 |       color      |                dark brown to black                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
 
-![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?height=33vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
+![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?height=50vw "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
 
 >Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
 

@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The dried fruits of an annual herb, also known as cilantro.."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 
 ### Quick names
 
-**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽 **French:** coriandre
+**English:** coriander **Hungarian:** koriander **Arabic:** كزبرة **Chinese:** 芫荽 
 
 ## Overview
 
@@ -35,7 +35,7 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* fami
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?height=33vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?height=50vw "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 

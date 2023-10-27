@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum, see also Java long pepper., see also Java long pepper."
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ The spike-like cluster of fruits of Piper longum from India; fruit of Piper long
 
 ### Quick names
 
-**English:** long pepper **Hungarian:** hosszú bors **Arabic:** دارفلفل **Chinese:** 蓽撥 **French:** poivre long
+**English:** long pepper **Hungarian:** hosszú bors **Arabic:** دارفلفل **Chinese:** 蓽撥 
 
 ## Overview
 
@@ -30,8 +30,6 @@ The spike-like cluster of fruits of Piper longum from India; fruit of Piper long
 |    cultivation   |             India; Indonesia; Thailand            |
 |       color      |   dreen to red when ripe, dark brown when dried   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
-
-
 
 ## Distribution
 

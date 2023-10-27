@@ -9811,13 +9811,13 @@
       "center": {},
       "lataxis": {
         "dtick": 10,
-        "gridcolor": "#303030",
+        "gridcolor": "#282828",
         "gridwidth": 0.5,
         "showgrid": true
       },
       "lonaxis": {
         "dtick": 10,
-        "gridcolor": "#303030",
+        "gridcolor": "#282828",
         "gridwidth": 0.5,
         "showgrid": true
       },
@@ -9828,11 +9828,11 @@
       "countrywidth": 1,
       "framecolor": "#383838",
       "framewidth": 1,
-      "lakecolor": "#282828",
-      "landcolor": "#383838",
-      "oceancolor": "#282828",
+      "lakecolor": "#202020",
+      "landcolor": "#303030",
+      "oceancolor": "#202020",
       "resolution": 110,
-      "rivercolor": "#282828",
+      "rivercolor": "#202020",
       "riverwidth": 1,
       "scope": "world",
       "showcoastlines": true,

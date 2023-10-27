@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The seeds of a West Asian herb.."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 
 ### Quick names
 
-**English:** fenugreek **Hungarian:** görögszéna **Arabic:** حلبة **Chinese:** 胡蘆巴 **French:** fenugrec
+**English:** fenugreek **Hungarian:** görögszéna **Arabic:** حلبة **Chinese:** 胡蘆巴 
 
 ## Overview
 
@@ -35,7 +35,7 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?height=33vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
+![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?height=50vw "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 

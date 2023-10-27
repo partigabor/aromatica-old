@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-10-22"
+date = "2023-10-27"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg., related to nutmeg."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 
 ### Quick names
 
-**English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮 **French:** macis
+**English:** mace **Hungarian:** szerecsendió-virág **Arabic:** بسباسة **Chinese:** 肉豆蔻皮 
 
 ## Overview
 
@@ -35,7 +35,7 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 |       color      | crimson red aril whn fresh, pale yellow when dried|
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
-![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?height=33vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?height=50vw "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 
