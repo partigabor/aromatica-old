@@ -545,7 +545,7 @@ blockquote {
 }
 
 blockquote p {
-    /* font-family: serif; */
+    font-family: 'Noto Sans', sans-serif;
     font-size: 1.075rem;    
     font-style: italic;
     opacity: .75;
@@ -573,7 +573,7 @@ blockquote cite {
 
 div.box {
     margin: 0rem 0; /* 1.5rem 0; */
-    /* border-style: solid --MAIN-BG-color; */
+    /* border-style: solid */ /* --MAIN-BG-color; */
     /* border-width: 1px; */
 }
 

@@ -1,35 +1,41 @@
 <!-- Partial intended to be overwritten to add custom headers, like CSS or any other info -->
-<style>
-    body, h1, h2, h3, h4, h5, h6 {
-      font-family: 'Noto Sans', sans-serif;
-    }
-    .arabic-text {
-      font-family: 'Noto Sans Arabic', sans-serif;
-      text-align: right;
-    }
-    .chinese-text {
-      font-family: 'Noto Sans TC', sans-serif;
-    }
-    .devanagari-text {
-      font-family: 'Noto Sans Devanagari', sans-serif;
-    }
-    .hebrew-text {
-      font-family: 'Noto Sans Hebrew', sans-serif;
-      text-align: right;
-    }
-    /* p:lang(ar) {
-      font-family: 'Noto Sans Arabic', sans-serif;
-    } */
-    [dir="rtl"] {
-      text-align: right;
-    }
-</style>
 
 <!-- Google fonts -->
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Noto+Sans+Devanagari&family=Noto+Sans+Hebrew&family=Noto+Sans+TC&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&family=Noto+Sans+Arabic&family=Noto+Sans+Devanagari&family=Noto+Sans+Hebrew&family=Noto+Sans+TC&display=swap" rel="stylesheet">
+
+<style>
+  h1 {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  body {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  .arabic-text {
+    font-family: 'Noto Sans Arabic', sans-serif;
+    text-align: right;
+  }
+  .chinese-text {
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+  .devanagari-text {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+  }
+  .hebrew-text {
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    text-align: right;
+  }
+  [dir="rtl"] {
+    text-align: right;
+  }
+</style>
+
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GN7EQ53CMS"></script>
@@ -46,4 +52,3 @@
 <!-- Hugo cite -->
 
 <link rel="stylesheet" type="text/css" href="{{ "/css/hugo-cite.css" | relURL }}" />
-

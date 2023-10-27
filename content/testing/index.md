@@ -99,7 +99,7 @@ It is all about the boxes.
 But it's all about the boxes.
 {{% /notice %}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl.
+⚓ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl.
 
 ***
 

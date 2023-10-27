@@ -21,11 +21,9 @@ bibFile = "static/files/bibliography.json"
 
 ### On the Name
 
-*Aromatica* is the singular feminine or plural neuter nominative form of *arōmāticus* (a, um, adj.), meaning "composed of spice, aromatic, fragrant" {{< cite lewis_latin_1879 >}} [{{% icon book-open %}}](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek ἀρωματικός *arōmatikós* (adj.) 'aromatic', and the etymon ἄρωμα *árōma* (n.) "aromatic herb or spice" {{< cite liddell_greekenglish_1940 >}} [{{% icon book-open %}}](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1). 
+*Aromatica* is the singular feminine or plural neuter nominative form of *arōmāticus* (a, um, adj.), meaning "composed of spice, aromatic, fragrant" {{< cite lewis_latin_1879 >}} [{{% icon book-open %}}](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=aromaticus), cf. Ancient Greek ἀρωματικός *arōmatikós* (adj.) 'aromatic', and the etymon ἄρωμα *árōma* (n.) "aromatic herb or spice" {{< cite liddell_greekenglish_1940 >}} [{{% icon book-open %}}](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Da%29%2Frwma1).
 
-<!-- α -->
-
-The term therefore refers to any substance of fragrance, focusing on spices, but also includes, incense, medicinal herbs, oils and perfume, aromatic woods, and other exotica[^1] with special olfactory and gustatory qualities. 
+The term therefore refers to any substance of fragrance, focusing on spices, but also includes incense, medicinal herbs, oils and perfume, aromatic woods, and other exotica[^1] with special olfactory and gustatory qualities. 
 
 [^1]: objects considered interesting because they are out of the ordinary, especially because they originated in a distant foreign country
 
