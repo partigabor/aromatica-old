@@ -1,8 +1,8 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-27"
-description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon., related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon."
+date = "2023-10-28"
+description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri LankaRelated to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,19 +12,13 @@ tags = ['culinary', ' medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 
-The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia, see also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+>The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri LankaRelated to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. 
 
-According to WordNet: Spice from the dried aromatic bark of the Ceylon cinnamon tree; used as rolled strips or ground.
+<p style="text-align:center;">
 
-Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
+**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="chinese-text">錫蘭肉桂</span> · 
 
-### Quick names
-
-**English:** cinnamon **Hungarian:** fahéj **Arabic:** قرفة **Chinese:** 錫蘭肉桂 
-
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
+</p>
 
 ## Overview
 
@@ -39,6 +33,12 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 |       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
+The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
+
+![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
+
 ## Distribution
 
 {{< load-plotly >}}
@@ -47,9 +47,13 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 
 >Native and introduced habitats of *Cinnamomum verum* J.Presl.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Sri Lanka
+<p style="text-align:left;">
+
+**Native regions:** &ensp; &ensp; &ensp; Sri Lanka
 
 **Introduced regions:** Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
+
+</p>
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0

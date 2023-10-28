@@ -1,8 +1,8 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-10-27"
-description = "The fruit of Piper cubeba, related to pepper, see also Ashanti pepper., related to pepper, see also Ashanti pepper."
+date = "2023-10-28"
+description = "The fruit of Piper cubebaRelated to pepper. See also Ashanti pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,19 +12,13 @@ tags = ['culinary', ' medicinal', ' perfume', 'false peppers']
 bibFile = "static/files/bibliography.json"
 +++
 
-The fruit of Piper cubeba, related to pepper, see also Ashanti pepper.
+>The fruit of Piper cubebaRelated to pepper. See also Ashanti pepper. 
 
-According to WordNet: Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes.
+<p style="text-align:center;">
 
-Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast AsiaIt is used for its unripe fruit, primarily for gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_medicinal_2002]
+**English:** cubeb · **Hungarian:** kubébabors · **Arabic:** <span class="arabic-text" dir="rtl">كبابة</span> · **Chinese:** <span class="chinese-text">蓽澄茄</span> · 
 
-### Quick names
-
-**English:** cubeb **Hungarian:** kubébabors **Arabic:** كبابة **Chinese:** 蓽澄茄 
-
-![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=40rem "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
-
->Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
+</p>
 
 ## Overview
 
@@ -39,6 +33,12 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 |       color      |                dark brown to black                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
 
+The fruit of Piper cubeba. Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast AsiaIt is used for its unripe fruit, primarily for gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_medicinal_2002]
+
+![*Piper cubeba* L.f.](/images/illustrations/cubeb.png?width=40rem "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
+
+>Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887){{< cite -nan >}} II 103.
+
 ## Distribution
 
 {{< load-plotly >}}
@@ -47,7 +47,11 @@ Cubeb (*Piper cubeba* L.f.) is a culinary and medicinal and perfume spice from t
 
 >Native and introduced habitats of *Piper cubeba* L.f.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Borneo, Cambodia, Lesser Sunda Is., Malaya, Maluku, Myanmar, Sulawesi, Sumatera, Vietnam
+<p style="text-align:left;">
+
+**Native regions:** &ensp; &ensp; &ensp; Borneo, Cambodia, Lesser Sunda Is., Malaya, Maluku, Myanmar, Sulawesi, Sumatera, Vietnam
+
+</p>
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0

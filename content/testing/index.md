@@ -3,14 +3,15 @@ title = "Testing"
 author = "Gabor Parti"
 date = "2023-08-01T00:00:00+08:00"
 description = "Description."
-weight = 10
-# draft = "false"
+weight = 1
 categories = ['test']
 tags = ['test']
-# disableComments = "true"
-plotly = "true"
-mermaidZoom = true
+draft = false
+hidden = false
+plotly = true
+# mermaidZoom = true
 bibFile = "static/files/bibliography.json"
+disableComments = false
 
 # # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # # Note: Toc is always disabled for chapter pages
@@ -29,8 +30,6 @@ bibFile = "static/files/bibliography.json"
 # menuPre = ""
 # # The title of the page in menu will be postfixed by this HTML content
 # menuPost = ""
-# # Hide a menu entry by setting this to true
-# hidden = false
 # # Display name of this page modifier. If set, it will be displayed in the footer.
 # LastModifierDisplayName = ""
 # # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer

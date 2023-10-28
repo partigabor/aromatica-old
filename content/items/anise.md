@@ -1,8 +1,8 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-10-27"
-description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel, see also star anise., also known as aniseed, related to fennel, see also star anise."
+date = "2023-10-28"
+description = "The seed-like fruits of a Mediterranean herb, also known as aniseed. Related to fennel. See also star anise. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,21 +12,15 @@ tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
-![anise](/images/photos/anise-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
+![anise](/images/photos/anise-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
 
-The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel, see also star anise.
+>The seed-like fruits of a Mediterranean herb, also known as aniseed. Related to fennel. See also star anise. 
 
-According to WordNet: Liquorice-flavored seeds, used medicinally and in cooking and liquors.
+<p style="text-align:center;">
 
-Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia MinorIt is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
+**English:** anise · **Hungarian:** ánizs · **Arabic:** <span class="arabic-text" dir="rtl">أنيسون</span> · **Chinese:** <span class="chinese-text">茴芹</span> · 
 
-### Quick names
-
-**English:** anise **Hungarian:** ánizs **Arabic:** أنيسون **Chinese:** 茴芹 
-
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
+</p>
 
 ## Overview
 
@@ -41,6 +35,12 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 
+The seed-like fruits of a Mediterranean herb. Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia MinorIt is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
+
+![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
+
 ## Distribution
 
 {{< load-plotly >}}
@@ -49,9 +49,13 @@ Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiac
 
 >Native and introduced habitats of *Pimpinella anisum* L.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Cyprus, Lebanon-Syria, Palestine, Turkey
+<p style="text-align:left;">
+
+**Native regions:** &ensp; &ensp; &ensp; Cyprus, Lebanon-Syria, Palestine, Turkey
 
 **Introduced regions:** Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia
+
+</p>
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0

@@ -1,8 +1,8 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-10-27"
-description = "Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*., also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*."
+date = "2023-10-28"
+description = "Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,17 +12,15 @@ tags = ['culinary', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
-![black cardamom](/images/photos/black_cardamom-1-Unsplash.jpg?width=20rem&classes=shadow "Photo: Unsplash")
+![black cardamom](/images/photos/black_cardamom-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
 
-Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*.Black Cardamom (*Amomum subulatum* Roxb.) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of HimalayasIt is used for its seed pod, primarily for nan. Its aroma is described as smoky, with a heat index of nan.[^ucla_medicinal_2002]
+>Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*. 
 
-### Quick names
+<p style="text-align:center;">
 
-**English:** black cardamom **Hungarian:** fekete kardamom **Arabic:** قاقلة **Chinese:** 香豆蔻 
+**English:** black cardamom · **Hungarian:** fekete kardamom · **Arabic:** <span class="arabic-text" dir="rtl">قاقلة</span> · **Chinese:** <span class="chinese-text">香豆蔻</span> · 
 
-![*Amomum subulatum* Roxb.](/images/illustrations/black_cardamom.png?width=40rem "Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819)")
-
->Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819){{< cite -nan >}} nan. [{{% icon image %}}](http://plantillustrations.org/illustration.php?id_illustration=61488)
+</p>
 
 ## Overview
 
@@ -37,6 +35,12 @@ Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; India
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/872166-1)|
 
+Fruit of Amomum subulatum. Black Cardamom (*Amomum subulatum* Roxb.) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of HimalayasIt is used for its seed pod, primarily for nan. Its aroma is described as smoky, with a heat index of nan.[^ucla_medicinal_2002]
+
+![*Amomum subulatum* Roxb.](/images/illustrations/black_cardamom.png?width=40rem "Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819)")
+
+>Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819){{< cite -nan >}} nan. [{{% icon image %}}](http://plantillustrations.org/illustration.php?id_illustration=61488)
+
 ## Distribution
 
 {{< load-plotly >}}
@@ -45,7 +49,11 @@ Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; India
 
 >Native and introduced habitats of *Amomum subulatum* Roxb.[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Assam, Bangladesh, China South-Central, China Southeast, East Himalaya, India, Myanmar, Nepal, Tibet
+<p style="text-align:left;">
+
+**Native regions:** &ensp; &ensp; &ensp; Assam, Bangladesh, China South-Central, China Southeast, East Himalaya, India, Myanmar, Nepal, Tibet
+
+</p>
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0

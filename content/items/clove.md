@@ -1,8 +1,8 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-10-27"
-description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace., see also nutmeg; mace."
+date = "2023-10-28"
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticumSee also nutmeg; mace. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,19 +12,13 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, see also nutmeg; mace.
+>The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticumSee also nutmeg; mace. 
 
-According to WordNet: Spice from dried unopened flower bud of the clove tree; used whole or ground.
+<p style="text-align:center;">
 
-Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
+**English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Chinese:** <span class="chinese-text">丁香</span> · 
 
-### Quick names
-
-**English:** clove **Hungarian:** szegfűszeg **Arabic:** قرنفل **Chinese:** 丁香 
-
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
-
->Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
+</p>
 
 ## Overview
 
@@ -39,6 +33,12 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
+The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of N. Moluccas, IndonesiaIt is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
+
+![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+
+>Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
+
 ## Distribution
 
 {{< load-plotly >}}
@@ -47,9 +47,13 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 >Native and introduced habitats of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry[^powo]
 
-**Native regions:** &nbsp; &nbsp; &nbsp; &nbsp;Maluku
+<p style="text-align:left;">
+
+**Native regions:** &ensp; &ensp; &ensp; Maluku
 
 **Introduced regions:** Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
+
+</p>
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
