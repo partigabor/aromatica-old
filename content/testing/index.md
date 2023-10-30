@@ -48,7 +48,9 @@ disableComments = false
 
 **Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
 
-This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعربي</span>, <span class="chinese-text">中文文字</span>, <span class="devanagari-text">हिन्दी में टेक्स्ट</span>, and <span class="hebrew-text" dir="rtl">טקסט בעברית</span> mixed inline with English text.
+This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعربي</span>, <span class="chinese-text">中文文字</span>, <span class="devanagari-text">हिन्दी में टेक्स्ट</span>, and <span class="hebrew-text" dir="rtl">טקסט בעברית</span> mixed inline with English text. 
+
+And this is some <span class="javanese-text">ꦧꦫꦧꦸꦝꦸꦂ</span>.
 
 >Blockquote
 
