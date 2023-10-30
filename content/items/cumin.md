@@ -12,8 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![cumin](/images/photos/cumin-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum
 
 <p style="text-align:center;">

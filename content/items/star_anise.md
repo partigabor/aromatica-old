@@ -12,8 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![star anise](/images/photos/star_anise-1-Christina_Rumpf_on_Unsplash.jpg?width=14rem&classes=shadow "Photo: Christina Rumpf on Unsplash")
-
 >The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verumSee also anise. 
 
 <p style="text-align:center;">

@@ -12,8 +12,6 @@ tags = ['culinary', ' beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
-![anise](/images/photos/anise-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The seed-like fruits of a Mediterranean herb, also known as aniseed. Related to fennel. See also star anise. 
 
 <p style="text-align:center;">

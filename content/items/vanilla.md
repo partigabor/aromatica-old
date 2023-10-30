@@ -12,8 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![vanilla](/images/photos/vanilla-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The aromatic seed pods of orchid species from America; fruit of Vanilla fragransSee also Tahitian vanilla; West Indian vanilla. 
 
 <p style="text-align:center;">

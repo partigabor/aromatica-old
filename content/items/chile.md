@@ -12,8 +12,6 @@ tags = ['culinary', 'chiles']
 bibFile = "static/files/bibliography.json"
 +++
 
-![chile](/images/photos/chile-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. Related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
 
 <p style="text-align:center;">

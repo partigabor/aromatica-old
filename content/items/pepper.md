@@ -12,8 +12,6 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![pepper](/images/photos/pepper-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The dried fruits of an Indian vine, also known as black pepper. Related to long pepper. 
 
 <p style="text-align:center;">

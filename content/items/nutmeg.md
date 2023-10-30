@@ -12,8 +12,6 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
-![nutmeg](/images/photos/nutmeg-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The seed of a peach-like fruit of the nutmeg tree of the Moluccas, IndonesiaRelated to mace. 
 
 <p style="text-align:center;">

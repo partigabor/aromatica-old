@@ -12,8 +12,6 @@ tags = ['culinary', ' perfumery']
 bibFile = "static/files/bibliography.json"
 +++
 
-![allspice](/images/photos/allspice-1-Pexels.jpg?width=14rem&classes=shadow "Photo: Pexels")
-
 >The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper. Related to Bay rum tree. See also wild allspice. 
 
 <p style="text-align:center;">

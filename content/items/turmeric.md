@@ -12,8 +12,6 @@ tags = ['culinary', ' medicinal', ' ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
-![turmeric](/images/photos/turmeric-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domesticaSee also Yellow zedoary. 
 
 <p style="text-align:center;">

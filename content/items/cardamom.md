@@ -12,8 +12,6 @@ tags = ['culinary', ' medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
-![cardamom](/images/photos/cardamom-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
-
 >The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
 
 <p style="text-align:center;">

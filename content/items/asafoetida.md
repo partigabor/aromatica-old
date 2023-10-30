@@ -12,8 +12,6 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
-![asafoetida](/images/photos/asafoetida-1-Glorian.png?width=14rem&classes=shadow "Photo: Glorian")
-
 >The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. 
 
 <p style="text-align:center;">
