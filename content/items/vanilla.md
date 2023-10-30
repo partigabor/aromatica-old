@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-10-28"
+date = "2023-10-30"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragransSee also Tahitian vanilla; West Indian vanilla. "
 weight = 10
 # draft = "true"

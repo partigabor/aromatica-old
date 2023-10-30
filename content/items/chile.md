@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-28"
+date = "2023-10-30"
 description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. Related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"

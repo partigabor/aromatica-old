@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-10-28"
+date = "2023-10-30"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri LankaRelated to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"

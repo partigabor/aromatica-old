@@ -347,7 +347,8 @@ dd {
 
 #body img,
 #body .video-container {
-    display: block;
+    /* this motherfucker here below, causes gallery to break if on, not centers images if off */
+    /* display: block; */
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -572,14 +573,14 @@ blockquote cite {
 }
 
 div.box {
-    margin: 0rem 0; /* 1.5rem 0; */
+    margin: 0rem 0; /* margin of whole gallery 1.5rem 0; */
     /* border-style: solid */ /* --MAIN-BG-color; */
     /* border-width: 1px; */
 }
 
 div.box > figure {
         /* The code below assumes that the images displayed in the boxes are squares - fix by Tom */
-        margin: 0.5rem 0.5rem; /* margin of images in gallery */
+        margin: 0rem 0rem; /* margin of images in gallery */
 }
 
 div.box > .box-label {
