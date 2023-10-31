@@ -1,8 +1,8 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-10-30"
-description = "The numbing, red or green fruits of East Asian prickly ash treesRelated to sansho. See also sansho. "
+date = "2023-10-31"
+description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The numbing, red or green fruits of East Asian prickly ash treesRelated to sansho. See also sansho. 
+>The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho. 
 
 <p style="text-align:center;">
 

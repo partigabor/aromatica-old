@@ -1,8 +1,8 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-10-30"
-description = "The inner bark of Southeast Asian treesRelated to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
+date = "2023-10-31"
+description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', ' medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 
->The inner bark of Southeast Asian treesRelated to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. 
+>The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. 
 
 <p style="text-align:center;">
 

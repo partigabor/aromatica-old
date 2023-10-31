@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-10-30"
+date = "2023-10-31"
 description = "The seed-like fruits of an Eurasian herb"
 weight = 10
 # draft = "true"

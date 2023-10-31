@@ -1,8 +1,8 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-10-30"
-description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. Related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
+date = "2023-10-31"
+description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. , related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,11 @@ tags = ['culinary', 'chiles']
 bibFile = "static/files/bibliography.json"
 +++
 
->The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. Related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/chile" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
+
+>The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. , related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
 
 <p style="text-align:center;">
 

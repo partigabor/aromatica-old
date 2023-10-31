@@ -573,8 +573,8 @@ blockquote cite {
 }
 
 div.box {
-    margin: 0rem 0; /* margin of whole gallery 1.5rem 0; */
-    /* border-style: solid */ /* --MAIN-BG-color; */
+    margin: 0rem 0rem; /* margin of whole gallery 1.5rem 0; */
+    /* border-style: solid; --MAIN-BG-color; */
     /* border-width: 1px; */
 }
 

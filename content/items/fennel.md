@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-10-30"
+date = "2023-10-31"
 description = "The dried fruits of a perennial herb"
 weight = 10
 # draft = "true"

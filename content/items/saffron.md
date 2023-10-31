@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-10-30"
+date = "2023-10-31"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus"
 weight = 10
 # draft = "true"
@@ -14,7 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" />}}
+{{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
 
@@ -58,6 +58,10 @@ The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus. Sa
 **Introduced regions:** Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
 
 </p>
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0

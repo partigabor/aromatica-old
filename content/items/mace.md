@@ -1,8 +1,8 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-10-30"
-description = "The aril (seed-covering) of the nutmegRelated to nutmeg. "
+date = "2023-10-31"
+description = "The aril (seed-covering) of the nutmeg, related to nutmeg. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The aril (seed-covering) of the nutmegRelated to nutmeg. 
+>The aril (seed-covering) of the nutmeg, related to nutmeg. 
 
 <p style="text-align:center;">
 

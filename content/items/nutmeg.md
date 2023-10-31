@@ -1,8 +1,8 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-10-30"
-description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, IndonesiaRelated to mace. "
+date = "2023-10-31"
+description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seed of a peach-like fruit of the nutmeg tree of the Moluccas, IndonesiaRelated to mace. 
+>The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. 
 
 <p style="text-align:center;">
 
