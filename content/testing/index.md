@@ -36,12 +36,7 @@ disableComments = false
 # LastModifierEmail = ""
 +++
 
-
-![saffron](/images/photos/saffron-1-Vera_De_on_Unsplash.jpg?width=14rem&classes=shadow "Photo: Vera De on Unsplash")
-
 {{< load-photoswipe >}}
-
-{{< figure src="/images/photos/saffron/saffron-1-Unsplash.jpg" width=25vw >}}
 
 {{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" />}}
 
