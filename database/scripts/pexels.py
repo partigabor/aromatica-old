@@ -1,4 +1,6 @@
-# Usage
+# Pexels downloader
+
+# Terminal usage:
 # python pexels.py --query "black pepper" --resolution original --sleep 0.1 --path ./pexels_downloads
 # python database/scripts/pexels.py --query "saffron"
 
@@ -12,7 +14,7 @@ import tqdm
 from pexels_api import API
 
 PEXELS_API_KEY = 'ltytGu4h9mZXbRbAJdUMaMjTUBMLScsWPwNITfSyGItoav3YiHhzOIAy'
-MAX_IMAGES_PER_QUERY = 25
+MAX_IMAGES_PER_QUERY = 20
 RESULTS_PER_PAGE = 10
 PAGE_LIMIT = MAX_IMAGES_PER_QUERY / RESULTS_PER_PAGE
 
@@ -21,7 +23,7 @@ def get_sleep(t):
         time.sleep(t)
     return sleep
 
-def main(args):
+def pexels_downloader(args):
     sleep = get_sleep(args.sleep)
 
     api = API(PEXELS_API_KEY)
@@ -61,7 +63,8 @@ def main(args):
         for val in tqdm.tqdm(photos_dict.values()):
             url = val['src'][args.resolution]
             fname = os.path.basename(val['src']['original'])
-            image_path = os.path.join(args.path, fname)
+            # image_path = os.path.join(args.path, fname)
+            image_path = os.path.join(args.path)
 
             if not os.path.isfile(image_path):  # ignore if already downloaded
                 response = requests.get(url, stream=True)
@@ -70,7 +73,6 @@ def main(args):
                     outfile.write(response.content)
             else:
                 print(f"File exists: {image_path}")
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -81,4 +83,28 @@ if __name__ == '__main__':
                                                  'landscape', 'tiny'], default='original')
     parser.add_argument('--sleep', type=float, default=0.1)
     args = parser.parse_args()
-    main(args)
+    pexels_downloader(args)
+    
+# ########
+
+# import argparse
+
+# # Define the arguments as a dictionary
+# args = {
+#     'query': key,
+#     'path': f"./output/photos/{key}",
+#     'resolution': "original",
+#     'sleep': 0.1
+# }
+
+# # Create an ArgumentParser and set the arguments
+# parser = argparse.ArgumentParser()
+# parser.add_argument('--query', type=str, required=True)
+# parser.add_argument('--path', type=str, default='./pexels_downloads')
+# parser.add_argument('--resolution', choices=['original', 'large2x', 'large', 'medium', 'small', 'portrait', 'landscape', 'tiny'], default='original')
+# parser.add_argument('--sleep', type=float, default=0.1)
+
+# # Parse the arguments from the dictionary
+# namespace = argparse.Namespace(**args)
+
+# pexels_downloader(namespace)
