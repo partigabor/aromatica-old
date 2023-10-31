@@ -1,3 +1,3 @@
 # aromatica
 
-Aromatica is a website and database currently under development.
+Aromatica is a future website and database, currently under development. Try again in 2024? Maybe...
