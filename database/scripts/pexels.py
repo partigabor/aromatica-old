@@ -1,6 +1,6 @@
 # Usage
 # python pexels.py --query "black pepper" --resolution original --sleep 0.1 --path ./pexels_downloads
-# python database/scripts/pexels.py --query "saffron" --resolution original --sleep 0.1 --path ./pexels_downloads
+# python database/scripts/pexels.py --query "saffron"
 
 import argparse
 import json
@@ -75,7 +75,7 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--query', type=str, required=True)
-    parser.add_argument('--path', type=str, default='./results_pexels')
+    parser.add_argument('--path', type=str, default='./pexels_downloads')
     parser.add_argument('--resolution', choices=['original', 'large2x', 'large',
                                                  'medium', 'small', 'portrait',
                                                  'landscape', 'tiny'], default='original')
