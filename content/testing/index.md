@@ -222,16 +222,6 @@ GeneratorExit  # Exceptions
 
 ## Missing
 
-### Tabs
-
 ### Columns
-
-# Questions
-
-- How to justify/center multiple inline images?
-
-- Can I re-init my git repo and all previous commits?
-
-
 
 {{< comments >}}

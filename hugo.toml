@@ -51,7 +51,7 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 # weight = 30
 
 [[languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categories" # fa-box
+name = "<i class='fas fa-fw fa-layer-group'></i> Categories" # fa-box
 pageRef = "categories/"
 weight = 20
 
@@ -72,7 +72,7 @@ url = "https://partigabor.github.io/" #"local/"
 weight = 50
 
 [[languages.hu.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categóriák"
+name = "<i class='fas fa-fw fa-layer-group'></i> Categóriák"
 pageRef = "categories/"
 weight = 20
 
