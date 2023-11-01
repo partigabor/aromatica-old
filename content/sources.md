@@ -13,9 +13,9 @@ bibFile = "static/files/bibliography.json"
 
 ## Primary sources
 
-### Ancient Near East
+<!-- ### Ancient Near East
 
-* Yale Babylonian Tablets Collection
+* Yale Babylonian Tablets Collection -->
 
 ### Classical Antiquity
 
@@ -23,7 +23,7 @@ bibFile = "static/files/bibliography.json"
 * Pliny the Elder, [*Naturalis Historia*](https://en.wikipedia.org/wiki/Natural_History_(Pliny)), 1st c. CE
 * Dioscorides, [*De Materia Medica*](https://en.wikipedia.org/wiki/De_Materia_Medica), 1st c. CE
 * Apicius, [*De Re Coquinaria*](https://en.wikipedia.org/wiki/Apicius), 4th c. CE
-* 
+* ...
 
 ### Islamicate Sources
 
