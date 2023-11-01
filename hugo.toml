@@ -71,8 +71,6 @@ name = "<i class='fas fa-fw fa-pen-nib'></i> Creator"
 url = "https://partigabor.github.io/" #"local/"
 weight = 50
 
-
-
 [[languages.hu.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-list'></i> Categóriák"
 pageRef = "categories/"
@@ -94,11 +92,8 @@ name = "<i class='fas fa-fw fa-pen-nib'></i> Szerkesztő"
 url = "https://partigabor.github.io/" # "local/"
 weight = 50
 
-
-
 [params]
   # Global site parameters (https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/index.html)
-  
   # This controls whether submenus will be expanded (true), or collapsed (false) in the
   # menu; if no setting is given, the first menu level is set to false, all others to true;
   # this can be overridden in the pages frontmatter
@@ -108,7 +103,7 @@ weight = 50
   # See the config.toml file from this documentation site to have an example.
   editURL = "https://github.com/partigabor/aromatica/blob/main/content/"
   # Author of the site, will be used in meta information
-  author = "Gabor Parti"
+  author.name = "Gabor Parti"
   # Description of the site, will be used in meta information
   description = "A website containing information on spices, herbs, incense, and other aromatics."
   # Shows a checkmark for visited pages on the menu
@@ -182,6 +177,7 @@ weight = 50
   disableExplicitIndexURLs = true
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
+
   # Override default values for image effects, you can even add your own arbitrary effects to the list
   [params.imageEffects]
     border = false

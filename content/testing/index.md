@@ -37,21 +37,21 @@ disableComments = false
 +++
 
 
-![saffron](/images/photos/saffron-1-Vera_De_on_Unsplash.jpg?width=14rem&classes=shadow "Photo: Vera De on Unsplash")
+![saffron](/images/photos/saffron/saffron-0-Vera_De_on_Unsplash.jpg?width=14rem&classes=shadow "Photo: Vera De on Unsplash")
 
 {{< load-photoswipe >}}
 
-{{< figure src="/images/photos/saffron/saffron-1-Unsplash.jpg" width=25vw >}}
+{{< figure src="/images/photos/saffron/saffron-0-Vera_De_on_Unsplash.jpg" width=25vw >}}
 
-{{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" />}}
+{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
 
-<p style="text-align:center;">
+<span class="center"> 
 
 **English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span> · 
 
-</p>
+</span>
 
 ## Two
 
