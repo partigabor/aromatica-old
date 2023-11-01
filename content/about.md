@@ -29,11 +29,42 @@ The term therefore refers to any substance of fragrance, focusing on spices, but
 
 The logo of Aromatica depicts the [Borobodur ship](https://en.wikipedia.org/wiki/Borobudur_ship), an 8th to 9th-century wooden double outrigger Javanese ship carved on the wall of the Borobodur temple (ꦧꦫꦧꦸꦝꦸꦂ). The ship is depicted as a symbol of the maritime trade routes across the Indian Ocean region, which connected the ancient world and allowed the spread of spices and other aromatics.
 
-## Data
+## The Data
+
+In what follows, you can find the main resources that were used while building the database, and the rationale behind the selections.
+
+### A Master List of All Spices?
+
+The first step was to create a list of spices that are relatively well-known, using information gathered by professionals from various fields. The second step was to collate the data on these materials, and morph it into a unified database to faciliate further enquiries. In the later stages of researching specific items, new and less common substances would reveal themselves, and their addition will help to reach the ultimate goal of a comprehensive list of spices.
+
+Encyclopedias can be a great starting point to kick off research in any topic, and the *Encyclopaedia Britannica* does have a non-exhaustive list of herbs and spices assembled by Melissa Petruzzello {{< cite -petruzzello_list_2023 >}}. I consider three academic fields crucial for research into the spice domain: *botany*, *history*, and *gastronomy*. Regarding the realm of plants, I relied on the book of South African botanist Ben-Erik van Wyk {{< cite -vanwyk_culinary_2014 >}}. For a cultural and historical account, I turned towards the book of English historian and linguist Andrew Dalby {{< cite -dalby_dangerous_2000 >}}. Finally, for a perspective from the culinary arts I used the book of Tony Hill {{< cite -hill_contemporary_2004 >}}, a spice merchant from Seattle.
+
+**Table 1.** The main resources used for the spice list, and the number of items found in each.
+
+|Source | Discipline | Number of items |
+| --- | --- | --- |
+| Petruzzello {{< cite -petruzzello_list_2023 >}} | Reference | 70 |
+| Hill {{< cite -hill_contemporary_2004 >}} | Gastronomy | 127 |
+| Dalby {{< cite -dalby_dangerous_2000 >}} | History | 183 |
+| van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
+
+{{< gallery dir="/images/books/" />}}
+
+***
+
+{{< gallery >}}
+    {{< figure src="/images/books/van_Wyk_2014.jpg" >}}
+    {{< figure src="/images/books/dalby_2000.jpg" >}}
+    {{< figure src="/images/books/hill_2004.jpg" >}}
+{{< /gallery >}}
+
+The main challenge of combining different spice datasets is that the basis of comparison is not always straightforward. Depending on scientific discipline, sources identify spices either by the binomial name of the species, common names, or even some general culinary/medicinal functions and uses. Binomial names are the safe way to go when we talk about the plants, but differentiating certain spices that might or might not be of the same flora can be challenging, not to mention trying to navigate historical data. Common names are almost always problematic, since many spices have many distinct names and name variations in different times, and they are often confused &ndash; especially so in multilingual settings. Moreover, the information complied by experts of a certain scientific field is vastly different in nature, focusing on botany, chemistry, history, economics, gastronomy, etc. The problematics of spice identification is due to the fact that different disciplines focus on different aspects of these fascinating subjects of study: the magnifying glass of the botanist, the zeal of the historian, and the needs of the chefs are all enormously diverse perspectives.
 
 ### External datasets
 
-Plant distribution and habitat data is taken from [Plants of the World Online (POWO)](https://powo.science.kew.org/) and the World Checklist of Vascular Plants (WCVP) dataset hosted and maintained by the Royal Botanic Gardens at Kew. Botanical area names, codes and polygon data comes from the level 3 dataset ("botanical countries") of the *World Geographical Scheme for Recording Plant Distributions* (2nd ed.) of the *International Working Group on Taxonomic Databases For Plant Sciences* (TDWG).
+#### Plant names backbone and maps
+
+Plant distribution and habitat data is taken from [Plants of the World Online (POWO)](https://powo.science.kew.org/) , which uses the [World Checklist of Vascular Plants (WCVP)](https://wcvp.science.kew.org/) dataset hosted and maintained by the Royal Botanic Gardens at Kew. Geographical codes, names, and polygon data comes from the level 3 [dataset](https://github.com/tdwg/wgsrpd) ("botanical countries") of the [*World Geographical Scheme for Recording Plant Distributions* (2nd ed.)](https://web.archive.org/web/20160125135239/http:/www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf) of the *International Working Group on Taxonomic Databases For Plant Sciences* (TDWG).
 
 Linguistic and geographic data on languages are from Glottolog and WALS...
 
@@ -49,4 +80,8 @@ The interactive visualizations were made by the Plotly graphing library using Py
 
 ### Website
 
-The website was built using the Hugo framework, a static website generator, and a modified version of the Hugo Relearn theme. 
+The website was built using the Hugo framework, a static website generator, and a modified version of the Hugo Relearn theme.
+
+# Bibliography
+
+{{< bibliography cited >}}

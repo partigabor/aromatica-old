@@ -11,45 +11,40 @@ tags = []
 bibFile = "static/files/bibliography.json"
 +++
 
-In what follows, you can find the main resources that were used while building the database, and the rationale behind the selections.
+## Primary sources
 
-## 1. A Master List of Spices
+### Ancient Near East
 
-The first step was to create a list of spices that are relatively well-known, using information gathered by professionals from various fields. The second step was to collate the data on these materials, and morph it into a unified database to faciliate further enquiries. In the later stages of researching specific items, new and less common substances would reveal themselves, and their addition will help to reach the ultimate goal of a comprehensive list of spices.
+* Yale Babylonian Tablets Collection
 
-Encyclopedias can be a great starting point to kick off research in any topic, and the *Encyclopaedia Britannica* does have a non-exhaustive list of herbs and spices assembled by Melissa Petruzzello {{< cite -petruzzello_list_2023 >}}. I consider three academic fields crucial for research into the spice domain: *botany*, *history*, and *gastronomy*. Regarding the realm of plants, I relied on the book of South African botanist Ben-Erik van Wyk {{< cite -vanwyk_culinary_2014 >}}. For a cultural and historical account, I turned towards the book of English historian and linguist Andrew Dalby {{< cite -dalby_dangerous_2000 >}}. Finally, for a perspective from the culinary arts I used the book of Tony Hill {{< cite -hill_contemporary_2004 >}}, a spice merchant from Seattle.
+### Classical Antiquity
+
+* Anonymous, [*Periplus of the Erythraean Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea), 1st c. CE
+* Pliny the Elder, [*Naturalis Historia*](https://en.wikipedia.org/wiki/Natural_History_(Pliny)), 1st c. CE
+* Dioscorides, [*De Materia Medica*](https://en.wikipedia.org/wiki/De_Materia_Medica), 1st c. CE
+* Apicius, [*De Re Coquinaria*](https://en.wikipedia.org/wiki/Apicius), 4th c. CE
+* 
+
+### Islamicate Sources
+
+...
+
+<!-- * [*al-Masalik w'al-Mamalik*](https://en.wikipedia.org/wiki/Al-Masalik_w%27al-Mamalik), Abu al-Hasan Ali ibn al-Husayn al-Mas'udi, 10th c. CE
+* [*Kitab al-Tabikh*](https://en.wikipedia.org/wiki/Kitab_al-Tabikh), Ibn Sayyar al-Warraq, 10th c. CE
+* [*Kitab al-Diryaq*](https://en.wikipedia.org/wiki/Kitab_al-Diryaq), Ibn al-Baitar, 13th c. CE -->
+<!-- * [*Kitab al-Tabikh*](https://en.wikipedia.org/wiki/Kitab_al-Tabikh), Muhammad bin Hasan al-Baghdadi, 13th c. CE -->
+
+### Chinese Sources
+
+...
+
+### European Age of Exploration (15th-17th c.)
 
 
-**Table 1.** The main resources used for the spice list, and the number of items found in each.
+## Secondary sources
 
-|Source | Discipline | Number of items |
-| --- | --- | --- |
-| Petruzzello {{< cite -petruzzello_list_2023 >}} | Reference | 70 |
-| Hill {{< cite -hill_contemporary_2004 >}} | Gastronomy | 127 |
-| Dalby {{< cite -dalby_dangerous_2000 >}} | History | 183 |
-| van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
+<!-- # Resources -->
 
-{{< gallery dir="/images/books/" />}}
-
-The main challenge of combining different spice datasets is that the basis of comparison is not always straightforward. Depending on scientific discipline, sources identify spices either by the binomial name of the species, common names, or even some general culinary/medicinal functions and uses. Binomial names are the safe way to go when we talk about the plants, but differentiating certain spices that might or might not be of the same flora can be challenging, not to mention trying to navigate historical data. Common names are almost always problematic, since many spices have many distinct names and name variations in different times, and they are often confused &ndash; especially so in multilingual settings. Moreover, the information complied by experts of a certain scientific field is vastly different in nature, focusing on botany, chemistry, history, economics, gastronomy, etc. The problematics of spice identification is due to the fact that different disciplines focus on different aspects of these fascinating subjects of study: the magnifying glass of the botanist, the zeal of the historian, and the needs of the chefs are all enormously diverse perspectives.
-
-<!-- ### 1.1. Other important sources -->
-
-<!-- ## 2. Historical Sources -->
-
-# Resources
-
-
-<!-- 
-Plant names backbone and maps
-
-POWO uses WCVP as the names backbone and therefore the taxonomy in POWO is identical to that on the WCVP website https://wcvp.science.kew.org/. The names and distribution data are updated weekly from WCVP. The maps are generated from the level 3 [TDWG geographical codes](https://web.archive.org/web/20160125135239/http:/www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf) in the WCVP database and are also refreshed weekly on POWO. 
-
-World Geographical Scheme for Recording Plant Distributions (WGSRPD)
-
-International Working Group on Taxonomic Databases (TDWG)
-
-https://github.com/tdwg/wgsrpd -->
 
 ***
 
