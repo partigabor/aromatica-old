@@ -1,7 +1,7 @@
 # Pexels downloader
 
 # Terminal usage:
-# python pexels.py --query "black pepper" --resolution original --sleep 0.1 --path ./pexels_downloads
+# python database/scripts/pexels.py --query "black pepper" --resolution original --sleep 0.1 --path ./database/output/photos
 # python database/scripts/pexels.py --query "saffron"
 
 import argparse
@@ -23,11 +23,11 @@ def get_sleep(t):
         time.sleep(t)
     return sleep
 
-def pexels_downloader(args):
-    sleep = get_sleep(args.sleep)
-
+def pexels_downloader(query, path):
+    resolution = 'original'
+    sleep = get_sleep(0.1)
+    
     api = API(PEXELS_API_KEY)
-    query = args.query
 
     page = 1
     counter = 0
@@ -54,17 +54,16 @@ def pexels_downloader(args):
 
     # Step 2: Downloading
     if photos_dict:
-        os.makedirs(args.path, exist_ok=True)
+        os.makedirs(path, exist_ok=True)
 
         # Saving dict
-        with open(os.path.join(args.path, f'{query}.json'), 'w') as fout:
+        with open(os.path.join(path, f'{query}.json'), 'w') as fout:
             json.dump(photos_dict, fout)
 
         for val in tqdm.tqdm(photos_dict.values()):
-            url = val['src'][args.resolution]
+            url = val['src'][resolution]
             fname = os.path.basename(val['src']['original'])
-            # image_path = os.path.join(args.path, fname)
-            image_path = os.path.join(args.path)
+            image_path = os.path.join(path, fname)
 
             if not os.path.isfile(image_path):  # ignore if already downloaded
                 response = requests.get(url, stream=True)
@@ -73,14 +72,3 @@ def pexels_downloader(args):
                     outfile.write(response.content)
             else:
                 print(f"File exists: {image_path}")
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--query', type=str, required=True)
-    parser.add_argument('--path', type=str, default='./pexels_downloads')
-    parser.add_argument('--resolution', choices=['original', 'large2x', 'large',
-                                                 'medium', 'small', 'portrait',
-                                                 'landscape', 'tiny'], default='original')
-    parser.add_argument('--sleep', type=float, default=0.1)
-    args = parser.parse_args()
-    pexels_downloader(args)
