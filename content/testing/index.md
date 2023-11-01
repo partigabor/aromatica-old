@@ -42,11 +42,11 @@ disableComments = false
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
 
-<p style="text-align:center;">
+<span class="center"> 
 
 **English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span> · 
 
-</p>
+</span>
 
 ## Two
 
