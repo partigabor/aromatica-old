@@ -346,7 +346,7 @@ dd {
 #R-body img,
 #R-body .video-container {
     /* here */
-    display: block;
+    /* display: block; */
     margin-left: auto;
     margin-right: auto;
     text-align: center;

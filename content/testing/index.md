@@ -38,15 +38,8 @@ disableComments = false
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" />}}
+{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
 
->The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
-
-<span class="center"> 
-
-**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span> · 
-
-</span>
 
 ## Two
 
