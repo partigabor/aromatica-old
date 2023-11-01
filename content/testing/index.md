@@ -38,9 +38,6 @@ disableComments = false
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
-
-
 ## Two
 
 ### Three
