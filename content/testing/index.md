@@ -36,13 +36,6 @@ disableComments = false
 # LastModifierEmail = ""
 +++
 
-![Saffron](/images/photos/saffron/saffron-0-Vera_De_on_Unsplash.jpg?width=10rem "Saffron")
-
-{{< load-photoswipe >}}
-
-{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
-
-
 ## Two
 
 ### Three
@@ -116,6 +109,16 @@ Thai: <span class="thai-text">ข้อความภาษาไทย</span>
 `code inline example`
 
 [Example for a link](www.link.com)
+
+### Image
+
+![Saffron](/images/photos/saffron/saffron-0-Vera_De_on_Unsplash.jpg?width=10rem "Saffron")
+
+### Gallery
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
 
 ### {{% icon mortar-pestle %}} Icons
 

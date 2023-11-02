@@ -8,8 +8,8 @@ Grid Layout Styles
 */
 .gallery {
     overflow: hidden;
-    /* margin: 10px; */
-    margin: 6rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
     /* max-width: 768px; */
     max-width: 100%;
 }
