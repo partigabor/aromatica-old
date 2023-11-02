@@ -1,18 +1,17 @@
 +++
-title = "Testing"
+title = "Test"
 author = "Gabor Parti"
 date = "2023-08-01T00:00:00+08:00"
 description = "Description."
 weight = 1
-categories = ['test']
-tags = ['test']
+categories = []
+tags = []
 draft = false
 hidden = false
 plotly = true
 # mermaidZoom = true
 bibFile = "static/files/bibliography.json"
 disableComments = false
-
 # # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # # Note: Toc is always disabled for chapter pages
 # disableToc = false

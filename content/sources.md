@@ -4,11 +4,13 @@ author = "Gabor Parti"
 date = "2023-08-01T00:00:00+08:00"
 description = "Resources for the spice database."
 weight = 20
-# draft = "false"
 categories = []
 tags = []
-# plotly = "true"
+draft = false
+hidden = false
+plotly = true
 bibFile = "static/files/bibliography.json"
+disableComments = true
 +++
 
 ## Primary sources
