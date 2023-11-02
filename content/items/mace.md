@@ -14,7 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The aril (seed-covering) of the nutmeg, related to nutmeg. 
 
-<center>**English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Chinese:** <span class="chinese-text">肉豆蔻皮</span> · </center>
+<center>
+
+**English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Chinese:** <span class="chinese-text">肉豆蔻皮</span>
+
+</center>
 
 ## Overview
 
@@ -31,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The aril (seed-covering) of the nutmeg. Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=50rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 

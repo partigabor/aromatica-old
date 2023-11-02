@@ -117,7 +117,8 @@ body {
     display: flex;
     flex-direction: row-reverse; /* IE11 to allow body to have initial focus for PS and better SEO and a11y */
     font-size: 1.015625rem;
-    font-weight: 300; /* here */
+    /* change main font weight here */
+    font-weight: 300; 
     height: 100%;
     justify-content: flex-end;
     line-height: 1.574;
@@ -346,7 +347,7 @@ dd {
 
 #R-body img,
 #R-body .video-container {
-    /* here */
+    /* Uncomment this line below to solve problem with gallery, display: block is added to img in nucleus.css  */
     /* display: block; */
     margin-left: auto;
     margin-right: auto;
@@ -569,16 +570,14 @@ blockquote cite {
 }
 
 div.box {
-    margin: 0rem 0; /* here */
-    /* margin: 1.5rem 0;
+    margin: 1.5rem 0rem;
     border-style: solid;
-    border-width: 1px; */
+    border-width: 1px;
 }
 
 div.box > figure {
      /* The code below assumes that the images displayed in the boxes are squares - Tom */
-    margin: 0rem 0rem; /* here */
-
+    margin: 0rem 0rem; 
 }
 
 div.box > .box-label {

@@ -14,7 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum
 
-<center>**English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="chinese-text">孜然</span> · </center>
+<center>
+
+**English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="chinese-text">孜然</span>
+
+</center>
 
 ## Overview
 
@@ -31,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; IndiaIt is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
-![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
+![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=50rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
 

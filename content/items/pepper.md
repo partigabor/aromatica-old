@@ -18,7 +18,11 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of an Indian vine, also known as black pepper. , related to long pepper. 
 
-<center>**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="chinese-text">胡椒</span> · </center>
+<center>
+
+**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="chinese-text">胡椒</span>
+
+</center>
 
 ## Overview
 
@@ -35,7 +39,7 @@ bibFile = "static/files/bibliography.json"
 
 The dried fruits of an Indian vine. Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
-![*Piper nigrum* L.](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=50rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 

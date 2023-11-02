@@ -14,7 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. 
 
-<center>**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="chinese-text">錫蘭肉桂</span> · </center>
+<center>
+
+**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="chinese-text">錫蘭肉桂</span>
+
+</center>
 
 ## Overview
 
@@ -31,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=50rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
 

@@ -12,9 +12,17 @@ tags = ['culinary', 'chiles']
 bibFile = "static/files/bibliography.json"
 +++
 
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/chile" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
+
 >The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. , related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
 
-<center>**English:** chile · **Hungarian:** paprika · **Arabic:** <span class="arabic-text" dir="rtl">فلفل حار</span> · **Chinese:** <span class="chinese-text">辣椒</span> · </center>
+<center>
+
+**English:** chile · **Hungarian:** paprika · **Arabic:** <span class="arabic-text" dir="rtl">فلفل حار</span> · **Chinese:** <span class="chinese-text">辣椒</span>
+
+</center>
 
 ## Overview
 
@@ -31,7 +39,7 @@ bibFile = "static/files/bibliography.json"
 
 The fruits of Capsicum annuum and other species. Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central AmericaIt is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
-![*Capsicum annuum* L.](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
+![*Capsicum annuum* L.](/images/illustrations/chile.png?width=50rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
 

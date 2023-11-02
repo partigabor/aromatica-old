@@ -14,7 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The spike-like cluster of fruits of Piper longum from India; fruit of Piper longumSee also Java long pepper. 
 
-<center>**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="chinese-text">蓽撥</span> · </center>
+<center>
+
+**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="chinese-text">蓽撥</span>
+
+</center>
 
 ## Overview
 

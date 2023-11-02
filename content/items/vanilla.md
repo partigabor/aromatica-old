@@ -12,9 +12,17 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/vanilla" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
+
 >The aromatic seed pods of orchid species from America; fruit of Vanilla fragransSee also Tahitian vanilla; West Indian vanilla. 
 
-<center>**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="chinese-text">香草</span> · </center>
+<center>
+
+**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="chinese-text">香草</span>
+
+</center>
 
 ## Overview
 
@@ -31,7 +39,7 @@ bibFile = "static/files/bibliography.json"
 
 The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical AmericaIt is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=50rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 

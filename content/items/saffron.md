@@ -18,7 +18,11 @@ bibFile = "static/files/bibliography.json"
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
 
-<center>**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span> · </center>
+<center>
+
+**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span>
+
+</center>
 
 ## Overview
 
@@ -35,7 +39,7 @@ bibFile = "static/files/bibliography.json"
 
 The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus. Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near EastIt is used for its stigma (style), primarily for paella, bouillabaise, rice, tagine, fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
-![*Crocus sativus* L.](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
+![*Crocus sativus* L.](/images/illustrations/saffron.png?width=50rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 164.
 

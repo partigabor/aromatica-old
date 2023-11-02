@@ -38,18 +38,6 @@ disableComments = false
 
 ![Saffron](/images/photos/saffron/saffron-0-Vera_De_on_Unsplash.jpg?width=10rem "Saffron")
 
-
-
-{{% notice primary "There may be pirates" "skull-crossbones" %}}
-It is all about the boxes.
-{{% /notice %}}
-
-{{% notice accent "There may be corsairs" "skull-crossbones" %}}
-But it's all about the boxes.
-{{% /notice %}}
-
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}

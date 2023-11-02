@@ -14,7 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
 
-<center>**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="chinese-text">豆蔻</span> · </center>
+<center>
+
+**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="chinese-text">豆蔻</span>
+
+</center>
 
 ## Overview
 
@@ -31,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=50rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
 

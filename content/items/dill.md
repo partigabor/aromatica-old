@@ -14,7 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The seeds of a Mediterranean herb
 
-<center>**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="chinese-text">蒔蘿</span> · </center>
+<center>
+
+**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="chinese-text">蒔蘿</span>
+
+</center>
 
 ## Overview
 
