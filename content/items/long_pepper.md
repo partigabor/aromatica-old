@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longumSee also Java long pepper. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The spike-like cluster of fruits of Piper longum from India; fruit of Piper longumSee also Java long pepper. 
 
-<p style="text-align:center;">
+<center>
 
-**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="chinese-text">蓽撥</span> · 
+**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="chinese-text">蓽撥</span>
 
-</p>
+</center>
 
 ## Overview
 

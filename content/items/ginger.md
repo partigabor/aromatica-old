@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinaleSee also Wild ginger. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinaleSee also Wild ginger. 
 
-<p style="text-align:center;">
+<center>
 
-**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="chinese-text">薑</span> · 
+**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="chinese-text">薑</span>
 
-</p>
+</center>
 
 ## Overview
 
@@ -35,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary)It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=50rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
 

@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. "
 weight = 10
 # draft = "true"
@@ -12,13 +12,17 @@ tags = ['culinary', ' medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/asafoetida" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
+
 >The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. 
 
-<p style="text-align:center;">
+<center>
 
-**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="chinese-text">阿魏</span> · 
+**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="chinese-text">阿魏</span>
 
-</p>
+</center>
 
 ## Overview
 
@@ -35,7 +39,7 @@ bibFile = "static/files/bibliography.json"
 
 The dried resin of Ferula foetida and F. assa-foetida. Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. AsiaIt is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
+![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=50rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 147.
 

@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. "
 weight = 10
 # draft = "true"
@@ -12,13 +12,17 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/nutmeg" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
+
 >The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. 
 
-<p style="text-align:center;">
+<center>
 
-**English:** nutmeg · **Hungarian:** szerecsendió · **Arabic:** <span class="arabic-text" dir="rtl">جوز الطيب</span> · **Chinese:** <span class="chinese-text">肉豆蔻</span> · 
+**English:** nutmeg · **Hungarian:** szerecsendió · **Arabic:** <span class="arabic-text" dir="rtl">جوز الطيب</span> · **Chinese:** <span class="chinese-text">肉豆蔻</span>
 
-</p>
+</center>
 
 ## Overview
 
@@ -35,7 +39,7 @@ bibFile = "static/files/bibliography.json"
 
 The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia. Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=50rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
 

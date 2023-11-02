@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried fruits of a perennial herb"
 weight = 10
 # draft = "true"
@@ -14,11 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of a perennial herb
 
-<p style="text-align:center;">
+<center>
 
-**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="chinese-text">茴香</span> · 
+**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="chinese-text">茴香</span>
 
-</p>
+</center>
 
 ## Overview
 
@@ -35,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The dried fruits of a perennial herb. Fennel (*Foeniculum vulgare* Mill.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of MediterraneanIt is used for its fruit, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=50rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
 

@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The seed-like fruits of an Eurasian herb"
 weight = 10
 # draft = "true"
@@ -14,11 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The seed-like fruits of an Eurasian herb
 
-<p style="text-align:center;">
+<center>
 
-**English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="chinese-text">葛縷子</span> · 
+**English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="chinese-text">葛縷子</span>
 
-</p>
+</center>
 
 ## Overview
 
@@ -35,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The seed-like fruits of an Eurasian herb. Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; C. Europe; EurasiaIt is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Carum carvi* L.](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
+![*Carum carvi* L.](/images/illustrations/caraway.png?width=50rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 91.
 

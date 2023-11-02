@@ -35,8 +35,6 @@ disableComments = false
 # LastModifierEmail = ""
 +++
 
-{{< load-photoswipe >}}
-
 ## Two
 
 ### Three
@@ -59,17 +57,17 @@ Armenian: <span class="armenian-text">Հայերեն տեքստ</span>
 
 Balinese: <span class="balinese-text">ᬧᬲᬃᬦᬃ ᬓᬲᬓᬲ</span>
 
-*Bengali: <span class="bengali-text">বাংলা টেক্সট</span>
+Bengali: <span class="bengali-text">বাংলা টেক্সট</span>
 
-*Burmese: <span class="burmese-text">မြန်မာစာ</span>
+Burmese: <span class="burmese-text">မြန်မာစာ</span>
 
-Cyrillic: <span class="macedonian-text">Македонски текст</span>
+Cyrillic: <span class="cyrillic-text">Македонски текст</span>
 
-Cuneiform: <span class="cuneiform-text">𒀀𒀀𒀀𒀀</span>
+Cuneiform: <span class="cuneiform-text">𒀭𒆗𒀳𒀭𒁇𒀀𒈾𒀀</span>
 
-Chinese, Simplified: <span class="chinese-simplified-text">简体中文</span>
+Chinese, Simplified: <span class="simplified-chinese-text">简体中文</span>
 
-Chinese, Traditional: <span class="chinese-traditional-text">繁體中文</span>
+Chinese, Traditional: <span class="traditional-chinese-text">繁體中文</span>
 
 Devanagari: <span class="devanagari-text">हिन्दी में टेक्स्ट</span>
 
@@ -87,6 +85,8 @@ Kawi: <span class="kawi-text">𑼡𑼪𑼒𑽎</span>
 
 Korean: <span class="korean-text">한국어 텍스트</span>
 
+Linear B: <span class="linear-b-text">𐀴𐀪𐀡𐀆𐄀𐁁𐀐𐀄𐄀𐀐𐀩𐀯𐀍𐄀𐀸𐀐 𐃠</span>
+
 Nastaliq: <span class="nastaliq-text" dir="rtl">نستعلیق</span>
 
 Syriac: <span class="syriac-text" dir="rtl">ܠܫܢܐ ܠܫܢܐ</span>
@@ -99,7 +99,7 @@ Tibetan: <span class="tibetan-text">བོད་སྐད་ཡིག་གཟ�
 
 Thai: <span class="thai-text">ข้อความภาษาไทย</span>
 
-
+<center>Centered text.</center>
 
 >Blockquote
 
@@ -108,6 +108,16 @@ Thai: <span class="thai-text">ข้อความภาษาไทย</span>
 `code inline example`
 
 [Example for a link](www.link.com)
+
+### Image
+
+![Saffron](/images/photos/saffron/saffron-0-Vera_De_on_Unsplash.jpg?width=10rem "Saffron")
+
+### Gallery
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
 
 ### {{% icon mortar-pestle %}} Icons
 
@@ -175,20 +185,24 @@ But it's all about the boxes.
 
 {{< cite lewis_latin_1879 >}}
 
+{{< cite -lewis_latin_1879 >}}
+
 {{< bibliography cited >}}
 
 ### SVG
 
 {{< svg "static/images/svgs/borobudur-green.svg" >}}
 
-<!-- ### Mermaid
+### Mermaid
 
 {{< mermaid zoom="true" >}}
 pie title Spice names by language
     "English" : 120
     "Arabic" : 90
     "Chinese" : 60
-{{< /mermaid >}} -->
+{{< /mermaid >}}
+
+### Highlighting
 
 ```python
 #!/usr/bin/env python

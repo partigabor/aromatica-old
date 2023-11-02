@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried fruits of an annual herb, also known as cilantro"
 weight = 10
 # draft = "true"
@@ -14,11 +14,11 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of an annual herb, also known as cilantro
 
-<p style="text-align:center;">
+<center>
 
-**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="chinese-text">芫荽</span> · 
+**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="chinese-text">芫荽</span>
 
-</p>
+</center>
 
 ## Overview
 
@@ -35,7 +35,7 @@ bibFile = "static/files/bibliography.json"
 
 The dried fruits of an annual herb, also known as cilantro. Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. AsiaIt is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=50rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 145.
 
