@@ -32,7 +32,3 @@ bibFile = "static/files/bibliography.json"
 {{% badge color="#404040" icon="angle-double-up" title="Version" %}}0.0.2{{% /badge %}} &ensp; 2023-09-12 &ensp; [alpha] &ensp; integrated [Plotly](https://plotly.com/python/) for data visualization 
 
 {{% badge color="#404040" style="primary" icon="angle-double-up" title="Version" %}}0.0.1{{% /badge %}} &ensp; 2023-08-01 &ensp; [alpha] &ensp; created website with [Hugo](https://gohugo.io/); entered development phase
-
-# Bibliography
-
-{{< bibliography cited >}}

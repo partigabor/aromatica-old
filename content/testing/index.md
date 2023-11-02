@@ -50,9 +50,57 @@ disableComments = false
 
 **Lorem ipsum** *dolor sit amet*, __*consectetur*__ adipiscing elit. Sed vitae nisi eget nunc ultricies aliquam. Nulla facilisi. Sed euismod, nisl eget ultricies ultricies, nisl nisl aliquam nisl, quis aliquam nisl nisl eget nisl. 
 
-This is some mixed text with <span class="arabic-text" dir="rtl">نص بالعربي</span>, <span class="chinese-text">中文文字</span>, <span class="devanagari-text">हिन्दी में टेक्स्ट</span>, and <span class="hebrew-text" dir="rtl">טקסט בעברית</span> mixed inline with English text. 
+### Testing other scripts
 
-And this is some <span class="javanese-text">ꦧꦫꦧꦸꦝꦸꦂ</span>.
+Amharic: <span class="amharic-text">የአማርኛ ጽሑፍ</span>
+
+Arabic: <span class="arabic-text" dir="rtl">نص بالعربي</span>
+
+Armenian: <span class="armenian-text">Հայերեն տեքստ</span>
+
+Balinese: <span class="balinese-text">ᬧᬲᬃᬦᬃ ᬓᬲᬓᬲ</span>
+
+*Bengali: <span class="bengali-text">বাংলা টেক্সট</span>
+
+*Burmese: <span class="burmese-text">မြန်မာစာ</span>
+
+Cyrillic: <span class="macedonian-text">Македонски текст</span>
+
+Cuneiform: <span class="cuneiform-text">𒀀𒀀𒀀𒀀</span>
+
+Chinese, Simplified: <span class="chinese-simplified-text">简体中文</span>
+
+Chinese, Traditional: <span class="chinese-traditional-text">繁體中文</span>
+
+Devanagari: <span class="devanagari-text">हिन्दी में टेक्स्ट</span>
+
+Ethiopic: <span class="ethiopic-text">የአማርኛ ጽሑፍ</span>
+
+Greek: <span class="greek-text">Ελληνικό κείμενο</span>
+
+Hebrew: <span class="hebrew-text" dir="rtl">טקסט בעברית</span>
+
+Japanese: <span class="japanese-text">日本語のテキスト</span>
+
+Javanese: <span class="javanese-text">ꦥꦿꦚꦠꦤ꧀ꦲꦸꦩꦸꦩ꧀ꦔꦼꦤꦤ</span>
+
+Kawi: <span class="kawi-text">𑼡𑼪𑼒𑽎</span>
+
+Korean: <span class="korean-text">한국어 텍스트</span>
+
+Nastaliq: <span class="nastaliq-text" dir="rtl">نستعلیق</span>
+
+Syriac: <span class="syriac-text" dir="rtl">ܠܫܢܐ ܠܫܢܐ</span>
+
+Sundanese: <span class="sundanese-text">ᮘᮞ ᮞᮥᮔ᮪ᮓ ᮞᮥᮔ᮪ᮓ</span>
+
+Tamil: <span class="tamil-text">தமிழ் உரை</span>
+
+Tibetan: <span class="tibetan-text">བོད་སྐད་ཡིག་གཟུགས།</span>
+
+Thai: <span class="thai-text">ข้อความภาษาไทย</span>
+
+
 
 >Blockquote
 
