@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The seed-like fruits of an Eurasian herb"
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The seed-like fruits of an Eurasian herb
 
-<p style="text-align:center;">
-
-**English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="chinese-text">葛縷子</span> · 
-
-</p>
+<center>**English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="chinese-text">葛縷子</span> · </center>
 
 ## Overview
 

@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried fruits of an annual herb, also known as cilantro"
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of an annual herb, also known as cilantro
 
-<p style="text-align:center;">
-
-**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="chinese-text">芫荽</span> · 
-
-</p>
+<center>**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="chinese-text">芫荽</span> · </center>
 
 ## Overview
 

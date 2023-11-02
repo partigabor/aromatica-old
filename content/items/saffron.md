@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus"
 weight = 10
 # draft = "true"
@@ -18,11 +18,7 @@ bibFile = "static/files/bibliography.json"
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
 
-<p style="text-align:center;">
-
-**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span> · 
-
-</p>
+<center>**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="chinese-text">藏紅花</span> · </center>
 
 ## Overview
 

@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The seeds of a Mediterranean herb"
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The seeds of a Mediterranean herb
 
-<p style="text-align:center;">
-
-**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="chinese-text">蒔蘿</span> · 
-
-</p>
+<center>**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="chinese-text">蒔蘿</span> · </center>
 
 ## Overview
 

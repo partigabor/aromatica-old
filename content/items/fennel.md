@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried fruits of a perennial herb"
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of a perennial herb
 
-<p style="text-align:center;">
-
-**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="chinese-text">茴香</span> · 
-
-</p>
+<center>**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="chinese-text">茴香</span> · </center>
 
 ## Overview
 

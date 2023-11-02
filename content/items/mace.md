@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The aril (seed-covering) of the nutmeg, related to nutmeg. 
 
-<p style="text-align:center;">
-
-**English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Chinese:** <span class="chinese-text">肉豆蔻皮</span> · 
-
-</p>
+<center>**English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Chinese:** <span class="chinese-text">肉豆蔻皮</span> · </center>
 
 ## Overview
 

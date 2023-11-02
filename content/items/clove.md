@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticumSee also nutmeg; mace. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticumSee also nutmeg; mace. 
 
-<p style="text-align:center;">
-
-**English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Chinese:** <span class="chinese-text">丁香</span> · 
-
-</p>
+<center>**English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Chinese:** <span class="chinese-text">丁香</span> · </center>
 
 ## Overview
 

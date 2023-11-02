@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domesticaSee also Yellow zedoary. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domesticaSee also Yellow zedoary. 
 
-<p style="text-align:center;">
-
-**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="chinese-text">薑黃</span> · 
-
-</p>
+<center>**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="chinese-text">薑黃</span> · </center>
 
 ## Overview
 

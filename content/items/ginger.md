@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinaleSee also Wild ginger. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinaleSee also Wild ginger. 
 
-<p style="text-align:center;">
-
-**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="chinese-text">薑</span> · 
-
-</p>
+<center>**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="chinese-text">薑</span> · </center>
 
 ## Overview
 

@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. 
 
-<p style="text-align:center;">
-
-**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="chinese-text">阿魏</span> · 
-
-</p>
+<center>**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="chinese-text">阿魏</span> · </center>
 
 ## Overview
 

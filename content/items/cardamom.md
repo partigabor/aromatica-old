@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
 
-<p style="text-align:center;">
-
-**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="chinese-text">豆蔻</span> · 
-
-</p>
+<center>**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="chinese-text">豆蔻</span> · </center>
 
 ## Overview
 

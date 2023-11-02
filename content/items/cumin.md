@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum"
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum
 
-<p style="text-align:center;">
-
-**English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="chinese-text">孜然</span> · 
-
-</p>
+<center>**English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="chinese-text">孜然</span> · </center>
 
 ## Overview
 

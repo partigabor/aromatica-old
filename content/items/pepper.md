@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-11-01"
+date = "2023-11-02"
 description = "The dried fruits of an Indian vine, also known as black pepper. , related to long pepper. "
 weight = 10
 # draft = "true"
@@ -18,11 +18,7 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of an Indian vine, also known as black pepper. , related to long pepper. 
 
-<p style="text-align:center;">
-
-**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="chinese-text">胡椒</span> · 
-
-</p>
+<center>**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="chinese-text">胡椒</span> · </center>
 
 ## Overview
 
