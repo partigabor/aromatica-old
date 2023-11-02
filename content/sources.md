@@ -44,8 +44,8 @@ Aristotle. (1926). Nicomachean ethics (H. Rackham, Trans.). https://doi.org/10.4
 
 ### Islamicate Sources
 
-* Ibn Khurdādhbih. (c. 870) [*Kitāb al-Masālik w'al-Mamālik* <>اﻟﻤﺴﺎﻟﻚ واﻟﻤﻤﺎﻟﻚ<>](https://en.wikipedia.org/wiki/Al-Masalik_w%27al-Mamalik) [Book of Roads and Kingdoms].
-* Ibn Sīnā. (1025). [*al-Qānūn fī l-Ṭibb* <>القانون في الطب<>](https://en.wikipedia.org/wiki/The_Canon_of_Medicine) [The Canon of Medicine].
+* Ibn Khurdādhbih. (c. 870) [*Kitāb al-Masālik w'al-Mamālik* <span class="arabic-text" dir="rtl">اﻟﻤﺴﺎﻟﻚ واﻟﻤﻤﺎﻟﻚ<span>](https://en.wikipedia.org/wiki/Al-Masalik_w%27al-Mamalik) [Book of Roads and Kingdoms].
+* Ibn Sīnā. (1025). [*al-Qānūn fī l-Ṭibb* <span class="arabic-text" dir="rtl">القانون في الطب</span>](https://en.wikipedia.org/wiki/The_Canon_of_Medicine) [The Canon of Medicine].
 
 <!-- 
 Kangxi Zidian 康熙字典[Kangxi Dictionary] 1716
