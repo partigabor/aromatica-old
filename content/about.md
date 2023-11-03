@@ -1,10 +1,10 @@
 +++
 title = "About"
 author = "Gabor Parti"
-date = "2023-08-01T00:00:00+08:00"
+date = "2023-10-01T00:00:00+08:00"
 description = "Description."
-weight = 2
-categories = []
+weight = 10
+categories = ['meta']
 tags = []
 draft = false
 hidden = false
@@ -23,7 +23,7 @@ The term therefore refers to any substance of fragrance, focusing on spices, but
 
 ### The Logo
 
-{{< svg "static/images/svgs/borobudur-green.svg" >}}
+{{< svg "static/images/svgs/borobudur-ship-green.svg" >}}
 
 The logo of Aromatica depicts the [Borobodur ship](https://en.wikipedia.org/wiki/Borobudur_ship), an 8th to 9th-century wooden double outrigger Javanese ship carved on the wall of the Borobodur temple (ꦧꦫꦧꦸꦝꦸꦂ). The ship is depicted as a symbol of the maritime trade routes across the Indian Ocean region, which connected the ancient world and allowed the spread of spices and other aromatics.
 

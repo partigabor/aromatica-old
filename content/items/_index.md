@@ -1,6 +1,6 @@
 +++
 title = "Materials"
-weight = 10
+weight = 20
 menuPre = ""
 menuPost = ""
 menuTitle = "Materials"
@@ -15,3 +15,5 @@ menuTitle = "Materials"
 {{% icon fire-alt %}} Incense
 
 {{% icon vial %}} Perfume
+
+{{% children sort="weight" %}}

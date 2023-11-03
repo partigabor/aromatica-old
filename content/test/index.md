@@ -49,8 +49,6 @@ disableComments = false
 
 ### Testing other scripts
 
-Amharic: <span class="amharic-text">የአማርኛ ጽሑፍ</span>
-
 Arabic: <span class="arabic-text" dir="rtl">نص بالعربي</span>
 
 Armenian: <span class="armenian-text">Հայերեն տեքստ</span>
@@ -170,7 +168,7 @@ But it's all about the boxes.
 {{< gallery dir="/images/testing/" hover-effect="slideup" caption-effect="fade" />}}
 
 <!-- {{< gallery >}}
-  {{< figure src="/images/testing/anatto-1.jpg" >}}
+  {{< figure src="/images/photos/anatto-1.jpg" >}}
   {{< figure src="/images/testing/anatto-2.jpg" >}}
   {{< figure src="/images/testing/anatto-3.jpg" >}}
 {{< /gallery >}} -->
@@ -191,7 +189,7 @@ But it's all about the boxes.
 
 ### SVG
 
-{{< svg "static/images/svgs/borobudur-green.svg" >}}
+{{< svg "static/images/svgs/borobudur-ship-green.svg" >}}
 
 ### Mermaid
 

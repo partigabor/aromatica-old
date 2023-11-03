@@ -1,9 +1,9 @@
 +++
-title = "About"
+title = "Exotica"
 author = "Gabor Parti"
-date = "2023-08-01T00:00:00+08:00"
-description = "Description."
-weight = 2
+date = "2023-11-01T00:00:00+08:00"
+description = "Exotic materials list."
+weight = 99
 categories = []
 tags = []
 draft = false

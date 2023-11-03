@@ -1,7 +1,7 @@
 +++
 title = "Sources"
 author = "Gabor Parti"
-date = "2023-08-01T00:00:00+08:00"
+date = "2023-11-01T00:00:00+08:00"
 description = "Resources for the spice database."
 weight = 20
 categories = []
