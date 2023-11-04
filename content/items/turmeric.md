@@ -58,6 +58,8 @@ The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Cur
 
 </p>
 
+
+
 # Bibliography
 
 {{< bibliography cited >}}

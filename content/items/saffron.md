@@ -68,6 +68,8 @@ The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus. Sa
 
 {{< gallery dir="/images/photos/saffron/gallery" hover-effect="slideup" caption-effect="fade" />}}
 
+
+
 # Bibliography
 
 {{< bibliography cited >}}

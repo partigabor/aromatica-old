@@ -60,6 +60,8 @@ The dried resin of Ferula foetida and F. assa-foetida. Asafoetida (*Ferula foeti
 
 </p>
 
+
+
 # Bibliography
 
 {{< bibliography cited >}}

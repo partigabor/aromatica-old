@@ -143,7 +143,7 @@ Thai: <span class="thai-text">ข้อความภาษาไทย</span>
 
 {{% attachments sort="asc" /%}}
 
-### Including other files
+### Including other files (cannot call other shortcodes inside this)
 
 {{% include "content/items/manuscripts/allspice_ms.md" %}}
 
@@ -181,9 +181,11 @@ But it's all about the boxes.
 
 ### Hugo Cite
 
-{{< cite lewis_latin_1879 >}}
+{{< cite vanwyk_culinary_2014 >}}
 
-{{< cite -lewis_latin_1879 >}}
+{{< cite vanwyk_culinary_2014 210 >}}
+
+{{< cite -vanwyk_culinary_2014 >}}
 
 {{< bibliography cited >}}
 
