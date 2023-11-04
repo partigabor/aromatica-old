@@ -2,7 +2,7 @@
 title = "Mace"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The aril (seed-covering) of the nutmeg, related to nutmeg. "
+description = "The aril (seed-covering) of the nutmeg"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -58,7 +58,7 @@ The aril (seed-covering) of the nutmeg. Mace (*Myristica fragrans* Houtt.) is a 
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

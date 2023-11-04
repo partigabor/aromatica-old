@@ -2,7 +2,7 @@
 title = "Ginger"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinaleSee also Wild ginger. "
+description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -58,7 +58,7 @@ The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. G
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

@@ -2,7 +2,7 @@
 title = "Star Anise"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verumSee also anise. "
+description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -58,7 +58,7 @@ The star shaped pericarps of a tree from Vietnam and South China; fruit of Illic
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

@@ -2,7 +2,7 @@
 title = "Vanilla"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragransSee also Tahitian vanilla; West Indian vanilla. "
+description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -62,7 +62,7 @@ The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

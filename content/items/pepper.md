@@ -2,7 +2,7 @@
 title = "Pepper"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper. "
+description = "The dried fruits of an Indian vine"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -62,7 +62,7 @@ The dried fruits of an Indian vine. Pepper (*Piper nigrum* L.) is a culinary and
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

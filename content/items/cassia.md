@@ -2,7 +2,7 @@
 title = "Cassia"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
+description = "The inner bark of Southeast Asian trees"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -58,7 +58,7 @@ The inner bark of Southeast Asian trees. Cassia (*Cinnamomum cassia* (L.) J.Pres
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

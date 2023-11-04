@@ -2,7 +2,7 @@
 title = "Chile"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
+description = "The fruits of Capsicum annuum and other species"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -62,7 +62,7 @@ The fruits of Capsicum annuum and other species. Chile (*Capsicum annuum* L.) is
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

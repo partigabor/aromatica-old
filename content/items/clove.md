@@ -2,7 +2,7 @@
 title = "Clove"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticumSee also nutmeg; mace. "
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -58,7 +58,7 @@ The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Sy
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

@@ -2,7 +2,7 @@
 title = "Turmeric"
 author = "Gabor Parti"
 date = "2023-11-04"
-description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domesticaSee also Yellow zedoary. "
+description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica"
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -58,7 +58,7 @@ The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Cur
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 
