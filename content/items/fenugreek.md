@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-11-02"
+date = "2023-11-04"
 description = "The seeds of a West Asian herb"
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** fenugreek · **Hungarian:** görögszéna · **Arabic:** <span class="arabic-text" dir="rtl">حلبة</span> · **Chinese:** <span class="chinese-text">胡蘆巴</span>
+**English:** fenugreek · **Hungarian:** görögszéna · **Arabic:** <span class="arabic-text" dir="rtl">حلبة</span> · **Chinese:** <span class="traditional-chinese-text">胡蘆巴</span> 
 
 </center>
 
@@ -33,9 +33,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-The seeds of a West Asian herb. Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. AsiaIt is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
+The seeds of a West Asian herb. Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. Asia. It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
-![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=50rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
 
@@ -55,12 +58,7 @@ The seeds of a West Asian herb. Fenugreek (*Trigonella foenum-graecum* L.) is a 
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

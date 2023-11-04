@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="traditional-chinese-text">香草</span> 
+**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="traditional-chinese-text">香草</span> 香草
 
 </center>
 
@@ -37,12 +37,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
-The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America. It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
+The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical AmericaIt is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=50rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
 
@@ -62,7 +62,7 @@ The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans
 
 </p>
 
-***# Bibliography
+# Bibliography
 
 {{< bibliography cited >}}
 

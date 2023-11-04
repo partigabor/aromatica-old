@@ -1,8 +1,8 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-11-02"
-description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. , related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
+date = "2023-11-04"
+description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -16,11 +16,11 @@ bibFile = "static/files/bibliography.json"
 
 {{< gallery dir="/images/photos/chile" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
->The fruits of Capsicum annuum and other species, also known as chilli; chili pepper. , related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
+>The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
 
 <center>
 
-**English:** chile · **Hungarian:** paprika · **Arabic:** <span class="arabic-text" dir="rtl">فلفل حار</span> · **Chinese:** <span class="chinese-text">辣椒</span>
+**English:** chile · **Hungarian:** paprika · **Arabic:** <span class="arabic-text" dir="rtl">فلفل حار</span> · **Chinese:** <span class="traditional-chinese-text">辣椒</span> 
 
 </center>
 
@@ -37,9 +37,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |                   red and green in many shades                  |
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 
-The fruits of Capsicum annuum and other species. Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central AmericaIt is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
+The fruits of Capsicum annuum and other species. Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America. It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
-![*Capsicum annuum* L.](/images/illustrations/chile.png?width=50rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Capsicum annuum* L.](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
 
@@ -59,12 +62,7 @@ The fruits of Capsicum annuum and other species. Chile (*Capsicum annuum* L.) is
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

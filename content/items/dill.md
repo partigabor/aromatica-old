@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-02"
+date = "2023-11-04"
 description = "The seeds of a Mediterranean herb"
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="chinese-text">蒔蘿</span>
+**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="traditional-chinese-text">蒔蘿</span> 
 
 </center>
 
@@ -33,7 +33,10 @@ bibFile = "static/files/bibliography.json"
 |       color      |                   greyish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 
-The seeds of a Mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. AsiaIt is used for its fruit, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
+The seeds of a Mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. Asia. It is used for its fruit, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
 
@@ -53,12 +56,7 @@ The seeds of a Mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary 
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

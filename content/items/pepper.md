@@ -1,8 +1,8 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-11-02"
-description = "The dried fruits of an Indian vine, also known as black pepper. , related to long pepper. "
+date = "2023-11-04"
+description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -16,11 +16,11 @@ bibFile = "static/files/bibliography.json"
 
 {{< gallery dir="/images/photos/pepper" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
->The dried fruits of an Indian vine, also known as black pepper. , related to long pepper. 
+>The dried fruits of an Indian vine, also known as black pepper, related to long pepper. 
 
 <center>
 
-**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="chinese-text">胡椒</span>
+**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="traditional-chinese-text">胡椒</span> 
 
 </center>
 
@@ -37,9 +37,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |                black; white; green                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 
-The dried fruits of an Indian vine. Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India)It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
+The dried fruits of an Indian vine. Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India). It is used for its fruit, primarily for flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
-![*Piper nigrum* L.](/images/illustrations/pepper.png?width=50rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Piper nigrum* L.](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
 
@@ -59,12 +62,7 @@ The dried fruits of an Indian vine. Pepper (*Piper nigrum* L.) is a culinary and
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

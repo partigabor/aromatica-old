@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-11-02"
+date = "2023-11-04"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="chinese-text">錫蘭肉桂</span>
+**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="traditional-chinese-text">錫蘭肉桂</span> 
 
 </center>
 
@@ -33,9 +33,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |           warm yellowish-brown, cinnamon          |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
-The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. IndiaIt is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
+The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India. It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=50rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 78.
 
@@ -55,12 +58,7 @@ The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka. Cinn
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

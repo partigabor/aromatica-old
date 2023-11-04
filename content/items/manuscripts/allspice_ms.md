@@ -1,4 +1,6 @@
-<!-- This is a manuscript.
+This is a manuscript of allspice.
+
+<!-- 
 
 ***
 

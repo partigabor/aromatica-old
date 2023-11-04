@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-02"
+date = "2023-11-04"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longumSee also Java long pepper. "
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="chinese-text">蓽撥</span>
+**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="traditional-chinese-text">蓽撥</span> 
 
 </center>
 
@@ -33,7 +33,10 @@ bibFile = "static/files/bibliography.json"
 |       color      |   dreen to red when ripe, dark brown when dried   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 
-The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China; IndiaIt is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
+The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China; India. It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
 
@@ -53,12 +56,7 @@ The spike-like cluster of fruits of Piper longum from India; fruit of Piper long
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

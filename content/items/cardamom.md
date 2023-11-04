@@ -1,8 +1,8 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-11-02"
-description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
+date = "2023-11-04"
+description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamomSee also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,11 +12,11 @@ tags = ['culinary', ' medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
->The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
+>The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamomSee also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
 
 <center>
 
-**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="chinese-text">豆蔻</span>
+**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="traditional-chinese-text">豆蔻</span> 
 
 </center>
 
@@ -33,9 +33,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |              green seed pods, brown seeds             |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
 
-The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
+The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia. It is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=50rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
 
@@ -55,12 +58,7 @@ The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum. Ca
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

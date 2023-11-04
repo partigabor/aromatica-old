@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-11-02"
+date = "2023-11-04"
 description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verumSee also anise. "
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** star anise · **Hungarian:** csillagánizs · **Arabic:** <span class="arabic-text" dir="rtl">يانسون نجمي</span> · **Chinese:** <span class="chinese-text">八角</span>
+**English:** star anise · **Hungarian:** csillagánizs · **Arabic:** <span class="arabic-text" dir="rtl">يانسون نجمي</span> · **Chinese:** <span class="traditional-chinese-text">八角</span> 
 
 </center>
 
@@ -33,9 +33,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |                             orange brown                             |
 |botanical database|          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
 
-The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; VietnamIt is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
+The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam. It is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
-![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=50rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
 
@@ -55,12 +58,7 @@ The star shaped pericarps of a tree from Vietnam and South China; fruit of Illic
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 

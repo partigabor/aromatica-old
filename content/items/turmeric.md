@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-11-02"
+date = "2023-11-04"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domesticaSee also Yellow zedoary. "
 weight = 10
 # draft = "true"
@@ -16,7 +16,7 @@ bibFile = "static/files/bibliography.json"
 
 <center>
 
-**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="chinese-text">薑黃</span>
+**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span> 
 
 </center>
 
@@ -33,9 +33,12 @@ bibFile = "static/files/bibliography.json"
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
-The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of IndiaIt is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
+The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India. It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=50rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
 >Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
 
@@ -55,12 +58,7 @@ The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Cur
 
 </p>
 
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
-
-
-
-# Bibliography
+***# Bibliography
 
 {{< bibliography cited >}}
 
