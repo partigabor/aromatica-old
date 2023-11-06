@@ -15,8 +15,6 @@ bibFile = "static/files/bibliography.json"
 disableComments = true
 +++
 
-### Versioning \& Update History
-
 <!-- {{% badge style="primary" title="Version" %}}0.1.0{{% /badge %}} &ensp;(2024-06-01) &ensp; [beta] initial development release -->
 
 {{% badge color="#404040" icon="angle-double-up" title="Version" %}}0.0.6{{% /badge %}} &ensp; 2023-11-01 &ensp; [alpha] &ensp; finalizing features; testing and resolving issues; preparing for beta release
