@@ -23,4 +23,4 @@ bibFile = "static/files/bibliography.json"
 
 {{% badge style="primary" icon="angle-double-up" title="Version" %}}0.0.6{{% /badge %}} &ensp; 2023-11-01 &ensp; [alpha] &ensp; finalizing features; testing and resolving issues; preparing for beta release
 
->For details on previous versions and update history, see the [history](../history) section.
+>For details on previous versions and update history, see the section on [versioning](../about#versioning).
