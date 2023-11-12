@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The dried fruits of an annual herb, also known as cilantro"
 weight = 10
 # draft = "true"
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia. It is valued for its fruit.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                      coriander                      |
 |------------------|-----------------------------------------------------|
 |   species name   |               *Coriandrum sativum* L.               |
 |      family      |                       Apiaceae                      |
-|     part used    |                        fruit                        |
-|     macroarea    |                         Asia                        |
 | region of origin |              E. Mediterranean; W. Asia              |
-|    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
-|       color      |                     light yellow                    |
+|     macroarea    |                         Asia                        |
+|     part used    |                        fruit                        |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
-
-The dried fruits of an annual herb, also known as cilantro. Coriander (*Coriandrum sativum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia. It is used for its fruit, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 
 ![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 

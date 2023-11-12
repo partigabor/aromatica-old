@@ -1,22 +1,22 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The seed-like fruits of a Mediterranean herb"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' beverages']
+tags = ['culinary', 'beverages']
 bibFile = "static/files/bibliography.json"
 +++
+
+>The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. 
 
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/anise" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
-
->The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. 
 
 <center>
 
@@ -24,23 +24,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia Minor. It is valued for its fruit; oil; leaf.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                       anise                       |
 |------------------|---------------------------------------------------|
 |   species name   |               *Pimpinella anisum* L.              |
 |      family      |                      Apiaceae                     |
-|     part used    |                  fruit; oil; leaf                 |
-|     macroarea    |                   Mediterranean                   |
 | region of origin |       E. Mediterranean; W. Asia; Asia Minor       |
-|    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
-|       color      |                    light brown                    |
+|     macroarea    |                   Mediterranean                   |
+|     part used    |                  fruit; oil; leaf                 |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
-
-The seed-like fruits of a Mediterranean herb. Anise (*Pimpinella anisum* L.) is a culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia Minor. It is used for its fruit and oil and leaf, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 
 ![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 

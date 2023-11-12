@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum"
 weight = 10
 # draft = "true"
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam. It is valued for its pericarp.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                              star anise                              |
 |------------------|----------------------------------------------------------------------|
 |   species name   |                       *Illicium verum* Hook.f.                       |
 |      family      |                            Schisandraceae                            |
-|     part used    |                               pericarp                               |
-|     macroarea    |                                 Asia                                 |
 | region of origin |                          SE. China; Vietnam                          |
-|    cultivation   |China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)|
-|       color      |                             orange brown                             |
+|     macroarea    |                                 Asia                                 |
+|     part used    |                               pericarp                               |
 |botanical database|          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
-
-The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam. It is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)|
 
 ![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 

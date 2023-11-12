@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum"
 weight = 10
 # draft = "true"
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; India. It is valued for its fruit.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                       cumin                       |
 |------------------|---------------------------------------------------|
 |   species name   |                *Cuminum cyminum* L.               |
 |      family      |                      Apiaceae                     |
-|     part used    |                       fruit                       |
-|     macroarea    |                        Asia                       |
 | region of origin |           S. Europe; W. & C. Asia; India          |
-|    cultivation   |                India; Iran; Lebanon               |
-|       color      |                    light brown                    |
+|     macroarea    |                        Asia                       |
+|     part used    |                       fruit                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
-
-The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; India. It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |                India; Iran; Lebanon               |
 
 ![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 

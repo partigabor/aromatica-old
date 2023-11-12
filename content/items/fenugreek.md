@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The seeds of a West Asian herb"
 weight = 10
 # draft = "true"
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. Asia. It is valued for its seed; leaf.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                     fenugreek                     |
 |------------------|---------------------------------------------------|
 |   species name   |           *Trigonella foenum-graecum* L.          |
 |      family      |                      Fabaceae                     |
-|     part used    |                     seed; leaf                    |
-|     macroarea    |                        Asia                       |
 | region of origin |                 S. Europe; W. Asia                |
-|    cultivation   |                       India                       |
-|       color      |                    yellow seeds                   |
+|     macroarea    |                        Asia                       |
+|     part used    |                     seed; leaf                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
-
-The seeds of a West Asian herb. Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S. Europe; W. Asia. It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |                       India                       |
 
 ![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 

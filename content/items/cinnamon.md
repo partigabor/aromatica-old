@@ -1,14 +1,14 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal', 'cinnamon']
+tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India. It is valued for its bark; leaf.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                      cinnamon                     |
 |------------------|---------------------------------------------------|
 |   species name   |            *Cinnamomum verum* J.Presl.            |
 |      family      |                     Lauraceae                     |
-|     part used    |                     bark; leaf                    |
-|     macroarea    |                        Asia                       |
 | region of origin |                Sri Lanka; SW. India               |
-|    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
-|       color      |           warm yellowish-brown, cinnamon          |
+|     macroarea    |                        Asia                       |
+|     part used    |                     bark; leaf                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
-
-The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka. Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India. It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 
 ![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 

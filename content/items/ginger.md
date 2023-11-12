@@ -1,14 +1,14 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal']
+tags = ['culinary', 'medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary). It is valued for its rhizome.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                       ginger                      |
 |------------------|---------------------------------------------------|
 |   species name   |            *Zingiber officinale* Roscoe           |
 |      family      |                   Zingiberaceae                   |
-|     part used    |                      rhizome                      |
-|     macroarea    |                        Asia                       |
 | region of origin |         South East Asia; India (secondary)        |
-|    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
-|       color      |    light yellow when fresh, beige when powdered   |
+|     macroarea    |                        Asia                       |
+|     part used    |                      rhizome                      |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
-
-The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary). It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 
 ![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 

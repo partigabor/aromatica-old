@@ -1,14 +1,14 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal', 'cardamoms']
+tags = ['culinary', 'medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia. It is valued for its fruit (seed pod).
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                        cardamom                       |
 |------------------|-------------------------------------------------------|
 |   species name   |           *Elettaria cardamomum* (L.) Maton           |
 |      family      |                     Zingiberaceae                     |
-|     part used    |                    fruit (seed pod)                   |
-|     macroarea    |                          Asia                         |
 | region of origin |            Kerala, S. India; southern Asia            |
-|    cultivation   |Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea|
-|       color      |              green seed pods, brown seeds             |
+|     macroarea    |                          Asia                         |
+|     part used    |                    fruit (seed pod)                   |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
-
-The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia. It is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea|
 
 ![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 

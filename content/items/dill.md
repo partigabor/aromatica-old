@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The seeds of a Mediterranean herb"
 weight = 10
 # draft = "true"
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. Asia. It is valued for its fruit.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                        dill                       |
 |------------------|---------------------------------------------------|
 |   species name   |              *Anethum graveolens* L.              |
 |      family      |                      Apiaceae                     |
-|     part used    |                       fruit                       |
-|     macroarea    |                   Med.; W. Asia                   |
 | region of origin |           S. Europe; N. Africa; SW. Asia          |
-|    cultivation   |             India; Pakistan; worldwide            |
-|       color      |                   greyish brown                   |
+|     macroarea    |                   Med.; W. Asia                   |
+|     part used    |                       fruit                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
-
-The seeds of a Mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. Asia. It is used for its fruit, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |             India; Pakistan; worldwide            |
 
 
 
@@ -57,8 +55,4 @@ The seeds of a Mediterranean herb. Dill (*Anethum graveolens* L.) is a culinary 
 </p>
 
 
-
-# Bibliography
-
-{{< bibliography cited >}}
 

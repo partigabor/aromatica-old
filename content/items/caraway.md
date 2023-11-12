@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The seed-like fruits of an Eurasian herb"
 weight = 10
 # draft = "true"
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; C. Europe; Eurasia. It is valued for its fruit.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                      caraway                      |
 |------------------|---------------------------------------------------|
 |   species name   |                  *Carum carvi* L.                 |
 |      family      |                      Apiaceae                     |
-|     part used    |                       fruit                       |
-|     macroarea    |                      Eurasia                      |
 | region of origin |         Mediterranean; C. Europe; Eurasia         |
-|    cultivation   |     Denmark; Lebanon; The Netherlands; Poland     |
-|       color      |                     dark brown                    |
+|     macroarea    |                      Eurasia                      |
+|     part used    |                       fruit                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
-
-The seed-like fruits of an Eurasian herb. Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; C. Europe; Eurasia. It is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |     Denmark; Lebanon; The Netherlands; Poland     |
 
 ![*Carum carvi* L.](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 

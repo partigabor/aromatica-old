@@ -1,14 +1,14 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice', 'dye']
-tags = ['culinary', ' medicinal', ' ritualistic']
+tags = ['culinary', 'medicinal', 'ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India. It is valued for its rhizome.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                      turmeric                     |
 |------------------|---------------------------------------------------|
 |   species name   |                 *Curcuma longa* L.                |
 |      family      |                   Zingiberaceae                   |
-|     part used    |                      rhizome                      |
-|     macroarea    |                        Asia                       |
 | region of origin |                       India                       |
-|    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
-|       color      |                   orange-yellow                   |
+|     macroarea    |                        Asia                       |
+|     part used    |                      rhizome                      |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
-
-The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India. It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 
 ![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 

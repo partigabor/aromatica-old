@@ -1,22 +1,22 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The dried resin of Ferula foetida and F. assa-foetida"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal']
+tags = ['culinary', 'medicinal']
 bibFile = "static/files/bibliography.json"
 +++
+
+>The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung
 
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/asafoetida" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
-
->The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung
 
 <center>
 
@@ -24,23 +24,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia. It is valued for its gum-resin (latex).
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                     asafoetida                    |
 |------------------|---------------------------------------------------|
 |   species name   |           *Ferula foetida* (Bunge) Regel          |
 |      family      |                      Apiaceae                     |
-|     part used    |                 gum-resin (latex)                 |
-|     macroarea    |                        Asia                       |
 | region of origin |                Iran; W. and C. Asia               |
-|    cultivation   |                 Iran; Afghanistan                 |
-|       color      |             from pale yellow to brown             |
+|     macroarea    |                        Asia                       |
+|     part used    |                 gum-resin (latex)                 |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
-
-The dried resin of Ferula foetida and F. assa-foetida. Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia. It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |                 Iran; Afghanistan                 |
 
 ![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 

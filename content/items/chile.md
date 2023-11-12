@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The fruits of Capsicum annuum and other species"
 weight = 10
 # draft = "true"
@@ -12,11 +12,11 @@ tags = ['culinary', 'chiles']
 bibFile = "static/files/bibliography.json"
 +++
 
+>The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
+
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/chile" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
-
->The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
 
 <center>
 
@@ -24,23 +24,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America. It is valued for its fruit.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                              chile                              |
 |------------------|-----------------------------------------------------------------|
 |   species name   |                       *Capsicum annuum* L.                      |
 |      family      |                            Solanaceae                           |
-|     part used    |                              fruit                              |
-|     macroarea    |                             Americas                            |
 | region of origin |                         Central America                         |
-|    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
-|       color      |                   red and green in many shades                  |
+|     macroarea    |                             Americas                            |
+|     part used    |                              fruit                              |
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
-
-The fruits of Capsicum annuum and other species. Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America. It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
 
 ![*Capsicum annuum* L.](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 

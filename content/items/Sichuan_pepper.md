@@ -1,14 +1,14 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The numbing, red or green fruits of East Asian prickly ash trees"
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary']
+tags = ['culinary', 'false peppers']
 bibFile = "static/files/bibliography.json"
 +++
 
@@ -20,23 +20,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China. It is valued for its pericarp.
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                   Sichuan pepper                  |
 |------------------|---------------------------------------------------|
 |   species name   |           *Zanthoxylum bungeanum* Maxim.          |
 |      family      |                      Rutaceae                     |
-|     part used    |                      pericarp                     |
-|     macroarea    |                        Asia                       |
 | region of origin |                       China                       |
-|    cultivation   |                       China                       |
-|       color      |                     red; green                    |
+|     macroarea    |                        Asia                       |
+|     part used    |                      pericarp                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
-
-The numbing, red or green fruits of East Asian prickly ash trees. Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China. It is used for its pericarp, primarily for meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |                       China                       |
 
 
 
@@ -57,8 +55,4 @@ The numbing, red or green fruits of East Asian prickly ash trees. Sichuan Pepper
 </p>
 
 
-
-# Bibliography
-
-{{< bibliography cited >}}
 

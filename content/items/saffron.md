@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-11-04"
+date = "2023-11-12"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus"
 weight = 10
 # draft = "true"
@@ -12,11 +12,11 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
+>The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
+
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
-
->The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
 
 <center>
 
@@ -24,23 +24,21 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
+SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near East. It is valued for its stigma (style).
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+
 ## Overview
 
 |       item       |                      saffron                      |
 |------------------|---------------------------------------------------|
 |   species name   |                *Crocus sativus* L.                |
 |      family      |                     Iridaceae                     |
-|     part used    |                   stigma (style)                  |
-|     macroarea    |                   Mediterranean                   |
 | region of origin |                 Greece; Near East                 |
-|    cultivation   |             Iran; Spain; Kashmir; etc.            |
-|       color      |              deep red; dyes in orange             |
+|     macroarea    |                   Mediterranean                   |
+|     part used    |                   stigma (style)                  |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
-
-The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus. Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near East. It is used for its stigma (style), primarily for paella, bouillabaise, rice, tagine, fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+|    cultivation   |             Iran; Spain; Kashmir; etc.            |
 
 ![*Crocus sativus* L.](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
