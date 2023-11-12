@@ -52,7 +52,7 @@ Aristotle. (1926). Nicomachean ethics (H. Rackham, Trans.). https://doi.org/10.4
 
 * Ibn Khurdādhbih. (c. 870) [*Kitāb al-Masālik w'al-Mamālik* <span class="arabic-text" dir="rtl"> كتاب اﻟﻤﺴﺎﻟﻚ واﻟﻤﻤﺎﻟﻚ<span>](https://en.wikipedia.org/wiki/Al-Masalik_w%27al-Mamalik) [Book of Roads and Kingdoms].
 * Ibn Sīnā. (1025). [*al-Qānūn fī l-Ṭibb* <span class="arabic-text" dir="rtl">القانون في الطب</span>](https://en.wikipedia.org/wiki/The_Canon_of_Medicine) [The Canon of Medicine].
-* Ibn Sayyār al-Warrāq (10th c.). [*Kitāb al-Ṭabīkh* <span class="arabic-text" dir="rtl">كتاب الطبيخ</span>](https://en.wikipedia.org/wiki/Kitab_al-Tabikh) [The Book of Cookery]. --- the earliest Arabic cookbook, cf. {{< cite zaouali, nasrallah }}
+* Ibn Sayyār al-Warrāq (10th c.). [*Kitāb al-Ṭabīkh* <span class="arabic-text" dir="rtl">كتاب الطبيخ</span>](https://en.wikipedia.org/wiki/Kitab_al-Tabikh) [The Book of Cookery]. --- the earliest Arabic cookbook, cf.
 * Muḥammad bin Ḥasan al-Baghdadi. (1226). [*Kitāb al-Ṭabīkh* <span class="arabic-text" dir="rtl">كتاب الطبيخ</span>](https://en.wikipedia.org/wiki/Kitab_al-Tabikh) [The Book of Cookery].
 
 <!-- 
