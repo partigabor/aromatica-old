@@ -31,7 +31,7 @@ AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae*
 |   species name   |               *Physeter macrocephalus* L.               |
 |      family      |                       Physeteridae                      |
 | region of origin |                       cosmopolitan                      |
-|     macroarea    |                           nan                           |
+|     macroarea    |                       Cosmopolitan                      |
 |     part used    |waxy, flammable substance from the gastrointestinal tract|
 |botanical database|                           nan                           |
 

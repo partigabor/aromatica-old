@@ -75,7 +75,7 @@
       "marker": {
         "color": "#5f4690",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -95,9 +95,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -147,8 +147,8 @@
           null,
           null,
           null,
-          90.25004912475103,
-          23.864796833398437,
+          111.0,
+          -8.0,
           1
         ],
         [
@@ -159,8 +159,8 @@
           null,
           null,
           null,
-          -88.70420120637269,
-          17.183032771748884,
+          11.0480288,
+          46.3144754,
           1
         ],
         [
@@ -171,8 +171,8 @@
           null,
           null,
           null,
-          17.56954183023686,
-          -12.336922839583737,
+          19.8931564,
+          -33.7923617,
           1
         ]
       ],
@@ -190,23 +190,23 @@
         14.0,
         0.0,
         23.0,
-        23.864796833398437,
-        17.183032771748884,
-        -12.336922839583737
+        -8.0,
+        46.3144754,
+        -33.7923617
       ],
       "legendgroup": "Piperaceae",
       "lon": [
         76.0,
         101.0,
         80.0,
-        90.25004912475103,
-        -88.70420120637269,
-        17.56954183023686
+        111.0,
+        11.0480288,
+        19.8931564
       ],
       "marker": {
         "color": "#1d6996",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -228,9 +228,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -328,8 +328,8 @@
           null,
           null,
           null,
-          null,
-          null,
+          60.0,
+          39.0,
           1
         ]
       ],
@@ -353,7 +353,7 @@
         29.0,
         45.0,
         28.0,
-        null
+        39.0
       ],
       "legendgroup": "Apiaceae",
       "lon": [
@@ -364,12 +364,12 @@
         42.0,
         69.0,
         30.0,
-        null
+        60.0
       ],
       "marker": {
         "color": "#38a6a5",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -393,9 +393,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -444,7 +444,7 @@
       "marker": {
         "color": "#0f8554",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -462,9 +462,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -513,7 +513,7 @@
       "marker": {
         "color": "#73af48",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -531,9 +531,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -582,7 +582,7 @@
       "marker": {
         "color": "#edae08",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -600,9 +600,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -636,7 +636,7 @@
       "marker": {
         "color": "#e17909",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -653,9 +653,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -689,7 +689,7 @@
       "marker": {
         "color": "#cc503e",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -706,9 +706,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -742,7 +742,7 @@
       "marker": {
         "color": "#94346e",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -759,9 +759,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -775,8 +775,8 @@
           null,
           null,
           null,
-          78.39366968111484,
-          21.722122254881114,
+          100.0,
+          6.0,
           1
         ]
       ],
@@ -786,16 +786,16 @@
         "lemongrass"
       ],
       "lat": [
-        21.722122254881114
+        6.0
       ],
       "legendgroup": "Poaceae",
       "lon": [
-        78.39366968111484
+        100.0
       ],
       "marker": {
         "color": "#6f4070",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -812,9 +812,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -828,8 +828,8 @@
           null,
           null,
           null,
-          25.262540558609345,
-          42.75993266066041,
+          25.0,
+          46.0,
           1
         ]
       ],
@@ -839,16 +839,16 @@
         "nigella"
       ],
       "lat": [
-        42.75993266066041
+        46.0
       ],
       "legendgroup": "Ranunculaceae",
       "lon": [
-        25.262540558609345
+        25.0
       ],
       "marker": {
         "color": "#a28aba",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -865,9 +865,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -901,7 +901,7 @@
       "marker": {
         "color": "#6baed6",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -918,9 +918,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -954,7 +954,7 @@
       "marker": {
         "color": "#8dd3d7",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -971,9 +971,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -1007,7 +1007,7 @@
       "marker": {
         "color": "#7fbf7b",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -1024,9 +1024,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -1060,7 +1060,7 @@
       "marker": {
         "color": "#b2cf6b",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -1077,9 +1077,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -1093,8 +1093,8 @@
           null,
           "\u6c89\u9999",
           "ch\u00e9nxi\u0101ng",
-          92.84104021415499,
-          25.494833226954952,
+          107.9650855,
+          15.9266657,
           1
         ]
       ],
@@ -1104,16 +1104,16 @@
         "agarwood"
       ],
       "lat": [
-        25.494833226954952
+        15.9266657
       ],
       "legendgroup": "Thymelaeaceae",
       "lon": [
-        92.84104021415499
+        107.9650855
       ],
       "marker": {
         "color": "#fddc69",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -1130,9 +1130,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     },
@@ -1146,8 +1146,8 @@
           "\u02bfambar",
           "\u9f8d\u6d8e\u9999",
           "l\u00f3ngxi\u00e1nxi\u0101ng",
-          null,
-          null,
+          82.0,
+          -33.0,
           1
         ]
       ],
@@ -1157,16 +1157,16 @@
         "ambergris"
       ],
       "lat": [
-        null
+        -33.0
       ],
       "legendgroup": "Physeteridae",
       "lon": [
-        null
+        82.0
       ],
       "marker": {
         "color": "#fdae61",
         "opacity": 0.7,
-        "size": 14,
+        "size": 12,
         "sizemode": "area",
         "sizeref": 0.0009765625,
         "symbol": "circle",
@@ -1183,9 +1183,9 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "textposition": "top right"
     }
@@ -2069,17 +2069,17 @@
       "title": {
         "text": "family",
         "font": {
-          "color": "white",
+          "color": "#ffffff",
           "family": "Sans-Serif",
-          "size": 16
+          "size": 14
         }
       },
       "tracegroupgap": 0,
       "itemsizing": "constant",
       "font": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 14
+        "size": 12
       },
       "bgcolor": "rgba(0,0,0,0.25)",
       "orientation": "v",
@@ -2097,15 +2097,15 @@
     },
     "hoverlabel": {
       "font": {
-        "size": 14,
+        "size": 12,
         "family": "Sans-Serif"
       }
     },
     "title": {
       "font": {
-        "color": "white",
+        "color": "#ffffff",
         "family": "Sans-Serif",
-        "size": 20
+        "size": 18
       },
       "text": "",
       "x": 0.5,
