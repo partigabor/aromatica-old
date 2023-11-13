@@ -15,4 +15,5 @@ hugo.linux
 # Database
 database/offline
 database/output
+database/resources/wcvp
 
