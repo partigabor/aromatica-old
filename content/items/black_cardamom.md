@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "Fruit of Amomum subulatum"
 weight = 10
 # draft = "true"

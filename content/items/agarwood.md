@@ -1,7 +1,7 @@
 +++
 title = "Agarwood"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "Diseased wood of Aquilaria malaccensis and A. sinensis"
 weight = 10
 # draft = "true"

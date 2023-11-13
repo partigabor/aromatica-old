@@ -1,7 +1,7 @@
 +++
 title = "Ambergris"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "Secretion of Physeter macrocephalus"
 weight = 10
 # draft = "true"

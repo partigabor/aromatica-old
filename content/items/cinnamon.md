@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka"
 weight = 10
 # draft = "true"

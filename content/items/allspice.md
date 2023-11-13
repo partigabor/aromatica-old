@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The dried unripe berries of a Caribbean tree"
 weight = 10
 # draft = "true"

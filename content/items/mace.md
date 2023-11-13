@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The aril (seed-covering) of the nutmeg"
 weight = 10
 # draft = "true"

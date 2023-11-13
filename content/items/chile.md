@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The fruits of Capsicum annuum and other species"
 weight = 10
 # draft = "true"

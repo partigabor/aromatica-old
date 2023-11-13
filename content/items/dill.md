@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The seeds of a Mediterranean herb"
 weight = 10
 # draft = "true"

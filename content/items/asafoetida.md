@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The dried resin of Ferula foetida and F. assa-foetida"
 weight = 10
 # draft = "true"

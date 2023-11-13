@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-11-12"
+date = "2023-11-13"
 description = "The dried fruits of an Indian vine"
 weight = 10
 # draft = "true"
