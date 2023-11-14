@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The numbing, red or green fruits of East Asian prickly ash trees"
 weight = 10
 # draft = "true"
@@ -54,5 +54,5 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 
 </p>
 
-
+## Sources
 

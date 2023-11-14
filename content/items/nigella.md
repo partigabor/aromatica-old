@@ -1,7 +1,7 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The seed of Nigella sativa"
 weight = 10
 # draft = "true"
@@ -52,6 +52,8 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 **Introduced regions:** Afghanistan, Algeria, Assam, Bangladesh, Central European Rus, Czechoslovakia, East Aegean Is., Egypt, Ethiopia, France, Greece, India, Italy, Kazakhstan, Kirgizstan, Krym, Libya, Morocco, Myanmar, Saudi Arabia, Somalia, Sudan, Tadzhikistan, Tunisia, Turkey-in-Europe, Ukraine, Uzbekistan, Yemen, Yugoslavia
 
 </p>
+
+## SourcesPetruzzello
 
 
 

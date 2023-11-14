@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 **Introduced regions:** Andaman Is., Bangladesh, Borneo, Cambodia, Caroline Is., China Southeast, Comoros, Costa Rica, Cuba, Dominican Republic, Gulf of Guinea Is., Hainan, Haiti, Honduras, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Mauritius, Mexico Southwest, Myanmar, New Guinea, Nicobar Is., Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Solomon Is., Sri Lanka, Taiwan, Thailand, Trinidad-Tobago, Vietnam, Windward Is.
 
 </p>
+
+## SourcesPetruzzello
 
 
 

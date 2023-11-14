@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "Fruit of Amomum subulatum"
 weight = 10
 # draft = "true"
@@ -54,7 +54,7 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) culinary spice from the *Zingi
 
 </p>
 
-
+## Sources
 
 # Bibliography
 

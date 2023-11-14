@@ -1,7 +1,7 @@
 +++
 title = "Agarwood"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "Diseased wood of Aquilaria malaccensis and A. sinensis"
 weight = 10
 # draft = "true"
@@ -51,5 +51,5 @@ AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n)  incense from the *Thymelaeaceae
 
 </p>
 
-
+## Sources
 

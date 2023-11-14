@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spic
 **Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
 
 </p>
+
+## SourcesPetruzzello
 
 
 

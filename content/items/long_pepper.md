@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum"
 weight = 10
 # draft = "true"
@@ -54,5 +54,5 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 
 </p>
 
-
+## Sources
 

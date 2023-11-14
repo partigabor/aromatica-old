@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The inner bark of Southeast Asian trees"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice 
 **Introduced regions:** Bangladesh, Cambodia, China South-Central, Guatemala, Hainan, Honduras, India, Laos, Malaya, Myanmar, Sumatera, Taiwan, Thailand, Trinidad-Tobago, Vietnam
 
 </p>
+
+## SourcesPetruzzello
 
 
 

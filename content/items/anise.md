@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The seed-like fruits of a Mediterranean herb"
 weight = 10
 # draft = "true"
@@ -59,6 +59,8 @@ ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Ap
 **Introduced regions:** Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia
 
 </p>
+
+## SourcesPetruzzello
 
 
 

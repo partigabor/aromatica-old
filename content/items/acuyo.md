@@ -1,7 +1,7 @@
 +++
 title = "Acuyo"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "Fruit of Piper auritum, syn. P. sanctum"
 weight = 10
 # draft = "true"
@@ -47,5 +47,5 @@ ACUYO (*Piper auritum* Kunth) is a(n) culinary herb from the *Piperaceae* family
 
 </p>
 
-
+## Sources
 

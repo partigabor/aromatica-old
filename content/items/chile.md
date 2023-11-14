@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The fruits of Capsicum annuum and other species"
 weight = 10
 # draft = "true"
@@ -59,6 +59,8 @@ CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family
 **Introduced regions:** Alabama, Aldabra, Algeria, Andaman Is., Angola, Assam, Austria, Bahamas, Bangladesh, Belize, Benin, Bismarck Archipelago, Bolivia, Borneo, Botswana, Brazil North, Brazil Northeast, Bulgaria, Burundi, Cambodia, Cameroon, Canary Is., Cape Verde, Caroline Is., Cayman Is., Central African Repu, Chad, Colombia, Comoros, Congo, Cook Is., Costa Rica, Cuba, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Galápagos, Gambia, Ghana, Gilbert Is., Greece, Guinea-Bissau, Gulf of Guinea Is., Guyana, Haiti, Honduras, India, Ivory Coast, Jawa, Kazakhstan, Kazan-retto, Kenya, Korea, Laos, Leeward Is., Line Is., Madagascar, Madeira, Maldives, Mali, Marianas, Marquesas, Marshall Is., Mauritius, Morocco, Myanmar, Nepal, New Guinea, New South Wales, New York, Nicobar Is., Niger, Nigeria, Northern Provinces, Northern Territory, Oman, Pakistan, Panamá, Peru, Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Senegal, Sierra Leone, Society Is., Solomon Is., Somalia, Southwest Caribbean, Sri Lanka, Sulawesi, Suriname, Tadzhikistan, Tanzania, Togo, Trinidad-Tobago, Tuamotu, Tunisia, Turkey, Turkmenistan, Turks-Caicos Is., Uganda, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wake I., West Himalaya, Windward Is., Zambia, Zaïre, Zimbabwe
 
 </p>
+
+## SourcesPetruzzello
 
 
 

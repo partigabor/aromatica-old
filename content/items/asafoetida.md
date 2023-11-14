@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The dried resin of Ferula foetida and F. assa-foetida"
 weight = 10
 # draft = "true"
@@ -57,6 +57,8 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice
 **Native regions:** &ensp; &ensp; &ensp; Afghanistan, Iran, Kazakhstan, Kirgizstan, Pakistan, Tadzhikistan, Turkmenistan, Uzbekistan
 
 </p>
+
+## SourcesPetruzzello
 
 
 

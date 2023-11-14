@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The aril (seed-covering) of the nutmeg"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ MACE (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicacea
 **Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
 
 </p>
+
+## SourcesPetruzzello
 
 
 

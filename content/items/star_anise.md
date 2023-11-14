@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandr
 **Introduced regions:** Cambodia, China South-Central
 
 </p>
+
+## SourcesPetruzzello
 
 
 

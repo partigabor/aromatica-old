@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The seed-like fruits of an Eurasian herb"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^p
 **Introduced regions:** Alberta, Algeria, British Columbia, Colorado, Connecticut, Cyprus, District of Columbia, Føroyar, Great Britain, Greenland, Iceland, Idaho, Illinois, Indiana, Iowa, Ireland, Kentucky, Labrador, Libya, Louisiana, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Morocco, New Brunswick, New Hampshire, New Jersey, New Mexico, New York, Newfoundland, North Carolina, North Dakota, Nova Scotia, Nunavut, Ohio, Ontario, Oregon, Pennsylvania, Prince Edward I., Québec, Rhode I., Saskatchewan, South Dakota, South Georgia, Tunisia, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
 
 </p>
+
+## SourcesPetruzzello
 
 
 

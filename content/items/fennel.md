@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-11-13"
+date = "2023-11-14"
 description = "The dried fruits of a perennial herb"
 weight = 10
 # draft = "true"
@@ -55,6 +55,8 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 **Introduced regions:** Alberta, Amsterdam-St.Paul Is, Angola, Argentina Northeast, Argentina Northwest, Argentina South, Arizona, Assam, Austria, Bahamas, Bangladesh, Belgium, Bermuda, Brazil South, Brazil Southeast, British Columbia, California, Cape Provinces, Central European Rus, Chile Central, Chile North, Chile South, China North-Central, China South-Central, China Southeast, Colombia, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Fiji, Finland, Florida, Georgia, Germany, Great Britain, Guatemala, Gulf of Guinea Is., Haiti, Hawaii, Hungary, Illinois, India, Iowa, Ireland, Jamaica, Jawa, Juan Fernández Is., Kansas, Kazakhstan, Kentucky, Kenya, Korea, Krym, KwaZulu-Natal, Leeward Is., Lesotho, Louisiana, Maine, Marianas, Maryland, Massachusetts, Mauritius, Mexico Northwest, Michigan, Mississippi, Missouri, Mongolia, Mozambique, Myanmar, Nebraska, Netherlands, Nevada, New Jersey, New Mexico, New York, New Zealand North, New Zealand South, Niue, Norfolk Is., North Carolina, Northern Provinces, Norway, Ohio, Ontario, Oregon, Paraguay, Pennsylvania, Peru, Poland, Puerto Rico, Québec, Rhode I., Rodrigues, Romania, Réunion, Society Is., Somalia, South Carolina, South European Russi, St.Helena, Sudan, Sweden, Switzerland, Tanzania, Tennessee, Texas, Thailand, Ukraine, Uruguay, Utah, Vietnam, Virginia, Washington, West Virginia, Windward Is., Wisconsin, Zimbabwe
 
 </p>
+
+## SourcesPetruzzello
 
 
 
