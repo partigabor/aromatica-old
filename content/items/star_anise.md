@@ -26,15 +26,15 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandr
 
 ## Overview
 
-|       item       |                              star anise                              |
-|------------------|----------------------------------------------------------------------|
-|   species name   |                       *Illicium verum* Hook.f.                       |
-|      family      |                            Schisandraceae                            |
-| region of origin |                          SE. China; Vietnam                          |
-|     macroarea    |                                 Asia                                 |
-|     part used    |                               pericarp                               |
-|botanical database|          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
-|    cultivation   |China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)|
+|       item       |                                            star anise                                           |
+|------------------|-------------------------------------------------------------------------------------------------|
+|   species name   |                                     *Illicium verum* Hook.f.                                    |
+|      family      |                                          Schisandraceae                                         |
+| region of origin |                                        SE. China; Vietnam                                       |
+|     macroarea    |                                               Asia                                              |
+|     part used    |                                             pericarp                                            |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756)|
+|    cultivation   |              China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)             |
 
 ![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 

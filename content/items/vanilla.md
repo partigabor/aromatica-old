@@ -30,15 +30,15 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the
 
 ## Overview
 
-|       item       |                        vanilla                       |
-|------------------|------------------------------------------------------|
-|   species name   |        *Vanilla planifolia* Jacks. ex Andrews        |
-|      family      |                      Orchidaceae                     |
-| region of origin |                   Tropical America                   |
-|     macroarea    |                       Americas                       |
-|     part used    |                         fruit                        |
-|botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
-|    cultivation   |Madagascar; Indonesia; Mexico; Papua New Guinea; China|
+|       item       |                                             vanilla                                             |
+|------------------|-------------------------------------------------------------------------------------------------|
+|   species name   |                              *Vanilla planifolia* Jacks. ex Andrews                             |
+|      family      |                                           Orchidaceae                                           |
+| region of origin |                                         Tropical America                                        |
+|     macroarea    |                                             Americas                                            |
+|     part used    |                                              fruit                                              |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
+|    cultivation   |                      Madagascar; Indonesia; Mexico; Papua New Guinea; China                     |
 
 ![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 

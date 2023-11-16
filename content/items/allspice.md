@@ -30,15 +30,15 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from
 
 ## Overview
 
-|       item       |                      allspice                     |
-|------------------|---------------------------------------------------|
-|   species name   |            *Pimenta dioica* (L.) Merr.            |
-|      family      |                     Myrtaceae                     |
-| region of origin |         S. Mexico to C. America; Caribbean        |
-|     macroarea    |                      Americas                     |
-|     part used    |                 unripe fruit; leaf                |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2)|
-|    cultivation   |             Jamaica; Mexico; Honduras             |
+|       item       |                                             allspice                                            |
+|------------------|-------------------------------------------------------------------------------------------------|
+|   species name   |                                   *Pimenta dioica* (L.) Merr.                                   |
+|      family      |                                            Myrtaceae                                            |
+| region of origin |                                S. Mexico to C. America; Caribbean                               |
+|     macroarea    |                                             Americas                                            |
+|     part used    |                                        unripe fruit; leaf                                       |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
+|    cultivation   |                                    Jamaica; Mexico; Honduras                                    |
 
 ![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
