@@ -1,8 +1,8 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans"
+date = "2023-11-16"
+description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The aromatic seed pods of orchid species from America; fruit of Vanilla fragransSee also Tahitian vanilla; West Indian vanilla. 
+>The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla.
 
 {{< load-photoswipe >}}
 
@@ -60,9 +60,9 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

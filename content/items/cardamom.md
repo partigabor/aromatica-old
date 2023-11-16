@@ -1,8 +1,8 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum"
+date = "2023-11-16"
+description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal', 'cardamoms']
 bibFile = "static/files/bibliography.json"
 +++
 
->The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamomSee also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
+>The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
 
 <center>
 
@@ -56,9 +56,9 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spic
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

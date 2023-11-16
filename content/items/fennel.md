@@ -1,8 +1,8 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The dried fruits of a perennial herb"
+date = "2023-11-16"
+description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The dried fruits of a perennial herb
+>The dried fruits of a perennial herb.
 
 <center>
 
@@ -56,9 +56,9 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

@@ -1,8 +1,8 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The dried fruits of an annual herb, also known as cilantro"
+date = "2023-11-16"
+description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The dried fruits of an annual herb, also known as cilantro
+>The dried fruits of an annual herb, also known as cilantro.
 
 <center>
 
@@ -56,9 +56,9 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* f
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

@@ -1,8 +1,8 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus"
+date = "2023-11-16"
+description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus
+>The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.
 
 {{< load-photoswipe >}}
 
@@ -60,9 +60,9 @@ SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-## Gallery
+{{< cite petruzzello_list_2023 >}}## Gallery
 
 {{< load-photoswipe >}}
 

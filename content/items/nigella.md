@@ -1,8 +1,8 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The seed of Nigella sativa"
+date = "2023-11-16"
+description = "The seed of Nigella sativa."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seed of Nigella sativa
+>The seed of Nigella sativa.
 
 <center>
 
@@ -53,7 +53,11 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
+{{< cite petruzzello_list_2023 >}}
 
+# Bibliography
+
+{{< bibliography cited >}}
 

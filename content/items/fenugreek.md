@@ -1,8 +1,8 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The seeds of a West Asian herb"
+date = "2023-11-16"
+description = "The seeds of a West Asian herb."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seeds of a West Asian herb
+>The seeds of a West Asian herb.
 
 <center>
 
@@ -56,9 +56,9 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from 
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

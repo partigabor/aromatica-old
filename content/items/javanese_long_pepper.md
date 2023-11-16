@@ -1,8 +1,8 @@
 +++
 title = "Javanese Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "Fruit of Piper retrofractum"
+date = "2023-11-16"
+description = "Fruit of Piper retrofractum."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->Fruit of Piper retrofractum
+>Fruit of Piper retrofractum.
 
 <center>
 
@@ -55,4 +55,6 @@ JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) culinary spice from the
 </p>
 
 ## Sources
+
+
 

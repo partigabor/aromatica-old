@@ -1,8 +1,8 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The fruit of Piper cubeba"
+date = "2023-11-16"
+description = "The fruit of Piper cubeba, related to pepper. See also Ashanti pepper."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal', 'perfume', 'false peppers']
 bibFile = "static/files/bibliography.json"
 +++
 
->The fruit of Piper cubeba, related to pepper. See also Ashanti pepper. 
+>The fruit of Piper cubeba, related to pepper. See also Ashanti pepper.
 
 <center>
 
@@ -55,6 +55,8 @@ CUBEB (*Piper cubeba* L.f.) is a(n) culinary and medicinal and perfume spice fro
 </p>
 
 ## Sources
+
+
 
 # Bibliography
 

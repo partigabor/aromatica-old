@@ -1,8 +1,8 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia"
+date = "2023-11-16"
+description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. 
+>The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
 
 {{< load-photoswipe >}}
 
@@ -60,9 +60,9 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicac
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

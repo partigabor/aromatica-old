@@ -1,8 +1,8 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The numbing, red or green fruits of East Asian prickly ash trees"
+date = "2023-11-16"
+description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'false peppers']
 bibFile = "static/files/bibliography.json"
 +++
 
->The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho. 
+>The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho.
 
 <center>
 
@@ -55,4 +55,6 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 </p>
 
 ## Sources
+
+
 

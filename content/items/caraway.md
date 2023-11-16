@@ -1,8 +1,8 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The seed-like fruits of an Eurasian herb"
+date = "2023-11-16"
+description = "The seed-like fruits of an Eurasian herb."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seed-like fruits of an Eurasian herb
+>The seed-like fruits of an Eurasian herb.
 
 <center>
 
@@ -56,9 +56,9 @@ CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^p
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

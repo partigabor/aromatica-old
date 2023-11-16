@@ -1,8 +1,8 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica"
+date = "2023-11-16"
+description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal', 'ritualistic']
 bibFile = "static/files/bibliography.json"
 +++
 
->The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domesticaSee also Yellow zedoary. 
+>The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary.
 
 <center>
 
@@ -56,9 +56,9 @@ TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spi
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

@@ -1,8 +1,8 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The dried fruits of an Indian vine"
+date = "2023-11-16"
+description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/files/bibliography.json"
 +++
 
->The dried fruits of an Indian vine, also known as black pepper, related to long pepper. 
+>The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
 
 {{< load-photoswipe >}}
 
@@ -60,9 +60,9 @@ PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Pipera
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

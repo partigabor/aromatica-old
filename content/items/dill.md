@@ -1,8 +1,8 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The seeds of a Mediterranean herb"
+date = "2023-11-16"
+description = "The seeds of a Mediterranean herb."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seeds of a Mediterranean herb
+>The seeds of a Mediterranean herb.
 
 <center>
 
@@ -54,7 +54,11 @@ DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
+{{< cite petruzzello_list_2023 >}}
 
+# Bibliography
+
+{{< bibliography cited >}}
 

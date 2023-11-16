@@ -1,8 +1,8 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The inner bark of Southeast Asian trees"
+date = "2023-11-16"
+description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/files/bibliography.json"
 +++
 
->The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. 
+>The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon.
 
 <center>
 
@@ -56,9 +56,9 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice 
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

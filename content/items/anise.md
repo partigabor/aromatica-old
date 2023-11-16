@@ -1,8 +1,8 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "The seed-like fruits of a Mediterranean herb"
+date = "2023-11-16"
+description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'beverages']
 bibFile = "static/files/bibliography.json"
 +++
 
->The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. 
+>The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise.
 
 {{< load-photoswipe >}}
 
@@ -60,9 +60,9 @@ ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Ap
 
 </p>
 
-## SourcesPetruzzello
+## Sources
 
-
+{{< cite petruzzello_list_2023 >}}
 
 # Bibliography
 

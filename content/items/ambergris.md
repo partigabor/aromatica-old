@@ -1,8 +1,8 @@
 +++
 title = "Ambergris"
 author = "Gabor Parti"
-date = "2023-11-14"
-description = "Secretion of Physeter macrocephalus"
+date = "2023-11-16"
+description = "Secretion of Physeter macrocephalus."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = []
 bibFile = "static/files/bibliography.json"
 +++
 
->Secretion of Physeter macrocephalus
+>Secretion of Physeter macrocephalus.
 
 <center>
 
@@ -38,4 +38,6 @@ AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae*
 
 
 ## Sources
+
+
 
