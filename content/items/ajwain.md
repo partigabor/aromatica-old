@@ -1,7 +1,7 @@
 +++
 title = "Ajwain"
 author = "Gabor Parti"
-date = "2023-11-16"
+date = "2023-11-24"
 description = "The seed of Trachyspermum ammi."
 weight = 10
 # draft = "true"

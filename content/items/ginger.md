@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-16"
+date = "2023-11-24"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger."
 weight = 10
 # draft = "true"

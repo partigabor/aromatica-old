@@ -1,7 +1,7 @@
 +++
 title = "Lemongrass"
 author = "Gabor Parti"
-date = "2023-11-16"
+date = "2023-11-24"
 description = "The root of Cymbopogon citratus."
 weight = 10
 # draft = "true"

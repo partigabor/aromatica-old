@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-11-16"
+date = "2023-11-24"
 description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
