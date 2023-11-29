@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace.
+
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 <center>
 
@@ -56,9 +58,9 @@ CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medic
 
 </p>
 
-## Sources
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
-{{< cite petruzzello_list_2023 >}}
+
 
 # Bibliography
 

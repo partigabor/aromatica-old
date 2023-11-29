@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger.
+
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 <center>
 
@@ -56,9 +58,9 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 
 </p>
 
-## Sources
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
-{{< cite petruzzello_list_2023 >}}
+
 
 # Bibliography
 

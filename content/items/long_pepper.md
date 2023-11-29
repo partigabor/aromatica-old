@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper.
+
+{{< cite "" >}}
 
 <center>
 
@@ -54,7 +56,11 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 
 </p>
 
-## Sources
+{{< cite "" >}}
 
 
+
+# Bibliography
+
+{{< bibliography cited >}}
 

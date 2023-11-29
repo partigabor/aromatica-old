@@ -1,7 +1,7 @@
 +++
 title = "Lemongrass"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The root of Cymbopogon citratus."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The root of Cymbopogon citratus.
+
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal herb from the *Poaceae* family,[^powo] originating in the region(s) of Maritime Southeast Asia; cultigen. It is valued for its leaf.
 
@@ -47,9 +49,9 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal he
 
 </p>
 
-## Sources
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
-{{< cite petruzzello_list_2023 >}}
+
 
 # Bibliography
 

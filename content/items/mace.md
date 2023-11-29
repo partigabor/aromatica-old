@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The aril (seed-covering) of the nutmeg, related to nutmeg.
+
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 <center>
 
@@ -56,9 +58,9 @@ MACE (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicacea
 
 </p>
 
-## Sources
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
-{{< cite petruzzello_list_2023 >}}
+
 
 # Bibliography
 

@@ -1,7 +1,7 @@
 +++
 title = "Ajwain"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The seed of Trachyspermum ammi."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The seed of Trachyspermum ammi.
+
+{{< cite "" >}}
 
 <center>
 
@@ -53,7 +55,11 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apia
 
 </p>
 
-## Sources
+{{< cite "" >}}
 
 
+
+# Bibliography
+
+{{< bibliography cited >}}
 

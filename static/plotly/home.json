@@ -707,8 +707,8 @@
           null,
           null,
           null,
-          -88.8755669,
-          20.6845957,
+          null,
+          null,
           1
         ],
         [
@@ -719,8 +719,8 @@
           null,
           null,
           null,
-          32.5772025,
-          0.3153639,
+          null,
+          null,
           1
         ],
         [
@@ -767,8 +767,8 @@
           null,
           null,
           null,
-          38.6521203,
-          10.2116702,
+          null,
+          null,
           1
         ]
       ],
@@ -785,22 +785,22 @@
       ],
       "lat": [
         14.0,
-        20.6845957,
-        0.3153639,
+        null,
+        null,
         0.0,
         -8.0,
         23.0,
-        10.2116702
+        null
       ],
       "legendgroup": "Piperaceae",
       "lon": [
         76.0,
-        -88.8755669,
-        32.5772025,
+        null,
+        null,
         101.0,
         111.0,
         80.0,
-        38.6521203
+        null
       ],
       "marker": {
         "color": "#6f4070",
@@ -1003,8 +1003,8 @@
           null,
           "\u6c89\u9999",
           "ch\u00e9nxi\u0101ng",
-          107.9650855,
-          15.9266657,
+          null,
+          null,
           1
         ]
       ],
@@ -1014,11 +1014,11 @@
         "agarwood"
       ],
       "lat": [
-        15.9266657
+        null
       ],
       "legendgroup": "Thymelaeaceae",
       "lon": [
-        107.9650855
+        null
       ],
       "marker": {
         "color": "#7fbf7b",

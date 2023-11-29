@@ -1,7 +1,7 @@
 +++
 title = "Timiz"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "Fruits of an African *Piper* species, related to black pepper; long pepper."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >Fruits of an African *Piper* species, related to black pepper; long pepper.
+
+{{< cite "" >}}
 
 {{< load-photoswipe >}}
 
@@ -52,7 +54,11 @@ TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Pipe
 
 </p>
 
-## Sources
+{{< cite "" >}}
 
 
+
+# Bibliography
+
+{{< bibliography cited >}}
 

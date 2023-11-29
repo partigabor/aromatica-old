@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-11-24"
+date = "2023-11-29"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum."
 weight = 10
 # draft = "true"
@@ -13,6 +13,8 @@ bibFile = "static/files/bibliography.json"
 +++
 
 >The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
+
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 <center>
 
@@ -56,9 +58,9 @@ CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family,[
 
 </p>
 
-## Sources
+{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
-{{< cite petruzzello_list_2023 >}}
+
 
 # Bibliography
 
