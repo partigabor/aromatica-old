@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to Central America; Caribbean. It is valued for its unripe fruit; leaf.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to Central America; Caribbean. It is valued for its unripe fruit; leaf.{{< cite "powo;powo2;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
