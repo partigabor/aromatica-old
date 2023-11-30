@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="traditional-chinese-text">錫蘭肉桂</span> 
 
 </center>
 
-CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India. It is valued for its bark; leaf.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka. It is valued for its bark; leaf.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from
 **Introduced regions:** Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

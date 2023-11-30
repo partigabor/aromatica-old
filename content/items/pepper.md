@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/pepper" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India). It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of India. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,8 +57,6 @@ PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Pipera
 **Introduced regions:** Andaman Is., Assam, Bangladesh, Benin, Cambodia, Cameroon, Caroline Is., China South-Central, China Southeast, Comoros, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Ethiopia, French Guiana, Guinea, Gulf of Guinea Is., Haiti, Honduras, Laos, Leeward Is., Marianas, Mauritius, Mexico Gulf, Nicobar Is., Philippines, Puerto Rico, Réunion, Seychelles, Sri Lanka, Thailand, Trinidad-Tobago, Venezuela, Vietnam, Windward Is.
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

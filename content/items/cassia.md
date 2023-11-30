@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** cassia · **Hungarian:** kasszia(fahéj) · **Arabic:** <span class="arabic-text" dir="rtl">سليخة</span> · **Chinese:** <span class="traditional-chinese-text">肉桂</span> 
 
 </center>
 
-CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Southeast China. It is valued for its bark; fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of South China; Vietnam. It is valued for its bark; fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice 
 **Introduced regions:** Bangladesh, Cambodia, China South-Central, Guatemala, Hainan, Honduras, India, Laos, Malaya, Myanmar, Sumatera, Taiwan, Thailand, Trinidad-Tobago, Vietnam
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

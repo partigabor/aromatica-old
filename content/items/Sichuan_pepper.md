@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho.
 
-{{< cite "" >}}
-
 <center>
 
 **English:** Sichuan pepper · **Hungarian:** szecsuáni bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل سيتشوان</span> · **Chinese:** <span class="traditional-chinese-text">花椒</span> 
 
 </center>
 
-SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China. It is valued for its pericarp.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China. It is valued for its pericarp.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -55,8 +51,6 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 **Introduced regions:** Uzbekistan
 
 </p>
-
-{{< cite "" >}}
 
 
 

@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/nutmeg" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia). It is valued for its seed.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Indonesia. It is valued for its seed.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,8 +57,6 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicac
 **Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

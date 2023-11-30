@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/vanilla" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Central and South America. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,8 +57,6 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the
 **Introduced regions:** Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

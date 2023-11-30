@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** star anise · **Hungarian:** csillagánizs · **Arabic:** <span class="arabic-text" dir="rtl">يانسون نجمي</span> · **Chinese:** <span class="traditional-chinese-text">八角</span> 
 
 </center>
 
-STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam. It is valued for its pericarp.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of South China; Vietnam. It is valued for its pericarp.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandr
 **Introduced regions:** Cambodia, China South-Central
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

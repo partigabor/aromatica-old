@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/chile" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,8 +57,6 @@ CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family
 **Introduced regions:** Alabama, Aldabra, Algeria, Andaman Is., Angola, Assam, Austria, Bahamas, Bangladesh, Belize, Benin, Bismarck Archipelago, Bolivia, Borneo, Botswana, Brazil North, Brazil Northeast, Bulgaria, Burundi, Cambodia, Cameroon, Canary Is., Cape Verde, Caroline Is., Cayman Is., Central African Repu, Chad, Colombia, Comoros, Congo, Cook Is., Costa Rica, Cuba, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Galápagos, Gambia, Ghana, Gilbert Is., Greece, Guinea-Bissau, Gulf of Guinea Is., Guyana, Haiti, Honduras, India, Ivory Coast, Jawa, Kazakhstan, Kazan-retto, Kenya, Korea, Laos, Leeward Is., Line Is., Madagascar, Madeira, Maldives, Mali, Marianas, Marquesas, Marshall Is., Mauritius, Morocco, Myanmar, Nepal, New Guinea, New South Wales, New York, Nicobar Is., Niger, Nigeria, Northern Provinces, Northern Territory, Oman, Pakistan, Panamá, Peru, Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Senegal, Sierra Leone, Society Is., Solomon Is., Somalia, Southwest Caribbean, Sri Lanka, Sulawesi, Suriname, Tadzhikistan, Tanzania, Togo, Trinidad-Tobago, Tuamotu, Tunisia, Turkey, Turkmenistan, Turks-Caicos Is., Uganda, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wake I., West Himalaya, Windward Is., Zambia, Zaïre, Zimbabwe
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The dried fruits of an annual herb, also known as cilantro."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of an annual herb, also known as cilantro.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span> 
 
 </center>
 
-CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of West Asia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* f
 **Introduced regions:** Algeria, Amur, Andaman Is., Angola, Argentina Northeast, Argentina Northwest, Argentina South, Arizona, Assam, Austria, Azores, Baltic States, Bangladesh, Belarus, Belgium, Borneo, Brazil South, Bulgaria, California, Cambodia, Cameroon, Canary Is., Cape Provinces, Cape Verde, Central European Rus, Chad, China North-Central, China South-Central, China Southeast, Colombia, Connecticut, Costa Rica, Cuba, Cyprus, Czechoslovakia, Delaware, Denmark, Dominican Republic, East European Russia, East Himalaya, Ecuador, Egypt, El Salvador, Eritrea, Ethiopia, Fiji, Finland, Florida, France, Free State, Germany, Great Britain, Greece, Guatemala, Haiti, Hawaii, Hungary, Illinois, India, Iraq, Italy, Japan, Jawa, Juan Fernández Is., Kazakhstan, Kenya, Khabarovsk, Korea, Kriti, Krym, KwaZulu-Natal, Laos, Lesser Sunda Is., Libya, Louisiana, Madeira, Malaya, Maluku, Maryland, Massachusetts, Mauritius, Mexico Central, Mexico Northwest, Michigan, Missouri, Mongolia, Montana, Morocco, Mozambique, Nepal, Nevada, New Guinea, New Jersey, New Mexico, New York, New Zealand North, New Zealand South, Nicobar Is., Norfolk Is., North Carolina, North Dakota, Northern Provinces, Norway, Nova Scotia, Ohio, Oklahoma, Ontario, Oregon, Paraguay, Pennsylvania, Peru, Philippines, Poland, Portugal, Primorye, Puerto Rico, Québec, Rhode I., Rodrigues, Romania, Réunion, Sicilia, Somalia, South Carolina, South Dakota, South European Russi, Spain, Sri Lanka, Sudan, Sulawesi, Sumatera, Sweden, Switzerland, Tadzhikistan, Tanzania, Texas, Thailand, Trinidad-Tobago, Tunisia, Turkey-in-Europe, Turkmenistan, Uganda, Ukraine, Uzbekistan, Vietnam, Virginia, Washington, West Siberia, Yugoslavia, Zimbabwe
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

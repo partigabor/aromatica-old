@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper.
 
-{{< cite "" >}}
-
 <center>
 
 **English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="traditional-chinese-text">蓽撥</span> 
 
 </center>
 
-LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China; India. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of India. It is valued for its fruit.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -55,8 +51,6 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 **Introduced regions:** China Southeast, Hainan, India, Malaya, Nepal, Philippines, Sri Lanka
 
 </p>
-
-{{< cite "" >}}
 
 
 

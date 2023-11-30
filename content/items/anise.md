@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/anise" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia; Asia Minor. It is valued for its fruit; oil; leaf.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of East Mediterranean. It is valued for its fruit; oil; leaf.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,8 +57,6 @@ ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Ap
 **Introduced regions:** Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

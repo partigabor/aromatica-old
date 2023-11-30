@@ -1,7 +1,7 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The seed of Nigella sativa."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The seed of Nigella sativa.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** nigella · **Hungarian:** kerti katicavirág; fekete kömény; fekete hagymamag; parasztbors
 
 </center>
 
-NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* family,[^powo] originating in the region(s) of Med; As. It is valued for its seed.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* family,[^powo] originating in the region(s) of Romania to W. & SW. Iran. It is valued for its seed.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -54,8 +50,6 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 **Introduced regions:** Afghanistan, Algeria, Assam, Bangladesh, Central European Rus, Czechoslovakia, East Aegean Is., Egypt, Ethiopia, France, Greece, India, Italy, Kazakhstan, Kirgizstan, Krym, Libya, Morocco, Myanmar, Saudi Arabia, Somalia, Sudan, Tadzhikistan, Tunisia, Turkey-in-Europe, Ukraine, Uzbekistan, Yemen, Yugoslavia
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

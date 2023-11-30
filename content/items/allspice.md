@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/allspice" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean. It is valued for its unripe fruit; leaf.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to Central America; Caribbean. It is valued for its unripe fruit; leaf.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,6 +57,7 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from
 **Introduced regions:** Bermuda, Caroline Is., Colombia, El Salvador, Florida, Hawaii, Puerto Rico, Society Is., Southwest Caribbean, Trinidad-Tobago, Venezuela
 
 </p>
+
 
 
 ***

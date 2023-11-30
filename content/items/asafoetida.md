@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/asafoetida" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia. It is valued for its gum-resin (latex).
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Central Asia. It is valued for its gum-resin (latex).{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -59,8 +55,6 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice
 **Native regions:** &ensp; &ensp; &ensp; Afghanistan, Iran, Kazakhstan, Kirgizstan, Pakistan, Tadzhikistan, Turkmenistan, Uzbekistan
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span> 
 
 </center>
 
-TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India. It is valued for its rhizome.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India. It is valued for its rhizome.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spi
 **Introduced regions:** Andaman Is., Assam, Bangladesh, Belize, Borneo, Cambodia, Caroline Is., China South-Central, China Southeast, Comoros, Congo, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Easter Is., Fiji, Gilbert Is., Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Ivory Coast, Jawa, Leeward Is., Lesser Sunda Is., Malaya, Marquesas, Mauritius, Myanmar, New Caledonia, New Guinea, Nicobar Is., Philippines, Pitcairn Is., Puerto Rico, Queensland, Réunion, Samoa, Society Is., Solomon Is., Sri Lanka, Sumatera, Taiwan, Thailand, Tibet, Tonga, Trinidad-Tobago, Tuamotu, Tubuai Is., Vietnam, Windward Is.
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

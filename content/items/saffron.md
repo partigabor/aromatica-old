@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece; Near East. It is valued for its stigma (style).
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece. It is valued for its stigma (style).{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -61,8 +57,6 @@ SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae
 **Introduced regions:** Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 ## Gallery
 

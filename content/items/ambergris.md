@@ -1,7 +1,7 @@
 +++
 title = "Ambergris"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "Secretion of Physeter macrocephalus."
 weight = 10
 # draft = "true"
@@ -14,19 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >Secretion of Physeter macrocephalus.
 
-{{< cite "" >}}
-
 <center>
 
 **English:** ambergris · **Hungarian:** ámbra · **Arabic:** <span class="arabic-text" dir="rtl">عنبر</span> · **Chinese:** <span class="traditional-chinese-text">龍涎香</span> 
 
 </center>
 
-AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae* family,[^powo] originating in the region(s) of cosmopolitan. It is valued for its waxy, flammable substance from the gastrointestinal tract.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-
-## Overview
+AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae* family,[^powo] originating in the region(s) of nan. It is valued for its waxy, flammable substance from the gastrointestinal tract.## Overview
 
 |       item       |                        ambergris                        |
 |------------------|---------------------------------------------------------|
@@ -39,11 +33,5 @@ AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae*
 
 
 
-{{< cite "" >}}
 
-
-
-# Bibliography
-
-{{< bibliography cited >}}
 

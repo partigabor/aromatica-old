@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The dried fruits of a perennial herb.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span> 
 
 </center>
 
-FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 **Introduced regions:** Alberta, Amsterdam-St.Paul Is, Angola, Argentina Northeast, Argentina Northwest, Argentina South, Arizona, Assam, Austria, Bahamas, Bangladesh, Belgium, Bermuda, Brazil South, Brazil Southeast, British Columbia, California, Cape Provinces, Central European Rus, Chile Central, Chile North, Chile South, China North-Central, China South-Central, China Southeast, Colombia, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Fiji, Finland, Florida, Georgia, Germany, Great Britain, Guatemala, Gulf of Guinea Is., Haiti, Hawaii, Hungary, Illinois, India, Iowa, Ireland, Jamaica, Jawa, Juan Fernández Is., Kansas, Kazakhstan, Kentucky, Kenya, Korea, Krym, KwaZulu-Natal, Leeward Is., Lesotho, Louisiana, Maine, Marianas, Maryland, Massachusetts, Mauritius, Mexico Northwest, Michigan, Mississippi, Missouri, Mongolia, Mozambique, Myanmar, Nebraska, Netherlands, Nevada, New Jersey, New Mexico, New York, New Zealand North, New Zealand South, Niue, Norfolk Is., North Carolina, Northern Provinces, Norway, Ohio, Ontario, Oregon, Paraguay, Pennsylvania, Peru, Poland, Puerto Rico, Québec, Rhode I., Rodrigues, Romania, Réunion, Society Is., Somalia, South Carolina, South European Russi, St.Helena, Sudan, Sweden, Switzerland, Tanzania, Tennessee, Texas, Thailand, Ukraine, Uruguay, Utah, Vietnam, Virginia, Washington, West Virginia, Windward Is., Wisconsin, Zimbabwe
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

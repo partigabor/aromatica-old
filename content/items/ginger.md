@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="traditional-chinese-text">薑</span> 
 
 </center>
 
-GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary). It is valued for its rhizome.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Southeast Asia. It is valued for its rhizome.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 **Introduced regions:** Andaman Is., Bangladesh, Borneo, Cambodia, Caroline Is., China Southeast, Comoros, Costa Rica, Cuba, Dominican Republic, Gulf of Guinea Is., Hainan, Haiti, Honduras, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Mauritius, Mexico Southwest, Myanmar, New Guinea, Nicobar Is., Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Solomon Is., Sri Lanka, Taiwan, Thailand, Trinidad-Tobago, Vietnam, Windward Is.
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

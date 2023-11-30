@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The fruit of Piper cubeba, related to pepper. See also Ashanti pepper."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The fruit of Piper cubeba, related to pepper. See also Ashanti pepper.
 
-{{< cite "" >}}
-
 <center>
 
 **English:** cubeb · **Hungarian:** kubébabors · **Arabic:** <span class="arabic-text" dir="rtl">كبابة</span> · **Chinese:** <span class="traditional-chinese-text">蓽澄茄</span> 
 
 </center>
 
-CUBEB (*Piper cubeba* L.f.) is a(n) culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Southeast Asia. It is valued for its unripe fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CUBEB (*Piper cubeba* L.f.) is a(n) culinary and medicinal and perfume spice from the *Piperaceae* family,[^powo] originating in the region(s) of Indo-China to Malesia. It is valued for its unripe fruit.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -55,8 +51,6 @@ CUBEB (*Piper cubeba* L.f.) is a(n) culinary and medicinal and perfume spice fro
 **Native regions:** &ensp; &ensp; &ensp; Borneo, Cambodia, Lesser Sunda Is., Malaya, Maluku, Myanmar, Sulawesi, Sumatera, Vietnam
 
 </p>
-
-{{< cite "" >}}
 
 
 

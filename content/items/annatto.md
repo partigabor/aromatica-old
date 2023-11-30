@@ -1,7 +1,7 @@
 +++
 title = "Annatto"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The red juice of the seeds of Bixa orellana."
 weight = 10
 # draft = "true"
@@ -14,8 +14,6 @@ bibFile = "static/files/bibliography.json"
 
 >The red juice of the seeds of Bixa orellana.
 
-{{< cite "" >}}
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/annatto" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
@@ -26,9 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from the *Bixaceae* family,[^powo] originating in the region(s) of Trop. Am.; C. Am.. It is valued for its seed.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from the *Bixaceae* family,[^powo] originating in the region(s) of Mexico to S. Tropical America. It is valued for its seed.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -59,8 +55,6 @@ ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from t
 **Introduced regions:** Angola, Bangladesh, Benin, Burkina, Cambodia, Caroline Is., Central African Repu, Chad, China South-Central, China Southeast, Christmas I., Comoros, Congo, Cuba, Dominican Republic, Eritrea, Ethiopia, Gabon, Galápagos, Ghana, Guinea, Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, India, Jamaica, Kenya, Leeward Is., Liberia, Marianas, Mauritius, Mozambique, New Caledonia, Nicobar Is., Nigeria, Puerto Rico, Réunion, Samoa, Sierra Leone, Society Is., Southwest Caribbean, Sri Lanka, Sudan, Taiwan, Tanzania, Trinidad-Tobago, Uganda, Vanuatu, Venezuelan Antilles, Wallis-Futuna Is., Windward Is., Zaïre, Zimbabwe
 
 </p>
-
-{{< cite "" >}}
 
 
 

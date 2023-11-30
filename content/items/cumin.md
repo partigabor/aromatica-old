@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="traditional-chinese-text">孜然</span> 
 
 </center>
 
-CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; W. & C. Asia; India. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of West Asia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family,[
 **Introduced regions:** Algeria, Andaman Is., Bangladesh, Benin, Bulgaria, East Himalaya, Eritrea, France, India, Kazakhstan, Laos, Lebanon-Syria, Libya, Massachusetts, Mexico Northeast, Morocco, Nicobar Is., Pakistan, Saudi Arabia, Sicilia, Spain, Texas, Transcaucasus, Tunisia, Uzbekistan, Xinjiang
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

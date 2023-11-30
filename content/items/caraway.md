@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The seed-like fruits of an Eurasian herb."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The seed-like fruits of an Eurasian herb.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="traditional-chinese-text">葛縷子</span> 
 
 </center>
 
-CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; C. Europe; Eurasia. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Eurasia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^p
 **Introduced regions:** Alberta, Algeria, British Columbia, Colorado, Connecticut, Cyprus, District of Columbia, Føroyar, Great Britain, Greenland, Iceland, Idaho, Illinois, Indiana, Iowa, Ireland, Kentucky, Labrador, Libya, Louisiana, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Morocco, New Brunswick, New Hampshire, New Jersey, New Mexico, New York, Newfoundland, North Carolina, North Dakota, Nova Scotia, Nunavut, Ohio, Ontario, Oregon, Pennsylvania, Prince Edward I., Québec, Rhode I., Saskatchewan, South Dakota, South Georgia, Tunisia, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

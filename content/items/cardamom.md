@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="traditional-chinese-text">豆蔻</span> 
 
 </center>
 
-CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern Asia. It is valued for its fruit (seed pod).
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of India. It is valued for its fruit (seed pod).{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -57,8 +53,6 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spic
 **Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

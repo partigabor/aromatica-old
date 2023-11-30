@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*.
 
-{{< cite "" >}}
-
 <center>
 
 **English:** black cardamom · **Hungarian:** fekete kardamom · **Arabic:** <span class="arabic-text" dir="rtl">قاقلة</span> · **Chinese:** <span class="traditional-chinese-text">香豆蔻</span> 
 
 </center>
 
-BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Himalayas. It is valued for its seed pod.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Nepal to Central China. It is valued for its seed pod.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -55,8 +51,6 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) culinary spice from the *Zingi
 **Native regions:** &ensp; &ensp; &ensp; Assam, Bangladesh, China South-Central, China Southeast, East Himalaya, India, Myanmar, Nepal, Tibet
 
 </p>
-
-{{< cite "" >}}
 
 
 

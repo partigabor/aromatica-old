@@ -1,7 +1,7 @@
 +++
 title = "Ajwain"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The seed of Trachyspermum ammi."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The seed of Trachyspermum ammi.
 
-{{< cite "" >}}
-
 <center>
 
 **English:** ajowan
 
 </center>
 
-AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Near East. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iraq to Central Asia and Myanmar. It is valued for its fruit.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -54,8 +50,6 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apia
 **Introduced regions:** Andaman Is., Czechoslovakia, Ethiopia, Kazakhstan, Kenya, Michigan, Morocco, Nicobar Is., Palestine, Saudi Arabia, Somalia, Sweden, Turkey, Xinjiang
 
 </p>
-
-{{< cite "" >}}
 
 
 

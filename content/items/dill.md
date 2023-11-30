@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "The seeds of a Mediterranean herb."
 weight = 10
 # draft = "true"
@@ -14,17 +14,13 @@ bibFile = "static/files/bibliography.json"
 
 >The seeds of a Mediterranean herb.
 
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
-
 <center>
 
 **English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="traditional-chinese-text">蒔蘿</span> 
 
 </center>
 
-DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of S. Europe; N. Africa; SW. Asia. It is valued for its fruit.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -55,8 +51,6 @@ DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family
 **Introduced regions:** Afghanistan, Alabama, Albania, Alberta, Altay, Andaman Is., Angola, Argentina Northeast, Arizona, Arkansas, Assam, Austria, Azores, Bahamas, Baleares, Baltic States, Bangladesh, Belarus, Belgium, Brazil South, Brazil Southeast, British Columbia, Bulgaria, California, Cameroon, Canary Is., Cape Verde, Cayman Is., Central European Rus, China North-Central, China South-Central, China Southeast, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Dominican Republic, East Aegean Is., East European Russia, East Himalaya, Ecuador, Eritrea, Ethiopia, Finland, France, Ghana, Great Britain, Greece, Guatemala, Haiti, Hawaii, Hungary, Illinois, India, Indiana, Iowa, Iraq, Italy, Jamaica, Kansas, Kazakhstan, Kentucky, Kenya, Kriti, Krym, Laos, Leeward Is., Louisiana, Madeira, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mongolia, Montana, Mozambique, Nebraska, Nepal, Netherlands, New Jersey, New York, Nicobar Is., Niger, Nigeria, North Carolina, North Dakota, Northwest European R, Norway, Ohio, Oklahoma, Ontario, Oregon, Pakistan, Palestine, Pennsylvania, Peru, Portugal, Primorye, Puerto Rico, Québec, Rhode I., Romania, Saskatchewan, Sicilia, Somalia, South Dakota, South European Russi, Spain, Sudan, Sweden, Switzerland, Tadzhikistan, Tanzania, Texas, Thailand, Transcaucasus, Trinidad-Tobago, Turkey, Turkey-in-Europe, Ukraine, Uzbekistan, Vietnam, Virginia, Wake I., Washington, West Virginia, Windward Is., Wisconsin, Yugoslavia
 
 </p>
-
-{{< cite "petruzzello_list_2023,vanwyk_culinary_2014" >}}
 
 
 

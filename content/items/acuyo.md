@@ -1,7 +1,7 @@
 +++
 title = "Acuyo"
 author = "Gabor Parti"
-date = "2023-11-29"
+date = "2023-11-30"
 description = "Fruit of Piper auritum, syn. P. sanctum."
 weight = 10
 # draft = "true"
@@ -14,11 +14,7 @@ bibFile = "static/files/bibliography.json"
 
 >Fruit of Piper auritum, syn. P. sanctum.
 
-{{< cite "" >}}
-
-ACUYO (*Piper auritum* Kunth) is a(n) culinary herb from the *Piperaceae* family,[^powo] originating in the region(s) of Central America. It is valued for its herb.
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+ACUYO (*Piper auritum* Kunth) is a(n) culinary herb from the *Piperaceae* family,[^powo] originating in the region(s) of Mexico to Guianas and Ecuador. It is valued for its herb.{{< cite "powo;vanwyk_culinary_2014" >}}
 
 ## Overview
 
@@ -48,8 +44,6 @@ ACUYO (*Piper auritum* Kunth) is a(n) culinary herb from the *Piperaceae* family
 **Introduced regions:** Caroline Is., Cuba, Florida, Haiti, Hawaii, Jamaica, Leeward Is., Samoa
 
 </p>
-
-{{< cite "" >}}
 
 
 
