@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family, originating in the region(s) of Central America. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The seeds of a West Asian herb."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of West Asia. It is valued for its seed; leaf.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from the *Fabaceae* family, originating in the region(s) of West Asia. It is valued for its seed; leaf. {{< cite "powo" >}}
 
 ## Overview
 

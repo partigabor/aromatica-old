@@ -1,7 +1,7 @@
 +++
 title = "Agarwood"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "Diseased wood of Aquilaria malaccensis and A. sinensis."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n)  incense from the *Thymelaeaceae* family,[^powo] originating in the region(s) of Bangladesh to W. & Central Malesia. It is valued for its wood.{{< cite "powo;vanwyk_culinary_2014" >}}
+AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n)  incense from the *Thymelaeaceae* family, originating in the region(s) of Bangladesh to W. & Central Malesia. It is valued for its wood. {{< cite "powo" >}}
 
 ## Overview
 

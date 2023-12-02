@@ -1,7 +1,7 @@
 +++
 title = "Javanese Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "Fruit of Piper retrofractum."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) culinary spice from the *Piperaceae* family,[^powo] originating in the region(s) of Bangladesh to China (Yunnan) and W. & Central Malesia. It is valued for its fruit.{{< cite "powo;vanwyk_culinary_2014" >}}
+JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) culinary spice from the *Piperaceae* family, originating in the region(s) of Bangladesh to China (Yunnan) and W. & Central Malesia. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

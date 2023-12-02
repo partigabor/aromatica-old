@@ -1,7 +1,7 @@
 +++
 title = "Ambergris"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "Secretion of Physeter macrocephalus."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae* family,[^powo] originating in the region(s) of nan. It is valued for its waxy, flammable substance from the gastrointestinal tract.## Overview
+AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae* family, originating in the region(s) of nan. It is valued for its waxy, flammable substance from the gastrointestinal tract. ## Overview
 
 |       item       |                        ambergris                        |
 |------------------|---------------------------------------------------------|

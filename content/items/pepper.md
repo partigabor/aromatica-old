@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of India. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of India. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

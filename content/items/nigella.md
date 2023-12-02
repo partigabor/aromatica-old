@@ -1,7 +1,7 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The seed of Nigella sativa."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* family,[^powo] originating in the region(s) of Romania to W. & SW. Iran. It is valued for its seed.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* family, originating in the region(s) of Romania to W. & SW. Iran. It is valued for its seed. {{< cite "powo" >}}
 
 ## Overview
 

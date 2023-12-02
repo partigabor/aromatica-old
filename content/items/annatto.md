@@ -1,7 +1,7 @@
 +++
 title = "Annatto"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The red juice of the seeds of Bixa orellana."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from the *Bixaceae* family,[^powo] originating in the region(s) of Mexico to S. Tropical America. It is valued for its seed.{{< cite "powo;vanwyk_culinary_2014" >}}
+ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from the *Bixaceae* family, originating in the region(s) of Mexico to S. Tropical America. It is valued for its seed. {{< cite "powo" >}}
 
 ## Overview
 

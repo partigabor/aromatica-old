@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of Indonesia. It is valued for its flower buds.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medicinal spice from the *Myrtaceae* family, originating in the region(s) of Indonesia. It is valued for its flower buds. {{< cite "powo" >}}
 
 ## Overview
 

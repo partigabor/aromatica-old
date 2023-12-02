@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of India. It is valued for its fruit.{{< cite "powo;vanwyk_culinary_2014" >}}
+LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of India. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

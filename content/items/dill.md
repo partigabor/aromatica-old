@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The seeds of a Mediterranean herb."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Nort Africa; West Asia. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

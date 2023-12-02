@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Central and South America. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the *Orchidaceae* family, originating in the region(s) of Central and South America. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

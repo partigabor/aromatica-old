@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-MACE (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Indonesia. It is valued for its aril.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+MACE (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family, originating in the region(s) of Indonesia. It is valued for its aril. {{< cite "powo" >}}
 
 ## Overview
 

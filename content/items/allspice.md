@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to Central America; Caribbean. It is valued for its unripe fruit; leaf.{{< cite "powo;powo2;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family, originating in the region(s) of S. Mexico to Central America; Caribbean. It is valued for its unripe fruit; leaf. {{< cite "powo" >}}
 
 ## Overview
 

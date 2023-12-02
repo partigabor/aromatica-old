@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Indonesia. It is valued for its seed.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family, originating in the region(s) of Indonesia. It is valued for its seed. {{< cite "powo" >}}
 
 ## Overview
 

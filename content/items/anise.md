@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise."
 weight = 10
 # draft = "true"
@@ -24,7 +24,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Apiaceae* family,[^powo] originating in the region(s) of East Mediterranean. It is valued for its fruit; oil; leaf.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Apiaceae* family, originating in the region(s) of East Mediterranean. It is valued for its fruit; oil; leaf. {{< cite "powo" >}}
 
 ## Overview
 

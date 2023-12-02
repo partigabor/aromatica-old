@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Southeast Asia. It is valued for its rhizome.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from the *Zingiberaceae* family, originating in the region(s) of Southeast Asia. It is valued for its rhizome. {{< cite "powo" >}}
 
 ## Overview
 

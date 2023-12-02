@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The seed-like fruits of an Eurasian herb."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Eurasia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Eurasia. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

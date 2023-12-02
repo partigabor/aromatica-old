@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
@@ -20,7 +20,7 @@ bibFile = "static/files/bibliography.json"
 
 </center>
 
-FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia. It is valued for its fruit.{{< cite "powo;petruzzello_list_2023;vanwyk_culinary_2014" >}}
+FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Mediterranean; W. Asia. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 

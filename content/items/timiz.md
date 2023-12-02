@@ -1,7 +1,7 @@
 +++
 title = "Timiz"
 author = "Gabor Parti"
-date = "2023-11-30"
+date = "2023-12-02"
 description = "Fruits of an African *Piper* species, related to black pepper; long pepper."
 weight = 10
 # draft = "true"
@@ -18,7 +18,7 @@ bibFile = "static/files/bibliography.json"
 
 {{< gallery dir="/images/photos/timiz" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
-TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Tropical & S. Africa, Comoros, Madagascar. It is valued for its fruit.{{< cite "powo;vanwyk_culinary_2014" >}}
+TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of Tropical & S. Africa, Comoros, Madagascar. It is valued for its fruit. {{< cite "powo" >}}
 
 ## Overview
 
