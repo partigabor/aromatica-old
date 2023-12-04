@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'perfumery']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice.

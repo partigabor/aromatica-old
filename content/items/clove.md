@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'medicinal']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace.

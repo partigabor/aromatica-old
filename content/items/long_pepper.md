@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'medicinal', 'false peppers']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper.

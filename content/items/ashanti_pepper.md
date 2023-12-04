@@ -1,7 +1,7 @@
 +++
 title = "Ashanti Pepper"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'medicinal']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper.

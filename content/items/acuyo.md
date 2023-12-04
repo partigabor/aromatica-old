@@ -1,7 +1,7 @@
 +++
 title = "Acuyo"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "Fruit of Piper auritum, syn. P. sanctum."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['herb']
 tags = ['culinary']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >Fruit of Piper auritum, syn. P. sanctum.

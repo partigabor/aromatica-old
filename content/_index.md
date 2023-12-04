@@ -3,7 +3,7 @@ archetype = "home"
 title = ""
 date = "2023-08-01T00:00:00+08:00"
 author = "Gabor Parti"
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 # Welcome to Aromatica

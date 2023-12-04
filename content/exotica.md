@@ -9,7 +9,7 @@ tags = []
 draft = false
 hidden = true
 plotly = true
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 disableComments = true
 +++
 

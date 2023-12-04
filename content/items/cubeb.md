@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The fruit of Piper cubeba, related to pepper. See also Ashanti pepper."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'medicinal', 'perfume', 'false peppers']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The fruit of Piper cubeba, related to pepper. See also Ashanti pepper.

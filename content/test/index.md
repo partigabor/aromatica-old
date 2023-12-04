@@ -10,7 +10,7 @@ draft = false
 hidden = false
 plotly = true
 # mermaidZoom = true
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 disableComments = false
 # # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # # Note: Toc is always disabled for chapter pages

@@ -1,7 +1,7 @@
 +++
 title = "Lemongrass"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The root of Cymbopogon citratus."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['herb']
 tags = ['culinary', 'medicinal']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The root of Cymbopogon citratus.

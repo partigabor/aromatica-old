@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'beverages']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise.

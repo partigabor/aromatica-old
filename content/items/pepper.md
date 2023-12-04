@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-12-02"
+date = "2023-12-04"
 description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper."
 weight = 10
 # draft = "true"
@@ -9,7 +9,7 @@ weight = 10
 plotly = true
 categories = ['spice']
 tags = ['culinary', 'medicinal']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
 >The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
