@@ -20,12 +20,12 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal he
 
 |       item       |                     lemongrass                    |
 |------------------|---------------------------------------------------|
-|   species name   |         *Cymbopogon citratus* (DC.) Stapf         |
+|       taxon      |         *Cymbopogon citratus* (DC.) Stapf         |
 |      family      |                      Poaceae                      |
 | region of origin |         Maritime Southeast Asia; cultigen         |
 |     macroarea    |                        Asia                       |
 |     part used    |                        leaf                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
 
 
 

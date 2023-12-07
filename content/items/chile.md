@@ -30,17 +30,17 @@ CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family
 
 |       item       |                              chile                              |
 |------------------|-----------------------------------------------------------------|
-|   species name   |                       *Capsicum annuum* L.                      |
+|       taxon      |                       *Capsicum annuum* L.                      |
 |      family      |                            Solanaceae                           |
 | region of origin |                         Central America                         |
 |     macroarea    |                             Americas                            |
 |     part used    |                              fruit                              |
-|botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
+|botanical_database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 |    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
 
-![*Capsicum annuum* L.](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
+![Capsicum annuum](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 127.
+>Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 127.
 
 ## Distribution
 

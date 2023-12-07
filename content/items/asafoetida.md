@@ -30,17 +30,17 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice
 
 |       item       |                     asafoetida                    |
 |------------------|---------------------------------------------------|
-|   species name   |           *Ferula foetida* (Bunge) Regel          |
+|       taxon      |           *Ferula foetida* (Bunge) Regel          |
 |      family      |                      Apiaceae                     |
 | region of origin |                Iran; W. and C. Asia               |
 |     macroarea    |                        Asia                       |
 |     part used    |                 gum-resin (latex)                 |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 |    cultivation   |                 Iran; Afghanistan                 |
 
-![*Ferula foetida* (Bunge) Regel](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
+![Ferula foetida](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 
->Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 147.
+>Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 147.
 
 ## Distribution
 

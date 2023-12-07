@@ -30,17 +30,17 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from
 
 |       item       |                                             allspice                                            |
 |------------------|-------------------------------------------------------------------------------------------------|
-|   species name   |                                   *Pimenta dioica* (L.) Merr.                                   |
+|       taxon      |                                   *Pimenta dioica* (L.) Merr.                                   |
 |      family      |                                            Myrtaceae                                            |
 | region of origin |                                S. Mexico to C. America; Caribbean                               |
 |     macroarea    |                                             Americas                                            |
 |     part used    |                                        unripe fruit; leaf                                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
 |    cultivation   |                                    Jamaica; Mexico; Honduras                                    |
 
-![*Pimenta dioica* (L.) Merr.](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
+![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
->Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 174. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)
+>Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 174. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)
 
 ## Distribution
 

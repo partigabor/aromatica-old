@@ -26,17 +26,17 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 
 |       item       |                       fennel                       |
 |------------------|----------------------------------------------------|
-|   species name   |             *Foeniculum vulgare* Mill.             |
+|       taxon      |             *Foeniculum vulgare* Mill.             |
 |      family      |                      Apiaceae                      |
 | region of origin |                    Mediterranean                   |
 |     macroarea    |                    Med.; W. Asia                   |
 |     part used    |                        fruit                       |
-|botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
+|botanical_database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 |    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
 
-![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
+![Foeniculum vulgare](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
->Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 88.
+>Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 88.
 
 ## Distribution
 

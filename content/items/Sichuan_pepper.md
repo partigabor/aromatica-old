@@ -26,12 +26,12 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 
 |       item       |                   Sichuan pepper                  |
 |------------------|---------------------------------------------------|
-|   species name   |           *Zanthoxylum bungeanum* Maxim.          |
+|       taxon      |           *Zanthoxylum bungeanum* Maxim.          |
 |      family      |                      Rutaceae                     |
 | region of origin |                       China                       |
 |     macroarea    |                        Asia                       |
 |     part used    |                      pericarp                     |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 |    cultivation   |                       China                       |
 
 

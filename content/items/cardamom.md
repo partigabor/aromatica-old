@@ -26,17 +26,17 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spic
 
 |       item       |                                             cardamom                                            |
 |------------------|-------------------------------------------------------------------------------------------------|
-|   species name   |                                *Elettaria cardamomum* (L.) Maton                                |
+|       taxon      |                                *Elettaria cardamomum* (L.) Maton                                |
 |      family      |                                          Zingiberaceae                                          |
 | region of origin |                                 Kerala, S. India; southern Asia                                 |
 |     macroarea    |                                               Asia                                              |
 |     part used    |                                         fruit (seed pod)                                        |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871)|
 |    cultivation   |                     Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                     |
 
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 186.
+>Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 186.
 
 ## Distribution
 

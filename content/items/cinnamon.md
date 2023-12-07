@@ -26,17 +26,17 @@ CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from
 
 |       item       |                      cinnamon                     |
 |------------------|---------------------------------------------------|
-|   species name   |            *Cinnamomum verum* J.Presl.            |
+|       taxon      |            *Cinnamomum verum* J.Presl.            |
 |      family      |                     Lauraceae                     |
 | region of origin |                Sri Lanka; SW. India               |
 |     macroarea    |                        Asia                       |
 |     part used    |                     bark; leaf                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 
-![*Cinnamomum verum* J.Presl.](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
+![Cinnamomum verum](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 78.
+>Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 78.
 
 ## Distribution
 

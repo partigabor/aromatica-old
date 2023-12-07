@@ -30,17 +30,17 @@ PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Pipera
 
 |       item       |                       pepper                      |
 |------------------|---------------------------------------------------|
-|   species name   |                 *Piper nigrum* L.                 |
+|       taxon      |                 *Piper nigrum* L.                 |
 |      family      |                     Piperaceae                    |
 | region of origin |            Malabar coast (South India)            |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 |    cultivation   | Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.|
 
-![*Piper nigrum* L.](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
+![Piper nigrum](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144.
+>Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144.
 
 ## Distribution
 

@@ -26,12 +26,12 @@ JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) culinary spice from the
 
 |       item       |                Javanese long pepper               |
 |------------------|---------------------------------------------------|
-|   species name   |             *Piper retrofractum* Vahl             |
+|       taxon      |             *Piper retrofractum* Vahl             |
 |      family      |                     Piperaceae                    |
 | region of origin |                       SE As                       |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/683079-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/683079-1)|
 |    cultivation   |  https://en.wikipedia.org/wiki/Piper_retrofractum |
 
 

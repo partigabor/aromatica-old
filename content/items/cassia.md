@@ -26,17 +26,17 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice 
 
 |       item       |                       cassia                      |
 |------------------|---------------------------------------------------|
-|   species name   |         *Cinnamomum cassia* (L.) J.Presl.         |
+|       taxon      |         *Cinnamomum cassia* (L.) J.Presl.         |
 |      family      |                     Lauraceae                     |
 | region of origin |                  Southeast China                  |
 |     macroarea    |                        Asia                       |
 |     part used    |                    bark; fruit                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
 
-![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
+![Cinnamomum cassia](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
 
->Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
+>Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
 
 ## Distribution
 

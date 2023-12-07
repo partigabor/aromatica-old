@@ -26,17 +26,17 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandr
 
 |       item       |                                            star anise                                           |
 |------------------|-------------------------------------------------------------------------------------------------|
-|   species name   |                                     *Illicium verum* Hook.f.                                    |
+|       taxon      |                                     *Illicium verum* Hook.f.                                    |
 |      family      |                                          Schisandraceae                                         |
 | region of origin |                                        SE. China; Vietnam                                       |
 |     macroarea    |                                               Asia                                              |
 |     part used    |                                             pericarp                                            |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756)|
 |    cultivation   |              China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)             |
 
-![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
+![Illicium verum](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 117*.
+>Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 117*.
 
 ## Distribution
 

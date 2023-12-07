@@ -30,17 +30,17 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicac
 
 |       item       |                       nutmeg                      |
 |------------------|---------------------------------------------------|
-|   species name   |            *Myristica fragrans* Houtt.            |
+|       taxon      |            *Myristica fragrans* Houtt.            |
 |      family      |                   Myristicaceae                   |
 | region of origin |                Moluccas (Indonesia)               |
 |     macroarea    |                        Asia                       |
 |     part used    |                        seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 |    cultivation   |                 Grenada; Indonesia                |
 
-![*Myristica fragrans* Houtt.](/images/illustrations/nutmeg.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![Myristica fragrans](/images/illustrations/nutmeg.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
->Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 132.
+>Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 132.
 
 ## Distribution
 

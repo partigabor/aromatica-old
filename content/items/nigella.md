@@ -26,12 +26,12 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 
 |       item       |                      nigella                      |
 |------------------|---------------------------------------------------|
-|   species name   |                *Nigella sativa* L.                |
+|       taxon      |                *Nigella sativa* L.                |
 |      family      |                   Ranunculaceae                   |
 | region of origin |                      Med; As                      |
 |     macroarea    |                   Med.; W. Asia                   |
 |     part used    |                        seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/711687-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/711687-1)|
 
 
 

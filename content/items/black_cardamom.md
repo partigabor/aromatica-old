@@ -26,17 +26,17 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) culinary spice from the *Zingi
 
 |       item       |                                          black cardamom                                         |
 |------------------|-------------------------------------------------------------------------------------------------|
-|   species name   |                                     *Amomum subulatum* Roxb.                                    |
+|       taxon      |                                     *Amomum subulatum* Roxb.                                    |
 |      family      |                                          Zingiberaceae                                          |
 | region of origin |                                            Himalayas                                            |
 |     macroarea    |                                               Asia                                              |
 |     part used    |                                             seed pod                                            |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/872166-1), [GBIF](https://www.gbif.org/species/5301632)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/872166-1), [GBIF](https://www.gbif.org/species/5301632)|
 |    cultivation   |                                            Himalayas                                            |
 
-![*Amomum subulatum* Roxb.](/images/illustrations/black_cardamom.png?width=40rem "Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819)")
+![Amomum subulatum](/images/illustrations/black_cardamom.png?width=40rem "Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819)")
 
->Illustration of Amomum subulatum from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819){{< cite -nan >}} nan. [{{% icon image %}}](http://plantillustrations.org/illustration.php?id_illustration=61488)
+>Illustration of *Amomum subulatum* Roxb. from Roxburgh, W., Plants of the coast of Coromandel, Vol. 3: t. 277 (1819){{< cite -nan >}} nan. [{{% icon image %}}](http://plantillustrations.org/illustration.php?id_illustration=61488)
 
 ## Distribution
 

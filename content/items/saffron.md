@@ -30,17 +30,17 @@ SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae
 
 |       item       |                      saffron                      |
 |------------------|---------------------------------------------------|
-|   species name   |                *Crocus sativus* L.                |
+|       taxon      |                *Crocus sativus* L.                |
 |      family      |                     Iridaceae                     |
 | region of origin |                 Greece; Near East                 |
 |     macroarea    |                   Mediterranean                   |
 |     part used    |                   stigma (style)                  |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 |    cultivation   |             Iran; Spain; Kashmir; etc.            |
 
-![*Crocus sativus* L.](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
+![Crocus sativus](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
->Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 164.
+>Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 164.
 
 ## Distribution
 

@@ -30,12 +30,12 @@ ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from t
 
 |       item       |                      annatto                     |
 |------------------|--------------------------------------------------|
-|   species name   |                *Bixa orellana* L.                |
+|       taxon      |                *Bixa orellana* L.                |
 |      family      |                     Bixaceae                     |
 | region of origin |                 Trop. Am.; C. Am.                |
 |     macroarea    |                     Americas                     |
 |     part used    |                       seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
 |    cultivation   |         Brazil, Peru, Kenya, Philippines         |
 
 

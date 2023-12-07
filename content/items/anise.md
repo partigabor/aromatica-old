@@ -30,17 +30,17 @@ ANISE (*Pimpinella anisum* L.) is a(n) culinary and potatory spice from the *Api
 
 |       item       |                       anise                       |
 |------------------|---------------------------------------------------|
-|   species name   |               *Pimpinella anisum* L.              |
+|       taxon      |               *Pimpinella anisum* L.              |
 |      family      |                      Apiaceae                     |
 | region of origin |       E. Mediterranean; W. Asia; Asia Minor       |
 |     macroarea    |                   Mediterranean                   |
 |     part used    |                  fruit; oil; leaf                 |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 
-![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
+![Pimpinella anisum](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 93.
+>Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 93.
 
 ## Distribution
 

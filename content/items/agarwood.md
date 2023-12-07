@@ -26,12 +26,12 @@ AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n)  incense from the *Thymelaeaceae
 
 |       item       |                      agarwood                     |
 |------------------|---------------------------------------------------|
-|   species name   |            *Aquilaria malaccensis* Lam.           |
+|       taxon      |            *Aquilaria malaccensis* Lam.           |
 |      family      |                   Thymelaeaceae                   |
 | region of origin |                   Southeast Asia                  |
 |     macroarea    |                        Asia                       |
 |     part used    |                        wood                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/830835-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/830835-1)|
 
 
 

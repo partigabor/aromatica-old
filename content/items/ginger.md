@@ -26,17 +26,17 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 
 |       item       |                       ginger                      |
 |------------------|---------------------------------------------------|
-|   species name   |            *Zingiber officinale* Roscoe           |
+|       taxon      |            *Zingiber officinale* Roscoe           |
 |      family      |                   Zingiberaceae                   |
 | region of origin |         South East Asia; India (secondary)        |
 |     macroarea    |                        Asia                       |
 |     part used    |                      rhizome                      |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 |    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 
-![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
+![Zingiber officinale](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
->Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 172.
+>Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 172.
 
 ## Distribution
 

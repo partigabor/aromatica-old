@@ -26,12 +26,12 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apia
 
 |       item       |                       ajwain                      |
 |------------------|---------------------------------------------------|
-|   species name   |         *Trachyspermum ammi* (L.) Sprague         |
+|       taxon      |         *Trachyspermum ammi* (L.) Sprague         |
 |      family      |                      Apiaceae                     |
 | region of origin |                     Near East                     |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/849765-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/849765-1)|
 
 
 

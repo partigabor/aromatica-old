@@ -26,17 +26,17 @@ CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medic
 
 |       item       |                       clove                       |
 |------------------|---------------------------------------------------|
-|   species name   |   *Syzygium aromaticum* (L.) Merr. \& L.M.Perry   |
+|       taxon      |   *Syzygium aromaticum* (L.) Merr. \& L.M.Perry   |
 |      family      |                     Myrtaceae                     |
 | region of origin |               N. Moluccas, Indonesia              |
 |     macroarea    |                        Asia                       |
 |     part used    |                    flower buds                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 |    cultivation   |           Indonesia; Malaysia; Tanzania           |
 
-![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
+![Syzygium aromaticum](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 125.
+>Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 125.
 
 ## Distribution
 

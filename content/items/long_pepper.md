@@ -26,12 +26,12 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 
 |       item       |                    long pepper                    |
 |------------------|---------------------------------------------------|
-|   species name   |                 *Piper longum* L.                 |
+|       taxon      |                 *Piper longum* L.                 |
 |      family      |                     Piperaceae                    |
 | region of origin |     E. Himalaya to S. China; Indo-China; India    |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 |    cultivation   |             India; Indonesia; Thailand            |
 
 

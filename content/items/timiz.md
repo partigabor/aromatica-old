@@ -24,12 +24,12 @@ TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Pipe
 
 |       item       |                       timiz                       |
 |------------------|---------------------------------------------------|
-|   species name   |                *Piper capense* L.f.               |
+|       taxon      |                *Piper capense* L.f.               |
 |      family      |                     Piperaceae                    |
 | region of origin |                    East Africa                    |
 |     macroarea    |                       Africa                      |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/680780-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/680780-1)|
 |    cultivation   |                      Ethiopia                     |
 
 

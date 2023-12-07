@@ -24,12 +24,12 @@ AMBERGRIS (*Physeter macrocephalus* L.) is a(n)  incense from the *Physeteridae*
 
 |       item       |                        ambergris                        |
 |------------------|---------------------------------------------------------|
-|   species name   |               *Physeter macrocephalus* L.               |
+|       taxon      |               *Physeter macrocephalus* L.               |
 |      family      |                       Physeteridae                      |
 | region of origin |                       cosmopolitan                      |
-|     macroarea    |                       Cosmopolitan                      |
+|     macroarea    |                       cosmopolitan                      |
 |     part used    |waxy, flammable substance from the gastrointestinal tract|
-|botanical database|                           nan                           |
+|botanical_database|                           nan                           |
 
 
 

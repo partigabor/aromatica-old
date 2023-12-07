@@ -26,17 +26,17 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* f
 
 |       item       |                      coriander                      |
 |------------------|-----------------------------------------------------|
-|   species name   |               *Coriandrum sativum* L.               |
+|       taxon      |               *Coriandrum sativum* L.               |
 |      family      |                       Apiaceae                      |
 | region of origin |              E. Mediterranean; W. Asia              |
 |     macroarea    |                         Asia                        |
 |     part used    |                        fruit                        |
-|botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
+|botanical_database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 
-![*Coriandrum sativum* L.](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
+![Coriandrum sativum](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 145.
+>Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 145.
 
 ## Distribution
 

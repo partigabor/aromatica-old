@@ -20,12 +20,12 @@ ASHANTI PEPPER (*Piper guineense* Schumach. \& Thonn.) is a(n) culinary and medi
 
 |       item       |                   Ashanti pepper                  |
 |------------------|---------------------------------------------------|
-|   species name   |       *Piper guineense* Schumach. \& Thonn.       |
+|       taxon      |       *Piper guineense* Schumach. \& Thonn.       |
 |      family      |                     Piperaceae                    |
 | region of origin |                  tropical Africa                  |
 |     macroarea    |                       Africa                      |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/681598-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/681598-1)|
 
 
 

@@ -26,17 +26,17 @@ TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spi
 
 |       item       |                      turmeric                     |
 |------------------|---------------------------------------------------|
-|   species name   |                 *Curcuma longa* L.                |
+|       taxon      |                 *Curcuma longa* L.                |
 |      family      |                   Zingiberaceae                   |
 | region of origin |                       India                       |
 |     macroarea    |                        Asia                       |
 |     part used    |                      rhizome                      |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 
-![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
+![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178.
+>Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178.
 
 ## Distribution
 

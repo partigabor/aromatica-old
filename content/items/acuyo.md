@@ -20,12 +20,12 @@ ACUYO (*Piper auritum* Kunth) is a(n) culinary herb from the *Piperaceae* family
 
 |       item       |                       acuyo                       |
 |------------------|---------------------------------------------------|
-|   species name   |               *Piper auritum* Kunth               |
+|       taxon      |               *Piper auritum* Kunth               |
 |      family      |                     Piperaceae                    |
 | region of origin |                  Central America                  |
 |     macroarea    |                      Americas                     |
 |     part used    |                        herb                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/680520-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/680520-1)|
 
 
 

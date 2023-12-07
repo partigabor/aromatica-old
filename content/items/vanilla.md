@@ -30,17 +30,17 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the
 
 |       item       |                                             vanilla                                             |
 |------------------|-------------------------------------------------------------------------------------------------|
-|   species name   |                              *Vanilla planifolia* Jacks. ex Andrews                             |
+|       taxon      |                              *Vanilla planifolia* Jacks. ex Andrews                             |
 |      family      |                                           Orchidaceae                                           |
 | region of origin |                                         Tropical America                                        |
 |     macroarea    |                                             Americas                                            |
 |     part used    |                                              fruit                                              |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
 |    cultivation   |                      Madagascar; Indonesia; Mexico; Papua New Guinea; China                     |
 
-![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
+![Vanilla planifolia](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
->Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 114.
+>Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 114.
 
 ## Distribution
 

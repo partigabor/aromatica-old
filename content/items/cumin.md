@@ -26,17 +26,17 @@ CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family, 
 
 |       item       |                       cumin                       |
 |------------------|---------------------------------------------------|
-|   species name   |                *Cuminum cyminum* L.               |
+|       taxon      |                *Cuminum cyminum* L.               |
 |      family      |                      Apiaceae                     |
 | region of origin |           S. Europe; W. & C. Asia; India          |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 |    cultivation   |                India; Iran; Lebanon               |
 
-![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
+![Cuminum cyminum](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} III 23.
+>Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} III 23.
 
 ## Distribution
 

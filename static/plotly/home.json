@@ -79,8 +79,8 @@
           "\u02bfushbat al-mal\u0101k al-makhzaniyya",
           "\u6b50\u767d\u82b7",
           "\u014dub\u00e1i\u200bzh\u01d0",
-          11.0,
-          60.0,
+          10.7389701,
+          59.9133301,
           1
         ],
         [
@@ -194,7 +194,7 @@
         "ajwain"
       ],
       "lat": [
-        60.0,
+        59.9133301,
         35.0,
         35.0,
         45.0,
@@ -206,7 +206,7 @@
       ],
       "legendgroup": "Apiaceae",
       "lon": [
-        11.0,
+        10.7389701,
         33.0,
         55.0,
         69.0,
@@ -1072,8 +1072,8 @@
           "\u02bfambar",
           "\u9f8d\u6d8e\u9999",
           "l\u00f3ngxi\u00e1nxi\u0101ng",
-          82.0,
-          -33.0,
+          0.0,
+          0.0,
           1
         ]
       ],
@@ -1083,11 +1083,11 @@
         "ambergris"
       ],
       "lat": [
-        -33.0
+        0.0
       ],
       "legendgroup": "Physeteridae",
       "lon": [
-        82.0
+        0.0
       ],
       "marker": {
         "color": "#b2cf6b",

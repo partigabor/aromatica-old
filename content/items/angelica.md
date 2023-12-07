@@ -24,16 +24,16 @@ ANGELICA (*Angelica archangelica* L.) is a(n) culinary and potatory herb from th
 
 |       item       |                      angelica                     |
 |------------------|---------------------------------------------------|
-|   species name   |             *Angelica archangelica* L.            |
+|       taxon      |             *Angelica archangelica* L.            |
 |      family      |                      Apiaceae                     |
 | region of origin |                      Eur; As                      |
 |     macroarea    |                      Eurasia                      |
 |     part used    |                 root; fruit; stem                 |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/837560-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/837560-1)|
 
-![*Angelica archangelica* L.](/images/illustrations/angelica.png?width=40rem "Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen")
+![Angelica archangelica](/images/illustrations/angelica.png?width=40rem "Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen")
 
->Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 97. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/537/mode/1up)
+>Illustration of *Angelica archangelica* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 97. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/537/mode/1up)
 
 ## Distribution
 

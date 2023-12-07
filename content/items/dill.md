@@ -26,12 +26,12 @@ DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family
 
 |       item       |                        dill                       |
 |------------------|---------------------------------------------------|
-|   species name   |              *Anethum graveolens* L.              |
+|       taxon      |              *Anethum graveolens* L.              |
 |      family      |                      Apiaceae                     |
 | region of origin |           S. Europe; N. Africa; SW. Asia          |
 |     macroarea    |                   Med.; W. Asia                   |
 |     part used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 |    cultivation   |             India; Pakistan; worldwide            |
 
 
