@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) culinary spice from the *Schisandr
 
 ![*Illicium verum* Hook.f.](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 117*.
+>Illustration of Illicium verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 117*.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_star_anise.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/star_anise.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Illicium verum* Hook.f.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/554553-1
 
 <p style="text-align:left;">
 

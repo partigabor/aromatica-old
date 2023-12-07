@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) culinary and medicinal spic
 
 ![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
+>Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 186.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_cardamom.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/cardamom.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Elettaria cardamomum* (L.) Maton[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/796556-1
 
 <p style="text-align:left;">
 

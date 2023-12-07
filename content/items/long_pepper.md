@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper."
 weight = 10
 # draft = "true"
@@ -40,9 +40,11 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_long_pepper.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/long_pepper.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Piper longum* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/682031-1
 
 <p style="text-align:left;">
 

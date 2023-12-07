@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 
 ![*Zingiber officinale* Roscoe](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
->Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 172.
+>Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 172.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_ginger.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/ginger.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Zingiber officinale* Roscoe[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/798372-1
 
 <p style="text-align:left;">
 

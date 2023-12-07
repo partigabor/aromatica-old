@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho."
 weight = 10
 # draft = "true"
@@ -40,9 +40,11 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_sichuan_pepper.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/sichuan_pepper.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Zanthoxylum bungeanum* Maxim.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/775625-1
 
 <p style="text-align:left;">
 

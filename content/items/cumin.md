@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family, 
 
 ![*Cuminum cyminum* L.](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} III 23.
+>Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} III 23.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_cumin.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/cumin.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Cuminum cyminum* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/840882-1
 
 <p style="text-align:left;">
 

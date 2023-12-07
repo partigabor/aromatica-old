@@ -1,7 +1,7 @@
 +++
 title = "Ashanti Pepper"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper."
 weight = 10
 # draft = "true"
@@ -33,9 +33,11 @@ ASHANTI PEPPER (*Piper guineense* Schumach. \& Thonn.) is a(n) culinary and medi
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_ashanti_pepper.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/ashanti_pepper.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Piper guineense* Schumach. \& Thonn.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/681598-1
 
 <p style="text-align:left;">
 

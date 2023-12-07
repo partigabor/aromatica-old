@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla."
 weight = 10
 # draft = "true"
@@ -40,15 +40,17 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the
 
 ![*Vanilla planifolia* Jacks. ex Andrews](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
->Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 114.
+>Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 114.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_vanilla.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/vanilla.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Vanilla planifolia* Jacks. ex Andrews[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/262578-2
 
 <p style="text-align:left;">
 

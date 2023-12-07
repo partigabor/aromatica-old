@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The seeds of a West Asian herb."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from 
 
 ![*Trigonella foenum-graecum* L.](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 155.
+>Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 155.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_fenugreek.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/fenugreek.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Trigonella foenum-graecum* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/523957-1
 
 <p style="text-align:left;">
 

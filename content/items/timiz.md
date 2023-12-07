@@ -1,7 +1,7 @@
 +++
 title = "Timiz"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "Fruits of an African *Piper* species, related to black pepper; long pepper."
 weight = 10
 # draft = "true"
@@ -38,9 +38,11 @@ TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Pipe
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_timiz.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/timiz.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Piper capense* L.f.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/680780-1
 
 <p style="text-align:left;">
 

@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*."
 weight = 10
 # draft = "true"
@@ -42,9 +42,11 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) culinary spice from the *Zingi
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_black_cardamom.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/black_cardamom.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Amomum subulatum* Roxb.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/872166-1
 
 <p style="text-align:left;">
 

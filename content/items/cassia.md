@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice 
 
 ![*Cinnamomum cassia* (L.) J.Presl.](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
 
->Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} I 77.
+>Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_cassia.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/cassia.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Cinnamomum cassia* (L.) J.Presl.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/463288-1
 
 <p style="text-align:left;">
 

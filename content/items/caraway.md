@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The seed-like fruits of an Eurasian herb."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family, or
 
 ![*Carum carvi* L.](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 
->Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 91.
+>Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 91.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_caraway.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/caraway.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Carum carvi* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/839677-1
 
 <p style="text-align:left;">
 

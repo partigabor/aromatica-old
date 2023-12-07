@@ -1,7 +1,7 @@
 +++
 title = "Annatto"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The red juice of the seeds of Bixa orellana."
 weight = 10
 # draft = "true"
@@ -44,9 +44,11 @@ ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from t
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_annatto.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/annatto.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Bixa orellana* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/33335-2
 
 <p style="text-align:left;">
 

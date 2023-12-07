@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medic
 
 ![*Syzygium aromaticum* (L.) Merr. \& L.M.Perry](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 125.
+>Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 125.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_clove.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/clove.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/601421-1
 
 <p style="text-align:left;">
 

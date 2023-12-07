@@ -1,7 +1,7 @@
 +++
 title = "Lemongrass"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The root of Cymbopogon citratus."
 weight = 10
 # draft = "true"
@@ -33,9 +33,11 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal he
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_lemongrass.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/lemongrass.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Cymbopogon citratus* (DC.) Stapf[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/396896-1
 
 <p style="text-align:left;">
 

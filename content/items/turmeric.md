@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spi
 
 ![*Curcuma longa* L.](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 178.
+>Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_turmeric.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/turmeric.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Curcuma longa* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/796451-1
 
 <p style="text-align:left;">
 

@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The fruit of Piper cubeba, related to pepper. See also Ashanti pepper."
 weight = 10
 # draft = "true"
@@ -42,9 +42,11 @@ CUBEB (*Piper cubeba* L.f.) is a(n) culinary and medicinal and perfume spice fro
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_cubeb.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/cubeb.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Piper cubeba* L.f.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/681071-1
 
 <p style="text-align:left;">
 

@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The dried fruits of a perennial herb."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 
 ![*Foeniculum vulgare* Mill.](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
->Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 88.
+>Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 88.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_fennel.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/fennel.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Foeniculum vulgare* Mill.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/842680-1
 
 <p style="text-align:left;">
 

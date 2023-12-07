@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper."
 weight = 10
 # draft = "true"
@@ -40,15 +40,17 @@ PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Pipera
 
 ![*Piper nigrum* L.](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 144.
+>Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_pepper.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/pepper.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Piper nigrum* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/682369-1
 
 <p style="text-align:left;">
 

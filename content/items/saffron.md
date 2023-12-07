@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus."
 weight = 10
 # draft = "true"
@@ -40,15 +40,17 @@ SAFFRON (*Crocus sativus* L.) is a(n) culinary spice and dye from the *Iridaceae
 
 ![*Crocus sativus* L.](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
->Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 164.
+>Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 164.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_saffron.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/saffron.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Crocus sativus* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/436688-1
 
 <p style="text-align:left;">
 

@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The seeds of a Mediterranean herb."
 weight = 10
 # draft = "true"
@@ -40,9 +40,11 @@ DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_dill.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/dill.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Anethum graveolens* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/837530-1
 
 <p style="text-align:left;">
 

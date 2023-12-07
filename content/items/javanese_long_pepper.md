@@ -1,7 +1,7 @@
 +++
 title = "Javanese Long Pepper"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "Fruit of Piper retrofractum."
 weight = 10
 # draft = "true"
@@ -40,9 +40,11 @@ JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) culinary spice from the
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_javanese_long_pepper.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/javanese_long_pepper.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Piper retrofractum* Vahl[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/683079-1
 
 <p style="text-align:left;">
 

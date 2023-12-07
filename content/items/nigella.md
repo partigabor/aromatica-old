@@ -1,7 +1,7 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The seed of Nigella sativa."
 weight = 10
 # draft = "true"
@@ -39,9 +39,11 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_nigella.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/nigella.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Nigella sativa* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/711687-1
 
 <p style="text-align:left;">
 

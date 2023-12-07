@@ -1,14 +1,14 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', 'beverages']
+tags = ['culinary', 'potatory']
 bibFile = "static/bibliography/parti.json"
 +++
 
@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Apiaceae* family, originating in the region(s) of East Mediterranean. It is valued for its fruit; oil; leaf. {{< cite "powo" >}}
+ANISE (*Pimpinella anisum* L.) is a(n) culinary and potatory spice from the *Apiaceae* family, originating in the region(s) of East Mediterranean. It is valued for its fruit; oil; leaf. {{< cite "powo" >}}
 
 ## Overview
 
@@ -40,15 +40,17 @@ ANISE (*Pimpinella anisum* L.) is a(n) culinary and beverages spice from the *Ap
 
 ![*Pimpinella anisum* L.](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 93.
+>Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 93.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_anise.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/anise.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Pimpinella anisum* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/846658-1
 
 <p style="text-align:left;">
 

@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg."
 weight = 10
 # draft = "true"
@@ -36,15 +36,17 @@ MACE (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicacea
 
 ![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
->Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 132.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_mace.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/mace.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Myristica fragrans* Houtt.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/586076-1
 
 <p style="text-align:left;">
 

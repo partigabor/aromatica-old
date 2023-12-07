@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-12-04"
+date = "2023-12-07"
 description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica."
 weight = 10
 # draft = "true"
@@ -40,15 +40,17 @@ CHILE (*Capsicum annuum* L.) is a(n) culinary spice from the *Solanaceae* family
 
 ![*Capsicum annuum* L.](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 127.
+>Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 127.
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_chile.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/chile.json" weight="600" height="300" >}}
 
 >Native and introduced habitats of *Capsicum annuum* L.[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/316944-2
 
 <p style="text-align:left;">
 
