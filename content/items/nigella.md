@@ -1,8 +1,8 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The seed of Nigella sativa."
+date = "2023-12-08"
+description = "The seed of Nigella sativa. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed of Nigella sativa.
+>The seed of Nigella sativa. 
 
 <center>
 
@@ -20,7 +20,9 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* family, originating in the region(s) of Romania to W. & SW. Iran. It is valued for its seed. {{< cite "powo" >}}
+NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, growing in the temperate biome, originating in the region(s) of Romania to W. & SW. Iran. It is used as a(n) culinary spice, and cultivated for its seed.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,7 +33,7 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 | region of origin |                      Med; As                      |
 |     macroarea    |                   Med.; W. Asia                   |
 |     part used    |                        seed                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/711687-1)|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/711687-1)|
 
 
 
@@ -41,7 +43,7 @@ NIGELLA (*Nigella sativa* L.) is a(n) culinary spice from the *Ranunculaceae* fa
 
 {{< plotly json="/aromatica/plotly/distributions/nigella.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Nigella sativa* L.[^powo]
+>Native and introduced habitats of Nigella sativa[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/711687-1
 

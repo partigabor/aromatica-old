@@ -1,8 +1,8 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried fruits of a perennial herb."
+date = "2023-12-08"
+description = "The dried fruits of a perennial herb. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of a perennial herb.
+>The dried fruits of a perennial herb. 
 
 <center>
 
-**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span> 
+**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span>
 
 </center>
 
-FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Mediterranean; W. Asia. It is valued for its fruit. {{< cite "powo" >}}
+FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Mediterranean; W. Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 | region of origin |                    Mediterranean                   |
 |     macroarea    |                    Med.; W. Asia                   |
 |     part used    |                        fruit                       |
-|botanical_database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 |    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
+|botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
 ![Foeniculum vulgare](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 88.
+>Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 88.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) culinary spice from the *Apiaceae* f
 
 {{< plotly json="/aromatica/plotly/distributions/fennel.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Foeniculum vulgare* Mill.[^powo]
+>Native and introduced habitats of Foeniculum vulgare[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/842680-1
 

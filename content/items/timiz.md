@@ -1,8 +1,8 @@
 +++
 title = "Timiz"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "Fruits of an African *Piper* species, related to black pepper; long pepper."
+date = "2023-12-08"
+description = "Fruits of an African *Piper* species, related to black pepper; long pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,13 +12,21 @@ tags = ['culinary', 'medicinal', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
->Fruits of an African *Piper* species, related to black pepper; long pepper.
+>Fruits of an African *Piper* species, related to black pepper; long pepper. 
 
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/timiz" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
-TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of Tropical & S. Africa, Comoros, Madagascar. It is valued for its fruit. {{< cite "powo" >}}
+<center>
+
+
+
+</center>
+
+TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical & S. Africa, Comoros, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -29,8 +37,8 @@ TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Pipe
 | region of origin |                    East Africa                    |
 |     macroarea    |                       Africa                      |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/680780-1)|
 |    cultivation   |                      Ethiopia                     |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/680780-1)|
 
 
 
@@ -40,7 +48,7 @@ TIMIZ (*Piper capense* L.f.) is a(n) culinary and medicinal spice from the *Pipe
 
 {{< plotly json="/aromatica/plotly/distributions/timiz.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Piper capense* L.f.[^powo]
+>Native and introduced habitats of Piper capense[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/680780-1
 

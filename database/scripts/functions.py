@@ -160,8 +160,8 @@ def generate_coordinates(df):
                 df.at[index, 'lat'] = location.latitude
                 df.at[index, 'lon'] = location.longitude
             else:
-                df.at[index, 'lat'] = 0
-                df.at[index, 'lon'] = 0
+                df.at[index, 'lat'] = np.nan
+                df.at[index, 'lon'] = np.nan
     return df
 
 
@@ -183,6 +183,9 @@ def generate_centroid_coordinates(df):
                 native_centroid = native_data.to_crs('+proj=cea').centroid.to_crs(native_data.crs)
                 df.at[index, 'lat'] = native_centroid.y.iloc[0]
                 df.at[index, 'lon'] = native_centroid.x.iloc[0]
+            else:
+                df.at[index, 'lat'] = 0
+                df.at[index, 'lon'] = 0
     return df
 
 
@@ -252,3 +255,121 @@ py = pinyin.get('錫蘭肉桂')
 jp = jyutping.get('錫蘭肉桂')
 print(py)
 print(' '.join(jp))
+
+
+
+## Wordnet
+
+import nltk
+from nltk.corpus import wordnet as wn
+# nltk.download("wordnet")
+# nltk.download("omw-1.4")
+# nltk.download("extended_omw") # if you want the wiktionary data
+
+# Wordnets using the Open Multilingual WordNet (https://omwn.org/omw1.html) # 100%: cmn, fin, hrv
+# wn_langs = ['als', 'arb', 'bul', 'cat', 'cmn', 'dan', 'ell', 'eng', 'eus', 'fin', 'fra', 'glg', 'heb', 'hrv', 'ind', 'isl', 'ita', 'ita_iwn', 'jpn', 'lit', 'nld', 'nno', 'nob', 'pol', 'por', 'slv', 'spa', 'swe', 'tha', 'zsm'] # 100%: cmn, fin, hrv
+
+wn_langs = ['fra'] # 'eng', 'arb', 'cmn', 
+print(wn.synset('allspice.n.03').definition())
+print(wn.synsets('allspice', pos='n'))
+print(wn.synset('allspice.n.03').lemma_names('ita'))
+
+### WordNet definitions
+def wn_definition(df):
+    '''
+    Returns a dataframe with Wordnet definitions of the words in the wn column.
+
+        Parameters:
+            df (pandas dataframe): Dataframe with a wn column.
+
+        Returns:
+            df (pandas dataframe): Dataframe with Wordnet definitions of the words in the wn column.
+    '''
+    for index, row in df.iterrows():
+        if pd.notna(row['wn']):
+            wn_definition = str(wn.synset(row['wn']).definition())
+            df.at[index, "wn_definition"] = str(wn_definition)
+    return df
+
+
+
+### WordNet translations
+def wn_translate(df, lan):
+    '''
+    Returns a dataframe with Wordnet translations of the words in the wn column.
+
+        Parameters:
+            df (pandas dataframe): Dataframe with a wn column.
+            lan (str): Language code of the language to translate to.
+
+        Returns:
+            df (pandas dataframe): Dataframe with Wordnet translations of the words in the wn column.
+    '''
+    for index, row in df.iterrows():
+        if pd.notna(row['wn']):
+            translated_list = wn.synset(row['wn']).lemma_names(lan)
+            translated = ", ".join(str(x) for x in translated_list)
+            translated = re.sub("_", " ", translated)
+            df.at[index, f"wn_translation_{lan}"] = translated
+    return df
+
+
+
+### Translator
+from googletrans import Translator
+translator = Translator()
+def translate(input, language):
+    '''
+    Returns a translation of a word or phrase into a language.
+    
+            Parameters:
+                input (str): Word or phrase to translate.
+                language (str): Language code of the language to translate to.
+    
+            Returns:
+                translated (str): Translation of the word or phrase into the language.
+        '''
+    translated = translator.translate(input, dest=language)
+    return translated.text
+
+   
+
+#### Translate with DeepL, using Google Translate
+# https://developers.google.com/admin-sdk/directory/v1/languages
+# dl_languages = {'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy', 'assamese': 'as', 'aymara': 'ay', 'azerbaijani': 'az', 'bambara': 'bm', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bhojpuri': 'bho', 'bosnian': 'bs', 'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny', 'chinese (simplified)': 'zh-CN', 'chinese (traditional)': 'zh-TW', 'corsican': 'co', 'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dhivehi': 'dv', 'dogri': 'doi', 'dutch': 'nl', 'english': 'en', 'esperanto': 'eo', 'estonian': 'et', 'ewe': 'ee', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr', 'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el', 'guarani': 'gn', 'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'iw', 'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig', 'ilocano': 'ilo', 'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw', 'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'kinyarwanda': 'rw', 'konkani': 'gom', 'korean': 'ko', 'krio': 'kri', 'kurdish (kurmanji)': 'ku', 'kurdish (sorani)': 'ckb', 'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lingala': 'ln', 'lithuanian': 'lt', 'luganda': 'lg', 'luxembourgish': 'lb', 'macedonian': 'mk', 'maithili': 'mai', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml', 'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'meiteilon (manipuri)': 'mni-Mtei', 'mizo': 'lus', 'mongolian': 'mn', 'myanmar': 'my', 'nepali': 'ne', 'norwegian': 'no', 'odia (oriya)': 'or', 'oromo': 'om', 'pashto': 'ps', 'persian': 'fa', 'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'quechua': 'qu', 'romanian': 'ro', 'russian': 'ru', 'samoan': 'sm', 'sanskrit': 'sa', 'scots gaelic': 'gd', 'sepedi': 'nso', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn', 'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so', 'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg', 'tamil': 'ta', 'tatar': 'tt', 'telugu': 'te', 'thai': 'th', 'tigrinya': 'ti', 'tsonga': 'ts', 'turkish': 'tr', 'turkmen': 'tk', 'twi': 'ak', 'ukrainian': 'uk', 'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy', 'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'}
+
+dl_languages = {'french': 'fr'} # 'hungarian': 'hu', 'english': 'en', 'arabic': 'ar', 'chinese': 'zh-TW',
+dl_language_list = list(dl_languages.values())
+
+from deep_translator import GoogleTranslator as dl
+# translated = dl(source='en', target='hu').translate("allspice") # api_key=openai
+# print(translated)
+
+def dl_translate(df, lang):
+    '''
+    Returns a dataframe with DeepL translations of the words in the English column.
+
+        Parameters:
+            df (pandas dataframe): Dataframe with an English column.
+            lang (str): Language code of the language to translate to.
+
+        Returns:
+            df (pandas dataframe): Dataframe with DeepL translations of the words in the English column.
+    '''    
+    for index, row in df.iterrows():
+        if pd.notna(row['English']):
+            translated = dl(source='en', target=lang).translate(row['English'])
+            df.at[index, f"dl_translation_{lang}"] = translated
+    return df
+
+
+
+##################
+# Regex cheatsheet
+
+# (?!) - negative lookahead
+# (?=) - positive lookahead
+# (?<=) - positive lookbehind
+# (?<!) - negative lookbehind
+
+# (?>) - atomic group

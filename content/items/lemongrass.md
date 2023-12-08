@@ -1,8 +1,8 @@
 +++
 title = "Lemongrass"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The root of Cymbopogon citratus."
+date = "2023-12-08"
+description = "The root of Cymbopogon citratus. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,9 +12,17 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The root of Cymbopogon citratus.
+>The root of Cymbopogon citratus. 
 
-LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal herb from the *Poaceae* family, originating in the region(s) of S. India, Sri Lanka. It is valued for its leaf. {{< cite "powo" >}}
+<center>
+
+
+
+</center>
+
+LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poaceae* family, growing in the wet tropical biome, originating in the region(s) of S. India, Sri Lanka. It is used as a(n) culinary and medicinal herb, and cultivated for its leaf.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -25,7 +33,7 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal he
 | region of origin |         Maritime Southeast Asia; cultigen         |
 |     macroarea    |                        Asia                       |
 |     part used    |                        leaf                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
 
 
 
@@ -35,7 +43,7 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) culinary and medicinal he
 
 {{< plotly json="/aromatica/plotly/distributions/lemongrass.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Cymbopogon citratus* (DC.) Stapf[^powo]
+>Native and introduced habitats of Cymbopogon citratus[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/396896-1
 

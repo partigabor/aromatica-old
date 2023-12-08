@@ -1,24 +1,28 @@
 +++
 title = "Angelica"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = ""
+date = "2023-12-08"
+description = "The scented stems and roots of a medicinal plant from the northern hemisphere.. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['herb']
-tags = ['culinary', 'potatory']
+tags = ['culinary', 'potatory', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
+>The scented stems and roots of a medicinal plant from the northern hemisphere.. 
+
 <center>
 
-**English:** angelica · **Hungarian:** orvosi angyalgyökér · **Arabic:** <span class="arabic-text" dir="rtl">عشبة الملاك المخزنية</span> · **Chinese:** <span class="traditional-chinese-text">歐白芷</span> 
+**English:** angelica · **Hungarian:** orvosi angyalgyökér · **Arabic:** <span class="arabic-text" dir="rtl">عشبة الملاك المخزنية</span> · **Chinese:** <span class="traditional-chinese-text">歐白芷</span>
 
 </center>
 
-ANGELICA (*Angelica archangelica* L.) is a(n) culinary and potatory herb from the *Apiaceae* family, originating in the region(s) of Greenland, Europe to W. Siberia. It is valued for its root; fruit; stem. {{< cite "powo" >}}
+ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Greenland, Europe to W. Siberia. It is used as a(n) culinary and potatory and medicinal herb, and cultivated for its root; fruit; stem.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -29,11 +33,11 @@ ANGELICA (*Angelica archangelica* L.) is a(n) culinary and potatory herb from th
 | region of origin |                      Eur; As                      |
 |     macroarea    |                      Eurasia                      |
 |     part used    |                 root; fruit; stem                 |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/837560-1)|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/837560-1)|
 
 ![Angelica archangelica](/images/illustrations/angelica.png?width=40rem "Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Angelica archangelica* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 97. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/537/mode/1up)
+>Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 97. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/537/mode/1up)
 
 ## Distribution
 
@@ -41,7 +45,7 @@ ANGELICA (*Angelica archangelica* L.) is a(n) culinary and potatory herb from th
 
 {{< plotly json="/aromatica/plotly/distributions/angelica.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Angelica archangelica* L.[^powo]
+>Native and introduced habitats of Angelica archangelica[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/837560-1
 

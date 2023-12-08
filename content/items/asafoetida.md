@@ -1,8 +1,8 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung."
+date = "2023-12-08"
+description = "The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung.
+>The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung. 
 
 {{< load-photoswipe >}}
 
@@ -20,11 +20,13 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="traditional-chinese-text">阿魏</span> 
+**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="traditional-chinese-text">阿魏</span>
 
 </center>
 
-ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice from the *Apiaceae* family, originating in the region(s) of Central Asia. It is valued for its gum-resin (latex). {{< cite "powo" >}}
+ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Central Asia. It is used as a(n) culinary and medicinal spice, and cultivated for its gum-resin (latex).
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -35,12 +37,12 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice
 | region of origin |                Iran; W. and C. Asia               |
 |     macroarea    |                        Asia                       |
 |     part used    |                 gum-resin (latex)                 |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 |    cultivation   |                 Iran; Afghanistan                 |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
 ![Ferula foetida](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 147.
+>Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 147.
 
 ## Distribution
 
@@ -48,7 +50,7 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) culinary and medicinal spice
 
 {{< plotly json="/aromatica/plotly/distributions/asafoetida.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Ferula foetida* (Bunge) Regel[^powo]
+>Native and introduced habitats of Ferula foetida[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/842277-1
 

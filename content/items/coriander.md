@@ -1,8 +1,8 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried fruits of an annual herb, also known as cilantro."
+date = "2023-12-08"
+description = "The dried fruits of an annual herb, also known as cilantro. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of an annual herb, also known as cilantro.
+>The dried fruits of an annual herb, also known as cilantro. 
 
 <center>
 
-**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span> 
+**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span>
 
 </center>
 
-CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of West Asia. It is valued for its fruit. {{< cite "powo" >}}
+CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* f
 | region of origin |              E. Mediterranean; W. Asia              |
 |     macroarea    |                         Asia                        |
 |     part used    |                        fruit                        |
-|botanical_database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
+|botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
 ![Coriandrum sativum](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 145.
+>Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 145.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) culinary spice from the *Apiaceae* f
 
 {{< plotly json="/aromatica/plotly/distributions/coriander.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Coriandrum sativum* L.[^powo]
+>Native and introduced habitats of Coriandrum sativum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/840760-1
 

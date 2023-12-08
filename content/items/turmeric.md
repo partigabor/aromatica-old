@@ -1,8 +1,8 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary."
+date = "2023-12-08"
+description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary', 'medicinal', 'ritualistic']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary.
+>The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary. 
 
 <center>
 
-**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span> 
+**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span>
 
 </center>
 
-TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family, originating in the region(s) of India. It is valued for its rhizome. {{< cite "powo" >}}
+TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spi
 | region of origin |                       India                       |
 |     macroarea    |                        Asia                       |
 |     part used    |                      rhizome                      |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
 ![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178.
+>Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ TURMERIC (*Curcuma longa* L.) is a(n) culinary and medicinal and ritualistic spi
 
 {{< plotly json="/aromatica/plotly/distributions/turmeric.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Curcuma longa* L.[^powo]
+>Native and introduced habitats of Curcuma longa[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/796451-1
 

@@ -1,8 +1,8 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The seeds of a West Asian herb."
+date = "2023-12-08"
+description = "The seeds of a West Asian herb. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seeds of a West Asian herb.
+>The seeds of a West Asian herb. 
 
 <center>
 
-**English:** fenugreek · **Hungarian:** görögszéna · **Arabic:** <span class="arabic-text" dir="rtl">حلبة</span> · **Chinese:** <span class="traditional-chinese-text">胡蘆巴</span> 
+**English:** fenugreek · **Hungarian:** görögszéna · **Arabic:** <span class="arabic-text" dir="rtl">حلبة</span> · **Chinese:** <span class="traditional-chinese-text">胡蘆巴</span>
 
 </center>
 
-FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from the *Fabaceae* family, originating in the region(s) of West Asia. It is valued for its seed; leaf. {{< cite "powo" >}}
+FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from 
 | region of origin |                 S. Europe; W. Asia                |
 |     macroarea    |                        Asia                       |
 |     part used    |                     seed; leaf                    |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 |    cultivation   |                       India                       |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
 ![Trigonella foenum-graecum](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 155.
+>Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 155.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) culinary spice and herb from 
 
 {{< plotly json="/aromatica/plotly/distributions/fenugreek.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Trigonella foenum-graecum* L.[^powo]
+>Native and introduced habitats of Trigonella foenum-graecum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/523957-1
 

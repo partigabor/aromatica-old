@@ -1,8 +1,8 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper."
+date = "2023-12-08"
+description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of an Indian vine, also known as black pepper, related to long pepper.
+>The dried fruits of an Indian vine, also known as black pepper, related to long pepper. 
 
 {{< load-photoswipe >}}
 
@@ -20,11 +20,13 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="traditional-chinese-text">胡椒</span> 
+**English:** pepper · **Hungarian:** bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل</span> · **Chinese:** <span class="traditional-chinese-text">胡椒</span>
 
 </center>
 
-PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of India. It is valued for its fruit. {{< cite "powo" >}}
+PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -35,12 +37,12 @@ PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Pipera
 | region of origin |            Malabar coast (South India)            |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 |    cultivation   | Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 
 ![Piper nigrum](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144.
+>Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144.
 
 ## Distribution
 
@@ -48,7 +50,7 @@ PEPPER (*Piper nigrum* L.) is a(n) culinary and medicinal spice from the *Pipera
 
 {{< plotly json="/aromatica/plotly/distributions/pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Piper nigrum* L.[^powo]
+>Native and introduced habitats of Piper nigrum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/682369-1
 

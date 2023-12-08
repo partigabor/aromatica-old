@@ -1,8 +1,8 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace."
+date = "2023-12-08"
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,31 +12,33 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace.
+>The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace. 
 
 <center>
 
-**English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Chinese:** <span class="traditional-chinese-text">丁香</span> 
+**English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Chinese:** <span class="traditional-chinese-text">丁香</span>
 
 </center>
 
-CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medicinal spice from the *Myrtaceae* family, originating in the region(s) of Indonesia. It is valued for its flower buds. {{< cite "powo" >}}
+CLOVE (*Syzygium aromaticum* (L.) Merr. & L.M.Perry) is a(n) shrub or tree from the *Myrtaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary and medicinal spice, and cultivated for its flower buds.
+
+{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                       clove                       |
 |------------------|---------------------------------------------------|
-|       taxon      |   *Syzygium aromaticum* (L.) Merr. \& L.M.Perry   |
+|       taxon      |    *Syzygium aromaticum* (L.) Merr. & L.M.Perry   |
 |      family      |                     Myrtaceae                     |
 | region of origin |               N. Moluccas, Indonesia              |
 |     macroarea    |                        Asia                       |
 |     part used    |                    flower buds                    |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 |    cultivation   |           Indonesia; Malaysia; Tanzania           |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
 ![Syzygium aromaticum](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 125.
+>Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 125.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ CLOVE (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a(n) culinary and medic
 
 {{< plotly json="/aromatica/plotly/distributions/clove.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry[^powo]
+>Native and introduced habitats of Syzygium aromaticum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/601421-1
 

@@ -1,8 +1,8 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace."
+date = "2023-12-08"
+description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.
+>The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. 
 
 {{< load-photoswipe >}}
 
@@ -20,11 +20,13 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** nutmeg · **Hungarian:** szerecsendió · **Arabic:** <span class="arabic-text" dir="rtl">جوز الطيب</span> · **Chinese:** <span class="traditional-chinese-text">肉豆蔻</span> 
+**English:** nutmeg · **Hungarian:** szerecsendió · **Arabic:** <span class="arabic-text" dir="rtl">جوز الطيب</span> · **Chinese:** <span class="traditional-chinese-text">肉豆蔻</span>
 
 </center>
 
-NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicaceae* family, originating in the region(s) of Indonesia. It is valued for its seed. {{< cite "powo" >}}
+NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary spice, and cultivated for its seed.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -35,12 +37,12 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicac
 | region of origin |                Moluccas (Indonesia)               |
 |     macroarea    |                        Asia                       |
 |     part used    |                        seed                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 |    cultivation   |                 Grenada; Indonesia                |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
 ![Myristica fragrans](/images/illustrations/nutmeg.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 132.
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 132.
 
 ## Distribution
 
@@ -48,7 +50,7 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) culinary spice from the *Myristicac
 
 {{< plotly json="/aromatica/plotly/distributions/nutmeg.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Myristica fragrans* Houtt.[^powo]
+>Native and introduced habitats of Myristica fragrans[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/586076-1
 

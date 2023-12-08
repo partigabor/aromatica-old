@@ -1,8 +1,8 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice."
+date = "2023-12-08"
+description = "The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'perfumery']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice.
+>The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice. 
 
 {{< load-photoswipe >}}
 
@@ -20,11 +20,13 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span> 
+**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span>
 
 </center>
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from the *Myrtaceae* family, originating in the region(s) of S. Mexico to Central America; Caribbean. It is valued for its unripe fruit; leaf. {{< cite "powo" >}}
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. Mexico to Central America; Caribbean. It is used as a(n) culinary and perfumery spice, and cultivated for its unripe fruit; leaf.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -35,12 +37,12 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from
 | region of origin |                                S. Mexico to C. America; Caribbean                               |
 |     macroarea    |                                             Americas                                            |
 |     part used    |                                        unripe fruit; leaf                                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
 |    cultivation   |                                    Jamaica; Mexico; Honduras                                    |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
 
 ![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 174. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)
+>Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 174. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/697/mode/1up)
 
 ## Distribution
 
@@ -48,7 +50,7 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) culinary and perfumery spice from
 
 {{< plotly json="/aromatica/plotly/distributions/allspice.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Pimenta dioica* (L.) Merr.[^powo]
+>Native and introduced habitats of Pimenta dioica[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/196799-2
 

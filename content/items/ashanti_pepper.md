@@ -1,8 +1,8 @@
 +++
 title = "Ashanti Pepper"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper."
+date = "2023-12-08"
+description = "The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,20 +12,28 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper.
+>The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper. 
 
-ASHANTI PEPPER (*Piper guineense* Schumach. \& Thonn.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of Tropical Africa, Madagascar. It is valued for its fruit. {{< cite "powo" >}}
+<center>
+
+
+
+</center>
+
+ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical Africa, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                   Ashanti pepper                  |
 |------------------|---------------------------------------------------|
-|       taxon      |       *Piper guineense* Schumach. \& Thonn.       |
+|       taxon      |        *Piper guineense* Schumach. & Thonn.       |
 |      family      |                     Piperaceae                    |
 | region of origin |                  tropical Africa                  |
 |     macroarea    |                       Africa                      |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/681598-1)|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/681598-1)|
 
 
 
@@ -35,7 +43,7 @@ ASHANTI PEPPER (*Piper guineense* Schumach. \& Thonn.) is a(n) culinary and medi
 
 {{< plotly json="/aromatica/plotly/distributions/ashanti_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Piper guineense* Schumach. \& Thonn.[^powo]
+>Native and introduced habitats of Piper guineense[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/681598-1
 

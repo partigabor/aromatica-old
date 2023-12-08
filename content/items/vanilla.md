@@ -1,8 +1,8 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla."
+date = "2023-12-08"
+description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla.
+>The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla. 
 
 {{< load-photoswipe >}}
 
@@ -20,27 +20,29 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="traditional-chinese-text">香草</span> 
+**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="traditional-chinese-text">香草</span>
 
 </center>
 
-VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the *Orchidaceae* family, originating in the region(s) of Central and South America. It is valued for its fruit. {{< cite "powo" >}}
+VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Central and South America. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                                             vanilla                                             |
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                              *Vanilla planifolia* Jacks. ex Andrews                             |
-|      family      |                                           Orchidaceae                                           |
+|      family      |                                               nan                                               |
 | region of origin |                                         Tropical America                                        |
 |     macroarea    |                                             Americas                                            |
 |     part used    |                                              fruit                                              |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
 |    cultivation   |                      Madagascar; Indonesia; Mexico; Papua New Guinea; China                     |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
 
 ![Vanilla planifolia](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 114.
+>Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 114.
 
 ## Distribution
 
@@ -48,7 +50,7 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) culinary spice from the
 
 {{< plotly json="/aromatica/plotly/distributions/vanilla.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Vanilla planifolia* Jacks. ex Andrews[^powo]
+>Native and introduced habitats of Vanilla planifolia[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/262578-2
 

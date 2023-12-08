@@ -1,8 +1,8 @@
 +++
 title = "Ajwain"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The seed of Trachyspermum ammi."
+date = "2023-12-08"
+description = "The seed of Trachyspermum ammi. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed of Trachyspermum ammi.
+>The seed of Trachyspermum ammi. 
 
 <center>
 
@@ -20,7 +20,9 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Iraq to Central Asia and Myanmar. It is valued for its fruit. {{< cite "powo" >}}
+AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Iraq to Central Asia and Myanmar. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,7 +33,7 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apia
 | region of origin |                     Near East                     |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/849765-1)|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/849765-1)|
 
 
 
@@ -41,7 +43,7 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) culinary spice from the *Apia
 
 {{< plotly json="/aromatica/plotly/distributions/ajwain.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Trachyspermum ammi* (L.) Sprague[^powo]
+>Native and introduced habitats of Trachyspermum ammi[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/849765-1
 

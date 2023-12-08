@@ -1,8 +1,8 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper."
+date = "2023-12-08"
+description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary', 'medicinal', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper.
+>The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper. 
 
 <center>
 
-**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="traditional-chinese-text">蓽撥</span> 
+**English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Chinese:** <span class="traditional-chinese-text">蓽撥</span>
 
 </center>
 
-LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *Piperaceae* family, originating in the region(s) of India. It is valued for its fruit. {{< cite "powo" >}}
+LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the *Piperaceae* family, growing in the temperate biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,8 +33,8 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 | region of origin |     E. Himalaya to S. China; Indo-China; India    |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 |    cultivation   |             India; Indonesia; Thailand            |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 
 
 
@@ -42,7 +44,7 @@ LONG PEPPER (*Piper longum* L.) is a(n) culinary and medicinal spice from the *P
 
 {{< plotly json="/aromatica/plotly/distributions/long_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Piper longum* L.[^powo]
+>Native and introduced habitats of Piper longum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/682031-1
 

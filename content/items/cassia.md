@@ -1,8 +1,8 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon."
+date = "2023-12-08"
+description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,31 +12,33 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon.
+>The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. 
 
 <center>
 
-**English:** cassia · **Hungarian:** kasszia(fahéj) · **Arabic:** <span class="arabic-text" dir="rtl">سليخة</span> · **Chinese:** <span class="traditional-chinese-text">肉桂</span> 
+**English:** cassia · **Hungarian:** kasszia(fahéj) · **Arabic:** <span class="arabic-text" dir="rtl">سليخة</span> · **Chinese:** <span class="traditional-chinese-text">肉桂</span>
 
 </center>
 
-CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family, originating in the region(s) of South China; Vietnam. It is valued for its bark; fruit. {{< cite "powo" >}}
+CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of South China; Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                       cassia                      |
 |------------------|---------------------------------------------------|
 |       taxon      |         *Cinnamomum cassia* (L.) J.Presl.         |
-|      family      |                     Lauraceae                     |
+|      family      |                        nan                        |
 | region of origin |                  Southeast China                  |
 |     macroarea    |                        Asia                       |
 |     part used    |                    bark; fruit                    |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
 ![Cinnamomum cassia](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
+>Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) culinary and medicinal spice 
 
 {{< plotly json="/aromatica/plotly/distributions/cassia.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Cinnamomum cassia* (L.) J.Presl.[^powo]
+>Native and introduced habitats of Cinnamomum cassia[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/463288-1
 

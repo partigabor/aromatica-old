@@ -1,8 +1,8 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum."
+date = "2023-12-08"
+description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.
+>The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. 
 
 <center>
 
-**English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="traditional-chinese-text">孜然</span> 
+**English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="traditional-chinese-text">孜然</span>
 
 </center>
 
-CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of West Asia. It is valued for its fruit. {{< cite "powo" >}}
+CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family, 
 | region of origin |           S. Europe; W. & C. Asia; India          |
 |     macroarea    |                        Asia                       |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 |    cultivation   |                India; Iran; Lebanon               |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 
 ![Cuminum cyminum](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} III 23.
+>Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} III 23.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ CUMIN (*Cuminum cyminum* L.) is a(n) culinary spice from the *Apiaceae* family, 
 
 {{< plotly json="/aromatica/plotly/distributions/cumin.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Cuminum cyminum* L.[^powo]
+>Native and introduced habitats of Cuminum cyminum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/840882-1
 

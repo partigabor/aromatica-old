@@ -1,8 +1,8 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho."
+date = "2023-12-08"
+description = "The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho.
+>The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho. 
 
 <center>
 
-**English:** Sichuan pepper · **Hungarian:** szecsuáni bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل سيتشوان</span> · **Chinese:** <span class="traditional-chinese-text">花椒</span> 
+**English:** Sichuan pepper · **Hungarian:** szecsuáni bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل سيتشوان</span> · **Chinese:** <span class="traditional-chinese-text">花椒</span>
 
 </center>
 
-SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the *Rutaceae* family, originating in the region(s) of China. It is valued for its pericarp. {{< cite "powo" >}}
+SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) tree from the *Rutaceae* family, growing in the temperate biome, originating in the region(s) of China. It is used as a(n) culinary spice, and cultivated for its pericarp.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,8 +33,8 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 | region of origin |                       China                       |
 |     macroarea    |                        Asia                       |
 |     part used    |                      pericarp                     |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 |    cultivation   |                       China                       |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 
 
 
@@ -42,7 +44,7 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) culinary spice from the 
 
 {{< plotly json="/aromatica/plotly/distributions/sichuan_pepper.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Zanthoxylum bungeanum* Maxim.[^powo]
+>Native and introduced habitats of Zanthoxylum bungeanum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/775625-1
 

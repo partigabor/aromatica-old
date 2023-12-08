@@ -1,8 +1,8 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger."
+date = "2023-12-08"
+description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger.
+>The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger. 
 
 <center>
 
-**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="traditional-chinese-text">薑</span> 
+**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="traditional-chinese-text">薑</span>
 
 </center>
 
-GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from the *Zingiberaceae* family, originating in the region(s) of Southeast Asia. It is valued for its rhizome. {{< cite "powo" >}}
+GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Southeast Asia. It is used as a(n) culinary and medicinal spice, and cultivated for its rhizome.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 | region of origin |         South East Asia; India (secondary)        |
 |     macroarea    |                        Asia                       |
 |     part used    |                      rhizome                      |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 |    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 
 ![Zingiber officinale](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 172.
+>Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 172.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) culinary and medicinal spice from 
 
 {{< plotly json="/aromatica/plotly/distributions/ginger.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Zingiber officinale* Roscoe[^powo]
+>Native and introduced habitats of Zingiber officinale[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/798372-1
 

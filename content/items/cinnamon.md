@@ -1,8 +1,8 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon."
+date = "2023-12-08"
+description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,31 +12,33 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.
+>The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. 
 
 <center>
 
-**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="traditional-chinese-text">錫蘭肉桂</span> 
+**English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="traditional-chinese-text">錫蘭肉桂</span>
 
 </center>
 
-CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from the *Lauraceae* family, originating in the region(s) of Sri Lanka. It is valued for its bark; leaf. {{< cite "powo" >}}
+CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.
+
+{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                      cinnamon                     |
 |------------------|---------------------------------------------------|
 |       taxon      |            *Cinnamomum verum* J.Presl.            |
-|      family      |                     Lauraceae                     |
+|      family      |                        nan                        |
 | region of origin |                Sri Lanka; SW. India               |
 |     macroarea    |                        Asia                       |
 |     part used    |                     bark; leaf                    |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
 ![Cinnamomum verum](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 78.
+>Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 78.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) culinary and medicinal spice from
 
 {{< plotly json="/aromatica/plotly/distributions/cinnamon.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Cinnamomum verum* J.Presl.[^powo]
+>Native and introduced habitats of Cinnamomum verum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/463752-1
 

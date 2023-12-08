@@ -1,8 +1,8 @@
 +++
 title = "Annatto"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The red juice of the seeds of Bixa orellana."
+date = "2023-12-08"
+description = "The red juice of the seeds of Bixa orellana. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The red juice of the seeds of Bixa orellana.
+>The red juice of the seeds of Bixa orellana. 
 
 {{< load-photoswipe >}}
 
@@ -20,11 +20,13 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** annatto · **Hungarian:** annatto · **Arabic:** <span class="arabic-text" dir="rtl">أناتو</span> · **Chinese:** <span class="traditional-chinese-text">胭脂樹紅</span> 
+**English:** annatto · **Hungarian:** annatto · **Arabic:** <span class="arabic-text" dir="rtl">أناتو</span> · **Chinese:** <span class="traditional-chinese-text">胭脂樹紅</span>
 
 </center>
 
-ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from the *Bixaceae* family, originating in the region(s) of Mexico to S. Tropical America. It is valued for its seed. {{< cite "powo" >}}
+ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Tropical America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -35,8 +37,8 @@ ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from t
 | region of origin |                 Trop. Am.; C. Am.                |
 |     macroarea    |                     Americas                     |
 |     part used    |                       seed                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
 |    cultivation   |         Brazil, Peru, Kenya, Philippines         |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
 
 
 
@@ -46,7 +48,7 @@ ANNATTO (*Bixa orellana* L.) is a(n) culinary and medicinal spice and dye from t
 
 {{< plotly json="/aromatica/plotly/distributions/annatto.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Bixa orellana* L.[^powo]
+>Native and introduced habitats of Bixa orellana[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/33335-2
 

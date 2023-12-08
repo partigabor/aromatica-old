@@ -79,8 +79,8 @@
           "\u02bfushbat al-mal\u0101k al-makhzaniyya",
           "\u6b50\u767d\u82b7",
           "\u014dub\u00e1i\u200bzh\u01d0",
-          10.7389701,
-          59.9133301,
+          11.0,
+          60.0,
           1
         ],
         [
@@ -194,7 +194,7 @@
         "ajwain"
       ],
       "lat": [
-        59.9133301,
+        60.0,
         35.0,
         35.0,
         45.0,
@@ -206,7 +206,7 @@
       ],
       "legendgroup": "Apiaceae",
       "lon": [
-        10.7389701,
+        11.0,
         33.0,
         55.0,
         69.0,
@@ -342,75 +342,6 @@
         "ginger",
         "turmeric",
         "black cardamom"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "#ffffff",
-        "family": "Noto Sans",
-        "size": 12
-      },
-      "textposition": "top right"
-    },
-    {
-      "customdata": [
-        [
-          "Cinnamomum cassia",
-          "Lauraceae",
-          "Southeast China",
-          "\u0633\u0644\u064a\u062e\u0629",
-          "sal\u012bkha",
-          "\u8089\u6842",
-          "r\u00f2ugu\u00ec",
-          111.0,
-          22.0,
-          1
-        ],
-        [
-          "Cinnamomum verum",
-          "Lauraceae",
-          "Sri Lanka; SW. India",
-          "\u0642\u0631\u0641\u0629",
-          "qirfa",
-          "\u932b\u862d\u8089\u6842",
-          "x\u012bl\u00e1nr\u00f2ugu\u00ec",
-          81.0,
-          7.0,
-          1
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
-      "hovertext": [
-        "cassia",
-        "cinnamon"
-      ],
-      "lat": [
-        22.0,
-        7.0
-      ],
-      "legendgroup": "Lauraceae",
-      "lon": [
-        111.0,
-        81.0
-      ],
-      "marker": {
-        "color": "#0f8554",
-        "opacity": 0.7,
-        "size": 12,
-        "sizemode": "area",
-        "sizeref": 0.0009765625,
-        "symbol": "circle",
-        "line": {
-          "color": "rgba(0,0,0,0)",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Lauraceae",
-      "showlegend": true,
-      "text": [
-        "cassia",
-        "cinnamon"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -959,59 +890,6 @@
     {
       "customdata": [
         [
-          "Vanilla planifolia",
-          "Orchidaceae",
-          "Tropical America",
-          "\u0641\u0627\u0646\u064a\u0644\u064a\u0627",
-          "f\u0101n\u012bliy\u0101",
-          "\u9999\u8349",
-          "xi\u0101ngc\u01ceo",
-          -55.0,
-          -10.0,
-          1
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
-      "hovertext": [
-        "vanilla"
-      ],
-      "lat": [
-        -10.0
-      ],
-      "legendgroup": "Orchidaceae",
-      "lon": [
-        -55.0
-      ],
-      "marker": {
-        "color": "#8dd3d7",
-        "opacity": 0.7,
-        "size": 12,
-        "sizemode": "area",
-        "sizeref": 0.0009765625,
-        "symbol": "circle",
-        "line": {
-          "color": "rgba(0,0,0,0)",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Orchidaceae",
-      "showlegend": true,
-      "text": [
-        "vanilla"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "#ffffff",
-        "family": "Noto Sans",
-        "size": 12
-      },
-      "textposition": "top right"
-    },
-    {
-      "customdata": [
-        [
           "Aquilaria malaccensis",
           "Thymelaeaceae",
           "Southeast Asia",
@@ -1037,7 +915,7 @@
         107.9650855
       ],
       "marker": {
-        "color": "#7fbf7b",
+        "color": "#8dd3d7",
         "opacity": 0.7,
         "size": 12,
         "sizemode": "area",
@@ -1053,59 +931,6 @@
       "showlegend": true,
       "text": [
         "agarwood"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "#ffffff",
-        "family": "Noto Sans",
-        "size": 12
-      },
-      "textposition": "top right"
-    },
-    {
-      "customdata": [
-        [
-          "Physeter macrocephalus",
-          "Physeteridae",
-          "cosmopolitan",
-          "\u0639\u0646\u0628\u0631",
-          "\u02bfambar",
-          "\u9f8d\u6d8e\u9999",
-          "l\u00f3ngxi\u00e1nxi\u0101ng",
-          0.0,
-          0.0,
-          1
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
-      "hovertext": [
-        "ambergris"
-      ],
-      "lat": [
-        0.0
-      ],
-      "legendgroup": "Physeteridae",
-      "lon": [
-        0.0
-      ],
-      "marker": {
-        "color": "#b2cf6b",
-        "opacity": 0.7,
-        "size": 12,
-        "sizemode": "area",
-        "sizeref": 0.0009765625,
-        "symbol": "circle",
-        "line": {
-          "color": "rgba(0,0,0,0)",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Physeteridae",
-      "showlegend": true,
-      "text": [
-        "ambergris"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -1143,7 +968,7 @@
         -81.0
       ],
       "marker": {
-        "color": "#fddc69",
+        "color": "#7fbf7b",
         "opacity": 0.7,
         "size": 12,
         "sizemode": "area",
@@ -1196,7 +1021,7 @@
         105.0
       ],
       "marker": {
-        "color": "#fdae61",
+        "color": "#b2cf6b",
         "opacity": 0.7,
         "size": 12,
         "sizemode": "area",

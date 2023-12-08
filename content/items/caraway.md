@@ -1,8 +1,8 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The seed-like fruits of an Eurasian herb."
+date = "2023-12-08"
+description = "The seed-like fruits of an Eurasian herb. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed-like fruits of an Eurasian herb.
+>The seed-like fruits of an Eurasian herb. 
 
 <center>
 
-**English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="traditional-chinese-text">葛縷子</span> 
+**English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="traditional-chinese-text">葛縷子</span>
 
 </center>
 
-CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Eurasia. It is valued for its fruit. {{< cite "powo" >}}
+CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Eurasia. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,12 +33,12 @@ CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family, or
 | region of origin |         Mediterranean; C. Europe; Eurasia         |
 |     macroarea    |                      Eurasia                      |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
 |    cultivation   |     Denmark; Lebanon; The Netherlands; Poland     |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
 
 ![Carum carvi](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 
->Illustration of *Carum carvi* L. from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 91.
+>Illustration of Carum carvi from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 91.
 
 ## Distribution
 
@@ -44,7 +46,7 @@ CARAWAY (*Carum carvi* L.) is a(n) culinary spice from the *Apiaceae* family, or
 
 {{< plotly json="/aromatica/plotly/distributions/caraway.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Carum carvi* L.[^powo]
+>Native and introduced habitats of Carum carvi[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/839677-1
 

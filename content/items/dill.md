@@ -1,8 +1,8 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-12-07"
-description = "The seeds of a Mediterranean herb."
+date = "2023-12-08"
+description = "The seeds of a Mediterranean herb. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,15 +12,17 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seeds of a Mediterranean herb.
+>The seeds of a Mediterranean herb. 
 
 <center>
 
-**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="traditional-chinese-text">蒔蘿</span> 
+**English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="traditional-chinese-text">蒔蘿</span>
 
 </center>
 
-DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family, originating in the region(s) of Nort Africa; West Asia. It is valued for its fruit. {{< cite "powo" >}}
+DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Nort Africa; West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
+
+{{< cite "powo" >}}
 
 ## Overview
 
@@ -31,8 +33,8 @@ DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family
 | region of origin |           S. Europe; N. Africa; SW. Asia          |
 |     macroarea    |                   Med.; W. Asia                   |
 |     part used    |                       fruit                       |
-|botanical_database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 |    cultivation   |             India; Pakistan; worldwide            |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 
 
 
@@ -42,7 +44,7 @@ DILL (*Anethum graveolens* L.) is a(n) culinary spice from the *Apiaceae* family
 
 {{< plotly json="/aromatica/plotly/distributions/dill.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Anethum graveolens* L.[^powo]
+>Native and introduced habitats of Anethum graveolens[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/837530-1
 
