@@ -20,14 +20,14 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.{{< cite "powo" >}}
+CINNAMON (*Cinnamomum verum* J.Presl) is a(n) tree from the *Lauraceae* family, growing in the wet tropical biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                      cinnamon                     |
 |------------------|---------------------------------------------------|
-|       taxon      |            *Cinnamomum verum* J.Presl.            |
-|      family      |                        nan                        |
+|       taxon      |             *Cinnamomum verum* J.Presl            |
+|      family      |                     Lauraceae                     |
 | region of origin |                Sri Lanka; SW. India               |
 |     macroarea    |                        Asia                       |
 |     part_used    |                     bark; leaf                    |
@@ -50,9 +50,9 @@ CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) nan from the *nan* family, growin
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Sri Lanka
+**Native areas:** &ensp; &ensp; &ensp; Sri Lanka
 
-**Introduced regions:** Argentina Northeast, Assam, Bangladesh, Borneo, Brazil Southeast, Cambodia, Caroline Is., China Southeast, Comoros, Cook Is., Fiji, Gulf of Guinea Is., Hawaii, India, Jawa, Leeward Is., Mauritius, Myanmar, Philippines, Samoa, Seychelles, Society Is., Taiwan, Tanzania, Vietnam, Windward Is.
+**Introduced areas:** Gulf of Guinea Is., Tanzania, Angola, Comoros, Mauritius, Seychelles, China Southeast, Taiwan, Assam, Bangladesh, India, Cambodia, Myanmar, Vietnam, Borneo, Jawa, Philippines, Fiji, Samoa, Cook Is., Society Is., Caroline Is., Hawaii, Leeward Is., Windward Is., Brazil Southeast, Argentina Northeast
 
 </p>
 

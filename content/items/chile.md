@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Central America. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
+CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. U.S.A. to Brazil, Caribbean. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -54,9 +54,9 @@ CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanac
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Guatemala, Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest
+**Native areas:** &ensp; &ensp; &ensp; Arizona, Texas, Florida, Louisiana, Mexico Central, Mexico Northeast, Mexico Gulf, Mexico Northwest, Mexico Southwest, Mexico Southeast, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, Bahamas, Cayman Is., Cuba, Dominican Republic, Haiti, Jamaica, Leeward Is., Netherlands Antilles, Puerto Rico, Southwest Caribbean, Turks-Caicos Is., Trinidad-Tobago, Windward Is., Guyana, Suriname, Venezuela, Bolivia, Colombia, Ecuador, Peru, Brazil Northeast, Brazil North
 
-**Introduced regions:** Alabama, Aldabra, Algeria, Andaman Is., Angola, Assam, Austria, Bahamas, Bangladesh, Belize, Benin, Bismarck Archipelago, Bolivia, Borneo, Botswana, Brazil North, Brazil Northeast, Bulgaria, Burundi, Cambodia, Cameroon, Canary Is., Cape Verde, Caroline Is., Cayman Is., Central African Repu, Chad, Colombia, Comoros, Congo, Cook Is., Costa Rica, Cuba, Djibouti, Dominican Republic, East Himalaya, Ecuador, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Galápagos, Gambia, Ghana, Gilbert Is., Greece, Guinea-Bissau, Gulf of Guinea Is., Guyana, Haiti, Honduras, India, Ivory Coast, Jawa, Kazakhstan, Kazan-retto, Kenya, Korea, Laos, Leeward Is., Line Is., Madagascar, Madeira, Maldives, Mali, Marianas, Marquesas, Marshall Is., Mauritius, Morocco, Myanmar, Nepal, New Guinea, New South Wales, New York, Nicobar Is., Niger, Nigeria, Northern Provinces, Northern Territory, Oman, Pakistan, Panamá, Peru, Philippines, Puerto Rico, Queensland, Rodrigues, Réunion, Senegal, Sierra Leone, Society Is., Solomon Is., Somalia, Southwest Caribbean, Sri Lanka, Sulawesi, Suriname, Tadzhikistan, Tanzania, Togo, Trinidad-Tobago, Tuamotu, Tunisia, Turkey, Turkmenistan, Turks-Caicos Is., Uganda, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wake I., West Himalaya, Windward Is., Zambia, Zaïre, Zimbabwe
+**Introduced areas:** Austria, Bulgaria, Greece, South European Russi, Algeria, Morocco, Tunisia, Canary Is., Cape Verde, Madeira, Benin, Gambia, Ghana, Guinea-Bissau, Ivory Coast, Mali, Nigeria, Niger, Senegal, Sierra Leone, Togo, Burundi, Central African Repu, Cameroon, Congo, Equatorial Guinea, Gabon, Gulf of Guinea Is., Zaïre, Chad, Djibouti, Eritrea, Ethiopia, Somalia, Kenya, Tanzania, Uganda, Angola, Zambia, Zimbabwe, Botswana, Northern Provinces, Aldabra, Comoros, Mauritius, Madagascar, Réunion, Rodrigues, Kazakhstan, Turkmenistan, Tadzhikistan, Uzbekistan, Turkey, Oman, Inner Mongolia, Korea, Kazan-retto, Assam, Bangladesh, East Himalaya, India, Maldives, Nepal, Pakistan, Sri Lanka, West Himalaya, Andaman Is., Cambodia, Laos, Myanmar, Nicobar Is., Vietnam, Borneo, Jawa, Philippines, Sulawesi, Bismarck Archipelago, New Guinea, Solomon Is., New South Wales, Northern Territory, Queensland, Fiji, Gilbert Is., Vanuatu, Cook Is., Line Is., Marquesas, Society Is., Tuamotu, Caroline Is., Marianas, Marshall Is., Wake I., New York, Alabama, Maryland, Galápagos
 
 </p>
 

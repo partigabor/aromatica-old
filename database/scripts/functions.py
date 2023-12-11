@@ -155,6 +155,7 @@ def generate_coordinates(df):
             df (pandas dataframe): Dataframe with latitude and longitude columns generated from the location column.
     '''
     for index, row in df.iterrows():
+        time.sleep(1)
         if pd.isna(row['lat']) and pd.isna(row['lon']):
             if pd.notna(row['location']):
                 location = geolocator.geocode(str(row['location']))
@@ -169,24 +170,27 @@ def generate_coordinates(df):
 
 ### Generate coordinates based on centroid of native regions
 import geopandas as gpd
+import time
 
-def generate_centroid_coordinates(df):
+def centroid_coordinates(df):
     # Load the geographic data (shapefile or GeoJSON) # https://github.com/tdwg/wgsrpd
     gdf = gpd.read_file("data\\resources\\geo\\level3.geojson")
     for index, row in df.iterrows():
-        if pd.isna(row['lat']) and pd.isna(row['lon']):
-            if pd.notna(row['native_regions']):
+        print("Calculating coordinates of", row['item'])
+        time.sleep(1)
+        if pd.notna(row['powo_id']):
+            if pd.isna(row['lat']) and pd.isna(row['lon']):
                 # Split native regions into a list
-                native_distribution = row['native_regions'].split(', ')
+                native_distribution = row['native'].split(', ')
                 # Filter data for native distribution from gdf dataframe's LEVEL3_NAM column
                 native_data = gdf[gdf['LEVEL3_NAM'].isin(native_distribution)].copy() 
                 # Calculate centroid data
                 native_centroid = native_data.to_crs('+proj=cea').centroid.to_crs(native_data.crs)
                 df.at[index, 'lat'] = native_centroid.y.iloc[0]
                 df.at[index, 'lon'] = native_centroid.x.iloc[0]
-            else:
-                df.at[index, 'lat'] = 0
-                df.at[index, 'lon'] = 0
+        else:
+            df.at[index, 'lat'] = np.nan
+            df.at[index, 'lon'] = np.nan
     return df
 
 

@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Tropical America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.{{< cite "powo" >}}
+ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Trop. America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.{{< cite "powo" >}}
 
 ## Overview
 
@@ -52,9 +52,9 @@ ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, g
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Argentina Northeast, Argentina Northwest, Belize, Bolivia, Brazil North, Brazil Northeast, Brazil Southeast, Brazil West-Central, Colombia, Costa Rica, Ecuador, El Salvador, French Guiana, Guatemala, Guyana, Honduras, Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá, Paraguay, Peru, Suriname, Venezuela
+**Native areas:** &ensp; &ensp; &ensp; Mexico Central, Mexico Northeast, Mexico Gulf, Mexico Northwest, Mexico Southwest, Mexico Southeast, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, French Guiana, Guyana, Suriname, Venezuela, Bolivia, Colombia, Ecuador, Peru, Brazil West-Central, Brazil Northeast, Brazil Southeast, Brazil North, Argentina Northeast, Argentina Northwest, Paraguay
 
-**Introduced regions:** Angola, Bangladesh, Benin, Burkina, Cambodia, Caroline Is., Central African Repu, Chad, China South-Central, China Southeast, Christmas I., Comoros, Congo, Cuba, Dominican Republic, Eritrea, Ethiopia, Gabon, Galápagos, Ghana, Guinea, Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, India, Jamaica, Kenya, Leeward Is., Liberia, Marianas, Mauritius, Mozambique, New Caledonia, Nicobar Is., Nigeria, Puerto Rico, Réunion, Samoa, Sierra Leone, Society Is., Southwest Caribbean, Sri Lanka, Sudan, Taiwan, Tanzania, Trinidad-Tobago, Uganda, Vanuatu, Venezuelan Antilles, Wallis-Futuna Is., Windward Is., Zaïre, Zimbabwe
+**Introduced areas:** Benin, Burkina, Ghana, Guinea-Bissau, Guinea, Liberia, Nigeria, Sierra Leone, Central African Repu, Congo, Gabon, Gulf of Guinea Is., Zaïre, Chad, Eritrea, Ethiopia, Sudan, Kenya, Tanzania, Uganda, Angola, Mozambique, Zimbabwe, Comoros, Mauritius, Réunion, China South-Central, China Southeast, Taiwan, Bangladesh, India, Sri Lanka, Cambodia, Nicobar Is., Christmas I., New Caledonia, Samoa, Vanuatu, Wallis-Futuna Is., Society Is., Caroline Is., Marianas, Hawaii, Cuba, Dominican Republic, Haiti, Jamaica, Leeward Is., Puerto Rico, Southwest Caribbean, Trinidad-Tobago, Venezuelan Antilles, Windward Is., Galápagos
 
 </p>
 

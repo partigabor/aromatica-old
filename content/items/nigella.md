@@ -47,9 +47,9 @@ NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, gr
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Bulgaria, Cyprus, Iran, Iraq, North Caucasus, Romania, Transcaucasus, Turkey, Turkmenistan
+**Native areas:** &ensp; &ensp; &ensp; Bulgaria, Romania, Turkmenistan, North Caucasus, Transcaucasus, Cyprus, Iran, Iraq, Turkey
 
-**Introduced regions:** Afghanistan, Algeria, Assam, Bangladesh, Central European Rus, Czechoslovakia, East Aegean Is., Egypt, Ethiopia, France, Greece, India, Italy, Kazakhstan, Kirgizstan, Krym, Libya, Morocco, Myanmar, Saudi Arabia, Somalia, Sudan, Tadzhikistan, Tunisia, Turkey-in-Europe, Ukraine, Uzbekistan, Yemen, Yugoslavia
+**Introduced areas:** Czechoslovakia, France, Greece, Italy, Turkey-in-Europe, Yugoslavia, Krym, Central European Rus, Ukraine, Algeria, Egypt, Libya, Morocco, Tunisia, Ethiopia, Somalia, Sudan, Kazakhstan, Kirgizstan, Tadzhikistan, Uzbekistan, Afghanistan, East Aegean Is., Saudi Arabia, Yemen, Assam, Bangladesh, India, Myanmar
 
 </p>
 

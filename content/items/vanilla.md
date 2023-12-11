@@ -24,14 +24,14 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Central and South America. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
+VANILLA (*Vanilla planifolia* Andrews) is a(n) climber from the *Orchidaceae* family, growing in the wet tropical biome, originating in the region(s) of S. Mexico to Brazil. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                                             vanilla                                             |
 |------------------|-------------------------------------------------------------------------------------------------|
-|       taxon      |                              *Vanilla planifolia* Jacks. ex Andrews                             |
-|      family      |                                               nan                                               |
+|       taxon      |                                   *Vanilla planifolia* Andrews                                  |
+|      family      |                                           Orchidaceae                                           |
 | region of origin |                                         Tropical America                                        |
 |     macroarea    |                                             Americas                                            |
 |     part_used    |                                              fruit                                              |
@@ -54,9 +54,9 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) nan from the *nan* fami
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Belize, Brazil North, Brazil Northeast, Brazil Southeast, Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá
+**Native areas:** &ensp; &ensp; &ensp; Mexico Gulf, Mexico Southwest, Mexico Southeast, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, Colombia, Brazil Northeast, Brazil Southeast, Brazil North
 
-**Introduced regions:** Bangladesh, Brazil West-Central, Caroline Is., Cayman Is., Chagos Archipelago, Comoros, Cook Is., Dominican Republic, Ecuador, Florida, French Guiana, Gulf of Guinea Is., Guyana, Jamaica, Jawa, Leeward Is., Lesser Sunda Is., Madagascar, Malaya, Marianas, Marquesas, New Caledonia, New Guinea, Niue, Paraguay, Peru, Puerto Rico, Réunion, Seychelles, Society Is., Suriname, Tonga, Trinidad-Tobago, Tuamotu, Venezuela, Windward Is., Zaïre
+**Introduced areas:** Gulf of Guinea Is., Zaïre, Chagos Archipelago, Comoros, Mauritius, Madagascar, Réunion, Seychelles, Bangladesh, Jawa, Lesser Sunda Is., Malaya, New Guinea, Niue, New Caledonia, Tonga, Cook Is., Marquesas, Society Is., Tuamotu, Caroline Is., Marianas, Florida, Cayman Is., Dominican Republic, Jamaica, Leeward Is., Puerto Rico, Trinidad-Tobago, Windward Is., French Guiana, Guyana, Suriname, Venezuela, Ecuador, Peru, Brazil West-Central, Paraguay
 
 </p>
 

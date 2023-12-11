@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-SAFFRON (*Crocus sativus* L.) is a(n) tuberous geophyte from the *Iridaceae* family, growing in the subtropical biome, originating in the region(s) of Greece. It is used as a(n) culinary spice and dye, and cultivated for its stigma (style).{{< cite "powo" >}}
+SAFFRON (*Crocus sativus* L.) is a(n) tuberous geophyte from the *Iridaceae* family, growing in the subtropical biome, originating in the region(s) of a cultigen from Greece. It is used as a(n) culinary spice and dye, and cultivated for its stigma (style).{{< cite "powo" >}}
 
 ## Overview
 
@@ -54,9 +54,9 @@ SAFFRON (*Crocus sativus* L.) is a(n) tuberous geophyte from the *Iridaceae* fam
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Greece
+**Native areas:** &ensp; &ensp; &ensp; Greece
 
-**Introduced regions:** Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya
+**Introduced areas:** Czechoslovakia, Spain, Italy, Morocco, Iran, Turkey, Pakistan, West Himalaya
 
 </p>
 

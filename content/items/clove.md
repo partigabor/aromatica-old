@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CLOVE (*Syzygium aromaticum* (L.) Merr. & L.M.Perry) is a(n) shrub or tree from the *Myrtaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary and medicinal spice, and cultivated for its flower buds.{{< cite "powo" >}}
+CLOVE (*Syzygium aromaticum* (L.) Merr. & L.M.Perry) is a(n) shrub or tree from the *Myrtaceae* family, growing in the wet tropical biome, originating in the region(s) of Maluku. It is used as a(n) culinary and medicinal spice, and cultivated for its flower buds.{{< cite "powo" >}}
 
 ## Overview
 
@@ -50,9 +50,9 @@ CLOVE (*Syzygium aromaticum* (L.) Merr. & L.M.Perry) is a(n) shrub or tree from 
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Maluku
+**Native areas:** &ensp; &ensp; &ensp; Maluku
 
-**Introduced regions:** Borneo, Caroline Is., Comoros, Gulf of Guinea Is., Madagascar, Nicobar Is., Seychelles, Tanzania, Trinidad-Tobago
+**Introduced areas:** Gulf of Guinea Is., Tanzania, Comoros, Madagascar, Seychelles, India, Nicobar Is., Borneo, Caroline Is., Trinidad-Tobago
 
 </p>
 

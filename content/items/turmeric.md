@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.{{< cite "powo" >}}
+TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of a cultigen from SW. India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberace
 
 ![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 
->Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178.
+>Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 178. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/705/mode/1up)
 
 ## Distribution
 
@@ -50,9 +50,9 @@ TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberace
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; India
+**Native areas:** &ensp; &ensp; &ensp; India
 
-**Introduced regions:** Andaman Is., Assam, Bangladesh, Belize, Borneo, Cambodia, Caroline Is., China South-Central, China Southeast, Comoros, Congo, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Easter Is., Fiji, Gilbert Is., Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Ivory Coast, Jawa, Leeward Is., Lesser Sunda Is., Malaya, Marquesas, Mauritius, Myanmar, New Caledonia, New Guinea, Nicobar Is., Philippines, Pitcairn Is., Puerto Rico, Queensland, Réunion, Samoa, Society Is., Solomon Is., Sri Lanka, Sumatera, Taiwan, Thailand, Tibet, Tonga, Trinidad-Tobago, Tuamotu, Tubuai Is., Vietnam, Windward Is.
+**Introduced areas:** Guinea-Bissau, Ivory Coast, Congo, Gulf of Guinea Is., Comoros, Mauritius, Réunion, China South-Central, China Southeast, Tibet, Taiwan, Assam, Bangladesh, East Himalaya, Sri Lanka, Andaman Is., Cambodia, Myanmar, Nicobar Is., Thailand, Vietnam, Borneo, Jawa, Lesser Sunda Is., Malaya, Philippines, Sumatera, New Guinea, Solomon Is., Queensland, Fiji, Gilbert Is., New Caledonia, Samoa, Tonga, Vanuatu, Cook Is., Easter Is., Marquesas, Pitcairn Is., Society Is., Tuamotu, Tubuai Is., Caroline Is., Hawaii, Belize, Costa Rica, Cuba, Dominican Republic, Haiti, Leeward Is., Puerto Rico, Trinidad-Tobago, Windward Is.
 
 </p>
 

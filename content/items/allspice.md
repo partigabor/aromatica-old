@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. Mexico to Central America; Caribbean. It is used as a(n) culinary and medicinal and perfumery and distillery spice, and cultivated for its unripe fruit; leaf; wood.{{< cite "powo" >}}
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. Mexico to C. America, Caribbean. It is used as a(n) culinary and medicinal and perfumery and distillery spice, and cultivated for its unripe fruit; leaf; wood.{{< cite "powo" >}}
 
 ## Overview
 
@@ -54,9 +54,9 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family,
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Bahamas, Belize, Cayman Is., Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Jamaica, Mexico Gulf, Mexico Southeast, Mexico Southwest, Nicaragua
+**Native areas:** &ensp; &ensp; &ensp; Mexico Gulf, Mexico Southwest, Mexico Southeast, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Bahamas, Cayman Is., Cuba, Dominican Republic, Jamaica
 
-**Introduced regions:** Bermuda, Caroline Is., Colombia, El Salvador, Florida, Hawaii, Puerto Rico, Society Is., Southwest Caribbean, Trinidad-Tobago, Venezuela
+**Introduced areas:** Society Is., Caroline Is., Hawaii, Florida, El Salvador, Bermuda, Puerto Rico, Southwest Caribbean, Trinidad-Tobago, Venezuela, Colombia
 
 </p>
 

@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
+PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -40,7 +40,7 @@ PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing
 
 ![Piper nigrum](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144.
+>Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 144. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/633/mode/1up)
 
 ## Distribution
 
@@ -54,9 +54,9 @@ PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; India
+**Native areas:** &ensp; &ensp; &ensp; India
 
-**Introduced regions:** Andaman Is., Assam, Bangladesh, Benin, Cambodia, Cameroon, Caroline Is., China South-Central, China Southeast, Comoros, Cook Is., Costa Rica, Cuba, Dominican Republic, East Himalaya, Ethiopia, French Guiana, Guinea, Gulf of Guinea Is., Haiti, Honduras, Laos, Leeward Is., Marianas, Mauritius, Mexico Gulf, Nicobar Is., Philippines, Puerto Rico, Réunion, Seychelles, Sri Lanka, Thailand, Trinidad-Tobago, Venezuela, Vietnam, Windward Is.
+**Introduced areas:** Benin, Guinea, Cameroon, Gulf of Guinea Is., Ethiopia, Comoros, Mauritius, Réunion, Seychelles, China South-Central, China Southeast, Assam, Bangladesh, East Himalaya, Sri Lanka, Andaman Is., Cambodia, Laos, Nicobar Is., Thailand, Vietnam, Philippines, Vanuatu, Cook Is., Caroline Is., Marianas, Mexico Gulf, Costa Rica, Honduras, Cuba, Dominican Republic, Haiti, Leeward Is., Puerto Rico, Trinidad-Tobago, Windward Is., French Guiana, Venezuela
 
 </p>
 

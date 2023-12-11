@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) tree from the *Rutaceae* family, growing in the temperate biome, originating in the region(s) of China. It is used as a(n) culinary spice, and cultivated for its pericarp.{{< cite "powo" >}}
+SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) tree from the *Rutaceae* family, growing in the temperate biome, originating in the region(s) of Himalaya to China. It is used as a(n) culinary spice, and cultivated for its pericarp.{{< cite "powo" >}}
 
 ## Overview
 
@@ -48,9 +48,9 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) tree from the *Rutaceae*
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; China North-Central, China South-Central, China Southeast, East Himalaya, Inner Mongolia, Manchuria, Nepal, Qinghai, Tibet, Xinjiang
+**Native areas:** &ensp; &ensp; &ensp; China South-Central, Inner Mongolia, Manchuria, China North-Central, Qinghai, China Southeast, Tibet, Xinjiang, East Himalaya, Nepal
 
-**Introduced regions:** Uzbekistan
+**Introduced areas:** Uzbekistan
 
 </p>
 

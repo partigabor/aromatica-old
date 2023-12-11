@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
+CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of Iraq to Afghanistan. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -50,9 +50,9 @@ CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing 
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Afghanistan, Iran, Iraq
+**Native areas:** &ensp; &ensp; &ensp; Afghanistan, Iran, Iraq
 
-**Introduced regions:** Algeria, Andaman Is., Bangladesh, Benin, Bulgaria, East Himalaya, Eritrea, France, India, Kazakhstan, Laos, Lebanon-Syria, Libya, Massachusetts, Mexico Northeast, Morocco, Nicobar Is., Pakistan, Saudi Arabia, Sicilia, Spain, Texas, Transcaucasus, Tunisia, Uzbekistan, Xinjiang
+**Introduced areas:** France, Spain, Bulgaria, Sicilia, Algeria, Libya, Morocco, Tunisia, Benin, Eritrea, Kazakhstan, Uzbekistan, Transcaucasus, Lebanon-Syria, Saudi Arabia, Xinjiang, Bangladesh, East Himalaya, India, Pakistan, Andaman Is., Laos, Nicobar Is., Massachusetts, Texas, Mexico Northeast
 
 </p>
 

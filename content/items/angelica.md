@@ -49,9 +49,9 @@ ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* fami
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Albania, Baltic States, Belarus, Central European Rus, Denmark, East European Russia, Finland, France, Føroyar, Germany, Great Britain, Greenland, Iceland, Netherlands, North Caucasus, North European Russi, Northwest European R, Norway, Poland, South European Russi, Sweden, Ukraine, West Siberia
+**Native areas:** &ensp; &ensp; &ensp; Denmark, Finland, Føroyar, Great Britain, Iceland, Norway, Sweden, Germany, Netherlands, Poland, France, Albania, Bulgaria, Belarus, Baltic States, Central European Rus, East European Russia, North European Russi, South European Russi, Northwest European R, Ukraine, West Siberia, North Caucasus, Greenland
 
-**Introduced regions:** Belgium, Czechoslovakia
+**Introduced areas:** Belgium, Czechoslovakia
 
 </p>
 

@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BAY LEAF (*Laurus nobilis* L.) is a(n) tree from the *Lauraceae* family, growing in the subtropical biome, originating in the region(s) of Mediterranean. It is used as a(n) culinary herb, and cultivated for its leaf; fruit.{{< cite "powo" >}}
+BAY LEAF (*Laurus nobilis* L.) is a(n) tree from the *Lauraceae* family, growing in the subtropical biome, originating in the region(s) of Medit.. It is used as a(n) culinary herb, and cultivated for its leaf; fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -49,9 +49,9 @@ BAY LEAF (*Laurus nobilis* L.) is a(n) tree from the *Lauraceae* family, growing
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Albania, Algeria, Corse, Cyprus, East Aegean Is., France, Greece, Italy, Kriti, Lebanon-Syria, Libya, Morocco, Palestine, Sardegna, Sicilia, Tunisia, Turkey, Turkey-in-Europe, Yugoslavia
+**Native areas:** &ensp; &ensp; &ensp; Corse, France, Sardegna, Albania, Greece, Italy, Kriti, Sicilia, Turkey-in-Europe, Yugoslavia, Algeria, Libya, Morocco, Tunisia, Cyprus, East Aegean Is., Lebanon-Syria, Palestine, Turkey
 
-**Introduced regions:** Azores, Baleares, Great Britain, Ireland, Korea, Krym, North Caucasus, Portugal, Spain, Transcaucasus, Vietnam
+**Introduced areas:** Great Britain, Ireland, Baleares, Portugal, Spain, Krym, Azores, North Caucasus, Transcaucasus, Korea, Vietnam
 
 </p>
 

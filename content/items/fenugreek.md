@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.{{< cite "powo" >}}
+FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of Iraq to N. Pakistan. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -50,9 +50,9 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* fa
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Afghanistan, Iran, Iraq, Pakistan
+**Native areas:** &ensp; &ensp; &ensp; Afghanistan, Iran, Iraq, Pakistan
 
-**Introduced regions:** Albania, Algeria, Assam, Austria, Baltic States, Bangladesh, Belgium, Bulgaria, Central European Rus, China North-Central, China South-Central, Cyprus, Czechoslovakia, East Aegean Is., East European Russia, Ethiopia, Fiji, France, Germany, Greece, Hungary, India, Inner Mongolia, Italy, Kenya, Kirgizstan, Kriti, Krym, Kuwait, Lebanon-Syria, Libya, Mali, Manchuria, Morocco, Mozambique, Myanmar, Nepal, North Caucasus, North European Russi, Northern Provinces, Northwest European R, Oman, Palestine, Portugal, Qinghai, Romania, Saudi Arabia, Sicilia, Sinai, South European Russi, Spain, Sudan, Switzerland, Tadzhikistan, Tanzania, Tibet, Transcaucasus, Tunisia, Turkey, Turkey-in-Europe, Turkmenistan, Ukraine, Uzbekistan, West Himalaya, Xinjiang, Yemen, Yugoslavia, Zimbabwe
+**Introduced areas:** Austria, Belgium, Czechoslovakia, Germany, Hungary, Switzerland, France, Portugal, Spain, Albania, Bulgaria, Greece, Italy, Kriti, Romania, Sicilia, Turkey-in-Europe, Yugoslavia, Baltic States, Krym, Central European Rus, East European Russia, North European Russi, South European Russi, Northwest European R, Ukraine, Algeria, Libya, Morocco, Tunisia, Mali, Ethiopia, Sudan, Kenya, Tanzania, Mozambique, Zimbabwe, Northern Provinces, Kirgizstan, Turkmenistan, Tadzhikistan, Uzbekistan, North Caucasus, Transcaucasus, Cyprus, East Aegean Is., Lebanon-Syria, Palestine, Sinai, Turkey, Kuwait, Oman, Saudi Arabia, Yemen, China South-Central, Inner Mongolia, Manchuria, China North-Central, Qinghai, Tibet, Xinjiang, Assam, Bangladesh, India, Nepal, West Himalaya, Myanmar, Fiji, Maryland
 
 </p>
 

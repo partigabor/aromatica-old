@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Eurasia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
+CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Temp. Eurasia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -50,9 +50,9 @@ CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Afghanistan, Albania, Altay, Amur, Austria, Baltic States, Bangladesh, Belarus, Belgium, Bulgaria, Buryatiya, Central European Rus, China North-Central, China South-Central, Chita, Czechoslovakia, Denmark, East European Russia, East Himalaya, Finland, France, Germany, Hungary, India, Inner Mongolia, Iran, Iraq, Irkutsk, Italy, Kamchatka, Kazakhstan, Khabarovsk, Kirgizstan, Krasnoyarsk, Krym, Kuril Is., Manchuria, Mongolia, Nepal, Netherlands, North Caucasus, North European Russi, Northwest European R, Norway, Pakistan, Poland, Primorye, Qinghai, Romania, Sakhalin, South European Russi, Spain, Sweden, Switzerland, Tadzhikistan, Tibet, Transcaucasus, Turkey, Turkmenistan, Tuva, Ukraine, Uzbekistan, West Himalaya, West Siberia, Xinjiang, Yakutskiya, Yugoslavia
+**Native areas:** &ensp; &ensp; &ensp; Denmark, Finland, Norway, Sweden, Austria, Belgium, Czechoslovakia, Germany, Hungary, Netherlands, Poland, Switzerland, France, Spain, Albania, Bulgaria, Italy, Romania, Yugoslavia, Belarus, Baltic States, Krym, Central European Rus, East European Russia, North European Russi, South European Russi, Northwest European R, Ukraine, Altay, Buryatiya, Chita, Irkutsk, Krasnoyarsk, Tuva, West Siberia, Yakutskiya, Amur, Kamchatka, Khabarovsk, Kuril Is., Primorye, Sakhalin, Kazakhstan, Kirgizstan, Turkmenistan, Tadzhikistan, Uzbekistan, North Caucasus, Transcaucasus, Afghanistan, Iran, Iraq, Turkey, China South-Central, Inner Mongolia, Manchuria, China North-Central, Qinghai, Tibet, Xinjiang, Mongolia, Bangladesh, East Himalaya, India, Nepal, Pakistan, West Himalaya
 
-**Introduced regions:** Alberta, Algeria, British Columbia, Colorado, Connecticut, Cyprus, District of Columbia, Føroyar, Great Britain, Greenland, Iceland, Idaho, Illinois, Indiana, Iowa, Ireland, Kentucky, Labrador, Libya, Louisiana, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Morocco, New Brunswick, New Hampshire, New Jersey, New Mexico, New York, Newfoundland, North Carolina, North Dakota, Nova Scotia, Nunavut, Ohio, Ontario, Oregon, Pennsylvania, Prince Edward I., Québec, Rhode I., Saskatchewan, South Dakota, South Georgia, Tunisia, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
+**Introduced areas:** Føroyar, Great Britain, Iceland, Ireland, Algeria, Libya, Morocco, Tunisia, Cyprus, Greenland, Nunavut, Alberta, British Columbia, Manitoba, Saskatchewan, Labrador, New Brunswick, Newfoundland, Nova Scotia, Ontario, Prince Edward I., Québec, Colorado, Idaho, Montana, Oregon, Washington, Wyoming, Illinois, Iowa, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin, Connecticut, Indiana, Maine, Massachusetts, Michigan, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode I., Vermont, West Virginia, Utah, New Mexico, Kentucky, Louisiana, Maryland, North Carolina, Virginia, District of Columbia, South Georgia
 
 </p>
 

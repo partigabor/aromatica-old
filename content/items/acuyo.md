@@ -47,9 +47,9 @@ ACUYO (*Piper auritum* Kunth) is a(n) shrub or tree from the *Piperaceae* family
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Belize, Colombia, Costa Rica, Ecuador, El Salvador, French Guiana, Guatemala, Honduras, Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest, Nicaragua, Panamá, Suriname, Venezuela
+**Native areas:** &ensp; &ensp; &ensp; Mexico Central, Mexico Northeast, Mexico Gulf, Mexico Northwest, Mexico Southwest, Mexico Southeast, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, French Guiana, Suriname, Venezuela, Colombia, Ecuador
 
-**Introduced regions:** Caroline Is., Cuba, Florida, Haiti, Hawaii, Jamaica, Leeward Is., Samoa
+**Introduced areas:** Samoa, Caroline Is., Hawaii, Florida, Cuba, Haiti, Jamaica, Leeward Is.
 
 </p>
 

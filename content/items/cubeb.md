@@ -50,7 +50,9 @@ CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Borneo, Cambodia, Lesser Sunda Is., Malaya, Maluku, Myanmar, Sulawesi, Sumatera, Vietnam
+**Native areas:** &ensp; &ensp; &ensp; Cambodia, Myanmar, Vietnam, Borneo, Lesser Sunda Is., Malaya, Maluku, Sulawesi, Sumatera
+
+**Introduced areas:** 
 
 </p>
 

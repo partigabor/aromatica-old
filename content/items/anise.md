@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of SE. Türkiye to Central Israel, Cyprus. It is used as a(n) culinary and distillery spice, and cultivated for its fruit; oil; leaf.{{< cite "powo" >}}
+ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of SE. Türkiye to C. Israel, Cyprus. It is used as a(n) culinary and distillery spice, and cultivated for its fruit; oil; leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -54,9 +54,9 @@ ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growin
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Cyprus, Lebanon-Syria, Palestine, Turkey
+**Native areas:** &ensp; &ensp; &ensp; Cyprus, Lebanon-Syria, Palestine, Turkey
 
-**Introduced regions:** Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia
+**Introduced areas:** Denmark, Norway, Sweden, Austria, Czechoslovakia, Germany, Hungary, Poland, France, Portugal, Spain, Bulgaria, Greece, Italy, Kriti, Romania, Yugoslavia, Belarus, South European Russi, Ukraine, Morocco, Tunisia, Kazakhstan, Turkmenistan, Tadzhikistan, Uzbekistan, East Aegean Is., Iraq, Oman, Xinjiang, Bangladesh, India, Laos, Massachusetts, Michigan, Guatemala, Leeward Is., Trinidad-Tobago, Venezuela, Brazil South, Argentina Northeast, Argentina Northwest
 
 </p>
 

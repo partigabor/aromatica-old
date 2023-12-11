@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the *Piperaceae* family, growing in the temperate biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
+LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the *Piperaceae* family, growing in the temperate biome, originating in the region(s) of E. Himalaya to China (S. Yunnan) and Indo-China. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -48,9 +48,9 @@ LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the 
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Assam, Bangladesh, Cambodia, China South-Central, East Himalaya, Laos, Myanmar, Nicobar Is., Thailand, Vietnam
+**Native areas:** &ensp; &ensp; &ensp; China South-Central, Assam, Bangladesh, East Himalaya, Cambodia, Laos, Myanmar, Nicobar Is., Thailand, Vietnam
 
-**Introduced regions:** China Southeast, Hainan, India, Malaya, Nepal, Philippines, Sri Lanka
+**Introduced areas:** Hainan, China Southeast, India, Nepal, Sri Lanka, Malaya, Philippines
 
 </p>
 

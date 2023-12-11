@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the wet tropical biome, originating in the region(s) of Nepal to Central China. It is used as a(n) culinary spice, and cultivated for its seed pod.{{< cite "powo" >}}
+BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the wet tropical biome, originating in the region(s) of Nepal to C. China. It is used as a(n) culinary spice, and cultivated for its seed pod.{{< cite "powo" >}}
 
 ## Overview
 
@@ -50,7 +50,9 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the 
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Assam, Bangladesh, China South-Central, China Southeast, East Himalaya, India, Myanmar, Nepal, Tibet
+**Native areas:** &ensp; &ensp; &ensp; China South-Central, China Southeast, Tibet, Assam, Bangladesh, East Himalaya, India, Nepal, Myanmar
+
+**Introduced areas:** 
 
 </p>
 

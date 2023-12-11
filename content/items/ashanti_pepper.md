@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical Africa, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
+ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Trop. Africa, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -47,7 +47,9 @@ ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte 
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Angola, Benin, Burundi, Cabinda, Cameroon, Central African Repu, Congo, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Gulf of Guinea Is., Ivory Coast, Kenya, Liberia, Madagascar, Mali, Nigeria, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zaïre
+**Native areas:** &ensp; &ensp; &ensp; Benin, Gambia, Ghana, Guinea-Bissau, Guinea, Ivory Coast, Liberia, Mali, Nigeria, Sierra Leone, Togo, Burundi, Cabinda, Central African Repu, Cameroon, Congo, Gabon, Gulf of Guinea Is., Zaïre, Ethiopia, Sudan, Kenya, Tanzania, Uganda, Angola, Zambia, Madagascar
+
+**Introduced areas:** 
 
 </p>
 

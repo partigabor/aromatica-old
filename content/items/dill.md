@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Nort Africa; West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
+DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of N. Africa to Chad, Iran to Arabian Pen.. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -48,9 +48,9 @@ DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growin
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Algeria, Chad, Cyprus, Gulf States, Iran, Lebanon-Syria, Libya, Morocco, Oman, Saudi Arabia, Tunisia
+**Native areas:** &ensp; &ensp; &ensp; Algeria, Libya, Morocco, Tunisia, Chad, Cyprus, Iran, Lebanon-Syria, Gulf States, Oman, Saudi Arabia
 
-**Introduced regions:** Afghanistan, Alabama, Albania, Alberta, Altay, Andaman Is., Angola, Argentina Northeast, Arizona, Arkansas, Assam, Austria, Azores, Bahamas, Baleares, Baltic States, Bangladesh, Belarus, Belgium, Brazil South, Brazil Southeast, British Columbia, Bulgaria, California, Cameroon, Canary Is., Cape Verde, Cayman Is., Central European Rus, China North-Central, China South-Central, China Southeast, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Dominican Republic, East Aegean Is., East European Russia, East Himalaya, Ecuador, Eritrea, Ethiopia, Finland, France, Ghana, Great Britain, Greece, Guatemala, Haiti, Hawaii, Hungary, Illinois, India, Indiana, Iowa, Iraq, Italy, Jamaica, Kansas, Kazakhstan, Kentucky, Kenya, Kriti, Krym, Laos, Leeward Is., Louisiana, Madeira, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mongolia, Montana, Mozambique, Nebraska, Nepal, Netherlands, New Jersey, New York, Nicobar Is., Niger, Nigeria, North Carolina, North Dakota, Northwest European R, Norway, Ohio, Oklahoma, Ontario, Oregon, Pakistan, Palestine, Pennsylvania, Peru, Portugal, Primorye, Puerto Rico, Québec, Rhode I., Romania, Saskatchewan, Sicilia, Somalia, South Dakota, South European Russi, Spain, Sudan, Sweden, Switzerland, Tadzhikistan, Tanzania, Texas, Thailand, Transcaucasus, Trinidad-Tobago, Turkey, Turkey-in-Europe, Ukraine, Uzbekistan, Vietnam, Virginia, Wake I., Washington, West Virginia, Windward Is., Wisconsin, Yugoslavia
+**Introduced areas:** Denmark, Finland, Great Britain, Norway, Sweden, Austria, Belgium, Czechoslovakia, Hungary, Netherlands, Switzerland, Baleares, France, Portugal, Spain, Albania, Bulgaria, Greece, Italy, Kriti, Romania, Sicilia, Turkey-in-Europe, Yugoslavia, Belarus, Baltic States, Krym, Central European Rus, East European Russia, South European Russi, Northwest European R, Ukraine, Azores, Canary Is., Cape Verde, Madeira, Ghana, Nigeria, Niger, Cameroon, Eritrea, Ethiopia, Somalia, Sudan, Kenya, Tanzania, Angola, Mozambique, Altay, Primorye, Kazakhstan, Tadzhikistan, Uzbekistan, Transcaucasus, Afghanistan, East Aegean Is., Iraq, Palestine, Turkey, China South-Central, Inner Mongolia, China North-Central, China Southeast, Mongolia, Assam, Bangladesh, East Himalaya, India, Nepal, Pakistan, Andaman Is., Laos, Nicobar Is., Thailand, Vietnam, Wake I., Hawaii, Alberta, British Columbia, Manitoba, Saskatchewan, Ontario, Québec, Montana, Oregon, Washington, Illinois, Iowa, Kansas, Minnesota, Missouri, North Dakota, Nebraska, Oklahoma, South Dakota, Wisconsin, Connecticut, Indiana, Maine, Massachusetts, Michigan, New Jersey, New York, Ohio, Pennsylvania, Rhode I., West Virginia, Arizona, California, Texas, Alabama, Arkansas, Delaware, Kentucky, Louisiana, Maryland, North Carolina, Virginia, Costa Rica, Guatemala, Bahamas, Cayman Is., Cuba, Dominican Republic, Haiti, Jamaica, Leeward Is., Puerto Rico, Trinidad-Tobago, Windward Is., Ecuador, Peru, Brazil Southeast, Brazil South, Argentina Northeast
 
 </p>
 

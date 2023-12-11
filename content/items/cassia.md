@@ -20,23 +20,23 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of South China; Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.{{< cite "powo" >}}
+CASSIA (*Cinnamomum aromaticum* Nees) is a(n) tree from the *Lauraceae* family, growing in the subtropical biome, originating in the region(s) of SE. China to Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.{{< cite "powo" >}}
 
 ## Overview
 
 |       item       |                       cassia                      |
 |------------------|---------------------------------------------------|
-|       taxon      |         *Cinnamomum cassia* (L.) J.Presl.         |
-|      family      |                        nan                        |
+|       taxon      |            *Cinnamomum aromaticum* Nees           |
+|      family      |                     Lauraceae                     |
 | region of origin |                  Southeast China                  |
 |     macroarea    |                        Asia                       |
 |     part_used    |                    bark; fruit                    |
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
-![Cinnamomum cassia](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen")
+![Cinnamomum aromaticum](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum aromaticum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Cinnamomum cassia from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
+>Illustration of Cinnamomum aromaticum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} I 77.
 
 ## Distribution
 
@@ -44,15 +44,15 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) nan from the *nan* family, gr
 
 {{< plotly json="/aromatica/plotly/distributions/cassia.json" weight="600" height="300" >}}
 
->Native and introduced habitats of Cinnamomum cassia[^powo]
+>Native and introduced habitats of Cinnamomum aromaticum[^powo]
 
 [^powo]: https://powo.science.kew.org/taxon/463288-1
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; China Southeast
+**Native areas:** &ensp; &ensp; &ensp; China Southeast, Vietnam
 
-**Introduced regions:** Bangladesh, Cambodia, China South-Central, Guatemala, Hainan, Honduras, India, Laos, Malaya, Myanmar, Sumatera, Taiwan, Thailand, Trinidad-Tobago, Vietnam
+**Introduced areas:** China South-Central, Hainan, Taiwan, Bangladesh, India, Cambodia, Laos, Myanmar, Thailand, Malaya, Sumatera, Guatemala, Honduras, Trinidad-Tobago
 
 </p>
 

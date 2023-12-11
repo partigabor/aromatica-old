@@ -24,7 +24,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
+NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Maluku (Banda Is.). It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
 
 ## Overview
 
@@ -54,9 +54,9 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* famil
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Maluku
+**Native areas:** &ensp; &ensp; &ensp; Maluku
 
-**Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
+**Introduced areas:** Gulf of Guinea Is., Comoros, Mauritius, Réunion, China South-Central, China Southeast, Taiwan, Assam, Bangladesh, Laos, Thailand, Vietnam, Jawa, Philippines, Samoa
 
 </p>
 

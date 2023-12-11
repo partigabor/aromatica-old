@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Tropical & Subtropical Asia to N. Australia. It is used as a(n) culinary herb, and cultivated for its leaf.{{< cite "powo" >}}
+BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Trop. & Subtrop. Asia to N. Australia. It is used as a(n) culinary herb, and cultivated for its leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -47,9 +47,9 @@ BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* fa
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Andaman Is., Assam, Bangladesh, Bismarck Archipelago, Borneo, Cambodia, China South-Central, China Southeast, East Himalaya, India, Jawa, Laos, Lesser Sunda Is., Malaya, Maluku, Myanmar, Nepal, New Guinea, Nicobar Is., Philippines, Queensland, Sri Lanka, Sulawesi, Sumatera, Taiwan, Thailand, Vietnam, West Himalaya, Western Australia
+**Native areas:** &ensp; &ensp; &ensp; China South-Central, China Southeast, Taiwan, Assam, Bangladesh, East Himalaya, India, Nepal, Sri Lanka, West Himalaya, Andaman Is., Cambodia, Laos, Myanmar, Nicobar Is., Thailand, Vietnam, Borneo, Jawa, Lesser Sunda Is., Malaya, Maluku, Philippines, Sulawesi, Sumatera, Bismarck Archipelago, New Guinea, Queensland, Western Australia
 
-**Introduced regions:** Angola, Bahamas, Benin, Bolivia, Brazil Southeast, Bulgaria, Burkina, Burundi, Cameroon, Canary Is., Cape Provinces, Cape Verde, Caroline Is., Cayman Is., Central African Repu, Chad, Colombia, Comoros, Congo, Cook Is., Cuba, Dominican Republic, East Aegean Is., Ecuador, El Salvador, Eritrea, Ethiopia, Fiji, Gabon, Gambia, Ghana, Gilbert Is., Guatemala, Guinea, Guinea-Bissau, Gulf of Guinea Is., Haiti, Hawaii, Honduras, Illinois, Ivory Coast, Jamaica, Kazakhstan, Kenya, Laccadive Is., Leeward Is., Liberia, Line Is., Madagascar, Malawi, Maldives, Mali, Marianas, Marquesas, Marshall Is., Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest, Mongolia, Mozambique, Nauru, New Caledonia, New York, Nicaragua, Niger, Nigeria, Niue, Oman, Panamá, Primorye, Puerto Rico, Romania, Samoa, Senegal, Sierra Leone, Society Is., South Australia, South European Russi, Sudan, Tanzania, Tokelau-Manihiki, Tonga, Trinidad-Tobago, Tuamotu, Uganda, Ukraine, Venezuela, Venezuelan Antilles, Wallis-Futuna Is., Windward Is., Xinjiang, Zambia, Zaïre, Zimbabwe
+**Introduced areas:** Bulgaria, Romania, South European Russi, Ukraine, Canary Is., Cape Verde, Benin, Burkina, Gambia, Ghana, Guinea-Bissau, Guinea, Ivory Coast, Liberia, Mali, Nigeria, Niger, Senegal, Sierra Leone, Burundi, Central African Repu, Cameroon, Congo, Gabon, Gulf of Guinea Is., Zaïre, Chad, Eritrea, Ethiopia, Sudan, Kenya, Tanzania, Uganda, Angola, Malawi, Mozambique, Zambia, Zimbabwe, Cape Provinces, Comoros, Madagascar, Primorye, Kazakhstan, East Aegean Is., Oman, Inner Mongolia, Xinjiang, Mongolia, Laccadive Is., Maldives, South Australia, Fiji, Gilbert Is., Nauru, Niue, New Caledonia, Samoa, Tokelau-Manihiki, Tonga, Vanuatu, Wallis-Futuna Is., Cook Is., Line Is., Marquesas, Society Is., Tuamotu, Caroline Is., Marianas, Marshall Is., Hawaii, Illinois, New York, Mexico Central, Mexico Northeast, Mexico Gulf, Mexico Northwest, Mexico Southwest, Mexico Southeast, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, Bahamas, Cayman Is., Cuba, Dominican Republic, Haiti, Jamaica, Leeward Is., Puerto Rico, Trinidad-Tobago, Venezuelan Antilles, Windward Is., Venezuela, Bolivia, Colombia, Ecuador, Brazil Southeast
 
 </p>
 
