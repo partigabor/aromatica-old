@@ -1,8 +1,8 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-12-08"
-description = "The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger. "
+date = "2023-12-11"
+description = "The aromatic rhizomes of the ginger plant, fresh or dried.. See also Wild ginger. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,15 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The rhizomes of the ginger plant, fresh or dried; root of Zingiber officinale. See also Wild ginger. 
+>The aromatic rhizomes of the ginger plant, fresh or dried.. See also Wild ginger.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Ginger)
+
+ [B](https://www.britannica.com/plant/ginger)
+
+
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/photos/ginger" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
 <center>
 
@@ -20,9 +28,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Southeast Asia. It is used as a(n) culinary and medicinal spice, and cultivated for its rhizome.
-
-{{< cite "powo" >}}
+GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Southeast Asia. It is used as a(n) culinary and medicinal spice, and cultivated for its rhizome.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +38,7 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte 
 |      family      |                   Zingiberaceae                   |
 | region of origin |         South East Asia; India (secondary)        |
 |     macroarea    |                        Asia                       |
-|     part used    |                      rhizome                      |
+|     part_used    |                      rhizome                      |
 |    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 

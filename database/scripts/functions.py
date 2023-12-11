@@ -142,6 +142,7 @@ def coordinates(place):
 
 ### Generate geo-coordinates from location in a df
 import pandas as pd
+import numpy as np
 
 def generate_coordinates(df):
     '''
@@ -174,9 +175,9 @@ def generate_centroid_coordinates(df):
     gdf = gpd.read_file("data\\resources\\geo\\level3.geojson")
     for index, row in df.iterrows():
         if pd.isna(row['lat']) and pd.isna(row['lon']):
-            if pd.notna(row['native regions']):
+            if pd.notna(row['native_regions']):
                 # Split native regions into a list
-                native_distribution = row['native regions'].split(', ')
+                native_distribution = row['native_regions'].split(', ')
                 # Filter data for native distribution from gdf dataframe's LEVEL3_NAM column
                 native_data = gdf[gdf['LEVEL3_NAM'].isin(native_distribution)].copy() 
                 # Calculate centroid data

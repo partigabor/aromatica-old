@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'ritualistic']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary. 
+>The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Turmeric)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.
-
-{{< cite "powo" >}}
+TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberace
 |      family      |                   Zingiberaceae                   |
 | region of origin |                       India                       |
 |     macroarea    |                        Asia                       |
-|     part used    |                      rhizome                      |
+|     part_used    |                      rhizome                      |
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 

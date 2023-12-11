@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace. 
+>The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg#Mace)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary spice, and cultivated for its seed.
-
-{{< cite "powo" >}}
+NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* famil
 |      family      |                   Myristicaceae                   |
 | region of origin |                Moluccas (Indonesia)               |
 |     macroarea    |                        Asia                       |
-|     part used    |                        seed                       |
+|     part_used    |                        seed                       |
 |    cultivation   |                 Grenada; Indonesia                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 

@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. 
+>The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamon)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.
-
-{{< cite "powo" >}}
+CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ CINNAMON (*Cinnamomum verum* J.Presl.) is a(n) nan from the *nan* family, growin
 |      family      |                        nan                        |
 | region of origin |                Sri Lanka; SW. India               |
 |     macroarea    |                        Asia                       |
-|     part used    |                     bark; leaf                    |
+|     part_used    |                     bark; leaf                    |
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 

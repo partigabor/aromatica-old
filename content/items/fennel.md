@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The dried fruits of a perennial herb. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of a perennial herb. 
+>The dried fruits of a perennial herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fennel)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Mediterranean; W. Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Mediterranean; W. Asia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family
 |      family      |                      Apiaceae                      |
 | region of origin |                    Mediterranean                   |
 |     macroarea    |                    Med.; W. Asia                   |
-|     part used    |                        fruit                       |
+|     part_used    |                        fruit                       |
 |    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 

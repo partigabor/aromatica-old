@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The fruit of Piper cubeba, related to pepper. See also Ashanti pepper. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'perfume', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The fruit of Piper cubeba, related to pepper. See also Ashanti pepper. 
+>The fruit of Piper cubeba, related to pepper. See also Ashanti pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_cubeba)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Indo-China to Malesia. It is used as a(n) culinary and medicinal and perfume spice, and cultivated for its unripe fruit.
-
-{{< cite "powo" >}}
+CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Indo-China to Malesia. It is used as a(n) culinary and medicinal and perfume spice, and cultivated for its unripe fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in
 |      family      |                     Piperaceae                    |
 | region of origin |                   Southeast Asia                  |
 |     macroarea    |                        Asia                       |
-|     part used    |                    unripe fruit                   |
+|     part_used    |                    unripe fruit                   |
 |    cultivation   |                     Indonesia                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
 

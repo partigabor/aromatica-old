@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'cardamoms']
 bibFile = "static/bibliography/parti.json"
 +++
 
->Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*. 
+>Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_cardamom)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the wet tropical biome, originating in the region(s) of Nepal to Central China. It is used as a(n) culinary spice, and cultivated for its seed pod.
-
-{{< cite "powo" >}}
+BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the wet tropical biome, originating in the region(s) of Nepal to Central China. It is used as a(n) culinary spice, and cultivated for its seed pod.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the 
 |      family      |                                          Zingiberaceae                                          |
 | region of origin |                                            Himalayas                                            |
 |     macroarea    |                                               Asia                                              |
-|     part used    |                                             seed pod                                            |
+|     part_used    |                                             seed pod                                            |
 |    cultivation   |                                            Himalayas                                            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/872166-1), [GBIF](https://www.gbif.org/species/5301632)|
 

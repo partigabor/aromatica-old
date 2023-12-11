@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla. 
+>The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Vanilla)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Central and South America. It is used as a(n) culinary spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of Central and South America. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ VANILLA (*Vanilla planifolia* Jacks. ex Andrews) is a(n) nan from the *nan* fami
 |      family      |                                               nan                                               |
 | region of origin |                                         Tropical America                                        |
 |     macroarea    |                                             Americas                                            |
-|     part used    |                                              fruit                                              |
+|     part_used    |                                              fruit                                              |
 |    cultivation   |                      Madagascar; Indonesia; Mexico; Papua New Guinea; China                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
 

@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'cardamoms']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
+>The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit (seed pod).
-
-{{< cite "powo" >}}
+CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit (seed pod).{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from t
 |      family      |                                          Zingiberaceae                                          |
 | region of origin |                                 Kerala, S. India; southern Asia                                 |
 |     macroarea    |                                               Asia                                              |
-|     part used    |                                         fruit (seed pod)                                        |
+|     part_used    |                                         fruit (seed pod)                                        |
 |    cultivation   |                     Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871)|
 

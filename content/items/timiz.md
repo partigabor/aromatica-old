@@ -1,7 +1,7 @@
 +++
 title = "Timiz"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "Fruits of an African *Piper* species, related to black pepper; long pepper. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
->Fruits of an African *Piper* species, related to black pepper; long pepper. 
+>Fruits of an African *Piper* species, related to black pepper; long pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_capense)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical & S. Africa, Comoros, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical & S. Africa, Comoros, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperace
 |      family      |                     Piperaceae                    |
 | region of origin |                    East Africa                    |
 |     macroarea    |                       Africa                      |
-|     part used    |                       fruit                       |
+|     part_used    |                       fruit                       |
 |    cultivation   |                      Ethiopia                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/680780-1)|
 

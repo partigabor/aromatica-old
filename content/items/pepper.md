@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The dried fruits of an Indian vine, also known as black pepper, related to long pepper. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of an Indian vine, also known as black pepper, related to long pepper. 
+>The dried fruits of an Indian vine, also known as black pepper, related to long pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_pepper)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing
 |      family      |                     Piperaceae                    |
 | region of origin |            Malabar coast (South India)            |
 |     macroarea    |                        Asia                       |
-|     part used    |                       fruit                       |
+|     part_used    |                       fruit                       |
 |    cultivation   | Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.|
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 

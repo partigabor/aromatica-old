@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The seeds of a Mediterranean herb. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seeds of a Mediterranean herb. 
+>The seeds of a Mediterranean herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Dill)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Nort Africa; West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Nort Africa; West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growin
 |      family      |                      Apiaceae                     |
 | region of origin |           S. Europe; N. Africa; SW. Asia          |
 |     macroarea    |                   Med.; W. Asia                   |
-|     part used    |                       fruit                       |
+|     part_used    |                       fruit                       |
 |    cultivation   |             India; Pakistan; worldwide            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 

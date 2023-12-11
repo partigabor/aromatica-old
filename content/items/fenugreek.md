@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The seeds of a West Asian herb. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seeds of a West Asian herb. 
+>The seeds of a West Asian herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fenugreek)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.
-
-{{< cite "powo" >}}
+FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* fa
 |      family      |                      Fabaceae                     |
 | region of origin |                 S. Europe; W. Asia                |
 |     macroarea    |                        Asia                       |
-|     part used    |                     seed; leaf                    |
+|     part_used    |                     seed; leaf                    |
 |    cultivation   |                       India                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 

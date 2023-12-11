@@ -1,7 +1,7 @@
 +++
 title = "Lemongrass"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The root of Cymbopogon citratus. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The root of Cymbopogon citratus. 
+>The root of Cymbopogon citratus.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cymbopogon)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poaceae* family, growing in the wet tropical biome, originating in the region(s) of S. India, Sri Lanka. It is used as a(n) culinary and medicinal herb, and cultivated for its leaf.
-
-{{< cite "powo" >}}
+LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poaceae* family, growing in the wet tropical biome, originating in the region(s) of S. India, Sri Lanka. It is used as a(n) culinary and medicinal herb, and cultivated for its leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poace
 |      family      |                      Poaceae                      |
 | region of origin |         Maritime Southeast Asia; cultigen         |
 |     macroarea    |                        Asia                       |
-|     part used    |                        leaf                       |
+|     part_used    |                        leaf                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
 
 

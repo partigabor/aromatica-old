@@ -1,7 +1,7 @@
 +++
 title = "Annatto"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The red juice of the seeds of Bixa orellana. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The red juice of the seeds of Bixa orellana. 
+>The red juice of the seeds of Bixa orellana.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Annatto)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Tropical America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.
-
-{{< cite "powo" >}}
+ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Tropical America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, g
 |      family      |                     Bixaceae                     |
 | region of origin |                 Trop. Am.; C. Am.                |
 |     macroarea    |                     Americas                     |
-|     part used    |                       seed                       |
+|     part_used    |                       seed                       |
 |    cultivation   |         Brazil, Peru, Kenya, Philippines         |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
 

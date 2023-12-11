@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'chiles']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica. 
+>The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Chili_pepper)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Central America. It is used as a(n) culinary spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Central America. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanac
 |      family      |                            Solanaceae                           |
 | region of origin |                         Central America                         |
 |     macroarea    |                             Americas                            |
-|     part used    |                              fruit                              |
+|     part_used    |                              fruit                              |
 |    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 

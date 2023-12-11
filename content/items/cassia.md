@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. 
+>The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamomum_cassia)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of South China; Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.
-
-{{< cite "powo" >}}
+CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of South China; Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ CASSIA (*Cinnamomum cassia* (L.) J.Presl.) is a(n) nan from the *nan* family, gr
 |      family      |                        nan                        |
 | region of origin |                  Southeast China                  |
 |     macroarea    |                        Asia                       |
-|     part used    |                    bark; fruit                    |
+|     part_used    |                    bark; fruit                    |
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 

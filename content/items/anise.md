@@ -1,18 +1,20 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', 'potatory']
+tags = ['culinary', 'distillery']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. 
+>The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Anise)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of East Mediterranean. It is used as a(n) culinary and potatory spice, and cultivated for its fruit; oil; leaf.
-
-{{< cite "powo" >}}
+ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of SE. Türkiye to Central Israel, Cyprus. It is used as a(n) culinary and distillery spice, and cultivated for its fruit; oil; leaf.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,13 +36,13 @@ ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growin
 |      family      |                      Apiaceae                     |
 | region of origin |       E. Mediterranean; W. Asia; Asia Minor       |
 |     macroarea    |                   Mediterranean                   |
-|     part used    |                  fruit; oil; leaf                 |
+|     part_used    |                  fruit; oil; leaf                 |
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 
 ![Pimpinella anisum](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 93.
+>Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 93. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/529/mode/1up)
 
 ## Distribution
 

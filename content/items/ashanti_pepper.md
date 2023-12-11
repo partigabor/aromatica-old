@@ -1,7 +1,7 @@
 +++
 title = "Ashanti Pepper"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper. 
+>The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_guineense)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical Africa, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Tropical Africa, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte 
 |      family      |                     Piperaceae                    |
 | region of origin |                  tropical Africa                  |
 |     macroarea    |                       Africa                      |
-|     part used    |                       fruit                       |
+|     part_used    |                       fruit                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681598-1)|
 
 

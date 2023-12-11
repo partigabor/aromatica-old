@@ -1,7 +1,7 @@
 +++
 title = "Agarwood"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "Diseased wood of Aquilaria malaccensis and A. sinensis. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = []
 bibFile = "static/bibliography/parti.json"
 +++
 
->Diseased wood of Aquilaria malaccensis and A. sinensis. 
+>Diseased wood of Aquilaria malaccensis and A. sinensis.  [<i class="fab fa-wikipedia-w"></i>](https://en.wiktionary.org/wiki/agalloch)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n) tree from the *Thymelaeaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Bangladesh to W. & Central Malesia. It is used as a(n)  incense, and cultivated for its wood.
-
-{{< cite "powo" >}}
+AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n) tree from the *Thymelaeaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Bangladesh to W. & Central Malesia. It is used as a(n)  incense, and cultivated for its wood.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n) tree from the *Thymelaeaceae* fa
 |      family      |                   Thymelaeaceae                   |
 | region of origin |                   Southeast Asia                  |
 |     macroarea    |                        Asia                       |
-|     part used    |                        wood                       |
+|     part_used    |                        wood                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/830835-1)|
 
 

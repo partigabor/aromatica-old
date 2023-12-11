@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The aril (seed-covering) of the nutmeg, related to nutmeg. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The aril (seed-covering) of the nutmeg, related to nutmeg. 
+>The aril (seed-covering) of the nutmeg, related to nutmeg.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary spice, and cultivated for its aril.
-
-{{< cite "powo" >}}
+MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Indonesia. It is used as a(n) culinary spice, and cultivated for its aril.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family,
 |      family      |                   Myristicaceae                   |
 | region of origin |                Moluccas (Indonesia)               |
 |     macroarea    |                        Asia                       |
-|     part used    |                        aril                       |
+|     part_used    |                        aril                       |
 |    cultivation   |                 Grenada; Indonesia                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 

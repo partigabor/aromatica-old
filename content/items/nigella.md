@@ -1,7 +1,7 @@
 +++
 title = "Nigella"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The seed of Nigella sativa. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed of Nigella sativa. 
+>The seed of Nigella sativa.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nigella_sativa)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, growing in the temperate biome, originating in the region(s) of Romania to W. & SW. Iran. It is used as a(n) culinary spice, and cultivated for its seed.
-
-{{< cite "powo" >}}
+NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, growing in the temperate biome, originating in the region(s) of Romania to W. & SW. Iran. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, gr
 |      family      |                   Ranunculaceae                   |
 | region of origin |                      Med; As                      |
 |     macroarea    |                   Med.; W. Asia                   |
-|     part used    |                        seed                       |
+|     part_used    |                        seed                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/711687-1)|
 
 

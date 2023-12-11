@@ -1,18 +1,20 @@
 +++
 title = "Angelica"
 author = "Gabor Parti"
-date = "2023-12-08"
-description = "The scented stems and roots of a medicinal plant from the northern hemisphere.. "
+date = "2023-12-11"
+description = "The scented stems and roots of a medicinal plant from the northern hemisphere.. See also other angelicas. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['herb']
-tags = ['culinary', 'potatory', 'medicinal']
+tags = ['culinary', 'medicinal', 'distillery']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The scented stems and roots of a medicinal plant from the northern hemisphere.. 
+>The scented stems and roots of a medicinal plant from the northern hemisphere.. See also other angelicas.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Angelica_archangelica)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Greenland, Europe to W. Siberia. It is used as a(n) culinary and potatory and medicinal herb, and cultivated for its root; fruit; stem.
-
-{{< cite "powo" >}}
+ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Greenland, Europe to W. Siberia. It is used as a(n) culinary and medicinal and distillery herb, and cultivated for its root; stem; fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -30,9 +30,9 @@ ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* fami
 |------------------|---------------------------------------------------|
 |       taxon      |             *Angelica archangelica* L.            |
 |      family      |                      Apiaceae                     |
-| region of origin |                      Eur; As                      |
+| region of origin |                  Northern Eurasia                 |
 |     macroarea    |                      Eurasia                      |
-|     part used    |                 root; fruit; stem                 |
+|     part_used    |                 root; stem; fruit                 |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837560-1)|
 
 ![Angelica archangelica](/images/illustrations/angelica.png?width=40rem "Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen")

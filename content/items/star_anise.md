@@ -1,7 +1,7 @@
 +++
 title = "Star Anise"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise. 
+>The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Illicium_verum)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* family, growing in the subtropical biome, originating in the region(s) of South China; Vietnam. It is used as a(n) culinary spice, and cultivated for its pericarp.
-
-{{< cite "powo" >}}
+STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* family, growing in the subtropical biome, originating in the region(s) of South China; Vietnam. It is used as a(n) culinary spice, and cultivated for its pericarp.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* fam
 |      family      |                                          Schisandraceae                                         |
 | region of origin |                                        SE. China; Vietnam                                       |
 |     macroarea    |                                               Asia                                              |
-|     part used    |                                             pericarp                                            |
+|     part_used    |                                             pericarp                                            |
 |    cultivation   |              China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756)|
 

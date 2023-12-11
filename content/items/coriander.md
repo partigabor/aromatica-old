@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The dried fruits of an annual herb, also known as cilantro. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of an annual herb, also known as cilantro. 
+>The dried fruits of an annual herb, also known as cilantro.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, g
 |      family      |                       Apiaceae                      |
 | region of origin |              E. Mediterranean; W. Asia              |
 |     macroarea    |                         Asia                        |
-|     part used    |                        fruit                        |
+|     part_used    |                        fruit                        |
 |    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 

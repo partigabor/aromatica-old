@@ -1,18 +1,20 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice. "
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', 'perfumery']
+tags = ['culinary', 'medicinal', 'perfumery', 'distillery']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice. 
+>The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Allspice)
+
+
 
 {{< load-photoswipe >}}
 
@@ -24,9 +26,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. Mexico to Central America; Caribbean. It is used as a(n) culinary and perfumery spice, and cultivated for its unripe fruit; leaf.
-
-{{< cite "powo" >}}
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. Mexico to Central America; Caribbean. It is used as a(n) culinary and medicinal and perfumery and distillery spice, and cultivated for its unripe fruit; leaf; wood.{{< cite "powo" >}}
 
 ## Overview
 
@@ -36,7 +36,7 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family,
 |      family      |                                            Myrtaceae                                            |
 | region of origin |                                S. Mexico to C. America; Caribbean                               |
 |     macroarea    |                                             Americas                                            |
-|     part used    |                                        unripe fruit; leaf                                       |
+|     part_used    |                                     unripe fruit; leaf; wood                                    |
 |    cultivation   |                                    Jamaica; Mexico; Honduras                                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
 

@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper. 
+>The spike-like cluster of fruits of Piper longum from India; fruit of Piper longum. See also Java long pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Long_pepper)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the *Piperaceae* family, growing in the temperate biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the *Piperaceae* family, growing in the temperate biome, originating in the region(s) of India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the 
 |      family      |                     Piperaceae                    |
 | region of origin |     E. Himalaya to S. China; Indo-China; India    |
 |     macroarea    |                        Asia                       |
-|     part used    |                       fruit                       |
+|     part_used    |                       fruit                       |
 |    cultivation   |             India; Indonesia; Thailand            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 

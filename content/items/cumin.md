@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-12-08"
+date = "2023-12-11"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. "
 weight = 10
 # draft = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. 
+>The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cumin)
+
+
 
 <center>
 
@@ -20,9 +22,7 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.
-
-{{< cite "powo" >}}
+CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of West Asia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ## Overview
 
@@ -32,7 +32,7 @@ CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing 
 |      family      |                      Apiaceae                     |
 | region of origin |           S. Europe; W. & C. Asia; India          |
 |     macroarea    |                        Asia                       |
-|     part used    |                       fruit                       |
+|     part_used    |                       fruit                       |
 |    cultivation   |                India; Iran; Lebanon               |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 
