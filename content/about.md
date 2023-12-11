@@ -35,16 +35,16 @@ In what follows, you can find the main resources that were used while building t
 
 The first step was to create a list of spices that are relatively well-known, using information gathered by professionals from various fields. The second step was to collate the data on these materials, and morph it into a unified database to faciliate further enquiries. In the later stages of researching specific items, new and less common substances would reveal themselves, and their addition will help to reach the ultimate goal of a comprehensive list of spices.
 
-Encyclopedias can be a great starting point to kick off research in any topic, and the *Encyclopaedia Britannica* does have a non-exhaustive list of herbs and spices assembled by Melissa Petruzzello {{< cite -petruzzello_list_2023 >}}. I consider three academic fields crucial for research into the spice domain: *botany*, *history*, and *gastronomy*. Regarding the realm of plants, I relied on the book of South African botanist Ben-Erik van Wyk {{< cite -vanwyk_culinary_2014 >}}. For a cultural and historical account, I turned towards the book of English historian and linguist Andrew Dalby {{< cite -dalby_dangerous_2000 >}}. Finally, for a perspective from the culinary arts I used the book of Tony Hill {{< cite -hill_contemporary_2004 >}}, a spice merchant from Seattle.
+Encyclopedias can be a great starting point to kick off research in any topic, and the *Encyclopaedia Britannica* does have a non-exhaustive list of herbs and spices assembled by Melissa Petruzzello {{< cite -petruzzello_2023_list >}}. I consider three academic fields crucial for research into the spice domain: *botany*, *history*, and *gastronomy*. Regarding the realm of plants, I relied on the book of South African botanist Ben-Erik van Wyk {{< cite -vanwyk_2014_culinary >}}. For a cultural and historical account, I turned towards the book of English historian and linguist Andrew Dalby {{< cite -dalby_2000_dangerous >}}. Finally, for a perspective from the culinary arts I used the book of Tony Hill {{< cite -hill_2004_contemporary >}}, a spice merchant from Seattle.
 
 **Table 1.** The main resources used for the spice list, and the number of items found in each.
 
 |Source | Discipline | Number of items |
 | --- | --- | --- |
-| Petruzzello {{< cite -petruzzello_list_2023 >}} | Reference | 70 |
-| Hill {{< cite -hill_contemporary_2004 >}} | Gastronomy | 127 |
-| Dalby {{< cite -dalby_dangerous_2000 >}} | History | 183 |
-| van Wyk {{< cite -vanwyk_culinary_2014 >}} | Botany | 667 |
+| Petruzzello {{< cite -petruzzello_2023_list >}} | Reference | 70 |
+| Hill {{< cite -hill_2004_contemporary >}} | Gastronomy | 127 |
+| Dalby {{< cite -dalby_2000_dangerous >}} | History | 183 |
+| van Wyk {{< cite -vanwyk_2014_culinary >}} | Botany | 667 |
 
 {{< gallery dir="/images/books/" />}}
 
