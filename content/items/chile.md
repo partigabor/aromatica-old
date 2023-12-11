@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The fruits of Capsicum annuum and other species, also known as chilli; chili pepper, related to paprika. See also Rocoto, Scotch bonnet, Tabasco pepper, Uchu, Ulupica.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Chili_pepper)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/chile" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

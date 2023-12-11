@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The seeds of a West Asian herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fenugreek)
 
-
-
 <center>
 
 **English:** fenugreek · **Hungarian:** görögszéna · **Arabic:** <span class="arabic-text" dir="rtl">حلبة</span> · **Chinese:** <span class="traditional-chinese-text">胡蘆巴</span>

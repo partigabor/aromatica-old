@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to cassia. See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamon)
 
-
-
 <center>
 
 **English:** cinnamon · **Hungarian:** fahéj · **Arabic:** <span class="arabic-text" dir="rtl">قرفة</span> · **Chinese:** <span class="traditional-chinese-text">錫蘭肉桂</span>

@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_guineense)
 
-
-
 <center>
 
 

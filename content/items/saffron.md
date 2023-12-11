@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

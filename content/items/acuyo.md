@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >Fruit of Piper auritum, syn. P. sanctum.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_auritum)
 
-
-
 <center>
 
 

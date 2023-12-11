@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried aromatic leaf of the bay laurel and other trees., also known as bay. See also Indian bay leaf; Indonesian bay leaf; West Indian bay leaf.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Bay_leaf)
 
-
-
 <center>
 
 **English:** bay leaf · **Hungarian:** babérlevél · **Arabic:** <span class="arabic-text" dir="rtl">ورق الغار</span> · **Chinese:** <span class="traditional-chinese-text">月桂葉</span>

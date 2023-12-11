@@ -14,10 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The aromatic rhizomes of the ginger plant, fresh or dried.. See also Wild ginger.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Ginger)
 
- [B](https://www.britannica.com/plant/ginger)
-
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/ginger" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

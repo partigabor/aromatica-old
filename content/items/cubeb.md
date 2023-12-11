@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The fruit of Piper cubeba, related to pepper. See also Ashanti pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_cubeba)
 
-
-
 <center>
 
 **English:** cubeb · **Hungarian:** kubébabors · **Arabic:** <span class="arabic-text" dir="rtl">كبابة</span> · **Chinese:** <span class="traditional-chinese-text">蓽澄茄</span>

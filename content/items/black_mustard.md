@@ -14,10 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Rhamphospermum_nigrum)
 
- [B](https://www.britannica.com/plant/mustard)
-
-
-
 <center>
 
 

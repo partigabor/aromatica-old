@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The inner bark of Southeast Asian trees, related to cinnamon. See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamomum_cassia)
 
-
-
 <center>
 
 **English:** cassia · **Hungarian:** kasszia(fahéj) · **Arabic:** <span class="arabic-text" dir="rtl">سليخة</span> · **Chinese:** <span class="traditional-chinese-text">肉桂</span>

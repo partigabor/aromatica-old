@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg#Mace)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/nutmeg" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The seed-like fruits of an Eurasian herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Caraway)
 
-
-
 <center>
 
 **English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="traditional-chinese-text">葛縷子</span>

@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The numbing, red or green fruits of East Asian prickly ash trees, related to sansho. See also sansho.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Sichuan_pepper)
 
-
-
 <center>
 
 **English:** Sichuan pepper · **Hungarian:** szecsuáni bors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل سيتشوان</span> · **Chinese:** <span class="traditional-chinese-text">花椒</span>

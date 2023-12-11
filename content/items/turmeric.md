@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica. See also Yellow zedoary.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Turmeric)
 
-
-
 <center>
 
 **English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span>

@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The seed of Nigella sativa.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nigella_sativa)
 
-
-
 <center>
 
 **English:** nigella · **Hungarian:** kerti katicavirág; fekete kömény; fekete hagymamag; parasztbors

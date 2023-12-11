@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The aril (seed-covering) of the nutmeg, related to nutmeg.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)
 
-
-
 <center>
 
 **English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Chinese:** <span class="traditional-chinese-text">肉豆蔻皮</span>

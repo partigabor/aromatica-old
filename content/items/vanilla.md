@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans. See also Tahitian vanilla; West Indian vanilla.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Vanilla)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/vanilla" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

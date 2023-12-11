@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried fruits of an annual herb, also known as cilantro.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
 
-
-
 <center>
 
 **English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span>

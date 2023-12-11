@@ -14,10 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Brassica_juncea)
 
- [B](https://www.britannica.com/plant/mustard)
-
-
-
 <center>
 
 

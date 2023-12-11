@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cumin)
 
-
-
 <center>
 
 **English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Chinese:** <span class="traditional-chinese-text">孜然</span>

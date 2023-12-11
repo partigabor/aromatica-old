@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >Fruit of Amomum subulatum, also known as brown cardamom; greater cardamom; Indian cardamom; Nepal cardamom; Indian black cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum*.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_cardamom)
 
-
-
 <center>
 
 **English:** black cardamom · **Hungarian:** fekete kardamom · **Arabic:** <span class="arabic-text" dir="rtl">قاقلة</span> · **Chinese:** <span class="traditional-chinese-text">香豆蔻</span>

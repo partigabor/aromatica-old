@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The root of Cymbopogon citratus.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cymbopogon)
 
-
-
 <center>
 
 

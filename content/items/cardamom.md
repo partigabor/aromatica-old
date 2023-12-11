@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)
 
-
-
 <center>
 
 **English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="traditional-chinese-text">豆蔻</span>

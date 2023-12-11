@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The red juice of the seeds of Bixa orellana.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Annatto)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/annatto" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

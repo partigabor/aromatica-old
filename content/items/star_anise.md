@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The star shaped pericarps of a tree from Vietnam and South China; fruit of Illicium verum. See also anise.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Illicium_verum)
 
-
-
 <center>
 
 **English:** star anise · **Hungarian:** csillagánizs · **Arabic:** <span class="arabic-text" dir="rtl">يانسون نجمي</span> · **Chinese:** <span class="traditional-chinese-text">八角</span>

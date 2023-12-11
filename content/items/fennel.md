@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried fruits of a perennial herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fennel)
 
-
-
 <center>
 
 **English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span>

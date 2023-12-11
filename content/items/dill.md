@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The seeds of a Mediterranean herb.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Dill)
 
-
-
 <center>
 
 **English:** dill · **Hungarian:** kapor · **Arabic:** <span class="arabic-text" dir="rtl">شبت</span> · **Chinese:** <span class="traditional-chinese-text">蒔蘿</span>

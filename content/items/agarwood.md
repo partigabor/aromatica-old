@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >Diseased wood of Aquilaria malaccensis and A. sinensis.  [<i class="fab fa-wikipedia-w"></i>](https://en.wiktionary.org/wiki/agalloch)
 
-
-
 <center>
 
 **Arabic:** <span class="arabic-text" dir="rtl">عود</span> · **Chinese:** <span class="traditional-chinese-text">沉香</span>

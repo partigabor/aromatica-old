@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The fresh and dried leaves of many varieties of a popular culinary herb., related to holy basil.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Basil)
 
-
-
 <center>
 
 **English:** basil · **Hungarian:** bazsalikom · **Arabic:** <span class="arabic-text" dir="rtl">ريحان</span> · **Chinese:** <span class="traditional-chinese-text">羅勒</span>

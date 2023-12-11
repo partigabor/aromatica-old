@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Anise)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/anise" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

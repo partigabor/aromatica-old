@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried resin of Ferula foetida and F. assa-foetida, also known as hing; devil's dung.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Asafoetida)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/asafoetida" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

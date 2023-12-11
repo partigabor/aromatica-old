@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum. See also nutmeg; mace.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Clove)
 
-
-
 <center>
 
 **English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Chinese:** <span class="traditional-chinese-text">丁香</span>

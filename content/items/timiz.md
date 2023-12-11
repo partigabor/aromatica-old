@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >Fruits of an African *Piper* species, related to black pepper; long pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_capense)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/timiz" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

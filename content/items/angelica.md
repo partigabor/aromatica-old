@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The scented stems and roots of a medicinal plant from the northern hemisphere.. See also other angelicas.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Angelica_archangelica)
 
-
-
 <center>
 
 **English:** angelica · **Hungarian:** orvosi angyalgyökér · **Arabic:** <span class="arabic-text" dir="rtl">عشبة الملاك المخزنية</span> · **Chinese:** <span class="traditional-chinese-text">歐白芷</span>

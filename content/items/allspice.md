@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried unripe berries of a small Caribbean tree, also known as pimento; Jamaica pepper, related to Bay rum tree. See also wild allspice.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Allspice)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/allspice" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}

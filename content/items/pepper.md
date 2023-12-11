@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 >The dried fruits of an Indian vine, also known as black pepper, related to long pepper.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_pepper)
 
-
-
 {{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/pepper" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
