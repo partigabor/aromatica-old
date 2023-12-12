@@ -24708,14 +24708,14 @@
       "title": {
         "text": "region",
         "font": {
-          "color": "#ffffff",
+          "color": "#dddddd",
           "family": "Noto Sans",
           "size": 14
         }
       },
       "tracegroupgap": 0,
       "font": {
-        "color": "#ffffff",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -24741,7 +24741,7 @@
     },
     "title": {
       "font": {
-        "color": "#ffffff",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 18
       },

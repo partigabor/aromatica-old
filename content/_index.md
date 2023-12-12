@@ -10,6 +10,8 @@ bibFile = "static/bibliography/parti.json"
 
 *Aromatica* is a database containing historical, cultural, and linguistic information on spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.
 
+{{% include file="number.md" %}}
+
 <!-- The website currently contains information on 24 items. -->
 
 >The database is under construction, please come back in 2024.

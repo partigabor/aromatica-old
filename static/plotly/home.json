@@ -162,7 +162,7 @@
           null,
           null,
           null,
-          89.0,
+          -89.0,
           21.0,
           1
         ],
@@ -219,7 +219,7 @@
         101.0,
         82.0,
         111.0,
-        89.0,
+        -89.0,
         2.0,
         40.0
       ],
@@ -257,7 +257,7 @@
           "fulful ifranj\u012b",
           "\u591a\u9999\u679c",
           "du\u014dxi\u0101nggu\u01d2",
-          77.0,
+          -77.0,
           18.0,
           1
         ],
@@ -287,7 +287,7 @@
       ],
       "legendgroup": "Myrtaceae",
       "lon": [
-        77.0,
+        -77.0,
         127.0
       ],
       "marker": {
@@ -755,8 +755,8 @@
           "fulful \u1e25\u0101rr",
           "\u8fa3\u6912",
           "l\u00e0ji\u0101o",
-          -85.0,
-          12.0,
+          -103.0,
+          24.0,
           1
         ]
       ],
@@ -766,11 +766,11 @@
         "chile"
       ],
       "lat": [
-        12.0
+        24.0
       ],
       "legendgroup": "Solanaceae",
       "lon": [
-        -85.0
+        -103.0
       ],
       "marker": {
         "color": "#94346e",
@@ -908,8 +908,8 @@
           "f\u0101n\u012bliy\u0101",
           "\u9999\u8349",
           "xi\u0101ngc\u01ceo",
-          -55.0,
-          -10.0,
+          -86.0,
+          13.0,
           1
         ]
       ],
@@ -919,11 +919,11 @@
         "vanilla"
       ],
       "lat": [
-        -10.0
+        13.0
       ],
       "legendgroup": "Orchidaceae",
       "lon": [
-        -55.0
+        -86.0
       ],
       "marker": {
         "color": "#6baed6",
@@ -1328,6 +1328,73 @@
       },
       "mode": "markers",
       "name": "Asteraceae",
+      "showlegend": true,
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "top right"
+    },
+    {
+      "customdata": [
+        [
+          "pink peppercorns",
+          "Schinus molle",
+          "Anacardiaceae",
+          "Peru to N. Chile, S. Brazil to NE. Argentina",
+          "\u0641\u0644\u0641\u0644 \u0648\u0631\u062f\u064a",
+          "fulful ward\u012b",
+          "\u7c89\u7d05\u80e1\u6912",
+          "f\u011bnh\u00f3ng h\u00faji\u0101o",
+          null,
+          null,
+          1
+        ],
+        [
+          "Brazilian pink pepper",
+          "Schinus terebinthifolia",
+          "Anacardiaceae",
+          "Brazil to NE. Argentina",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "pink peppercorns",
+        "Brazilian pink pepper"
+      ],
+      "lat": [
+        null,
+        null
+      ],
+      "legendgroup": "Anacardiaceae",
+      "lon": [
+        null,
+        null
+      ],
+      "marker": {
+        "color": "#3f2b5b",
+        "opacity": 0.75,
+        "size": 12,
+        "sizemode": "area",
+        "sizeref": 0.0009765625,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        }
+      },
+      "mode": "markers",
+      "name": "Anacardiaceae",
       "showlegend": true,
       "type": "scattergeo",
       "textfont": {
