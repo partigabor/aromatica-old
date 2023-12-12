@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of Iraq to N. Pakistan. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                     fenugreek                     |
@@ -33,6 +31,8 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* fa
 |       part       |                     seed; leaf                    |
 |    cultivation   |                       India                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
+
+FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* family, growing in the temperate biome, originating in the region(s) of Iraq to N. Pakistan. It is used as a(n) culinary spice and herb, and cultivated for its seed; leaf.{{< cite "powo" >}}
 
 ![Trigonella foenum-graecum](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 

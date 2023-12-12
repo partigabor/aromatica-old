@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of E. Medit. to Pakistan. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                           coriander                          |
@@ -33,6 +31,8 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, g
 |       part       |                             fruit                            |
 |    cultivation   |     Argentina; India; Morocco; Romania; Spain; Yugoslavia    |
 |botanical database|      [POWO](https://powo.science.kew.org/taxon/840760-1)     |
+
+CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of E. Medit. to Pakistan. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Coriandrum sativum](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 

@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CASSIA (*Cinnamomum aromaticum* Nees) is a(n) tree from the *Lauraceae* family, growing in the subtropical biome, originating in the region(s) of SE. China to Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                       cassia                      |
@@ -33,6 +31,8 @@ CASSIA (*Cinnamomum aromaticum* Nees) is a(n) tree from the *Lauraceae* family, 
 |       part       |                    bark; fruit                    |
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
+
+CASSIA (*Cinnamomum aromaticum* Nees) is a(n) tree from the *Lauraceae* family, growing in the subtropical biome, originating in the region(s) of SE. China to Vietnam. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; fruit.{{< cite "powo" >}}
 
 ![Cinnamomum aromaticum](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum aromaticum from Köhler's Medizinal-Pflanzen")
 

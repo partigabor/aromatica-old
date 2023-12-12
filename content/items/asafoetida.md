@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Iran to C. Asia and W. Pakistan. It is used as a(n) culinary and medicinal spice, and cultivated for its gum-resin (latex).{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                     asafoetida                    |
@@ -37,6 +35,8 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) perennial from the *Apiaceae
 |       part       |                 gum-resin (latex)                 |
 |    cultivation   |                 Iran; Afghanistan                 |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
+
+ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Iran to C. Asia and W. Pakistan. It is used as a(n) culinary and medicinal spice, and cultivated for its gum-resin (latex).{{< cite "powo" >}}
 
 ![Ferula foetida](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 

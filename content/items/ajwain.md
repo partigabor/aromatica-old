@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Iraq to C. Asia and Myanmar. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                          ajwain                          |
@@ -32,6 +30,8 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) annual from the *Apiaceae* fa
 |    continents    |               ASIA-TEMPERATE, ASIA-TROPICAL              |
 |       part       |                           fruit                          |
 |botanical database|    [POWO](https://powo.science.kew.org/taxon/849765-1)   |
+
+AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Iraq to C. Asia and Myanmar. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 
 

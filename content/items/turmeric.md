@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of a cultigen from SW. India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                      turmeric                                                                                     |
@@ -33,6 +31,8 @@ TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberace
 |       part       |                                                                                      rhizome                                                                                      |
 |    cultivation   |                                                                     China; Honduras; India; Indonesia; Jamaica                                                                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1), [GBIF](https://www.gbif.org/species/2757624), [TROP](https://tropicos.org/name/34500029), [EOL](https://eol.org/pages/1122309)|
+
+TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of a cultigen from SW. India. It is used as a(n) culinary and medicinal and ritualistic spice and dye, and cultivated for its rhizome.{{< cite "powo" >}}
 
 ![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 

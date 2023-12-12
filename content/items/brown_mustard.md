@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BROWN MUSTARD (*Brassica juncea* (L.) Czern.) is a(n) annual or subshrub from the *Brassicaceae* family, growing in the subtropical biome, originating in the region(s) of Caucasus. It is used as a(n) culinary spice, and cultivated for its seed; leaf.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                    brown mustard                    |
@@ -32,6 +30,8 @@ BROWN MUSTARD (*Brassica juncea* (L.) Czern.) is a(n) annual or subshrub from th
 |    continents    |                    ASIA-TEMPERATE                   |
 |       part       |                      seed; leaf                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/60442520-2)|
+
+BROWN MUSTARD (*Brassica juncea* (L.) Czern.) is a(n) annual or subshrub from the *Brassicaceae* family, growing in the subtropical biome, originating in the region(s) of Caucasus. It is used as a(n) culinary spice, and cultivated for its seed; leaf.{{< cite "powo" >}}
 
 
 

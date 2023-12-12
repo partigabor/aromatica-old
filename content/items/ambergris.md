@@ -20,18 +20,18 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-AMBERGRIS (*Physeter macrocephalus* L.) is a(n) nan from the *nan* family, growing in the nan biome, originating in the region(s) of nan. It is used as a(n)  incense, and cultivated for its waxy, flammable substance from the gastrointestinal tract.
-
 ## Overview
 
 |       item       |                        ambergris                        |
 |------------------|---------------------------------------------------------|
 |       taxon      |               *Physeter macrocephalus* L.               |
-|      family      |                           nan                           |
+|      family      |                         Animalia                        |
 |      regions     |                                                         |
 |    continents    |                                                         |
 |       part       |waxy, flammable substance from the gastrointestinal tract|
 |botanical database|                                                         |
+
+AMBERGRIS (*Physeter macrocephalus* L.) is a(n) nan from the *Animalia* family, growing in the nan biome, originating in the region(s) of nan. It is used as a(n)  incense, and cultivated for its waxy, flammable substance from the gastrointestinal tract.
 
 
 

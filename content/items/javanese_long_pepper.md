@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Bangladesh to China (Yunnan) and W. & C. Malesia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                Javanese long pepper               |
@@ -33,6 +31,8 @@ JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) climber from the *Piper
 |       part       |                       fruit                       |
 |    cultivation   |  https://en.wikipedia.org/wiki/Piper_retrofractum |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/683079-1)|
+
+JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Bangladesh to China (Yunnan) and W. & C. Malesia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 
 

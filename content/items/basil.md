@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Trop. & Subtrop. Asia to N. Australia. It is used as a(n) culinary herb, and cultivated for its leaf.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                       basil                                      |
@@ -32,6 +30,8 @@ BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* fa
 |    continents    |                    ASIA-TEMPERATE, ASIA-TROPICAL, AUSTRALASIA                    |
 |       part       |                                       leaf                                       |
 |botanical database|                [POWO](https://powo.science.kew.org/taxon/452874-1)               |
+
+BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Trop. & Subtrop. Asia to N. Australia. It is used as a(n) culinary herb, and cultivated for its leaf.{{< cite "powo" >}}
 
 
 

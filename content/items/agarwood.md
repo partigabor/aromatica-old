@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n) tree from the *Thymelaeaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Bangladesh to W. & C. Malesia. It is used as a(n)  incense, and cultivated for its wood.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                      agarwood                     |
@@ -32,6 +30,8 @@ AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n) tree from the *Thymelaeaceae* fa
 |    continents    |                   ASIA-TROPICAL                   |
 |       part       |                        wood                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/830835-1)|
+
+AGARWOOD (*Aquilaria malaccensis* Lam.) is a(n) tree from the *Thymelaeaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Bangladesh to W. & C. Malesia. It is used as a(n)  incense, and cultivated for its wood.{{< cite "powo" >}}
 
 
 

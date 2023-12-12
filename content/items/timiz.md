@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Trop. & S. Africa, Comoros, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                              timiz                                                                              |
@@ -37,6 +35,8 @@ TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperace
 |       part       |                                                                              fruit                                                                              |
 |    cultivation   |                                                                             Ethiopia                                                                            |
 |botanical database|                                                       [POWO](https://powo.science.kew.org/taxon/680780-1)                                                       |
+
+TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Trop. & S. Africa, Comoros, Madagascar. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 
 

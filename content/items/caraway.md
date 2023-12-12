@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Temp. Eurasia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                            caraway                                                                                           |
@@ -33,6 +31,8 @@ CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing
 |       part       |                                                                                             fruit                                                                                            |
 |    cultivation   |                                                                           Denmark; Lebanon; The Netherlands; Poland                                                                          |
 |botanical database|                                                                      [POWO](https://powo.science.kew.org/taxon/839677-1)                                                                     |
+
+CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Temp. Eurasia. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Carum carvi](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 

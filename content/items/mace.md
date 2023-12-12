@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Maluku (Banda Is.). It is used as a(n) culinary spice, and cultivated for its aril.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                        mace                       |
@@ -33,6 +31,8 @@ MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family,
 |       part       |                        aril                       |
 |    cultivation   |                 Grenada; Indonesia                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
+
+MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Maluku (Banda Is.). It is used as a(n) culinary spice, and cultivated for its aril.{{< cite "powo" >}}
 
 ![Myristica fragrans](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 

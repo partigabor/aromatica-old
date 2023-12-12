@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poaceae* family, growing in the wet tropical biome, originating in the region(s) of S. India, Sri Lanka. It is used as a(n) culinary and medicinal herb, and cultivated for its leaf.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                     lemongrass                    |
@@ -32,6 +30,8 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poace
 |    continents    |                   ASIA-TROPICAL                   |
 |       part       |                        leaf                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
+
+LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poaceae* family, growing in the wet tropical biome, originating in the region(s) of S. India, Sri Lanka. It is used as a(n) culinary and medicinal herb, and cultivated for its leaf.{{< cite "powo" >}}
 
 
 

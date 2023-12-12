@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of Iraq to Afghanistan. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                       cumin                       |
@@ -33,6 +31,8 @@ CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing 
 |       part       |                       fruit                       |
 |    cultivation   |                India; Iran; Lebanon               |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
+
+CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of Iraq to Afghanistan. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Cuminum cyminum](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 

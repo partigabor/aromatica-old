@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of N. Africa to Chad, Iran to Arabian Pen.. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                    dill                                   |
@@ -33,6 +31,8 @@ DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growin
 |       part       |                                   fruit                                   |
 |    cultivation   |                         India; Pakistan; worldwide                        |
 |botanical database|            [POWO](https://powo.science.kew.org/taxon/837530-1)            |
+
+DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of N. Africa to Chad, Iran to Arabian Pen.. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 
 

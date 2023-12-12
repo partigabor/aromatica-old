@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                      pepper                                                                                      |
@@ -37,6 +35,8 @@ PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing
 |       part       |                                                                                       fruit                                                                                      |
 |    cultivation   |                                                                Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.                                                                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1), [GBIF](https://www.gbif.org/species/3086357), [TROP](https://tropicos.org/name/25000013), [EOL](https://eol.org/pages/596620)|
+
+PEPPER (*Piper nigrum* L.) is a(n) climber from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Piper nigrum](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 

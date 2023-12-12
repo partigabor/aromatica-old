@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CINNAMON (*Cinnamomum verum* J.Presl) is a(n) tree from the *Lauraceae* family, growing in the wet tropical biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                      cinnamon                     |
@@ -33,6 +31,8 @@ CINNAMON (*Cinnamomum verum* J.Presl) is a(n) tree from the *Lauraceae* family, 
 |       part       |                     bark; leaf                    |
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
+
+CINNAMON (*Cinnamomum verum* J.Presl) is a(n) tree from the *Lauraceae* family, growing in the wet tropical biome, originating in the region(s) of Sri Lanka. It is used as a(n) culinary and medicinal spice, and cultivated for its bark; leaf.{{< cite "powo" >}}
 
 ![Cinnamomum verum](/images/illustrations/cinnamon.png?width=40rem "Illustration of Cinnamomum verum from Köhler's Medizinal-Pflanzen")
 

@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-SAFFLOWER (*Carthamus tinctorius* L.) is a(n) annual from the *Asteraceae* family, growing in the temperate biome, originating in the region(s) of C. & E. Türkiye to Iran. It is used as a(n)  spice, and cultivated for its corollas.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                     safflower                     |
@@ -32,6 +30,8 @@ SAFFLOWER (*Carthamus tinctorius* L.) is a(n) annual from the *Asteraceae* famil
 |    continents    |                   ASIA-TEMPERATE                  |
 |       part       |                      corollas                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/324467-2)|
+
+SAFFLOWER (*Carthamus tinctorius* L.) is a(n) annual from the *Asteraceae* family, growing in the temperate biome, originating in the region(s) of C. & E. Türkiye to Iran. It is used as a(n)  spice, and cultivated for its corollas.{{< cite "powo" >}}
 
 
 

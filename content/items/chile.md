@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. U.S.A. to Brazil, Caribbean. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                          chile                                                                          |
@@ -37,6 +35,8 @@ CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanac
 |       part       |                                                                          fruit                                                                          |
 |    cultivation   |                                            Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.                                            |
 |botanical database|                                                   [POWO](https://powo.science.kew.org/taxon/316944-2)                                                   |
+
+CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. U.S.A. to Brazil, Caribbean. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Capsicum annuum](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 

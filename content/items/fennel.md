@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Medit. to Ethiopia and W. Nepal. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                              fennel                                                                             |
@@ -33,6 +31,8 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family
 |       part       |                                                                              fruit                                                                              |
 |    cultivation   |                                                       Argentina; Bulgaria; Germany; Greece; India; Lebanon                                                      |
 |botanical database|                                                       [POWO](https://powo.science.kew.org/taxon/842680-1)                                                       |
+
+FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Medit. to Ethiopia and W. Nepal. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Foeniculum vulgare](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 

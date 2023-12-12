@@ -34334,8 +34334,8 @@
       "projection": {
         "type": "orthographic",
         "rotation": {
-          "lat": 52.74792886512889,
-          "lon": 25.25907886868802,
+          "lat": 20,
+          "lon": 80,
           "roll": 0
         },
         "scale": 2
@@ -34376,7 +34376,8 @@
       "showrivers": true,
       "showsubunits": true,
       "subunitcolor": "#383838",
-      "subunitwidth": 0
+      "subunitwidth": 0,
+      "fitbounds": "locations"
     },
     "legend": {
       "title": {

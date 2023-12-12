@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Trop. America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                annatto                                               |
@@ -37,6 +35,8 @@ ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, g
 |       part       |                                                 seed                                                 |
 |    cultivation   |                                   Brazil, Peru, Kenya, Philippines                                   |
 |botanical database|                          [POWO](https://powo.science.kew.org/taxon/33335-2)                          |
+
+ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to S. Trop. America. It is used as a(n) culinary and medicinal spice and dye, and cultivated for its seed.{{< cite "powo" >}}
 
 
 

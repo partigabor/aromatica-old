@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit (seed pod).{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                      cardamom                                                                                     |
@@ -33,6 +31,8 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from t
 |       part       |                                                                                  fruit (seed pod)                                                                                 |
 |    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871), [TROP](https://tropicos.org/name/34500572), [EOL](https://eol.org/pages/1120064)|
+
+CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit (seed pod).{{< cite "powo" >}}
 
 ![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 

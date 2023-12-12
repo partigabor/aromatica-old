@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of SE. Türkiye to C. Israel, Cyprus. It is used as a(n) culinary and distillery spice, and cultivated for its fruit; oil; leaf.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                       anise                       |
@@ -37,6 +35,8 @@ ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growin
 |       part       |                  fruit; oil; leaf                 |
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
+
+ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of SE. Türkiye to C. Israel, Cyprus. It is used as a(n) culinary and distillery spice, and cultivated for its fruit; oil; leaf.{{< cite "powo" >}}
 
 ![Pimpinella anisum](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 

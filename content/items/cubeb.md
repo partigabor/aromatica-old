@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Indo-China to Malesia. It is used as a(n) culinary and medicinal and perfume spice, and cultivated for its unripe fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                       cubeb                       |
@@ -33,6 +31,8 @@ CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in
 |       part       |                    unripe fruit                   |
 |    cultivation   |                     Indonesia                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
+
+CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Indo-China to Malesia. It is used as a(n) culinary and medicinal and perfume spice, and cultivated for its unripe fruit.{{< cite "powo" >}}
 
 ![Piper cubeba](/images/illustrations/cubeb.png?width=40rem "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
 

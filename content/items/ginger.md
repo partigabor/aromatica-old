@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India to SC. China. It is used as a(n) culinary and medicinal spice, and cultivated for its rhizome.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                      ginger                                                                                      |
@@ -37,6 +35,8 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte 
 |       part       |                                                                                      rhizome                                                                                     |
 |    cultivation   |                                                                       India; Jamaica; Nigeria; Sierra Leone                                                                      |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1), [GBIF](https://www.gbif.org/species/2757280), [TROP](https://tropicos.org/name/34500018), [EOL](https://eol.org/pages/987032)|
+
+GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of India to SC. China. It is used as a(n) culinary and medicinal spice, and cultivated for its rhizome.{{< cite "powo" >}}
 
 ![Zingiber officinale](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 

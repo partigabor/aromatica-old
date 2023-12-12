@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Greenland, Europe to W. Siberia. It is used as a(n) culinary and medicinal and distillery herb, and cultivated for its root; stem; fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                           angelica                                                           |
@@ -32,6 +30,8 @@ ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* fami
 |    continents    |                                           EUROPE, ASIA-TEMPERATE, NORTHERN AMERICA                                           |
 |       part       |                                                       root; stem; fruit                                                      |
 |botanical database|                                      [POWO](https://powo.science.kew.org/taxon/837560-1)                                     |
+
+ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of Greenland, Europe to W. Siberia. It is used as a(n) culinary and medicinal and distillery herb, and cultivated for its root; stem; fruit.{{< cite "powo" >}}
 
 ![Angelica archangelica](/images/illustrations/angelica.png?width=40rem "Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen")
 

@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* family, growing in the subtropical biome, originating in the region(s) of China (S. & W. Guangxi) to N. Vietnam. It is used as a(n) culinary spice, and cultivated for its pericarp.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                      star anise                                                                                      |
@@ -33,6 +31,8 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* fam
 |       part       |                                                                                       pericarp                                                                                       |
 |    cultivation   |                                                        China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)                                                        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756), [TROP](https://www.tropicos.org/name/50079582), [EOL](https://eol.org/pages/484056)|
+
+STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* family, growing in the subtropical biome, originating in the region(s) of China (S. & W. Guangxi) to N. Vietnam. It is used as a(n) culinary spice, and cultivated for its pericarp.{{< cite "powo" >}}
 
 ![Illicium verum](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 

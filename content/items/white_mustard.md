@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-WHITE MUSTARD (*Sinapis alba* L.) is a(n) annual from the *Brassicaceae* family, growing in the temperate biome, originating in the region(s) of Europe to China. It is used as a(n)  , and cultivated for its seed.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                                   white mustard                                                                                                  |
@@ -32,6 +30,8 @@ WHITE MUSTARD (*Sinapis alba* L.) is a(n) annual from the *Brassicaceae* family,
 |    continents    |                                                                                   EUROPE, AFRICA, ASIA-TEMPERATE, ASIA-TROPICAL                                                                                  |
 |       part       |                                                                                                       seed                                                                                                       |
 |botanical database|                                                                                [POWO](https://powo.science.kew.org/taxon/288952-1)                                                                               |
+
+WHITE MUSTARD (*Sinapis alba* L.) is a(n) annual from the *Brassicaceae* family, growing in the temperate biome, originating in the region(s) of Europe to China. It is used as a(n)  , and cultivated for its seed.{{< cite "powo" >}}
 
 
 

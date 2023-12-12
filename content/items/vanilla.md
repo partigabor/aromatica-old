@@ -24,8 +24,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-VANILLA (*Vanilla planifolia* Andrews) is a(n) climber from the *Orchidaceae* family, growing in the wet tropical biome, originating in the region(s) of S. Mexico to Brazil. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                        vanilla                                                                                        |
@@ -37,6 +35,8 @@ VANILLA (*Vanilla planifolia* Andrews) is a(n) climber from the *Orchidaceae* fa
 |       part       |                                                                                         fruit                                                                                         |
 |    cultivation   |                                                                 Madagascar; Indonesia; Mexico; Papua New Guinea; China                                                                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398), [TROP](https://www.tropicos.org/name/23501046), [EOL](https://eol.org/pages/1127948)|
+
+VANILLA (*Vanilla planifolia* Andrews) is a(n) climber from the *Orchidaceae* family, growing in the wet tropical biome, originating in the region(s) of S. Mexico to Brazil. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Vanilla planifolia](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 

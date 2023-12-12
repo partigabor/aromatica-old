@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, growing in the temperate biome, originating in the region(s) of Romania to W. & SW. Iran. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                         nigella                        |
@@ -32,6 +30,8 @@ NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, gr
 |    continents    |                 EUROPE, ASIA-TEMPERATE                 |
 |       part       |                          seed                          |
 |botanical database|   [POWO](https://powo.science.kew.org/taxon/711687-1)  |
+
+NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, growing in the temperate biome, originating in the region(s) of Romania to W. & SW. Iran. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
 
 
 

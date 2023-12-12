@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-ACUYO (*Piper auritum* Kunth) is a(n) shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to Guianas and Ecuador. It is used as a(n) culinary herb, and cultivated for its herb.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                 acuyo                                |
@@ -32,6 +30,8 @@ ACUYO (*Piper auritum* Kunth) is a(n) shrub or tree from the *Piperaceae* family
 |    continents    |                  NORTHERN AMERICA, SOUTHERN AMERICA                  |
 |       part       |                                 herb                                 |
 |botanical database|          [POWO](https://powo.science.kew.org/taxon/680520-1)         |
+
+ACUYO (*Piper auritum* Kunth) is a(n) shrub or tree from the *Piperaceae* family, growing in the wet tropical biome, originating in the region(s) of Mexico to Guianas and Ecuador. It is used as a(n) culinary herb, and cultivated for its herb.{{< cite "powo" >}}
 
 
 

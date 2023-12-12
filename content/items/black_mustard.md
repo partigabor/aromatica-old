@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BLACK MUSTARD (*Mutarda nigra* (L.) Bernh.) is a(n) annual from the *Brassicaceae* family, growing in the temperate biome, originating in the region(s) of Europe to W. & N. China, Medit. to Ethiopia. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |                                                                                                      black mustard                                                                                                     |
@@ -32,6 +30,8 @@ BLACK MUSTARD (*Mutarda nigra* (L.) Bernh.) is a(n) annual from the *Brassicacea
 |    continents    |                                                                                      EUROPE, AFRICA, ASIA-TEMPERATE, ASIA-TROPICAL                                                                                     |
 |       part       |                                                                                                          seed                                                                                                          |
 |botanical database|                                                                                   [POWO](https://powo.science.kew.org/taxon/287192-1)                                                                                  |
+
+BLACK MUSTARD (*Mutarda nigra* (L.) Bernh.) is a(n) annual from the *Brassicaceae* family, growing in the temperate biome, originating in the region(s) of Europe to W. & N. China, Medit. to Ethiopia. It is used as a(n) culinary spice, and cultivated for its seed.{{< cite "powo" >}}
 
 
 

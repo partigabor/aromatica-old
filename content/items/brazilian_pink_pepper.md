@@ -20,8 +20,6 @@ bibFile = "static/bibliography/parti.json"
 
 </center>
 
-BRAZILIAN PINK PEPPER (*Schinus terebinthifolia* Raddi) is a(n) tree from the *Anacardiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Brazil to NE. Argentina. It is used as a(n) culinary and ornamental spice, and cultivated for its fruit.{{< cite "powo" >}}
-
 ## Overview
 
 |       item       |               Brazilian pink pepper              |
@@ -32,6 +30,8 @@ BRAZILIAN PINK PEPPER (*Schinus terebinthifolia* Raddi) is a(n) tree from the *A
 |    continents    |                 SOUTHERN AMERICA                 |
 |       part       |                       fruit                      |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/71069-1)|
+
+BRAZILIAN PINK PEPPER (*Schinus terebinthifolia* Raddi) is a(n) tree from the *Anacardiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of Brazil to NE. Argentina. It is used as a(n) culinary and ornamental spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 
 
