@@ -16,7 +16,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span>
+**English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Hindi:** <span class="devanagari-text">सौंफ़</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span>
 
 </center>
 

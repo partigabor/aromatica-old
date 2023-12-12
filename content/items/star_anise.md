@@ -16,7 +16,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** star anise · **Hungarian:** csillagánizs · **Arabic:** <span class="arabic-text" dir="rtl">يانسون نجمي</span> · **Chinese:** <span class="traditional-chinese-text">八角</span>
+**English:** star anise · **Hungarian:** csillagánizs · **Arabic:** <span class="arabic-text" dir="rtl">يانسون نجمي</span> · **Hindi:** <span class="devanagari-text">चक्रफूल</span> · **Chinese:** <span class="traditional-chinese-text">八角</span>
 
 </center>
 
@@ -24,15 +24,15 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* fam
 
 ## Overview
 
-|       item       |                                            star anise                                           |
-|------------------|-------------------------------------------------------------------------------------------------|
-|       taxon      |                                     *Illicium verum* Hook.f.                                    |
-|      family      |                                          Schisandraceae                                         |
-|      regions     |                                        China, Indo-China                                        |
-|    continents    |                                  ASIA-TEMPERATE, ASIA-TROPICAL                                  |
-|       part       |                                             pericarp                                            |
-|    cultivation   |              China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)             |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756)|
+|       item       |                                                                                      star anise                                                                                      |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                               *Illicium verum* Hook.f.                                                                               |
+|      family      |                                                                                    Schisandraceae                                                                                    |
+|      regions     |                                                                                   China, Indo-China                                                                                  |
+|    continents    |                                                                             ASIA-TEMPERATE, ASIA-TROPICAL                                                                            |
+|       part       |                                                                                       pericarp                                                                                       |
+|    cultivation   |                                                        China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)                                                        |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756), [TROP](https://www.tropicos.org/name/50079582), [EOL](https://eol.org/pages/484056)|
 
 ![Illicium verum](/images/illustrations/star_anise.png?width=40rem "Illustration of Illicium verum from Köhler's Medizinal-Pflanzen")
 

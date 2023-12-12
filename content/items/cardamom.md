@@ -16,7 +16,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="traditional-chinese-text">豆蔻</span>
+**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Hindi:** <span class="devanagari-text">इलायची </span> · **Chinese:** <span class="traditional-chinese-text">小豆蔻</span>
 
 </center>
 
@@ -24,19 +24,19 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from t
 
 ## Overview
 
-|       item       |                                             cardamom                                            |
-|------------------|-------------------------------------------------------------------------------------------------|
-|       taxon      |                                *Elettaria cardamomum* (L.) Maton                                |
-|      family      |                                          Zingiberaceae                                          |
-|      regions     |                                       Indian Subcontinent                                       |
-|    continents    |                                          ASIA-TROPICAL                                          |
-|       part       |                                         fruit (seed pod)                                        |
-|    cultivation   |                     Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                     |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871)|
+|       item       |                                                                                      cardamom                                                                                     |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                         *Elettaria cardamomum* (L.) Maton                                                                         |
+|      family      |                                                                                   Zingiberaceae                                                                                   |
+|      regions     |                                                                                Indian Subcontinent                                                                                |
+|    continents    |                                                                                   ASIA-TROPICAL                                                                                   |
+|       part       |                                                                                  fruit (seed pod)                                                                                 |
+|    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871), [TROP](https://tropicos.org/name/34500572), [EOL](https://eol.org/pages/1120064)|
 
 ![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 186.
+>Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 186. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/721/mode/1up)
 
 ## Distribution
 

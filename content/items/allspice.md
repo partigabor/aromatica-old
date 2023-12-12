@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span>
+**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Hindi:** <span class="devanagari-text">गंधद्रव्य?</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span>
 
 </center>
 
@@ -28,15 +28,15 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family,
 
 ## Overview
 
-|       item       |                                             allspice                                            |
-|------------------|-------------------------------------------------------------------------------------------------|
-|       taxon      |                                   *Pimenta dioica* (L.) Merr.                                   |
-|      family      |                                            Myrtaceae                                            |
-|      regions     |                                Mexico, Central America, Caribbean                               |
-|    continents    |                                NORTHERN AMERICA, SOUTHERN AMERICA                               |
-|       part       |                                     unripe fruit; leaf; wood                                    |
-|    cultivation   |                                    Jamaica; Mexico; Honduras                                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
+|       item       |                                                                   allspice                                                                  |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                         *Pimenta dioica* (L.) Merr.                                                         |
+|      family      |                                                                  Myrtaceae                                                                  |
+|      regions     |                                                      Mexico, Central America, Caribbean                                                     |
+|    continents    |                                                      NORTHERN AMERICA, SOUTHERN AMERICA                                                     |
+|       part       |                                                           unripe fruit; leaf; wood                                                          |
+|    cultivation   |                                                          Jamaica; Mexico; Honduras                                                          |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061), [TROP](https://tropicos.org/name/22101787)|
 
 ![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 

@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Chinese:** <span class="traditional-chinese-text">阿魏</span>
+**English:** asafoetida · **Hungarian:** ördöggyökér · **Arabic:** <span class="arabic-text" dir="rtl">حلتیت</span> · **Hindi:** <span class="devanagari-text">हींग</span> · **Chinese:** <span class="traditional-chinese-text">阿魏</span>
 
 </center>
 

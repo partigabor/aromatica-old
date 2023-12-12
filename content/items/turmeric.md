@@ -16,7 +16,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span>
+**English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Hindi:** <span class="devanagari-text">हल्दी</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span>
 
 </center>
 
@@ -24,15 +24,15 @@ TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberace
 
 ## Overview
 
-|       item       |                      turmeric                     |
-|------------------|---------------------------------------------------|
-|       taxon      |                 *Curcuma longa* L.                |
-|      family      |                   Zingiberaceae                   |
-|      regions     |                Indian Subcontinent                |
-|    continents    |                   ASIA-TROPICAL                   |
-|       part       |                      rhizome                      |
-|    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
+|       item       |                                                                                      turmeric                                                                                     |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                                 *Curcuma longa* L.                                                                                |
+|      family      |                                                                                   Zingiberaceae                                                                                   |
+|      regions     |                                                                                Indian Subcontinent                                                                                |
+|    continents    |                                                                                   ASIA-TROPICAL                                                                                   |
+|       part       |                                                                                      rhizome                                                                                      |
+|    cultivation   |                                                                     China; Honduras; India; Indonesia; Jamaica                                                                    |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1), [GBIF](https://www.gbif.org/species/2757624), [TROP](https://tropicos.org/name/34500029), [EOL](https://eol.org/pages/1122309)|
 
 ![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 

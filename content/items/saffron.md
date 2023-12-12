@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Chinese:** <span class="traditional-chinese-text">藏紅花</span>
+**English:** saffron · **Hungarian:** sáfrány · **Arabic:** <span class="arabic-text" dir="rtl">زعفران</span> · **Hindi:** <span class="devanagari-text">केसर</span> · **Chinese:** <span class="traditional-chinese-text">藏紅花</span>
 
 </center>
 

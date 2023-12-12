@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Chinese:** <span class="traditional-chinese-text">薑</span>
+**English:** ginger · **Hungarian:** gyömbér · **Arabic:** <span class="arabic-text" dir="rtl">زنجبيل</span> · **Hindi:** <span class="devanagari-text">अदरक </span> · **Chinese:** <span class="traditional-chinese-text">薑</span>
 
 </center>
 
@@ -28,15 +28,15 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte 
 
 ## Overview
 
-|       item       |                                              ginger                                             |
-|------------------|-------------------------------------------------------------------------------------------------|
-|       taxon      |                                   *Zingiber officinale* Roscoe                                  |
-|      family      |                                          Zingiberaceae                                          |
-|      regions     |                                    China, Indian Subcontinent                                   |
-|    continents    |                                  ASIA-TEMPERATE, ASIA-TROPICAL                                  |
-|       part       |                                             rhizome                                             |
-|    cultivation   |                              India; Jamaica; Nigeria; Sierra Leone                              |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1), [GBIF](https://www.gbif.org/species/2757280)|
+|       item       |                                                                                      ginger                                                                                      |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                           *Zingiber officinale* Roscoe                                                                           |
+|      family      |                                                                                   Zingiberaceae                                                                                  |
+|      regions     |                                                                            China, Indian Subcontinent                                                                            |
+|    continents    |                                                                           ASIA-TEMPERATE, ASIA-TROPICAL                                                                          |
+|       part       |                                                                                      rhizome                                                                                     |
+|    cultivation   |                                                                       India; Jamaica; Nigeria; Sierra Leone                                                                      |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1), [GBIF](https://www.gbif.org/species/2757280), [TROP](https://tropicos.org/name/34500018), [EOL](https://eol.org/pages/987032)|
 
 ![Zingiber officinale](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 

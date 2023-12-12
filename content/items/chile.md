@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** chile · **Hungarian:** paprika · **Arabic:** <span class="arabic-text" dir="rtl">فلفل حار</span> · **Chinese:** <span class="traditional-chinese-text">辣椒</span>
+**English:** chile · **Hungarian:** paprika · **Arabic:** <span class="arabic-text" dir="rtl">فلفل حار</span> · **Hindi:** <span class="devanagari-text">मिर्च; हरी मिर्च; लाल मिर्च</span> · **Chinese:** <span class="traditional-chinese-text">辣椒</span>
 
 </center>
 

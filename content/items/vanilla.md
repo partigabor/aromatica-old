@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Chinese:** <span class="traditional-chinese-text">香草</span>
+**English:** vanilla · **Hungarian:** vanília · **Arabic:** <span class="arabic-text" dir="rtl">فانيليا</span> · **Hindi:** <span class="devanagari-text">वैनिला</span> · **Chinese:** <span class="traditional-chinese-text">香草</span>
 
 </center>
 
@@ -28,15 +28,15 @@ VANILLA (*Vanilla planifolia* Andrews) is a(n) climber from the *Orchidaceae* fa
 
 ## Overview
 
-|       item       |                                             vanilla                                             |
-|------------------|-------------------------------------------------------------------------------------------------|
-|       taxon      |                                   *Vanilla planifolia* Andrews                                  |
-|      family      |                                           Orchidaceae                                           |
-|      regions     |                      Mexico, Central America, Western South America, Brazil                     |
-|    continents    |                                NORTHERN AMERICA, SOUTHERN AMERICA                               |
-|       part       |                                              fruit                                              |
-|    cultivation   |                      Madagascar; Indonesia; Mexico; Papua New Guinea; China                     |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
+|       item       |                                                                                        vanilla                                                                                        |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                              *Vanilla planifolia* Andrews                                                                             |
+|      family      |                                                                                      Orchidaceae                                                                                      |
+|      regions     |                                                                 Mexico, Central America, Western South America, Brazil                                                                |
+|    continents    |                                                                           NORTHERN AMERICA, SOUTHERN AMERICA                                                                          |
+|       part       |                                                                                         fruit                                                                                         |
+|    cultivation   |                                                                 Madagascar; Indonesia; Mexico; Papua New Guinea; China                                                                |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398), [TROP](https://www.tropicos.org/name/23501046), [EOL](https://eol.org/pages/1127948)|
 
 ![Vanilla planifolia](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 

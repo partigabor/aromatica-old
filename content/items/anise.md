@@ -20,7 +20,7 @@ bibFile = "static/bibliography/parti.json"
 
 <center>
 
-**English:** anise · **Hungarian:** ánizs · **Arabic:** <span class="arabic-text" dir="rtl">أنيسون</span> · **Chinese:** <span class="traditional-chinese-text">茴芹</span>
+**English:** anise · **Hungarian:** ánizs · **Arabic:** <span class="arabic-text" dir="rtl">أنيسون</span> · **Hindi:** <span class="devanagari-text">मोटी सौंफ़</span> · **Chinese:** <span class="traditional-chinese-text">茴芹</span>
 
 </center>
 
