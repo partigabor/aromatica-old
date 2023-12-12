@@ -3,6 +3,7 @@
     {
       "customdata": [
         [
+          "ginger",
           "Zingiber officinale",
           "Zingiberaceae",
           "India to SC. China",
@@ -10,11 +11,12 @@
           "zanjab\u012bl",
           "\u8591",
           "ji\u0101ng",
-          92.83832546722667,
-          25.475386676667693,
+          96.0,
+          22.0,
           1
         ],
         [
+          "turmeric",
           "Curcuma longa",
           "Zingiberaceae",
           "a cultigen from SW. India",
@@ -22,11 +24,12 @@
           "kurkum",
           "\u8591\u9ec3",
           "ji\u0101nghu\u00e1ng",
-          78.39704651683876,
-          21.47768376198816,
+          77.0,
+          10.0,
           1
         ],
         [
+          "cardamom",
           "Elettaria cardamomum",
           "Zingiberaceae",
           "SW. India",
@@ -34,11 +37,12 @@
           "h\u0101l",
           "\u8c46\u853b",
           "d\u00f2uk\u00f2u",
-          78.39704651683876,
-          21.47768376198816,
+          79.0,
+          11.0,
           1
         ],
         [
+          "black cardamom",
           "Amomum subulatum",
           "Zingiberaceae",
           "Nepal to C. China",
@@ -52,7 +56,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "ginger",
         "turmeric",
@@ -60,16 +64,16 @@
         "black cardamom"
       ],
       "lat": [
-        25.475386676667693,
-        21.47768376198816,
-        21.47768376198816,
+        22.0,
+        10.0,
+        11.0,
         28.0
       ],
       "legendgroup": "Zingiberaceae",
       "lon": [
-        92.83832546722667,
-        78.39704651683876,
-        78.39704651683876,
+        96.0,
+        77.0,
+        79.0,
         85.0
       ],
       "marker": {
@@ -84,18 +88,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Zingiberaceae",
       "showlegend": true,
-      "text": [
-        "ginger",
-        "turmeric",
-        "cardamom",
-        "black cardamom"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -104,6 +102,7 @@
     {
       "customdata": [
         [
+          "pepper",
           "Piper nigrum",
           "Piperaceae",
           "SW. India",
@@ -111,11 +110,12 @@
           "filfil, fulful",
           "\u80e1\u6912",
           "h\u00faji\u0101o",
-          78.39704651683876,
-          21.47768376198816,
+          76.0,
+          15.0,
           1
         ],
         [
+          "cubeb",
           "Piper cubeba",
           "Piperaceae",
           "Indo-China to Malesia",
@@ -128,6 +128,7 @@
           1
         ],
         [
+          "long pepper",
           "Piper longum",
           "Piperaceae",
           "E. Himalaya to China (S. Yunnan) and Indo-China",
@@ -135,11 +136,12 @@
           "d\u0101rfilfil",
           "\u84fd\u64a5",
           "b\u00ecb\u014d",
-          80.0,
-          23.0,
+          82.0,
+          25.0,
           1
         ],
         [
+          "Javanese long pepper",
           "Piper retrofractum",
           "Piperaceae",
           "Bangladesh to China (Yunnan) and W. & C. Malesia",
@@ -152,6 +154,7 @@
           1
         ],
         [
+          "acuyo",
           "Piper auritum",
           "Piperaceae",
           "Mexico to Guianas and Ecuador",
@@ -159,11 +162,12 @@
           null,
           null,
           null,
-          -88.70463804149442,
-          17.179686772084267,
+          null,
+          null,
           1
         ],
         [
+          "Ashanti pepper",
           "Piper guineense",
           "Piperaceae",
           "Trop. Africa, Madagascar",
@@ -171,11 +175,12 @@
           null,
           null,
           null,
-          17.567516859374194,
-          -12.28171739407878,
+          null,
+          null,
           1
         ],
         [
+          "timiz",
           "Piper capense",
           "Piperaceae",
           "Trop. & S. Africa, Comoros, Madagascar",
@@ -188,6 +193,7 @@
           1
         ],
         [
+          "rough-leaved pepper",
           "Piper amalago",
           "Piperaceae",
           "Mexico, Caribbean to S. Trop. America",
@@ -195,13 +201,13 @@
           null,
           null,
           null,
-          -61.224666366421474,
-          -32.29756059562069,
+          null,
+          null,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "pepper",
         "cubeb",
@@ -213,25 +219,25 @@
         "rough-leaved pepper"
       ],
       "lat": [
-        21.47768376198816,
+        15.0,
         0.0,
-        23.0,
+        25.0,
         -8.0,
-        17.179686772084267,
-        -12.28171739407878,
+        null,
+        null,
         9.0,
-        -32.29756059562069
+        null
       ],
       "legendgroup": "Piperaceae",
       "lon": [
-        78.39704651683876,
+        76.0,
         101.0,
-        80.0,
+        82.0,
         111.0,
-        -88.70463804149442,
-        17.567516859374194,
+        null,
+        null,
         40.0,
-        -61.224666366421474
+        null
       ],
       "marker": {
         "color": "#1d6996",
@@ -245,22 +251,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Piperaceae",
       "showlegend": true,
-      "text": [
-        "pepper",
-        "cubeb",
-        "long pepper",
-        "Javanese long pepper",
-        "acuyo",
-        "Ashanti pepper",
-        "timiz",
-        "rough-leaved pepper"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -269,6 +265,7 @@
     {
       "customdata": [
         [
+          "allspice",
           "Pimenta dioica",
           "Myrtaceae",
           "S. Mexico to C. America, Caribbean",
@@ -276,11 +273,12 @@
           "fulful ifranj\u012b",
           "\u591a\u9999\u679c",
           "du\u014dxi\u0101nggu\u01d2",
-          -76.69246176778054,
-          24.28718648964186,
+          77.0,
+          18.0,
           1
         ],
         [
+          "clove",
           "Syzygium aromaticum",
           "Myrtaceae",
           "Maluku",
@@ -288,25 +286,25 @@
           "qaranful",
           "\u4e01\u9999",
           "d\u012bngxi\u0101ng",
-          128.01538719596712,
-          -1.3659331222213147,
+          127.0,
+          1.0,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "allspice",
         "clove"
       ],
       "lat": [
-        24.28718648964186,
-        -1.3659331222213147
+        18.0,
+        1.0
       ],
       "legendgroup": "Myrtaceae",
       "lon": [
-        -76.69246176778054,
-        128.01538719596712
+        77.0,
+        127.0
       ],
       "marker": {
         "color": "#38a6a5",
@@ -320,16 +318,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Myrtaceae",
       "showlegend": true,
-      "text": [
-        "allspice",
-        "clove"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -338,6 +332,7 @@
     {
       "customdata": [
         [
+          "anise",
           "Pimpinella anisum",
           "Apiaceae",
           "SE. T\u00fcrkiye to C. Israel, Cyprus",
@@ -345,11 +340,12 @@
           "an\u012bs\u016bn",
           "\u8334\u82b9",
           "hu\u00edq\u00edn",
-          33.22362851935679,
-          35.04926029847798,
+          33.0,
+          35.0,
           1
         ],
         [
+          "asafoetida",
           "Ferula foetida",
           "Apiaceae",
           "Iran to C. Asia and W. Pakistan",
@@ -357,11 +353,12 @@
           "\u1e25ilt\u012bt",
           "\u963f\u9b4f",
           "\u0101w\u00e8i",
-          65.98100159577382,
-          33.76052416523931,
+          68.0,
+          34.0,
           1
         ],
         [
+          "coriander",
           "Coriandrum sativum",
           "Apiaceae",
           "E. Medit. to Pakistan",
@@ -369,11 +366,12 @@
           "kuzbara",
           "\u82ab\u837d",
           "y\u00e1n\u200bsui",
-          65.98100159577382,
-          33.76052416523931,
+          45.0,
+          40.0,
           1
         ],
         [
+          "cumin",
           "Cuminum cyminum",
           "Apiaceae",
           "Iraq to Afghanistan",
@@ -381,11 +379,12 @@
           "kamm\u016bn",
           "\u5b5c\u7136",
           "z\u012b\u200br\u00e1n",
-          65.98100159577382,
-          33.76052416523931,
+          51.0,
+          36.0,
           1
         ],
         [
+          "fennel",
           "Foeniculum vulgare",
           "Apiaceae",
           "Medit. to Ethiopia and W. Nepal",
@@ -393,11 +392,12 @@
           "shamar",
           "\u8334\u9999",
           "hu\u00edxi\u0101ng",
-          65.98100159577382,
-          33.76052416523931,
+          39.0,
+          35.0,
           1
         ],
         [
+          "caraway",
           "Carum carvi",
           "Apiaceae",
           "Temp. Eurasia",
@@ -410,6 +410,7 @@
           1
         ],
         [
+          "dill",
           "Anethum graveolens",
           "Apiaceae",
           "N. Africa to Chad, Iran to Arabian Pen.",
@@ -422,6 +423,7 @@
           1
         ],
         [
+          "ajwain",
           "Trachyspermum ammi",
           "Apiaceae",
           "Iraq to C. Asia and Myanmar",
@@ -434,6 +436,7 @@
           1
         ],
         [
+          "angelica",
           "Angelica archangelica",
           "Apiaceae",
           "Greenland, Europe to W. Siberia",
@@ -447,7 +450,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "anise",
         "asafoetida",
@@ -460,11 +463,11 @@
         "angelica"
       ],
       "lat": [
-        35.04926029847798,
-        33.76052416523931,
-        33.76052416523931,
-        33.76052416523931,
-        33.76052416523931,
+        35.0,
+        34.0,
+        40.0,
+        36.0,
+        35.0,
         45.0,
         28.0,
         39.0,
@@ -472,11 +475,11 @@
       ],
       "legendgroup": "Apiaceae",
       "lon": [
-        33.22362851935679,
-        65.98100159577382,
-        65.98100159577382,
-        65.98100159577382,
-        65.98100159577382,
+        33.0,
+        68.0,
+        45.0,
+        51.0,
+        39.0,
         69.0,
         30.0,
         60.0,
@@ -494,23 +497,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Apiaceae",
       "showlegend": true,
-      "text": [
-        "anise",
-        "asafoetida",
-        "coriander",
-        "cumin",
-        "fennel",
-        "caraway",
-        "dill",
-        "ajwain",
-        "angelica"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -519,6 +511,7 @@
     {
       "customdata": [
         [
+          "cassia",
           "Cinnamomum aromaticum",
           "Lauraceae",
           "SE. China to Vietnam",
@@ -526,11 +519,12 @@
           "sal\u012bkha",
           "\u8089\u6842",
           "r\u00f2ugu\u00ec",
-          114.36336618114474,
-          27.886524610159224,
+          106.0,
+          21.0,
           1
         ],
         [
+          "cinnamon",
           "Cinnamomum verum",
           "Lauraceae",
           "Sri Lanka",
@@ -543,6 +537,7 @@
           1
         ],
         [
+          "bay leaf",
           "Laurus nobilis",
           "Lauraceae",
           "Medit.",
@@ -556,20 +551,20 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "cassia",
         "cinnamon",
         "bay leaf"
       ],
       "lat": [
-        27.886524610159224,
+        21.0,
         7.0,
         38.0
       ],
       "legendgroup": "Lauraceae",
       "lon": [
-        114.36336618114474,
+        106.0,
         81.0,
         14.0
       ],
@@ -585,17 +580,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Lauraceae",
       "showlegend": true,
-      "text": [
-        "cassia",
-        "cinnamon",
-        "bay leaf"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -604,6 +594,7 @@
     {
       "customdata": [
         [
+          "nutmeg",
           "Myristica fragrans",
           "Myristicaceae",
           "Maluku (Banda Is.)",
@@ -616,6 +607,7 @@
           1
         ],
         [
+          "mace",
           "Myristica fragrans",
           "Myristicaceae",
           "Maluku (Banda Is.)",
@@ -624,19 +616,19 @@
           "\u8089\u8c46\u853b\u76ae",
           "r\u00f2ud\u00f2uk\u00f2up\u00ed",
           130.0,
-          -6.0,
+          -5.0,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "nutmeg",
         "mace"
       ],
       "lat": [
         -4.0,
-        -6.0
+        -5.0
       ],
       "legendgroup": "Myristicaceae",
       "lon": [
@@ -655,16 +647,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Myristicaceae",
       "showlegend": true,
-      "text": [
-        "nutmeg",
-        "mace"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -673,6 +661,7 @@
     {
       "customdata": [
         [
+          "saffron",
           "Crocus sativus",
           "Iridaceae",
           "a cultigen from Greece",
@@ -686,7 +675,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "saffron"
       ],
@@ -709,15 +698,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Iridaceae",
       "showlegend": true,
-      "text": [
-        "saffron"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -726,6 +712,7 @@
     {
       "customdata": [
         [
+          "star anise",
           "Illicium verum",
           "Schisandraceae",
           "China (S. & W. Guangxi) to N. Vietnam",
@@ -739,7 +726,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "star anise"
       ],
@@ -762,15 +749,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Schisandraceae",
       "showlegend": true,
-      "text": [
-        "star anise"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -779,6 +763,7 @@
     {
       "customdata": [
         [
+          "chile",
           "Capsicum annuum",
           "Solanaceae",
           "S. U.S.A. to Brazil, Caribbean",
@@ -792,7 +777,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "chile"
       ],
@@ -815,15 +800,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Solanaceae",
       "showlegend": true,
-      "text": [
-        "chile"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -832,6 +814,7 @@
     {
       "customdata": [
         [
+          "lemongrass",
           "Cymbopogon citratus",
           "Poaceae",
           "S. India, Sri Lanka",
@@ -845,7 +828,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "lemongrass"
       ],
@@ -868,15 +851,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Poaceae",
       "showlegend": true,
-      "text": [
-        "lemongrass"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -885,6 +865,7 @@
     {
       "customdata": [
         [
+          "nigella",
           "Nigella sativa",
           "Ranunculaceae",
           "Romania to W. & SW. Iran",
@@ -898,7 +879,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "nigella"
       ],
@@ -921,15 +902,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Ranunculaceae",
       "showlegend": true,
-      "text": [
-        "nigella"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -938,6 +916,7 @@
     {
       "customdata": [
         [
+          "vanilla",
           "Vanilla planifolia",
           "Orchidaceae",
           "S. Mexico to Brazil",
@@ -951,7 +930,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "vanilla"
       ],
@@ -974,15 +953,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Orchidaceae",
       "showlegend": true,
-      "text": [
-        "vanilla"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -991,6 +967,7 @@
     {
       "customdata": [
         [
+          "annatto",
           "Bixa orellana",
           "Bixaceae",
           "Mexico to S. Trop. America",
@@ -1004,7 +981,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "annatto"
       ],
@@ -1027,15 +1004,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Bixaceae",
       "showlegend": true,
-      "text": [
-        "annatto"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -1044,6 +1018,7 @@
     {
       "customdata": [
         [
+          "black mustard",
           "Mutarda nigra",
           "Brassicaceae",
           "Europe to W. & N. China, Medit. to Ethiopia",
@@ -1051,11 +1026,12 @@
           null,
           null,
           null,
-          65.98100159577382,
-          33.76052416523931,
+          45.0,
+          44.0,
           1
         ],
         [
+          "white mustard",
           "Sinapis alba",
           "Brassicaceae",
           "Europe to China",
@@ -1063,11 +1039,12 @@
           null,
           "\u767d\u82a5\u7c7d",
           "b\u00e1iji\u00e8z\u01d0",
-          45.0,
-          44.0,
+          47.0,
+          40.0,
           1
         ],
         [
+          "brown mustard",
           "Brassica juncea",
           "Brassicaceae",
           "Caucasus",
@@ -1075,28 +1052,28 @@
           null,
           null,
           null,
-          42.88944210422858,
-          44.31709160409125,
+          null,
+          null,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "black mustard",
         "white mustard",
         "brown mustard"
       ],
       "lat": [
-        33.76052416523931,
         44.0,
-        44.31709160409125
+        40.0,
+        null
       ],
       "legendgroup": "Brassicaceae",
       "lon": [
-        65.98100159577382,
         45.0,
-        42.88944210422858
+        47.0,
+        null
       ],
       "marker": {
         "color": "#7fbf7b",
@@ -1110,17 +1087,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Brassicaceae",
       "showlegend": true,
-      "text": [
-        "black mustard",
-        "white mustard",
-        "brown mustard"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -1129,6 +1101,7 @@
     {
       "customdata": [
         [
+          "fenugreek",
           "Trigonella foenum-graecum",
           "Fabaceae",
           "Iraq to N. Pakistan",
@@ -1136,13 +1109,13 @@
           "\u1e25ulba",
           "\u80e1\u8606\u5df4",
           "h\u00fal\u00fab\u0101",
-          67.0,
+          44.0,
           33.0,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "fenugreek"
       ],
@@ -1151,7 +1124,7 @@
       ],
       "legendgroup": "Fabaceae",
       "lon": [
-        67.0
+        44.0
       ],
       "marker": {
         "color": "#b2cf6b",
@@ -1165,15 +1138,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Fabaceae",
       "showlegend": true,
-      "text": [
-        "fenugreek"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -1182,6 +1152,7 @@
     {
       "customdata": [
         [
+          "Sichuan pepper",
           "Zanthoxylum bungeanum",
           "Rutaceae",
           "Himalaya to China",
@@ -1189,22 +1160,22 @@
           "fulful s\u012btshuw\u0101n",
           "\u82b1\u6912",
           "hu\u0101\u200bji\u0101o",
-          105.0,
-          35.0,
+          104.0,
+          31.0,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "Sichuan pepper"
       ],
       "lat": [
-        35.0
+        31.0
       ],
       "legendgroup": "Rutaceae",
       "lon": [
-        105.0
+        104.0
       ],
       "marker": {
         "color": "#fddc69",
@@ -1218,15 +1189,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Rutaceae",
       "showlegend": true,
-      "text": [
-        "Sichuan pepper"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -1235,6 +1203,7 @@
     {
       "customdata": [
         [
+          "basil",
           "Ocimum basilicum",
           "Lamiaceae",
           "Trop. & Subtrop. Asia to N. Australia",
@@ -1242,22 +1211,22 @@
           "ray\u1e25\u0101n",
           "\u7f85\u52d2",
           "lu\u00f3l\u00e8",
-          92.78082133837106,
-          12.264142595680823,
+          101.0,
+          16.0,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "basil"
       ],
       "lat": [
-        12.264142595680823
+        16.0
       ],
       "legendgroup": "Lamiaceae",
       "lon": [
-        92.78082133837106
+        101.0
       ],
       "marker": {
         "color": "#fdae61",
@@ -1271,15 +1240,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Lamiaceae",
       "showlegend": true,
-      "text": [
-        "basil"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -1288,6 +1254,7 @@
     {
       "customdata": [
         [
+          "agarwood",
           "Aquilaria malaccensis",
           "Thymelaeaceae",
           "Bangladesh to W. & C. Malesia",
@@ -1295,22 +1262,22 @@
           null,
           "\u6c89\u9999",
           "ch\u00e9nxi\u0101ng",
-          92.83832546722667,
-          25.475386676667693,
+          null,
+          null,
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[0]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[2]}\u003cbr\u003eArabic: %{customdata[3]} \u003ci\u003e%{customdata[4]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[5]} \u003ci\u003e%{customdata[6]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "agarwood"
       ],
       "lat": [
-        25.475386676667693
+        null
       ],
       "legendgroup": "Thymelaeaceae",
       "lon": [
-        92.83832546722667
+        null
       ],
       "marker": {
         "color": "#f4a582",
@@ -1324,15 +1291,12 @@
           "width": 1
         }
       },
-      "mode": "markers+text",
+      "mode": "markers",
       "name": "Thymelaeaceae",
       "showlegend": true,
-      "text": [
-        "agarwood"
-      ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -2218,7 +2182,7 @@
       "title": {
         "text": "family",
         "font": {
-          "color": "#eeeeee",
+          "color": "#dddddd",
           "family": "Noto Sans",
           "size": 14
         }
@@ -2226,7 +2190,7 @@
       "tracegroupgap": 0,
       "itemsizing": "constant",
       "font": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 12
       },
@@ -2252,7 +2216,7 @@
     },
     "title": {
       "font": {
-        "color": "#eeeeee",
+        "color": "#dddddd",
         "family": "Noto Sans",
         "size": 18
       },

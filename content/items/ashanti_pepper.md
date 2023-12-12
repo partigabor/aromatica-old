@@ -1,7 +1,7 @@
 +++
 title = "Ashanti Pepper"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The fruits of Piper guineense, growing in tropical Africa. See also cubeb pepper. "
 weight = 10
 # draft = "true"

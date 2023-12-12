@@ -1,7 +1,7 @@
 +++
 title = "Acuyo"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "Fruit of Piper auritum, syn. P. sanctum. "
 weight = 10
 # draft = "true"

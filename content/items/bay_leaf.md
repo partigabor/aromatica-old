@@ -1,7 +1,7 @@
 +++
 title = "Bay Leaf"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The dried aromatic leaf of the bay laurel and other trees., also known as bay. See also Indian bay leaf; Indonesian bay leaf; West Indian bay leaf. "
 weight = 10
 # draft = "true"

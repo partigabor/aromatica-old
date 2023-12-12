@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. "
 weight = 10
 # draft = "true"

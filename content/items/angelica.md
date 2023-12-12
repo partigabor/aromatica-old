@@ -1,7 +1,7 @@
 +++
 title = "Angelica"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The scented stems and roots of a medicinal plant from the northern hemisphere.. See also other angelicas. "
 weight = 10
 # draft = "true"

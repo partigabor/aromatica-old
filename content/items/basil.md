@@ -1,7 +1,7 @@
 +++
 title = "Basil"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The fresh and dried leaves of many varieties of a popular culinary herb., related to holy basil. "
 weight = 10
 # draft = "true"

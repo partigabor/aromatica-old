@@ -1,7 +1,7 @@
 +++
 title = "Timiz"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "Fruits of an African *Piper* species, related to black pepper; long pepper. "
 weight = 10
 # draft = "true"

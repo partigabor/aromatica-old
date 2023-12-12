@@ -177,9 +177,8 @@ def centroid_coordinates(df):
     gdf = gpd.read_file("data\\resources\\geo\\level3.geojson")
     for index, row in df.iterrows():
         print("Calculating coordinates of", row['item'])
-        time.sleep(1)
-        if pd.notna(row['powo_id']):
-            if pd.isna(row['lat']) and pd.isna(row['lon']):
+        if pd.notna(row['native']):
+            if pd.isna(row['lat']) and pd.isna(row['lon']): #
                 # Split native regions into a list
                 native_distribution = row['native'].split(', ')
                 # Filter data for native distribution from gdf dataframe's LEVEL3_NAM column
@@ -188,6 +187,7 @@ def centroid_coordinates(df):
                 native_centroid = native_data.to_crs('+proj=cea').centroid.to_crs(native_data.crs)
                 df.at[index, 'lat'] = native_centroid.y.iloc[0]
                 df.at[index, 'lon'] = native_centroid.x.iloc[0]
+                time.sleep(1)
         else:
             df.at[index, 'lat'] = np.nan
             df.at[index, 'lon'] = np.nan

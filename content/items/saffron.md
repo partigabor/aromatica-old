@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus. "
 weight = 10
 # draft = "true"

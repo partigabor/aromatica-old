@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The dried seeds of a West Asian flowering plant; seed of Cuminum cyminum. "
 weight = 10
 # draft = "true"

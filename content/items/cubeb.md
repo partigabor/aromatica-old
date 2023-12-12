@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2023-12-11"
+date = "2023-12-12"
 description = "The fruit of Piper cubeba, related to pepper. See also Ashanti pepper. "
 weight = 10
 # draft = "true"
