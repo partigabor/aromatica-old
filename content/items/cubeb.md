@@ -28,9 +28,9 @@ CUBEB (*Piper cubeba* L.f.) is a(n) nan from the *Piperaceae* family, growing in
 |------------------|---------------------------------------------------|
 |       taxon      |                *Piper cubeba* L.f.                |
 |      family      |                     Piperaceae                    |
-| region of origin |                   Southeast Asia                  |
-|     macroarea    |                        Asia                       |
-|     part_used    |                    unripe fruit                   |
+|      regions     |                Indo-China, Malesia                |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                    unripe fruit                   |
 |    cultivation   |                     Indonesia                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1)|
 

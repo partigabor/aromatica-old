@@ -28,9 +28,9 @@ JAVANESE LONG PEPPER (*Piper retrofractum* Vahl) is a(n) climber from the *Piper
 |------------------|---------------------------------------------------|
 |       taxon      |             *Piper retrofractum* Vahl             |
 |      family      |                     Piperaceae                    |
-| region of origin |                       SE As                       |
-|     macroarea    |                        Asia                       |
-|     part_used    |                       fruit                       |
+|      regions     |  China, Indian Subcontinent, Indo-China, Malesia  |
+|    continents    |           ASIA-TEMPERATE, ASIA-TROPICAL           |
+|       part       |                       fruit                       |
 |    cultivation   |  https://en.wikipedia.org/wiki/Piper_retrofractum |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/683079-1)|
 

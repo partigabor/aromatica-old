@@ -32,9 +32,9 @@ NUTMEG (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* famil
 |------------------|---------------------------------------------------|
 |       taxon      |            *Myristica fragrans* Houtt.            |
 |      family      |                   Myristicaceae                   |
-| region of origin |                Moluccas (Indonesia)               |
-|     macroarea    |                        Asia                       |
-|     part_used    |                        seed                       |
+|      regions     |                      Malesia                      |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                        seed                       |
 |    cultivation   |                 Grenada; Indonesia                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 

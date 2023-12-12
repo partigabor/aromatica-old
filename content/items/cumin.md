@@ -28,9 +28,9 @@ CUMIN (*Cuminum cyminum* L.) is a(n) annual from the *Apiaceae* family, growing 
 |------------------|---------------------------------------------------|
 |       taxon      |                *Cuminum cyminum* L.               |
 |      family      |                      Apiaceae                     |
-| region of origin |           S. Europe; W. & C. Asia; India          |
-|     macroarea    |                        Asia                       |
-|     part_used    |                       fruit                       |
+|      regions     |                    Western Asia                   |
+|    continents    |                   ASIA-TEMPERATE                  |
+|       part       |                       fruit                       |
 |    cultivation   |                India; Iran; Lebanon               |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 

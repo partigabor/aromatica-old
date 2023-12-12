@@ -28,9 +28,9 @@ BROWN MUSTARD (*Brassica juncea* (L.) Czern.) is a(n) annual or subshrub from th
 |------------------|-----------------------------------------------------|
 |       taxon      |            *Brassica juncea* (L.) Czern.            |
 |      family      |                     Brassicaceae                    |
-| region of origin |                     Cenral Asia                     |
-|     macroarea    |                         nan                         |
-|     part_used    |                      seed; leaf                     |
+|      regions     |                       Caucasus                      |
+|    continents    |                    ASIA-TEMPERATE                   |
+|       part       |                      seed; leaf                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/60442520-2)|
 
 

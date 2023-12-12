@@ -24,15 +24,15 @@ CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, g
 
 ## Overview
 
-|       item       |                      coriander                      |
-|------------------|-----------------------------------------------------|
-|       taxon      |               *Coriandrum sativum* L.               |
-|      family      |                       Apiaceae                      |
-| region of origin |              E. Mediterranean; W. Asia              |
-|     macroarea    |                         Asia                        |
-|     part_used    |                        fruit                        |
-|    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
-|botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
+|       item       |                           coriander                          |
+|------------------|--------------------------------------------------------------|
+|       taxon      |                    *Coriandrum sativum* L.                   |
+|      family      |                           Apiaceae                           |
+|      regions     |Caucasus, Western Asia, Arabian Peninsula, Indian Subcontinent|
+|    continents    |                 ASIA-TEMPERATE, ASIA-TROPICAL                |
+|       part       |                             fruit                            |
+|    cultivation   |     Argentina; India; Morocco; Romania; Spain; Yugoslavia    |
+|botanical database|      [POWO](https://powo.science.kew.org/taxon/840760-1)     |
 
 ![Coriandrum sativum](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 

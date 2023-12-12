@@ -24,14 +24,14 @@ ASHANTI PEPPER (*Piper guineense* Schumach. & Thonn.) is a(n) climbing epiphyte 
 
 ## Overview
 
-|       item       |                   Ashanti pepper                  |
-|------------------|---------------------------------------------------|
-|       taxon      |        *Piper guineense* Schumach. & Thonn.       |
-|      family      |                     Piperaceae                    |
-| region of origin |                  tropical Africa                  |
-|     macroarea    |                       Africa                      |
-|     part_used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/681598-1)|
+|       item       |                                                                 Ashanti pepper                                                                 |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                      *Piper guineense* Schumach. & Thonn.                                                      |
+|      family      |                                                                   Piperaceae                                                                   |
+|      regions     |West Tropical Africa, West-Central Tropical Africa, Northeast Tropical Africa, East Tropical Africa, South Tropical Africa, Western Indian Ocean|
+|    continents    |                                                                     AFRICA                                                                     |
+|       part       |                                                                      fruit                                                                     |
+|botanical database|                                               [POWO](https://powo.science.kew.org/taxon/681598-1)                                              |
 
 
 

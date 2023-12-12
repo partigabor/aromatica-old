@@ -28,9 +28,9 @@ CLOVE (*Syzygium aromaticum* (L.) Merr. & L.M.Perry) is a(n) shrub or tree from 
 |------------------|---------------------------------------------------|
 |       taxon      |    *Syzygium aromaticum* (L.) Merr. & L.M.Perry   |
 |      family      |                     Myrtaceae                     |
-| region of origin |               N. Moluccas, Indonesia              |
-|     macroarea    |                        Asia                       |
-|     part_used    |                    flower buds                    |
+|      regions     |                      Malesia                      |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                    flower buds                    |
 |    cultivation   |           Indonesia; Malaysia; Tanzania           |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 

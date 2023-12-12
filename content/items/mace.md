@@ -28,9 +28,9 @@ MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family,
 |------------------|---------------------------------------------------|
 |       taxon      |            *Myristica fragrans* Houtt.            |
 |      family      |                   Myristicaceae                   |
-| region of origin |                Moluccas (Indonesia)               |
-|     macroarea    |                        Asia                       |
-|     part_used    |                        aril                       |
+|      regions     |                      Malesia                      |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                        aril                       |
 |    cultivation   |                 Grenada; Indonesia                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 

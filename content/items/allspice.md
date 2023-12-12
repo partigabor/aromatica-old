@@ -32,9 +32,9 @@ ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family,
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                                   *Pimenta dioica* (L.) Merr.                                   |
 |      family      |                                            Myrtaceae                                            |
-| region of origin |                                S. Mexico to C. America; Caribbean                               |
-|     macroarea    |                                             Americas                                            |
-|     part_used    |                                     unripe fruit; leaf; wood                                    |
+|      regions     |                                Mexico, Central America, Caribbean                               |
+|    continents    |                                NORTHERN AMERICA, SOUTHERN AMERICA                               |
+|       part       |                                     unripe fruit; leaf; wood                                    |
 |    cultivation   |                                    Jamaica; Mexico; Honduras                                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061)|
 

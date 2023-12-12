@@ -24,14 +24,14 @@ BAY LEAF (*Laurus nobilis* L.) is a(n) tree from the *Lauraceae* family, growing
 
 ## Overview
 
-|       item       |                      bay leaf                     |
-|------------------|---------------------------------------------------|
-|       taxon      |                *Laurus nobilis* L.                |
-|      family      |                     Lauraceae                     |
-| region of origin |                        Med                        |
-|     macroarea    |                   Mediterranean                   |
-|     part_used    |                    leaf; fruit                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/465049-1)|
+|       item       |                                bay leaf                               |
+|------------------|-----------------------------------------------------------------------|
+|       taxon      |                          *Laurus nobilis* L.                          |
+|      family      |                               Lauraceae                               |
+|      regions     |Southwestern Europe, Southeastern Europe, Northern Africa, Western Asia|
+|    continents    |                     EUROPE, AFRICA, ASIA-TEMPERATE                    |
+|       part       |                              leaf; fruit                              |
+|botanical database|          [POWO](https://powo.science.kew.org/taxon/465049-1)          |
 
 ![Laurus nobilis](/images/illustrations/bay_leaf.png?width=40rem "Illustration of Laurus nobilis from Köhler's Medizinal-Pflanzen")
 

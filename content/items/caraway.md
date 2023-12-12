@@ -24,15 +24,15 @@ CARAWAY (*Carum carvi* L.) is a(n) perennial from the *Apiaceae* family, growing
 
 ## Overview
 
-|       item       |                      caraway                      |
-|------------------|---------------------------------------------------|
-|       taxon      |                  *Carum carvi* L.                 |
-|      family      |                      Apiaceae                     |
-| region of origin |         Mediterranean; C. Europe; Eurasia         |
-|     macroarea    |                      Eurasia                      |
-|     part_used    |                       fruit                       |
-|    cultivation   |     Denmark; Lebanon; The Netherlands; Poland     |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
+|       item       |                                                                                            caraway                                                                                           |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                                       *Carum carvi* L.                                                                                       |
+|      family      |                                                                                           Apiaceae                                                                                           |
+|      regions     |Northern Europe, Middle Europe, Southwestern Europe, Southeastern Europe, Eastern Europe, Siberia, Russian Far East, Middle Asia, Caucasus, Western Asia, China, Mongolia, Indian Subcontinent|
+|    continents    |                                                                             EUROPE, ASIA-TEMPERATE, ASIA-TROPICAL                                                                            |
+|       part       |                                                                                             fruit                                                                                            |
+|    cultivation   |                                                                           Denmark; Lebanon; The Netherlands; Poland                                                                          |
+|botanical database|                                                                      [POWO](https://powo.science.kew.org/taxon/839677-1)                                                                     |
 
 ![Carum carvi](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 

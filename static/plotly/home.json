@@ -102,7 +102,7 @@
     {
       "customdata": [
         [
-          "pepper",
+          "black pepper",
           "Piper nigrum",
           "Piperaceae",
           "SW. India",
@@ -162,8 +162,8 @@
           null,
           null,
           null,
-          null,
-          null,
+          89.0,
+          21.0,
           1
         ],
         [
@@ -175,8 +175,8 @@
           null,
           null,
           null,
-          null,
-          null,
+          2.0,
+          9.0,
           1
         ],
         [
@@ -191,42 +191,27 @@
           40.0,
           9.0,
           1
-        ],
-        [
-          "rough-leaved pepper",
-          "Piper amalago",
-          "Piperaceae",
-          "Mexico, Caribbean to S. Trop. America",
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1
         ]
       ],
       "geo": "geo",
       "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
-        "pepper",
+        "black pepper",
         "cubeb",
         "long pepper",
         "Javanese long pepper",
         "acuyo",
         "Ashanti pepper",
-        "timiz",
-        "rough-leaved pepper"
+        "timiz"
       ],
       "lat": [
         15.0,
         0.0,
         25.0,
         -8.0,
-        null,
-        null,
+        21.0,
         9.0,
-        null
+        9.0
       ],
       "legendgroup": "Piperaceae",
       "lon": [
@@ -234,10 +219,9 @@
         101.0,
         82.0,
         111.0,
-        null,
-        null,
-        40.0,
-        null
+        89.0,
+        2.0,
+        40.0
       ],
       "marker": {
         "color": "#1d6996",
@@ -1027,7 +1011,7 @@
           null,
           null,
           45.0,
-          44.0,
+          40.0,
           1
         ],
         [
@@ -1052,8 +1036,8 @@
           null,
           null,
           null,
-          null,
-          null,
+          45.0,
+          44.0,
           1
         ]
       ],
@@ -1065,15 +1049,15 @@
         "brown mustard"
       ],
       "lat": [
-        44.0,
         40.0,
-        null
+        40.0,
+        44.0
       ],
       "legendgroup": "Brassicaceae",
       "lon": [
         45.0,
         47.0,
-        null
+        45.0
       ],
       "marker": {
         "color": "#7fbf7b",
@@ -1262,8 +1246,8 @@
           null,
           "\u6c89\u9999",
           "ch\u00e9nxi\u0101ng",
-          null,
-          null,
+          102.0,
+          2.0,
           1
         ]
       ],
@@ -1273,11 +1257,11 @@
         "agarwood"
       ],
       "lat": [
-        null
+        2.0
       ],
       "legendgroup": "Thymelaeaceae",
       "lon": [
-        null
+        102.0
       ],
       "marker": {
         "color": "#f4a582",
@@ -1293,6 +1277,57 @@
       },
       "mode": "markers",
       "name": "Thymelaeaceae",
+      "showlegend": true,
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "top right"
+    },
+    {
+      "customdata": [
+        [
+          "safflower",
+          "Carthamus tinctorius",
+          "Asteraceae",
+          "C. & E. T\u00fcrkiye to Iran",
+          null,
+          null,
+          "\u7d05\u82b1",
+          "h\u00f3nghu\u0101",
+          53.0,
+          30.0,
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "safflower"
+      ],
+      "lat": [
+        30.0
+      ],
+      "legendgroup": "Asteraceae",
+      "lon": [
+        53.0
+      ],
+      "marker": {
+        "color": "#c994c7",
+        "opacity": 0.75,
+        "size": 12,
+        "sizemode": "area",
+        "sizeref": 0.0009765625,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        }
+      },
+      "mode": "markers",
+      "name": "Asteraceae",
       "showlegend": true,
       "type": "scattergeo",
       "textfont": {

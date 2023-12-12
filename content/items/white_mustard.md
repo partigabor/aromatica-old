@@ -24,14 +24,14 @@ WHITE MUSTARD (*Sinapis alba* L.) is a(n) annual from the *Brassicaceae* family,
 
 ## Overview
 
-|       item       |                   white mustard                   |
-|------------------|---------------------------------------------------|
-|       taxon      |                 *Sinapis alba* L.                 |
-|      family      |                    Brassicaceae                   |
-| region of origin |                      Med; Eur                     |
-|     macroarea    |                      Eurasia                      |
-|     part_used    |                        seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/288952-1)|
+|       item       |                                                                                                   white mustard                                                                                                  |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                                                 *Sinapis alba* L.                                                                                                |
+|      family      |                                                                                                   Brassicaceae                                                                                                   |
+|      regions     |Northern Europe, Middle Europe, Southwestern Europe, Southeastern Europe, Eastern Europe, Northern Africa, Siberia, Middle Asia, Caucasus, Western Asia, Arabian Peninsula, China, Indian Subcontinent, Indo-China|
+|    continents    |                                                                                   EUROPE, AFRICA, ASIA-TEMPERATE, ASIA-TROPICAL                                                                                  |
+|       part       |                                                                                                       seed                                                                                                       |
+|botanical database|                                                                                [POWO](https://powo.science.kew.org/taxon/288952-1)                                                                               |
 
 
 

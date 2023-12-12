@@ -24,15 +24,15 @@ DILL (*Anethum graveolens* L.) is a(n) annual from the *Apiaceae* family, growin
 
 ## Overview
 
-|       item       |                        dill                       |
-|------------------|---------------------------------------------------|
-|       taxon      |              *Anethum graveolens* L.              |
-|      family      |                      Apiaceae                     |
-| region of origin |           S. Europe; N. Africa; SW. Asia          |
-|     macroarea    |                   Med.; W. Asia                   |
-|     part_used    |                       fruit                       |
-|    cultivation   |             India; Pakistan; worldwide            |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
+|       item       |                                    dill                                   |
+|------------------|---------------------------------------------------------------------------|
+|       taxon      |                          *Anethum graveolens* L.                          |
+|      family      |                                  Apiaceae                                 |
+|      regions     |Northern Africa, Northeast Tropical Africa, Western Asia, Arabian Peninsula|
+|    continents    |                           AFRICA, ASIA-TEMPERATE                          |
+|       part       |                                   fruit                                   |
+|    cultivation   |                         India; Pakistan; worldwide                        |
+|botanical database|            [POWO](https://powo.science.kew.org/taxon/837530-1)            |
 
 
 

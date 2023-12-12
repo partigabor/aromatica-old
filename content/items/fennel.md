@@ -24,15 +24,15 @@ FENNEL (*Foeniculum vulgare* Mill.) is a(n) perennial from the *Apiaceae* family
 
 ## Overview
 
-|       item       |                       fennel                       |
-|------------------|----------------------------------------------------|
-|       taxon      |             *Foeniculum vulgare* Mill.             |
-|      family      |                      Apiaceae                      |
-| region of origin |                    Mediterranean                   |
-|     macroarea    |                    Med.; W. Asia                   |
-|     part_used    |                        fruit                       |
-|    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
-|botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
+|       item       |                                                                              fennel                                                                             |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                    *Foeniculum vulgare* Mill.                                                                   |
+|      family      |                                                                             Apiaceae                                                                            |
+|      regions     |Southwestern Europe, Southeastern Europe, Northern Africa, Northeast Tropical Africa, Middle Asia, Caucasus, Western Asia, Arabian Peninsula, Indian Subcontinent|
+|    continents    |                                                          EUROPE, AFRICA, ASIA-TEMPERATE, ASIA-TROPICAL                                                          |
+|       part       |                                                                              fruit                                                                              |
+|    cultivation   |                                                       Argentina; Bulgaria; Germany; Greece; India; Lebanon                                                      |
+|botanical database|                                                       [POWO](https://powo.science.kew.org/taxon/842680-1)                                                       |
 
 ![Foeniculum vulgare](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 

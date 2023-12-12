@@ -32,9 +32,9 @@ GINGER (*Zingiber officinale* Roscoe) is a(n) perennial or rhizomatous geophyte 
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                                   *Zingiber officinale* Roscoe                                  |
 |      family      |                                          Zingiberaceae                                          |
-| region of origin |                                Southeast Asia; India (secondary)                                |
-|     macroarea    |                                               Asia                                              |
-|     part_used    |                                             rhizome                                             |
+|      regions     |                                    China, Indian Subcontinent                                   |
+|    continents    |                                  ASIA-TEMPERATE, ASIA-TROPICAL                                  |
+|       part       |                                             rhizome                                             |
 |    cultivation   |                              India; Jamaica; Nigeria; Sierra Leone                              |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1), [GBIF](https://www.gbif.org/species/2757280)|
 

@@ -28,9 +28,9 @@ STAR ANISE (*Illicium verum* Hook.f.) is a(n) tree from the *Schisandraceae* fam
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                                     *Illicium verum* Hook.f.                                    |
 |      family      |                                          Schisandraceae                                         |
-| region of origin |                                        SE. China; Vietnam                                       |
-|     macroarea    |                                               Asia                                              |
-|     part_used    |                                             pericarp                                            |
+|      regions     |                                        China, Indo-China                                        |
+|    continents    |                                  ASIA-TEMPERATE, ASIA-TROPICAL                                  |
+|       part       |                                             pericarp                                            |
 |    cultivation   |              China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/554553-1), [GBIF](https://www.gbif.org/species/2889756)|
 

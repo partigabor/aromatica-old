@@ -28,15 +28,15 @@ CHILE (*Capsicum annuum* L.) is a(n) annual, subshrub or shrub from the *Solanac
 
 ## Overview
 
-|       item       |                              chile                              |
-|------------------|-----------------------------------------------------------------|
-|       taxon      |                       *Capsicum annuum* L.                      |
-|      family      |                            Solanaceae                           |
-| region of origin |                         Central America                         |
-|     macroarea    |                             Americas                            |
-|     part_used    |                              fruit                              |
-|    cultivation   |Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.|
-|botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
+|       item       |                                                                          chile                                                                          |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                   *Capsicum annuum* L.                                                                  |
+|      family      |                                                                        Solanaceae                                                                       |
+|      regions     |Southwestern U.S.A., South-Central U.S.A., Southeastern U.S.A., Mexico, Central America, Caribbean, Northern South America, Western South America, Brazil|
+|    continents    |                                                            NORTHERN AMERICA, SOUTHERN AMERICA                                                           |
+|       part       |                                                                          fruit                                                                          |
+|    cultivation   |                                            Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.                                            |
+|botanical database|                                                   [POWO](https://powo.science.kew.org/taxon/316944-2)                                                   |
 
 ![Capsicum annuum](/images/illustrations/chile.png?width=40rem "Illustration of Capsicum annuum from Köhler's Medizinal-Pflanzen")
 

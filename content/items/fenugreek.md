@@ -28,9 +28,9 @@ FENUGREEK (*Trigonella foenum-graecum* L.) is a(n) annual from the *Fabaceae* fa
 |------------------|---------------------------------------------------|
 |       taxon      |           *Trigonella foenum-graecum* L.          |
 |      family      |                      Fabaceae                     |
-| region of origin |                 S. Europe; W. Asia                |
-|     macroarea    |                        Asia                       |
-|     part_used    |                     seed; leaf                    |
+|      regions     |         Western Asia, Indian Subcontinent         |
+|    continents    |           ASIA-TEMPERATE, ASIA-TROPICAL           |
+|       part       |                     seed; leaf                    |
 |    cultivation   |                       India                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 

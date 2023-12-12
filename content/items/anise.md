@@ -32,9 +32,9 @@ ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growin
 |------------------|---------------------------------------------------|
 |       taxon      |               *Pimpinella anisum* L.              |
 |      family      |                      Apiaceae                     |
-| region of origin |       E. Mediterranean; W. Asia; Asia Minor       |
-|     macroarea    |                   Mediterranean                   |
-|     part_used    |                  fruit; oil; leaf                 |
+|      regions     |                    Western Asia                   |
+|    continents    |                   ASIA-TEMPERATE                  |
+|       part       |                  fruit; oil; leaf                 |
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 

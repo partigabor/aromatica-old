@@ -28,9 +28,9 @@ SICHUAN PEPPER (*Zanthoxylum bungeanum* Maxim.) is a(n) tree from the *Rutaceae*
 |------------------|---------------------------------------------------|
 |       taxon      |           *Zanthoxylum bungeanum* Maxim.          |
 |      family      |                      Rutaceae                     |
-| region of origin |                       China                       |
-|     macroarea    |                        Asia                       |
-|     part_used    |                      pericarp                     |
+|      regions     |             China, Indian Subcontinent            |
+|    continents    |           ASIA-TEMPERATE, ASIA-TROPICAL           |
+|       part       |                      pericarp                     |
 |    cultivation   |                       China                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 

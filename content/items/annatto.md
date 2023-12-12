@@ -28,15 +28,15 @@ ANNATTO (*Bixa orellana* L.) is a(n) shrub or tree from the *Bixaceae* family, g
 
 ## Overview
 
-|       item       |                      annatto                     |
-|------------------|--------------------------------------------------|
-|       taxon      |                *Bixa orellana* L.                |
-|      family      |                     Bixaceae                     |
-| region of origin |                 Trop. Am.; C. Am.                |
-|     macroarea    |                     Americas                     |
-|     part_used    |                       seed                       |
-|    cultivation   |         Brazil, Peru, Kenya, Philippines         |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/33335-2)|
+|       item       |                                                annatto                                               |
+|------------------|------------------------------------------------------------------------------------------------------|
+|       taxon      |                                          *Bixa orellana* L.                                          |
+|      family      |                                               Bixaceae                                               |
+|      regions     |Mexico, Central America, Northern South America, Western South America, Brazil, Southern South America|
+|    continents    |                                  NORTHERN AMERICA, SOUTHERN AMERICA                                  |
+|       part       |                                                 seed                                                 |
+|    cultivation   |                                   Brazil, Peru, Kenya, Philippines                                   |
+|botanical database|                          [POWO](https://powo.science.kew.org/taxon/33335-2)                          |
 
 
 

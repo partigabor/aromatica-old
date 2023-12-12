@@ -24,14 +24,14 @@ ACUYO (*Piper auritum* Kunth) is a(n) shrub or tree from the *Piperaceae* family
 
 ## Overview
 
-|       item       |                       acuyo                       |
-|------------------|---------------------------------------------------|
-|       taxon      |               *Piper auritum* Kunth               |
-|      family      |                     Piperaceae                    |
-| region of origin |                  Central America                  |
-|     macroarea    |                      Americas                     |
-|     part_used    |                        herb                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/680520-1)|
+|       item       |                                 acuyo                                |
+|------------------|----------------------------------------------------------------------|
+|       taxon      |                         *Piper auritum* Kunth                        |
+|      family      |                              Piperaceae                              |
+|      regions     |Mexico, Central America, Northern South America, Western South America|
+|    continents    |                  NORTHERN AMERICA, SOUTHERN AMERICA                  |
+|       part       |                                 herb                                 |
+|botanical database|          [POWO](https://powo.science.kew.org/taxon/680520-1)         |
 
 
 

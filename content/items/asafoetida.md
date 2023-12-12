@@ -32,9 +32,9 @@ ASAFOETIDA (*Ferula foetida* (Bunge) Regel) is a(n) perennial from the *Apiaceae
 |------------------|---------------------------------------------------|
 |       taxon      |           *Ferula foetida* (Bunge) Regel          |
 |      family      |                      Apiaceae                     |
-| region of origin |                Iran; W. and C. Asia               |
-|     macroarea    |                        Asia                       |
-|     part_used    |                 gum-resin (latex)                 |
+|      regions     |   Middle Asia, Western Asia, Indian Subcontinent  |
+|    continents    |           ASIA-TEMPERATE, ASIA-TROPICAL           |
+|       part       |                 gum-resin (latex)                 |
 |    cultivation   |                 Iran; Afghanistan                 |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 

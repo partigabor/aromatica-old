@@ -24,14 +24,14 @@ NIGELLA (*Nigella sativa* L.) is a(n) annual from the *Ranunculaceae* family, gr
 
 ## Overview
 
-|       item       |                      nigella                      |
-|------------------|---------------------------------------------------|
-|       taxon      |                *Nigella sativa* L.                |
-|      family      |                   Ranunculaceae                   |
-| region of origin |                      Med; As                      |
-|     macroarea    |                   Med.; W. Asia                   |
-|     part_used    |                        seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/711687-1)|
+|       item       |                         nigella                        |
+|------------------|--------------------------------------------------------|
+|       taxon      |                   *Nigella sativa* L.                  |
+|      family      |                      Ranunculaceae                     |
+|      regions     |Southeastern Europe, Middle Asia, Caucasus, Western Asia|
+|    continents    |                 EUROPE, ASIA-TEMPERATE                 |
+|       part       |                          seed                          |
+|botanical database|   [POWO](https://powo.science.kew.org/taxon/711687-1)  |
 
 
 

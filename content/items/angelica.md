@@ -24,14 +24,14 @@ ANGELICA (*Angelica archangelica* L.) is a(n) perennial from the *Apiaceae* fami
 
 ## Overview
 
-|       item       |                      angelica                     |
-|------------------|---------------------------------------------------|
-|       taxon      |             *Angelica archangelica* L.            |
-|      family      |                      Apiaceae                     |
-| region of origin |                  Northern Eurasia                 |
-|     macroarea    |                      Eurasia                      |
-|     part_used    |                 root; stem; fruit                 |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/837560-1)|
+|       item       |                                                           angelica                                                           |
+|------------------|------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                  *Angelica archangelica* L.                                                  |
+|      family      |                                                           Apiaceae                                                           |
+|      regions     |Northern Europe, Middle Europe, Southwestern Europe, Southeastern Europe, Eastern Europe, Siberia, Caucasus, Subarctic America|
+|    continents    |                                           EUROPE, ASIA-TEMPERATE, NORTHERN AMERICA                                           |
+|       part       |                                                       root; stem; fruit                                                      |
+|botanical database|                                      [POWO](https://powo.science.kew.org/taxon/837560-1)                                     |
 
 ![Angelica archangelica](/images/illustrations/angelica.png?width=40rem "Illustration of Angelica archangelica from Köhler's Medizinal-Pflanzen")
 

@@ -28,9 +28,9 @@ AMBERGRIS (*Physeter macrocephalus* L.) is a(n) nan from the *nan* family, growi
 |------------------|---------------------------------------------------------|
 |       taxon      |               *Physeter macrocephalus* L.               |
 |      family      |                           nan                           |
-| region of origin |                       cosmopolitan                      |
-|     macroarea    |                       cosmopolitan                      |
-|     part_used    |waxy, flammable substance from the gastrointestinal tract|
+|      regions     |                                                         |
+|    continents    |                                                         |
+|       part       |waxy, flammable substance from the gastrointestinal tract|
 |botanical database|                                                         |
 
 

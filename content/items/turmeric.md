@@ -28,9 +28,9 @@ TURMERIC (*Curcuma longa* L.) is a(n) rhizomatous geophyte from the *Zingiberace
 |------------------|---------------------------------------------------|
 |       taxon      |                 *Curcuma longa* L.                |
 |      family      |                   Zingiberaceae                   |
-| region of origin |                       India                       |
-|     macroarea    |                        Asia                       |
-|     part_used    |                      rhizome                      |
+|      regions     |                Indian Subcontinent                |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                      rhizome                      |
 |    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 

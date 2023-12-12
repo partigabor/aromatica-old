@@ -28,9 +28,9 @@ LONG PEPPER (*Piper longum* L.) is a(n) climbing perennial or subshrub from the 
 |------------------|---------------------------------------------------|
 |       taxon      |                 *Piper longum* L.                 |
 |      family      |                     Piperaceae                    |
-| region of origin |     E. Himalaya to S. China; Indo-China; India    |
-|     macroarea    |                        Asia                       |
-|     part_used    |                       fruit                       |
+|      regions     |       China, Indian Subcontinent, Indo-China      |
+|    continents    |           ASIA-TEMPERATE, ASIA-TROPICAL           |
+|       part       |                       fruit                       |
 |    cultivation   |             India; Indonesia; Thailand            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 

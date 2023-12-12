@@ -24,14 +24,14 @@ BLACK MUSTARD (*Mutarda nigra* (L.) Bernh.) is a(n) annual from the *Brassicacea
 
 ## Overview
 
-|       item       |                   black mustard                   |
-|------------------|---------------------------------------------------|
-|       taxon      |            *Mutarda nigra* (L.) Bernh.            |
-|      family      |                    Brassicaceae                   |
-| region of origin |                     West Asia                     |
-|     macroarea    |                        nan                        |
-|     part_used    |                        seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/287192-1)|
+|       item       |                                                                                                      black mustard                                                                                                     |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                                               *Mutarda nigra* (L.) Bernh.                                                                                              |
+|      family      |                                                                                                      Brassicaceae                                                                                                      |
+|      regions     |Northern Europe, Middle Europe, Southwestern Europe, Southeastern Europe, Eastern Europe, Northern Africa, Northeast Tropical Africa, Middle Asia, Caucasus, Western Asia, Arabian Peninsula, China, Indian Subcontinent|
+|    continents    |                                                                                      EUROPE, AFRICA, ASIA-TEMPERATE, ASIA-TROPICAL                                                                                     |
+|       part       |                                                                                                          seed                                                                                                          |
+|botanical database|                                                                                   [POWO](https://powo.science.kew.org/taxon/287192-1)                                                                                  |
 
 
 

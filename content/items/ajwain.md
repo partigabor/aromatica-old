@@ -24,14 +24,14 @@ AJWAIN (*Trachyspermum ammi* (L.) Sprague) is a(n) annual from the *Apiaceae* fa
 
 ## Overview
 
-|       item       |                       ajwain                      |
-|------------------|---------------------------------------------------|
-|       taxon      |         *Trachyspermum ammi* (L.) Sprague         |
-|      family      |                      Apiaceae                     |
-| region of origin |                     Near East                     |
-|     macroarea    |                        Asia                       |
-|     part_used    |                       fruit                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/849765-1)|
+|       item       |                          ajwain                          |
+|------------------|----------------------------------------------------------|
+|       taxon      |             *Trachyspermum ammi* (L.) Sprague            |
+|      family      |                         Apiaceae                         |
+|      regions     |Middle Asia, Western Asia, Indian Subcontinent, Indo-China|
+|    continents    |               ASIA-TEMPERATE, ASIA-TROPICAL              |
+|       part       |                           fruit                          |
+|botanical database|    [POWO](https://powo.science.kew.org/taxon/849765-1)   |
 
 
 

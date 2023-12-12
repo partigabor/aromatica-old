@@ -32,9 +32,9 @@ SAFFRON (*Crocus sativus* L.) is a(n) tuberous geophyte from the *Iridaceae* fam
 |------------------|---------------------------------------------------|
 |       taxon      |                *Crocus sativus* L.                |
 |      family      |                     Iridaceae                     |
-| region of origin |                 Greece; Near East                 |
-|     macroarea    |                   Mediterranean                   |
-|     part_used    |                   stigma (style)                  |
+|      regions     |                Southeastern Europe                |
+|    continents    |                       EUROPE                      |
+|       part       |                   stigma (style)                  |
 |    cultivation   |             Iran; Spain; Kashmir; etc.            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 

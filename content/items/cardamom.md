@@ -28,9 +28,9 @@ CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from t
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                                *Elettaria cardamomum* (L.) Maton                                |
 |      family      |                                          Zingiberaceae                                          |
-| region of origin |                                 Kerala, S. India; southern Asia                                 |
-|     macroarea    |                                               Asia                                              |
-|     part_used    |                                         fruit (seed pod)                                        |
+|      regions     |                                       Indian Subcontinent                                       |
+|    continents    |                                          ASIA-TROPICAL                                          |
+|       part       |                                         fruit (seed pod)                                        |
 |    cultivation   |                     Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871)|
 

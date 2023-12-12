@@ -28,9 +28,9 @@ CASSIA (*Cinnamomum aromaticum* Nees) is a(n) tree from the *Lauraceae* family, 
 |------------------|---------------------------------------------------|
 |       taxon      |            *Cinnamomum aromaticum* Nees           |
 |      family      |                     Lauraceae                     |
-| region of origin |                  Southeast China                  |
-|     macroarea    |                        Asia                       |
-|     part_used    |                    bark; fruit                    |
+|      regions     |                 China, Indo-China                 |
+|    continents    |           ASIA-TEMPERATE, ASIA-TROPICAL           |
+|       part       |                    bark; fruit                    |
 |    cultivation   |    Indonesia; China; Vietnam; Timor-Leste; etc.   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 

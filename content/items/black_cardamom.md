@@ -28,9 +28,9 @@ BLACK CARDAMOM (*Amomum subulatum* Roxb.) is a(n) rhizomatous geophyte from the 
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                                     *Amomum subulatum* Roxb.                                    |
 |      family      |                                          Zingiberaceae                                          |
-| region of origin |                                            Himalayas                                            |
-|     macroarea    |                                               Asia                                              |
-|     part_used    |                                             seed pod                                            |
+|      regions     |                              China, Indian Subcontinent, Indo-China                             |
+|    continents    |                                  ASIA-TEMPERATE, ASIA-TROPICAL                                  |
+|       part       |                                             seed pod                                            |
 |    cultivation   |                                            Himalayas                                            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/872166-1), [GBIF](https://www.gbif.org/species/5301632)|
 

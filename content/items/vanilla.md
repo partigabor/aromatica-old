@@ -32,9 +32,9 @@ VANILLA (*Vanilla planifolia* Andrews) is a(n) climber from the *Orchidaceae* fa
 |------------------|-------------------------------------------------------------------------------------------------|
 |       taxon      |                                   *Vanilla planifolia* Andrews                                  |
 |      family      |                                           Orchidaceae                                           |
-| region of origin |                                         Tropical America                                        |
-|     macroarea    |                                             Americas                                            |
-|     part_used    |                                              fruit                                              |
+|      regions     |                      Mexico, Central America, Western South America, Brazil                     |
+|    continents    |                                NORTHERN AMERICA, SOUTHERN AMERICA                               |
+|       part       |                                              fruit                                              |
 |    cultivation   |                      Madagascar; Indonesia; Mexico; Papua New Guinea; China                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2), [GBIF](https://www.gbif.org/species/2803398)|
 

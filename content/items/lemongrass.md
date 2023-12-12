@@ -28,9 +28,9 @@ LEMONGRASS (*Cymbopogon citratus* (DC.) Stapf) is a(n) perennial from the *Poace
 |------------------|---------------------------------------------------|
 |       taxon      |         *Cymbopogon citratus* (DC.) Stapf         |
 |      family      |                      Poaceae                      |
-| region of origin |         Maritime Southeast Asia; cultigen         |
-|     macroarea    |                        Asia                       |
-|     part_used    |                        leaf                       |
+|      regions     |                Indian Subcontinent                |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                        leaf                       |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/396896-1)|
 
 

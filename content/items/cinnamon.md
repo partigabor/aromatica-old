@@ -28,9 +28,9 @@ CINNAMON (*Cinnamomum verum* J.Presl) is a(n) tree from the *Lauraceae* family, 
 |------------------|---------------------------------------------------|
 |       taxon      |             *Cinnamomum verum* J.Presl            |
 |      family      |                     Lauraceae                     |
-| region of origin |                Sri Lanka; SW. India               |
-|     macroarea    |                        Asia                       |
-|     part_used    |                     bark; leaf                    |
+|      regions     |                Indian Subcontinent                |
+|    continents    |                   ASIA-TROPICAL                   |
+|       part       |                     bark; leaf                    |
 |    cultivation   |      Sri Lanka; Seychelles; Madagascar; India     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 

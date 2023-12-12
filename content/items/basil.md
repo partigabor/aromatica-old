@@ -24,14 +24,14 @@ BASIL (*Ocimum basilicum* L.) is a(n) annual or subshrub from the *Lamiaceae* fa
 
 ## Overview
 
-|       item       |                       basil                       |
-|------------------|---------------------------------------------------|
-|       taxon      |               *Ocimum basilicum* L.               |
-|      family      |                     Lamiaceae                     |
-| region of origin |                   Tropical Asia                   |
-|     macroarea    |                        Asia                       |
-|     part_used    |                        leaf                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/452874-1)|
+|       item       |                                       basil                                      |
+|------------------|----------------------------------------------------------------------------------|
+|       taxon      |                               *Ocimum basilicum* L.                              |
+|      family      |                                     Lamiaceae                                    |
+|      regions     |China, Eastern Asia, Indian Subcontinent, Indo-China, Malesia, Papuasia, Australia|
+|    continents    |                    ASIA-TEMPERATE, ASIA-TROPICAL, AUSTRALASIA                    |
+|       part       |                                       leaf                                       |
+|botanical database|                [POWO](https://powo.science.kew.org/taxon/452874-1)               |
 
 
 

@@ -28,15 +28,15 @@ TIMIZ (*Piper capense* L.f.) is a(n) scrambling shrub or tree from the *Piperace
 
 ## Overview
 
-|       item       |                       timiz                       |
-|------------------|---------------------------------------------------|
-|       taxon      |                *Piper capense* L.f.               |
-|      family      |                     Piperaceae                    |
-| region of origin |                    East Africa                    |
-|     macroarea    |                       Africa                      |
-|     part_used    |                       fruit                       |
-|    cultivation   |                      Ethiopia                     |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/680780-1)|
+|       item       |                                                                              timiz                                                                              |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                       *Piper capense* L.f.                                                                      |
+|      family      |                                                                            Piperaceae                                                                           |
+|      regions     |West Tropical Africa, West-Central Tropical Africa, Northeast Tropical Africa, East Tropical Africa, South Tropical Africa, Southern Africa, Western Indian Ocean|
+|    continents    |                                                                              AFRICA                                                                             |
+|       part       |                                                                              fruit                                                                              |
+|    cultivation   |                                                                             Ethiopia                                                                            |
+|botanical database|                                                       [POWO](https://powo.science.kew.org/taxon/680780-1)                                                       |
 
 
 
