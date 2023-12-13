@@ -100,7 +100,56 @@ Xinxiu Bencao 新修本草[Newly Revised Materia Medica] Tang, 659
 
 <!-- ## Secondary sources -->
 
-<!-- # Resources -->
+## Other Resources
+
+### Business Insider's "So Expensive" series
+
+#### Cardamom
+
+{{< youtube fXOaWevi6f8 >}}
+
+#### Cinnamon
+
+{{< youtube mn6650M3M-U >}}
+
+#### Cloves
+
+{{< youtube HTO0Cswnnuc >}}
+
+#### Nutmeg & Mace
+
+{{< youtube FXXWHa4CpC8 >}}
+
+#### Pepper
+
+{{< youtube 0YekHftrSy0 >}}
+
+#### Saffron
+
+{{< youtube fP2WUnBjmkk >}}
+
+{{< youtube gQaOSggFKQI >}}
+
+{{< youtube cF9rRr-tLi4 >}}
+
+#### Vanilla
+
+{{< youtube _VQ-ckQPD2I >}}
+
+{{< youtube 3752x4PgpYE >}}
+
+
+<!-- https://www.youtube.com/watch?v=8LMioQGsFFw -->
+
+<!-- 
+https://www.youtube.com/watch?v=-6aMgTX1rxA
+https://www.youtube.com/watch?v=QIwpNKfy4sg
+https://www.youtube.com/watch?v=I3Y_FQMFMWE
+https://www.youtube.com/watch?v=GAuCQe2qqro
+https://www.youtube.com/watch?v=k88Cu5SoABg
+https://www.youtube.com/watch?v=nMQOSj2MkxU
+https://www.youtube.com/watch?v=CXTZVKYYyig
+ -->
 
 
 ***

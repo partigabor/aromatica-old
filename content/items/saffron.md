@@ -1,8 +1,8 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-12-12"
-description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus. "
+date = "2023-12-13"
+description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, related to [](../items/). "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron)
+The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, related to [](../items/).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron)
 
 {{< load-photoswipe >}}
 
@@ -26,21 +26,21 @@ bibFile = "static/bibliography/parti.json"
 
 ## Overview
 
-|       item       |                      saffron                      |
-|------------------|---------------------------------------------------|
-|       taxon      |                *Crocus sativus* L.                |
-|      family      |                     Iridaceae                     |
-|      regions     |                Southeastern Europe                |
-|    continents    |                       EUROPE                      |
-|       part       |                   stigma (style)                  |
-|    cultivation   |             Iran; Spain; Kashmir; etc.            |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
+|       item       |                                                                                      saffron                                                                                     |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                                *Crocus sativus* L.                                                                               |
+|      family      |                                                                                     Iridaceae                                                                                    |
+|      regions     |                                                                                Southeastern Europe                                                                               |
+|    continents    |                                                                                      EUROPE                                                                                      |
+|       part       |                                                                                  stigma (style)                                                                                  |
+|    cultivation   |                                                                            Iran; Spain; Kashmir; etc.                                                                            |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1), [GBIF](https://www.gbif.org/species/2747430), [TROP](https://tropicos.org/name/16600120), [EOL](https://eol.org/pages/488247)|
 
 SAFFRON (*Crocus sativus* L.) is a(n) tuberous geophyte from the *Iridaceae* family, growing in the subtropical biome, originating in the region(s) of a cultigen from Greece. It is used as a(n) culinary spice and dye, and cultivated for its stigma (style).{{< cite "powo" >}}
 
 ![Crocus sativus](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 
->Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 164.
+>Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 164. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/675/mode/1up)
 
 ## Distribution
 

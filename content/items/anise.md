@@ -1,8 +1,8 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-12-12"
-description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise. "
+date = "2023-12-13"
+description = "The seed-like fruits of a Mediterranean herb, also known as aniseed, related to [fennel](../items/fennel). See also star anise. "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'distillery']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The seed-like fruits of a Mediterranean herb, also known as aniseed, related to fennel. See also star anise.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Anise)
+The seed-like fruits of a Mediterranean herb, also known as aniseed, related to [fennel](../items/fennel). See also star anise.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Anise)
 
 {{< load-photoswipe >}}
 

@@ -1,8 +1,8 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-12-12"
-description = "The dried fruits of an annual herb, also known as cilantro. "
+date = "2023-12-13"
+description = "The dried fruits of an annual herb, also known as cilantro, related to [](../items/). "
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,31 +12,31 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
->The dried fruits of an annual herb, also known as cilantro.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
+The dried fruits of an annual herb, also known as cilantro, related to [](../items/).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
 
 <center>
 
-**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span>
+**English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Hindi:** <span class="devanagari-text">धनिया </span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span>
 
 </center>
 
 ## Overview
 
-|       item       |                           coriander                          |
-|------------------|--------------------------------------------------------------|
-|       taxon      |                    *Coriandrum sativum* L.                   |
-|      family      |                           Apiaceae                           |
-|      regions     |Caucasus, Western Asia, Arabian Peninsula, Indian Subcontinent|
-|    continents    |                 ASIA-TEMPERATE, ASIA-TROPICAL                |
-|       part       |                             fruit                            |
-|    cultivation   |     Argentina; India; Morocco; Romania; Spain; Yugoslavia    |
-|botanical database|      [POWO](https://powo.science.kew.org/taxon/840760-1)     |
+|       item       |                                                                                    coriander                                                                                    |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                             *Coriandrum sativum* L.                                                                             |
+|      family      |                                                                                     Apiaceae                                                                                    |
+|      regions     |                                                          Caucasus, Western Asia, Arabian Peninsula, Indian Subcontinent                                                         |
+|    continents    |                                                                          ASIA-TEMPERATE, ASIA-TROPICAL                                                                          |
+|       part       |                                                                                      fruit                                                                                      |
+|    cultivation   |                                                              Argentina; India; Morocco; Romania; Spain; Yugoslavia                                                              |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/840760-1), [GBIF](https://www.gbif.org/species/3034871), [TROP](https://tropicos.org/name/1700064), [EOL](https://eol.org/pages/581687)|
 
 CORIANDER (*Coriandrum sativum* L.) is a(n) annual from the *Apiaceae* family, growing in the subtropical biome, originating in the region(s) of E. Medit. to Pakistan. It is used as a(n) culinary spice, and cultivated for its fruit.{{< cite "powo" >}}
 
 ![Coriandrum sativum](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 145.
+>Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 145. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/635/mode/1up)
 
 ## Distribution
 
