@@ -1,8 +1,8 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to [mace](../items/mace). "
+date = "2023-12-14"
+description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, also known as nutmeg. It is related to [mace](../items/mace)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to [mace](../items/mace).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg#Mace)
+The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, also known as nutmeg. It is related to [mace](../items/mace).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg#Mace)
 
 {{< load-photoswipe >}}
 

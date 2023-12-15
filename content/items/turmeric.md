@@ -1,8 +1,8 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, related to [](../items/). See also Yellow zedoary. "
+date = "2023-12-14"
+description = "The bright yellow powder yielded from the rhizomes of Curcuma longa, also known as turmeric."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'ritualistic']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The bright yellow powder yielded from the rhizomes of Curcuma longa; root of Curcuma domestica, related to [](../items/). See also Yellow zedoary.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Turmeric)
+The bright yellow powder yielded from the rhizomes of Curcuma longa, also known as turmeric.
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Turmeric)
 
 <center>
 

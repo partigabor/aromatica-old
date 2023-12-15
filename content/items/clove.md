@@ -1,8 +1,8 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, related to [](../items/). See also nutmeg; mace. "
+date = "2023-12-14"
+description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, also known as clove; cloves. See also [nutmeg](../items/nutmeg), [mace](../items/mace)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, related to [](../items/). See also nutmeg; mace.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Clove)
+The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, also known as clove; cloves. See also [nutmeg](../items/nutmeg), [mace](../items/mace).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Clove)
 
 <center>
 

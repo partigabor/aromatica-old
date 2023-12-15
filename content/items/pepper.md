@@ -1,8 +1,8 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The dried fruits of an Indian vine, also known as black pepper, related to [long_pepper](../items/long pepper), [cubeb_pepper](../items/cubeb pepper). "
+date = "2023-12-14"
+description = "The dried fruits of an Indian vine, also known as black pepper; peppercorns. It is related to [long pepper](../items/long_pepper), [cubeb](../items/cubeb)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried fruits of an Indian vine, also known as black pepper, related to [long_pepper](../items/long pepper), [cubeb_pepper](../items/cubeb pepper).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_pepper)
+The dried fruits of an Indian vine, also known as black pepper; peppercorns. It is related to [long pepper](../items/long_pepper), [cubeb](../items/cubeb).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_pepper)
 
 {{< load-photoswipe >}}
 

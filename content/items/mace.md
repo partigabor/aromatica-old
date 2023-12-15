@@ -1,8 +1,8 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The aril (seed-covering) of the nutmeg, related to [nutmeg](../items/nutmeg). "
+date = "2023-12-14"
+description = "The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The aril (seed-covering) of the nutmeg, related to [nutmeg](../items/nutmeg).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)
+The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)
 
 <center>
 

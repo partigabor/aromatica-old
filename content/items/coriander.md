@@ -1,8 +1,8 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The dried fruits of an annual herb, also known as cilantro, related to [](../items/). "
+date = "2023-12-14"
+description = "The dried fruits of an annual herb, also known as cilantro, also known as coriander seeds; cilantro; Chinese parsley."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried fruits of an annual herb, also known as cilantro, related to [](../items/).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
+The dried fruits of an annual herb, also known as cilantro, also known as coriander seeds; cilantro; Chinese parsley.
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
 
 <center>
 

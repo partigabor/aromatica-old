@@ -1,8 +1,8 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The inner bark of Southeast Asian trees, also known as Chinese cinnamon, related to [cinnamon](../items/cinnamon). See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon. "
+date = "2023-12-14"
+description = "The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinnamon; cassia cinnamon; Chinese cassia. It is related to [cinnamon](../items/cinnamon)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The inner bark of Southeast Asian trees, also known as Chinese cinnamon, related to [cinnamon](../items/cinnamon). See also Chinese cinnamon; Padang cinnamon; Saigon cinnamon; cinnamon.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamomum_cassia)
+The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinnamon; cassia cinnamon; Chinese cassia. It is related to [cinnamon](../items/cinnamon).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamomum_cassia)
 
 <center>
 

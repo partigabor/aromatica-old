@@ -1,8 +1,8 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, related to [](../items/). "
+date = "2023-12-14"
+description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, also known as saffron."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, related to [](../items/).  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron)
+The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, also known as saffron.
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron)
 
 {{< load-photoswipe >}}
 

@@ -1,8 +1,8 @@
 +++
 title = "Cinnamon"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to [cassia](../items/cassia). See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon. "
+date = "2023-12-14"
+description = "The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, also known as cinnamon; Ceylon cinnamon. It is related to [cassia](../items/cassia)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, related to [cassia](../items/cassia). See also Canela; Canella; Chinese cinnamon; Padang cinnamon: Saigon cinnamon.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamon)
+The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, also known as cinnamon; Ceylon cinnamon. It is related to [cassia](../items/cassia).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamon)
 
 <center>
 

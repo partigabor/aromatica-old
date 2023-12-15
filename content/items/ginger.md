@@ -1,8 +1,8 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2023-12-13"
-description = "The aromatic rhizomes of the ginger plant, fresh or dried., related to [turmeric](../items/turmeric). See also wild ginger. "
+date = "2023-12-14"
+description = "The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger; common ginger. It is related to [turmeric](../items/turmeric)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The aromatic rhizomes of the ginger plant, fresh or dried., related to [turmeric](../items/turmeric). See also wild ginger.  [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Ginger)
+The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger; common ginger. It is related to [turmeric](../items/turmeric).
+
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Ginger)
 
 {{< load-photoswipe >}}
 
