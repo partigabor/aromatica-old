@@ -29,7 +29,7 @@ The dried fruits of an annual herb, also known as cilantro, also known as corian
 |       taxon      |                                                                             *Coriandrum sativum* L.                                                                             |
 |      family      |                                                                                     Apiaceae                                                                                    |
 |      regions     |                                                          Caucasus, Western Asia, Arabian Peninsula, Indian Subcontinent                                                         |
-|    continents    |                                                                          ASIA-TEMPERATE, ASIA-TROPICAL                                                                          |
+|    continents    |                                                                          Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                      fruit                                                                                      |
 |    cultivation   |                                                              Argentina; India; Morocco; Romania; Spain; Yugoslavia                                                              |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840760-1), [GBIF](https://www.gbif.org/species/3034871), [TROP](https://tropicos.org/name/1700064), [EOL](https://eol.org/pages/581687)|

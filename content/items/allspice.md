@@ -33,7 +33,7 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 |       taxon      |                                                                            *Pimenta dioica* (L.) Merr.                                                                            |
 |      family      |                                                                                     Myrtaceae                                                                                     |
 |      regions     |                                                                         Mexico, Central America, Caribbean                                                                        |
-|    continents    |                                                                         NORTHERN AMERICA, SOUTHERN AMERICA                                                                        |
+|    continents    |                                                                         Northern America, Southern America                                                                        |
 |       part       |                                                                              unripe fruit; leaf; wood                                                                             |
 |    cultivation   |                                                                             Jamaica; Mexico; Honduras                                                                             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061), [TROP](https://tropicos.org/name/22101787), [EOL](https://eol.org/pages/2508608)|

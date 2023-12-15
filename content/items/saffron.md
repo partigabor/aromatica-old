@@ -33,7 +33,7 @@ The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, al
 |       taxon      |                                                                                *Crocus sativus* L.                                                                               |
 |      family      |                                                                                     Iridaceae                                                                                    |
 |      regions     |                                                                                Southeastern Europe                                                                               |
-|    continents    |                                                                                      EUROPE                                                                                      |
+|    continents    |                                                                                      Europe                                                                                      |
 |       part       |                                                                                  stigma (style)                                                                                  |
 |    cultivation   |                                                                            Iran; Spain; Kashmir; etc.                                                                            |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1), [GBIF](https://www.gbif.org/species/2747430), [TROP](https://tropicos.org/name/16600120), [EOL](https://eol.org/pages/488247)|

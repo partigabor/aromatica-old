@@ -29,7 +29,7 @@ The dried berries of a Southeast Asian plant resembling black pepper, but with a
 |       taxon      |                                                                                    *Piper cubeba* L.f.                                                                                   |
 |      family      |                                                                                        Piperaceae                                                                                        |
 |      regions     |                                                                                    Indo-China, Malesia                                                                                   |
-|    continents    |                                                                                       ASIA-TROPICAL                                                                                      |
+|    continents    |                                                                                       Asia-Tropical                                                                                      |
 |       part       |                                                                                       unripe fruit                                                                                       |
 |    cultivation   |                                                                                         Indonesia                                                                                        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1), [GBIF](https://www.gbif.org/species/7606629), [TROP](http://legacy.tropicos.org/Name/25002639), [EOL](https://eol.org/pages/51845162)|

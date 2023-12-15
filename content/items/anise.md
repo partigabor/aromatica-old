@@ -28,15 +28,15 @@ The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anis
 
 ## Overview
 
-|       item       |                       anise                       |
-|------------------|---------------------------------------------------|
-|       taxon      |               *Pimpinella anisum* L.              |
-|      family      |                      Apiaceae                     |
-|      regions     |                    Western Asia                   |
-|    continents    |                   ASIA-TEMPERATE                  |
-|       part       |                  fruit; oil; leaf                 |
-|    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
+|       item       |                                                                                      anise                                                                                      |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                              *Pimpinella anisum* L.                                                                             |
+|      family      |                                                                                     Apiaceae                                                                                    |
+|      regions     |                                                                                   Western Asia                                                                                  |
+|    continents    |                                                                                  Asia-Temperate                                                                                 |
+|       part       |                                                                                 fruit; oil; leaf                                                                                |
+|    cultivation   |                                                                    Turkey; Egypt; Spain; Russia; Italy; etc.                                                                    |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1), [GBIF](https://www.gbif.org/species/8080300), [TROP](https://tropicos.org/name/1700194), [EOL](https://eol.org/pages/581422)|
 
 ANISE (*Pimpinella anisum* L.) is a(n) annual from the *Apiaceae* family, growing in the temperate biome, originating in the region(s) of SE. Türkiye to C. Israel, Cyprus. It is used as a(n) culinary and distillery spice, and cultivated for its fruit; oil; leaf.{{< cite "powo" >}}
 

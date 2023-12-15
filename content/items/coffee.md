@@ -2,38 +2,39 @@
 title = "Coffee"
 author = "Gabor Parti"
 date = "2023-12-15"
-description = "The roasted seeds -- called coffee beans -- of African shrubs, most typically Coffea arabica and Coffea robusta, used to prepare beverages., also known as coffee beans; Arabian coffee."
+description = "The roasted and ground seeds of African shrubs, most typically of *Coffea arabica* and *robusta*,  infused to maked a beverage, also known as coffee beans; Arabian coffee; Arabica coffee."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['commodity']
-tags = ['beverage', 'commodities']
+tags = ['recreational', 'commodities']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The roasted seeds -- called coffee beans -- of African shrubs, most typically Coffea arabica and Coffea robusta, used to prepare beverages., also known as coffee beans; Arabian coffee.
+The roasted and ground seeds of African shrubs, most typically of *Coffea arabica* and *robusta*,  infused to maked a beverage, also known as coffee beans; Arabian coffee; Arabica coffee.
 
 [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coffee) [[<i class="fab fa-wikipedia-w"></i>]](https://en.wiktionary.org/wiki/coffee)
 
 <center>
 
-**English:** coffee · **Hungarian:** kávé · **Arabic:** <span class="arabic-text" dir="rtl">قهوة</span> · **Chinese:** <span class="traditional-chinese-text">咖啡</span>
+**English:** coffee · **Hungarian:** kávé · **Arabic:** <span class="arabic-text" dir="rtl">قهوة</span> · **Hindi:** <span class="devanagari-text">कॉफी</span> · **Chinese:** <span class="traditional-chinese-text">咖啡</span>
 
 </center>
 
 ## Overview
 
-|       item       |                       coffee                      |
-|------------------|---------------------------------------------------|
-|       taxon      |                *Coffea arabica* L.                |
-|      family      |                     Rubiaceae                     |
-|      regions     |  Northeast Tropical Africa, East Tropical Africa  |
-|    continents    |                       AFRICA                      |
-|       part       |                        seed                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/747038-1)|
+|       item       |                                                                                       coffee                                                                                      |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                                *Coffea arabica* L.                                                                                |
+|      family      |                                                                                     Rubiaceae                                                                                     |
+|      regions     |                                                                  Northeast Tropical Africa, East Tropical Africa                                                                  |
+|    continents    |                                                                                       Africa                                                                                      |
+|       part       |                                                                                        seed                                                                                       |
+|    cultivation   |                                                                   Brazil; Colombia; Indonesia; Vietnam; Ethiopia                                                                  |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/747038-1), [GBIF](https://www.gbif.org/species/2895345), [TROP](https://tropicos.org/name/27900016), [EOL](https://eol.org/pages/1109554)|
 
-COFFEE (*Coffea arabica* L.) is a(n) shrub or tree from the *Rubiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of E. South Sudan, SW. Ethiopia, N. Kenya (Mt. Marsibit). It is used as a(n) beverage commodity, and cultivated for its seed.{{< cite "powo" >}}
+COFFEE (*Coffea arabica* L.) is a(n) shrub or tree from the *Rubiaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of E. South Sudan, SW. Ethiopia, N. Kenya (Mt. Marsibit). It is used as a(n) recreational commodity, and cultivated for its seed.{{< cite "powo" >}}
 
 ![Coffea arabica](/images/illustrations/coffee.png?width=40rem "Illustration of Coffea arabica from Köhler's Medizinal-Pflanzen")
 

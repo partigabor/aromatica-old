@@ -33,7 +33,7 @@ The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, al
 |       taxon      |                                                                            *Myristica fragrans* Houtt.                                                                           |
 |      family      |                                                                                   Myristicaceae                                                                                  |
 |      regions     |                                                                                      Malesia                                                                                     |
-|    continents    |                                                                                   ASIA-TROPICAL                                                                                  |
+|    continents    |                                                                                   Asia-Tropical                                                                                  |
 |       part       |                                                                                       seed                                                                                       |
 |    cultivation   |                                                                                Grenada; Indonesia                                                                                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1), [GBIF](https://www.gbif.org/species/5406817), [TROP](https://tropicos.org/name/21800077), [EOL](https://eol.org/pages/596922)|

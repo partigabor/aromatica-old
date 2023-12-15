@@ -29,7 +29,7 @@ The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Sy
 |       taxon      |                                                                    *Syzygium aromaticum* (L.) Merr. & L.M.Perry                                                                   |
 |      family      |                                                                                     Myrtaceae                                                                                     |
 |      regions     |                                                                                      Malesia                                                                                      |
-|    continents    |                                                                                   ASIA-TROPICAL                                                                                   |
+|    continents    |                                                                                   Asia-Tropical                                                                                   |
 |       part       |                                                                                    flower buds                                                                                    |
 |    cultivation   |                                                                           Indonesia; Malaysia; Tanzania                                                                           |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1), [GBIF](https://www.gbif.org/species/3183002), [TROP](https://tropicos.org/name/22102278), [EOL](https://eol.org/pages/2508665)|

@@ -29,7 +29,7 @@ The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, also
 |       taxon      |                                                                            *Cinnamomum verum* J.Presl                                                                            |
 |      family      |                                                                                     Lauraceae                                                                                    |
 |      regions     |                                                                                Indian Subcontinent                                                                               |
-|    continents    |                                                                                   ASIA-TROPICAL                                                                                  |
+|    continents    |                                                                                   Asia-Tropical                                                                                  |
 |       part       |                                                                                    bark; leaf                                                                                    |
 |    cultivation   |                                                                     Sri Lanka; Seychelles; Madagascar; India                                                                     |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1), [GBIF](https://www.gbif.org/species/3033987), [TROP](https://tropicos.org/name/17800682), [EOL](https://eol.org/pages/490672)|

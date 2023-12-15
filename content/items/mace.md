@@ -29,7 +29,7 @@ The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nu
 |       taxon      |                                                                            *Myristica fragrans* Houtt.                                                                           |
 |      family      |                                                                                   Myristicaceae                                                                                  |
 |      regions     |                                                                                      Malesia                                                                                     |
-|    continents    |                                                                                   ASIA-TROPICAL                                                                                  |
+|    continents    |                                                                                   Asia-Tropical                                                                                  |
 |       part       |                                                                                       aril                                                                                       |
 |    cultivation   |                                                                                Grenada; Indonesia                                                                                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1), [GBIF](https://www.gbif.org/species/5406817), [TROP](https://tropicos.org/name/21800077), [EOL](https://eol.org/pages/596922)|

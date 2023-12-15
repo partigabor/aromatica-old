@@ -29,7 +29,7 @@ The bright yellow powder yielded from the rhizomes of Curcuma longa, also known 
 |       taxon      |                                                                                 *Curcuma longa* L.                                                                                |
 |      family      |                                                                                   Zingiberaceae                                                                                   |
 |      regions     |                                                                                Indian Subcontinent                                                                                |
-|    continents    |                                                                                   ASIA-TROPICAL                                                                                   |
+|    continents    |                                                                                   Asia-Tropical                                                                                   |
 |       part       |                                                                                      rhizome                                                                                      |
 |    cultivation   |                                                                     China; Honduras; India; Indonesia; Jamaica                                                                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1), [GBIF](https://www.gbif.org/species/2757624), [TROP](https://tropicos.org/name/34500029), [EOL](https://eol.org/pages/1122309)|

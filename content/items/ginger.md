@@ -33,7 +33,7 @@ The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger;
 |       taxon      |                                                                           *Zingiber officinale* Roscoe                                                                           |
 |      family      |                                                                                   Zingiberaceae                                                                                  |
 |      regions     |                                                                            China, Indian Subcontinent                                                                            |
-|    continents    |                                                                           ASIA-TEMPERATE, ASIA-TROPICAL                                                                          |
+|    continents    |                                                                           Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                      rhizome                                                                                     |
 |    cultivation   |                                                                       India; Jamaica; Nigeria; Sierra Leone                                                                      |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1), [GBIF](https://www.gbif.org/species/2757280), [TROP](https://tropicos.org/name/34500018), [EOL](https://eol.org/pages/987032)|

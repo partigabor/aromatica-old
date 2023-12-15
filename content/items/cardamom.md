@@ -29,7 +29,7 @@ The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, al
 |       taxon      |                                                                         *Elettaria cardamomum* (L.) Maton                                                                         |
 |      family      |                                                                                   Zingiberaceae                                                                                   |
 |      regions     |                                                                                Indian Subcontinent                                                                                |
-|    continents    |                                                                                   ASIA-TROPICAL                                                                                   |
+|    continents    |                                                                                   Asia-Tropical                                                                                   |
 |       part       |                                                                                  fruit (seed pod)                                                                                 |
 |    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871), [TROP](https://tropicos.org/name/34500572), [EOL](https://eol.org/pages/1120064)|

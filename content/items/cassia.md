@@ -29,7 +29,7 @@ The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinn
 |       taxon      |                                                                           *Cinnamomum aromaticum* Nees                                                                           |
 |      family      |                                                                                     Lauraceae                                                                                    |
 |      regions     |                                                                                 China, Indo-China                                                                                |
-|    continents    |                                                                           ASIA-TEMPERATE, ASIA-TROPICAL                                                                          |
+|    continents    |                                                                           Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                    bark; fruit                                                                                   |
 |    cultivation   |                                                                   Indonesia; China; Vietnam; Timor-Leste; etc.                                                                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1), [GBIF](https://www.gbif.org/species/3033982), [TROP](https://tropicos.org/name/17805773), [EOL](https://eol.org/pages/483593)|
