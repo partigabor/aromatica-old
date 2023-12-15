@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-12-14"
+date = "2023-12-15"
 description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as cardamom, -mon, -mum; green cardamom; true cardamom ."
 weight = 10
 # draft = "true"

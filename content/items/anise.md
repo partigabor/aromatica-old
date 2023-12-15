@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2023-12-14"
+date = "2023-12-15"
 description = "The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anise seed; brown anise; white anise."
 weight = 10
 # draft = "true"

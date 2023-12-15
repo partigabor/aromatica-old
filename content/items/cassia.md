@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2023-12-14"
+date = "2023-12-15"
 description = "The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinnamon; cassia cinnamon; Chinese cassia. It is related to [cinnamon](../items/cinnamon)."
 weight = 10
 # draft = "true"
