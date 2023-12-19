@@ -1,1 +1,1 @@
-As of now, the website contains information on **17** items.
+As of now, the website contains information on **1** items.
