@@ -1,8 +1,8 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-12-19"
-description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as cardamom, -mon, -mum; green cardamom; true cardamom ."
+date = "2023-12-20"
+description = "The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . See also [Bengal cardamom](../items/Bengal_cardamom), [Cameroon cardamom](../items/Cameroon_cardamom), [Ethiopian cardamom](../items/Ethiopian_cardamom), [Madagascar cardamom](../items/Madagascar_cardamom)."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal', 'cardamoms']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as cardamom, -mon, -mum; green cardamom; true cardamom .
+The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . See also [Bengal cardamom](../items/Bengal_cardamom), [Cameroon cardamom](../items/Cameroon_cardamom), [Ethiopian cardamom](../items/Ethiopian_cardamom), [Madagascar cardamom](../items/Madagascar_cardamom).
 
 [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)
 
@@ -30,11 +30,11 @@ The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, al
 |      family      |                                                                                   Zingiberaceae                                                                                   |
 |      regions     |                                                                                Indian Subcontinent                                                                                |
 |    continents    |                                                                                   Asia-Tropical                                                                                   |
-|       part       |                                                                                  fruit (seed pod)                                                                                 |
+|       part       |                                                                                    fruit & seed                                                                                   |
 |    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871), [TROP](https://tropicos.org/name/34500572), [EOL](https://eol.org/pages/1120064)|
 
-CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit (seed pod).{{< cite "powo" >}}
+CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit & seed.{{< cite "powo" >}}
 
 ![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
