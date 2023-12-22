@@ -131,7 +131,7 @@
 \DeclareFieldFormat{apacase}{#1} % Title casing in APA
 % \AtBeginBibliography{\small} % Can make the font in bibliography smaller
 
-\addbibresource{parti.bib} % Replace with your .bib file
+\addbibresource{../static/bibliography/parti.bib} % Replace with your .bib file
 
 % Bibliography attempts
 % \usepackage[
