@@ -3,7 +3,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{dsh}[Digital Scolarship in the Humanities]
 
-% Load book class as basis
+% Load class as base
 \newif\ifinitial
 \DeclareOption{initial}{\initialtrue}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
@@ -129,7 +129,6 @@
 \apptocmd{\sloppy}{\hbadness 10000\relax}{}{}
 \appto{\bibsetup}{\sloppy}
 \DeclareFieldFormat{apacase}{#1} % Title casing in APA
-% \DeclareFieldFormat{titlecase}{#1}
 % \AtBeginBibliography{\small} % Can make the font in bibliography smaller
 
 \addbibresource{parti.bib} % Replace with your .bib file
