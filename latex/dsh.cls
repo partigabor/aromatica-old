@@ -19,13 +19,13 @@
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=RoyalBlue,
+    linkcolor=OliveGreen,
     anchorcolor=black,
-    citecolor=RoyalBlue,
+    citecolor=OliveGreen,
     filecolor=black,
     menucolor=black,
     runcolor=black,
-    urlcolor=RoyalBlue}
+    urlcolor=OliveGreen}
 \hypersetup{breaklinks=true}
 \usepackage{url}
 
