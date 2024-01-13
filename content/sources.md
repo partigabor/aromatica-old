@@ -87,7 +87,7 @@ Xinxiu Bencao 新修本草[Newly Revised Materia Medica] Tang, 659
 * Tomé Pires
 * Fernão Mendes Pinto??
 * Bartolomeu Dias
-* 
+* Evliya Celebi
 * Christopher Columbus
 * Vasco da Gama
 * Francisco Pizarro
