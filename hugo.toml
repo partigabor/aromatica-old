@@ -51,7 +51,7 @@ landingPageName = "<i class='fas fa-home'></i> Kezdőlap"
 # weight = 30
 
 [[languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categories" # fa-box
+name = "<i class='fas fa-fw fa-layer-group'></i> Categories" # fa-box
 pageRef = "categories/"
 weight = 20
 
@@ -68,13 +68,11 @@ weight = 40
 
 [[languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-pen-nib'></i> Creator"
-url = "https://partigabor.github.io/" #"local/"
+url = "https://partigabor.github.io/"
 weight = 50
 
-
-
 [[languages.hu.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-list'></i> Categóriák"
+name = "<i class='fas fa-fw fa-layer-group'></i> Categóriák"
 pageRef = "categories/"
 weight = 20
 
@@ -94,11 +92,8 @@ name = "<i class='fas fa-fw fa-pen-nib'></i> Szerkesztő"
 url = "https://partigabor.github.io/" # "local/"
 weight = 50
 
-
-
 [params]
   # Global site parameters (https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/index.html)
-  
   # This controls whether submenus will be expanded (true), or collapsed (false) in the
   # menu; if no setting is given, the first menu level is set to false, all others to true;
   # this can be overridden in the pages frontmatter
@@ -108,7 +103,7 @@ weight = 50
   # See the config.toml file from this documentation site to have an example.
   editURL = "https://github.com/partigabor/aromatica/blob/main/content/"
   # Author of the site, will be used in meta information
-  author = "Gabor Parti"
+  author.name = "Gabor Parti"
   # Description of the site, will be used in meta information
   description = "A website containing information on spices, herbs, incense, and other aromatics."
   # Shows a checkmark for visited pages on the menu
@@ -166,11 +161,11 @@ weight = 50
   # this can be overridden in the pages frontmatter
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
-  themeVariant = ["dark", "light", "neon"]
+  themeVariant = ["dark"]
   # Change the breadcrumb separator. Default to ">".
   breadcrumbSeparator = "|"
   # Change the title separator. Default to "::".
-  titleSeparator = "-"
+  titleSeparator = "|"
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
   collapsibleMenu = true
   # English is the default language
@@ -182,6 +177,7 @@ weight = 50
   disableExplicitIndexURLs = true
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
+
   # Override default values for image effects, you can even add your own arbitrary effects to the list
   [params.imageEffects]
     border = false

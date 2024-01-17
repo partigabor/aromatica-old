@@ -1,61 +1,64 @@
           <style>
-            #logo svg,
-            #logo svg * {
+            #R-logo svg,
+            #R-logo svg * {
               color: var(--MENU-SECTIONS-BG-color);
               /* fill: var(--MENU-SECTIONS-BG-color) !important; */ /* svg color */
-              /* opacity: .945; */ /* svg opacity only */
+              /* opacity: .945; */  /* svg opacity only */
             }
-            a#logo {
+            a#R-logo {
               color: var(--MENU-SECTIONS-BG-color); /* logo color */
               font-family: 'Noto Serif', serif;
-              /* font-family: 'Noto Sans', sans-serif; */
-              font-size: 1.325rem; /* 1.425 if Noto Sans, 1.875rem if original; */ 
+              font-size: 1.45rem;
               font-weight: 300;
-              margin-top: -0rem; /* -.8125rem; margin above svg */
+              margin-top: -0.25rem; /* above svg */
               max-width: 100%;
               /* text-transform: uppercase; */
-              width: 16rem; /* 14.125rem; */
+              width: 20rem; /* svg width */
               /* white-space: nowrap; */
-              opacity: .945; /* text and svg opacity*/
+              opacity: .925; /* logo and text opacity */
             }
-            a#logo:hover {
+            a#R-logo:hover {
               color: var(--MENU-SECTIONS-LINK-HOVER-color);
             }
-            a#logo svg {
-              margin-bottom: -0.75rem; /* -1.25rem; * margin between svg and text/
-              margin-inline-start: 0rem; /* -1.47rem; */
-              width: 100%; /* 40.5% */
+            #R-logo svg {
+              margin-bottom: -1rem; /* under svg */
+              margin-inline-start: -0.5rem; /* left of svg */
+              margin-inline-end: -0.5rem; /* right of svg */
+              width: 100%;
             }
-            a#logo:hover svg {
+            a#R-logo:hover svg {
               fill: var(--MENU-SECTIONS-LINK-HOVER-color);
             }
-            @media only all and (max-width: 80rem) {
-              a#logo {
-                font-size: 1.425rem;
-                margin-top: -0rem; /* -.1875rem; */
+            @media only all and (max-width: 59.999rem) {
+              a#R-logo {
+                font-size: 1.1rem;
+                margin-top: -0rem;
               }
-              #logo svg {
+              #R-logo svg {
                 margin-bottom: -0.75rem;
-                margin-inline-start: 0rem; /* -1.47rem; */
+                margin-inline-start: -0.5rem;
+                margin-inline-end: -0.5rem;
               }
             }
             @media all and (-ms-high-contrast:none) {
               {{ "/* IE11s understanding of positioning is weird at best */" | safeCSS }}
-              a#logo {
-                margin-top: -0rem; /* -3.625rem; */
+              a#R-logo {
+                margin-top: -0.75rem;
               }
-              #logo svg {
-                margin-bottom: -0.75rem; /* -3.875rem; */
-                margin-left: 0rem; /* -1.47rem; */
+              #R-logo svg {
+                margin-bottom: -0.75rem;
+                margin-left: -0.5rem;
+                margin-right: -0.5rem;
               }
             }
-            @media only all and (-ms-high-contrast:none) and (max-width: 60rem) {
-              #logo svg {
-                margin-left: 0rem; /* -1.47rem; */
+            @media only all and (-ms-high-contrast:none) and (max-width: 59.999rem) {
+              #R-logo svg {
+                margin-left: -0.5rem;
+                margin-right: -0.5rem;
               }
             }
           </style>
-          <a id="logo" href="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .Site.Home) }}">
+          <a id="R-logo" href="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .Site.Home) }}">
             <!-- <img src="images/svgs/borobudur.svg"/> -->
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
             width="100%" height="100%" viewBox="0 0 860.000000 598.000000"
@@ -2157,6 +2160,5 @@
             <path d="M6410 199 c36 -4 85 -10 110 -13 l45 -5 -40 14 c-22 7 -71 13 -110
             13 l-70 -1 65 -8z"/>
             </g>
-            </svg>
-            <br> encyclopædia aromatica        
-          </a>
+            </svg>encyclopedia aromatica    
+          </a> 

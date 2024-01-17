@@ -1,0 +1,148 @@
+h1 {
+font-family: 'Noto Sans', sans-serif;
+}
+h2, h3, h4, h5, h6 {
+font-family: 'Noto Sans', sans-serif;
+}
+body {
+font-family: 'Noto Sans', sans-serif;
+}
+
+
+/* Sans fonts */
+.arabic-text {
+    font-family: 'Noto Sans Arabic', sans-serif;
+    text-align: right;
+    }
+.armenian-text {
+    font-family: 'Noto Sans Armenian', sans-serif;
+    }
+.balinese-text {
+    font-family: 'Noto Sans Balinese', sans-serif;
+    }
+.bengali-text {
+    font-family: 'Noto Sans Bengali', sans-serif;
+    }
+.cyrillic-text {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    }
+.devanagari-text {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+    }
+.ethiopic-text {
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+    }
+.greek-text {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    }
+.hebrew-text {
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    text-align: right;
+    }
+.japanese-text {
+    font-family: 'Noto Sans JP', sans-serif;
+    }
+.korean-text {
+    font-family: 'Noto Sans KR', sans-serif;
+    }
+.myanmar-text {
+    font-family: 'Noto Sans Myanmar', sans-serif;
+    }
+.simplified-chinese-text {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-weight: 400;
+    }
+.traditional-chinese-text {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    }
+.tamil-text {
+    font-family: 'Noto Sans Tamil', sans-serif;
+    }
+.thai-text {
+    font-family: 'Noto Sans Thai', sans-serif;
+    }
+
+/* Serif fonts */
+/* .arabic-text {
+    font-family: 'Noto Naskh Arabic', serif;
+    text-align: right;
+    }
+.armenian-text {
+    font-family: 'Noto Serif Armenian', serif;
+    }
+.balinese-text {
+    font-family: 'Noto Serif Balinese', serif;
+    }
+.bengali-text {
+    font-family: 'Noto Serif Bengali', serif;
+    }
+.devanagari-text {
+    font-family: 'Noto Serif Devanagari', serif;
+    }
+.ethiopic-text {
+    font-family: 'Noto Serif Ethiopic', serif;
+    }
+.hebrew-text {
+    font-family: 'Noto Serif Hebrew', serif;
+    text-align: right;
+    }
+.japanese-text {
+    font-family: 'Noto Serif JP', serif;
+    }
+.korean-text {
+    font-family: 'Noto Serif KR', serif;
+    }
+.simplified-chinese-text {
+    font-family: 'Noto Serif SC', serif;
+    }
+.myanmar-text {
+    font-family: 'Noto Serif Myanmar', serif;
+    }
+.tamil-text {
+    font-family: 'Noto Serif Tamil', serif;
+    }
+.traditional-chinese-text {
+    font-family: 'Noto Serif TC', serif;
+    }
+.thai-text {
+    font-family: 'Noto Serif Thai', serif;
+    }
+
+/* Specials */
+.cuneiform-text {
+    font-family: 'Noto Sans Cuneiform', sans-serif;
+    }
+.nastaliq-text {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    text-align: right;
+    }   
+.javanese-text {
+    font-family: 'Noto Sans Javanese', sans-serif;
+    }
+.kawi-text {
+    font-family: 'Noto Sans Kawi', sans-serif;
+    }
+.linear-b-text {
+        font-family: 'Noto Sans Linear B', sans-serif;
+        }
+.sundanese-text {
+    font-family: 'Noto Sans Sundanese', sans-serif;
+    }
+.syriac-text {
+        font-family: 'Noto Sans Syriac', sans-serif;
+        }
+.tibetan-text {
+    font-family: 'Noto Serif Tibetan', serif;
+    }
+
+/* Other */
+
+[dir="rtl"] {
+    text-align: right;
+    }
+.center {
+    text-align: center;
+    }

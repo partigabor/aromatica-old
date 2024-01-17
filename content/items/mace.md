@@ -1,62 +1,62 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2023-10-28"
-description = "The aril (seed-covering) of the nutmegRelated to nutmeg. "
+date = "2023-12-20"
+description = "The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg)."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
 tags = ['culinary']
-bibFile = "static/files/bibliography.json"
+bibFile = "static/bibliography/parti.json"
 +++
 
->The aril (seed-covering) of the nutmegRelated to nutmeg. 
+The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg).
 
-<p style="text-align:center;">
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)
 
-**English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Chinese:** <span class="chinese-text">肉豆蔻皮</span> · 
+<center>
 
-</p>
+**English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Hindi:** <span class="devanagari-text">जावित्री</span> · **Chinese:** <span class="traditional-chinese-text">肉豆蔻皮</span>
+
+</center>
 
 ## Overview
 
-|       item       |                        mace                       |
-|------------------|---------------------------------------------------|
-|   species name   |            *Myristica fragrans* Houtt.            |
-|      family      |                   Myristicaceae                   |
-|     part used    |                        aril                       |
-|     macroarea    |                        Asia                       |
-| region of origin |                Moluccas (Indonesia)               |
-|    cultivation   |                 Grenada; Indonesia                |
-|       color      | crimson red aril whn fresh, pale yellow when dried|
-|botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
+|       item       |                                                                                       mace                                                                                       |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                            *Myristica fragrans* Houtt.                                                                           |
+|      family      |                                                                                   Myristicaceae                                                                                  |
+|      regions     |                                                                                      Malesia                                                                                     |
+|    continents    |                                                                                   Asia-Tropical                                                                                  |
+|       part       |                                                                                       aril                                                                                       |
+|    cultivation   |                                                                                Grenada; Indonesia                                                                                |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1), [GBIF](https://www.gbif.org/species/5406817), [TROP](https://tropicos.org/name/21800077), [EOL](https://eol.org/pages/596922)|
 
-The aril (seed-covering) of the nutmeg. Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia)It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
+MACE (*Myristica fragrans* Houtt.) is a(n) tree from the *Myristicaceae* family, growing in the wet tropical biome, originating in the region(s) of Maluku (Banda Is.). It is used as a(n) culinary spice, and cultivated for its aril.{{< cite "powo" >}}
 
-![*Myristica fragrans* Houtt.](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
+![Myristica fragrans](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 
->Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 132.
+>Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 132. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/609/mode/1up)
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_mace.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/mace.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Myristica fragrans* Houtt.[^powo]
+>Native and introduced habitats of Myristica fragrans[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/586076-1
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; Maluku
+**Native areas:** &ensp; &ensp; &ensp; Maluku
 
-**Introduced regions:** Assam, Bangladesh, China South-Central, China Southeast, Comoros, Gulf of Guinea Is., Jawa, Laos, Mauritius, Philippines, Réunion, Taiwan, Thailand, Vietnam
+**Introduced areas:** Gulf of Guinea Is., Comoros, Mauritius, Réunion, China South-Central, China Southeast, Taiwan, Assam, Bangladesh, Laos, Thailand, Vietnam, Jawa, Philippines, Samoa
 
 </p>
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
 

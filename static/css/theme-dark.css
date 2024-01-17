@@ -3,13 +3,12 @@
    - remove `markup.highlight.noClasses` from your config.toml
    - set `markup.highlight.style` to a predefined style name in your config.toml
    - remove the following `@import` of the self-defined chroma stylesheet */
-   @import "chroma-relearn-dark.css";
+@import "chroma-relearn-dark.css";
 
 :root {
-    --PRIMARY-color: #88ae43 ; /* brand primary color */
-    --SECONDARY-color: #88ae43 ; /* brand secondary color */
+    --PRIMARY-color: #88ae43; /* brand primary color */
+    --SECONDARY-color: #88ae43; /* brand secondary color */
     --ACCENT-color: #4388ae; /* brand accent color, used for search highlights */
-    --COMPLEMENTER-color: #6943ae; /* complementer color of primary */
 
     --MAIN-TEXT-color: #eeeeee; /* text color of content and h1 titles */
     --MAIN-LINK-HOVER-color: #b7ce8e; /* hovered link color of content */
@@ -19,8 +18,9 @@
     /* adjusted to relearn-dark chroma style */
     --CODE-BLOCK-color: #dddddd; /* fallback text color of block code; should be adjusted to your selected chroma style */
     --CODE-BLOCK-BG-color: #2b2b2b; /* fallback background color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BORDER-color: #2b2b2b; /* border color of block code */
 
-    --CODE-INLINE-color: #a58ece ; /* text color of inline code */
+    --CODE-INLINE-color: #a58ece; /* text color of inline code */
     --CODE-INLINE-BG-color: #2d2d2d; /* background color of inline code */
     --CODE-INLINE-BORDER-color: #2d2d2d; /* border color of inline code */
 
@@ -37,9 +37,9 @@
     --MENU-SEARCH-BORDER-color: #2b2b2b; /* border color of search box */
 
     --MENU-SECTIONS-BG-color: #2b2b2b; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
-    --MENU-SECTIONS-ACTIVE-BG-color: #323232; /* ? background color of the active menu section */
     --MENU-SECTIONS-LINK-color: #bababa; /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hovered link color of menu topics */
+    --MENU-SECTIONS-ACTIVE-BG-color: #323232; /* background color of the active menu section */
     --MENU-SECTION-ACTIVE-CATEGORY-color: #eeeeee; /* text color of the displayed menu topic */
     --MENU-SECTION-SEPARATOR-color: #666666; /* separator color between menu sections and menu footer */
 

@@ -1,64 +1,62 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2023-10-28"
-description = "The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. "
+date = "2023-12-20"
+description = "The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . See also [Bengal cardamom](../items/Bengal_cardamom)."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', ' medicinal', 'cardamoms']
-bibFile = "static/files/bibliography.json"
+tags = ['culinary', 'medicinal', 'cardamoms']
+bibFile = "static/bibliography/parti.json"
 +++
 
-![cardamom](/images/photos/cardamom-1-Unsplash.jpg?width=14rem&classes=shadow "Photo: Unsplash")
+The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . See also [Bengal cardamom](../items/Bengal_cardamom).
 
->The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum, also known as true cardamom; green cardamom. See also Bastard cardamom; Bengal cardamom; Cambodian cardamom; Cameroon cardamom; Ethiopian cardamom; Kepulaga; Madagascar cardamom; Nepaul cardamom. 
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)
 
-<p style="text-align:center;">
+<center>
 
-**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Chinese:** <span class="chinese-text">豆蔻</span> · 
+**English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Hindi:** <span class="devanagari-text">इलायची </span> · **Chinese:** <span class="traditional-chinese-text">小豆蔻</span>
 
-</p>
+</center>
 
 ## Overview
 
-|       item       |                        cardamom                       |
-|------------------|-------------------------------------------------------|
-|   species name   |           *Elettaria cardamomum* (L.) Maton           |
-|      family      |                     Zingiberaceae                     |
-|     part used    |                    fruit (seed pod)                   |
-|     macroarea    |                          Asia                         |
-| region of origin |            Kerala, S. India; southern Asia            |
-|    cultivation   |Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea|
-|       color      |              green seed pods, brown seeds             |
-|botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
+|       item       |                                                                                      cardamom                                                                                     |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       taxon      |                                                                         *Elettaria cardamomum* (L.) Maton                                                                         |
+|      family      |                                                                                   Zingiberaceae                                                                                   |
+|      regions     |                                                                                Indian Subcontinent                                                                                |
+|    continents    |                                                                                   Asia-Tropical                                                                                   |
+|       part       |                                                                                    fruit & seed                                                                                   |
+|    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
+|botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1), [GBIF](https://www.gbif.org/species/2759871), [TROP](https://tropicos.org/name/34500572), [EOL](https://eol.org/pages/1120064)|
 
-The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum. Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of Kerala, S. India; southern AsiaIt is used for its fruit (seed pod), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
+CARDAMOM (*Elettaria cardamomum* (L.) Maton) is a(n) rhizomatous geophyte from the *Zingiberaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of SW. India. It is used as a(n) culinary and medicinal spice, and cultivated for its fruit & seed.{{< cite "powo" >}}
 
-![*Elettaria cardamomum* (L.) Maton](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
+![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 
->Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_koehler_1887 >}} II 186.
+>Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen{{< cite -koehler_1887_koehler >}} II 186. [{{% icon image %}}](https://www.biodiversitylibrary.org/item/10837#page/721/mode/1up)
 
 ## Distribution
 
 {{< load-plotly >}}
 
-{{< plotly json="/aromatica/plotly/distributions/dist_cardamom.json" weight="600" height="300" >}}
+{{< plotly json="/aromatica/plotly/distributions/cardamom.json" weight="600" height="300" >}}
 
->Native and introduced habitats of *Elettaria cardamomum* (L.) Maton[^powo]
+>Native and introduced habitats of Elettaria cardamomum[^powo]
+
+[^powo]: https://powo.science.kew.org/taxon/796556-1
 
 <p style="text-align:left;">
 
-**Native regions:** &ensp; &ensp; &ensp; India, the Western Ghats
+**Native areas:** &ensp; &ensp; &ensp; India
 
-**Introduced regions:** Bangladesh, Cambodia, Costa Rica, Lesser Sunda Is., Réunion, Thailand, Trinidad-Tobago
+**Introduced areas:** Réunion, Bangladesh, Cambodia, Thailand, Vietnam, Lesser Sunda Is., Costa Rica, Trinidad-Tobago
 
 </p>
-
-[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
-[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
 
 
 
