@@ -1,7 +1,7 @@
 +++
 title = "Siam Cardamom"
 author = "Gabor Parti"
-date = "2023-12-20"
+date = "2024-01-22"
 description = "The white fuits of Wurfbainia vera from Indochina, also known as Cambodian cardamom; krervanh; Siam cardamom; Thai cardamom; round cardamom."
 weight = 10
 # draft = "true"

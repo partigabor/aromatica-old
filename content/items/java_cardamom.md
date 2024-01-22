@@ -1,7 +1,7 @@
 +++
 title = "Java Cardamom"
 author = "Gabor Parti"
-date = "2023-12-20"
+date = "2024-01-22"
 description = ""
 weight = 10
 # draft = "true"

@@ -1,7 +1,7 @@
 +++
 title = "Round Chinese Cardamom"
 author = "Gabor Parti"
-date = "2023-12-20"
+date = "2024-01-22"
 description = "The small round compact fruits of Alpinia globosa, also known as round Chinese cardamom; Chinese cardamom; round China cardamom."
 weight = 10
 # draft = "true"

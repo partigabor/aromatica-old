@@ -89,8 +89,8 @@
           null,
           "\u7802\u4ec1",
           "sh\u0101r\u00e9n",
-          90.25419307181824,
-          23.84868074604945,
+          100.0,
+          20.0,
           1
         ],
         [
@@ -128,8 +128,8 @@
           null,
           null,
           null,
-          92.83832546722667,
-          25.475386676667693,
+          103.0,
+          25.0,
           1
         ],
         [
@@ -168,10 +168,10 @@
         25.475386676667693,
         12.0,
         -3.0,
-        23.84868074604945,
+        20.0,
         28.390954466794646,
         12.264142595680823,
-        25.475386676667693,
+        25.0,
         24.0
       ],
       "legendgroup": "Zingiberaceae",
@@ -182,10 +182,10 @@
         92.83832546722667,
         105.0,
         105.0,
-        90.25419307181824,
+        100.0,
         104.60640448525659,
         92.78082133837106,
-        92.83832546722667,
+        103.0,
         90.0
       ],
       "marker": {
@@ -205,8 +205,8 @@
       "showlegend": true,
       "type": "scattergeo",
       "textfont": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
+        "color": "#000000",
+        "family": "Noto Serif",
         "size": 12
       },
       "textposition": "top right"
@@ -272,8 +272,8 @@
       "showlegend": true,
       "type": "scattergeo",
       "textfont": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
+        "color": "#000000",
+        "family": "Noto Serif",
         "size": 12
       },
       "textposition": "top right"
@@ -1110,13 +1110,13 @@
       "center": {},
       "lataxis": {
         "dtick": 10,
-        "gridcolor": "#282828",
+        "gridcolor": "#f7f7f7",
         "gridwidth": 0.5,
         "showgrid": true
       },
       "lonaxis": {
         "dtick": 10,
-        "gridcolor": "#282828",
+        "gridcolor": "#f7f7f7",
         "gridwidth": 0.5,
         "showgrid": true
       },
@@ -1130,17 +1130,17 @@
         "scale": 1
       },
       "bgcolor": "rgba(0,0,0,0)",
-      "coastlinecolor": "#383838",
+      "coastlinecolor": "#777777",
       "coastlinewidth": 1,
-      "countrycolor": "#383838",
+      "countrycolor": "#777777",
       "countrywidth": 1,
-      "framecolor": "#383838",
+      "framecolor": "#777777",
       "framewidth": 1,
-      "lakecolor": "#202020",
-      "landcolor": "#303030",
-      "oceancolor": "#202020",
+      "lakecolor": "#ffffff",
+      "landcolor": "#ffffff",
+      "oceancolor": "#ffffff",
       "resolution": 110,
-      "rivercolor": "#202020",
+      "rivercolor": "#ffffff",
       "riverwidth": 1,
       "scope": "world",
       "showcoastlines": true,
@@ -1151,23 +1151,23 @@
       "showocean": true,
       "showrivers": true,
       "showsubunits": true,
-      "subunitcolor": "#383838",
+      "subunitcolor": "#777777",
       "subunitwidth": 0
     },
     "legend": {
       "title": {
         "text": "family",
         "font": {
-          "color": "#dddddd",
-          "family": "Noto Sans",
+          "color": "#000000",
+          "family": "Noto Serif",
           "size": 14
         }
       },
       "tracegroupgap": 0,
       "itemsizing": "constant",
       "font": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
+        "color": "#000000",
+        "family": "Noto Serif",
         "size": 12
       },
       "bgcolor": "rgba(0,0,0,0.25)",
@@ -1187,13 +1187,13 @@
     "hoverlabel": {
       "font": {
         "size": 12,
-        "family": "Noto Sans"
+        "family": "Noto Serif"
       }
     },
     "title": {
       "font": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
+        "color": "#000000",
+        "family": "Noto Serif",
         "size": 18
       },
       "text": "",
@@ -1208,8 +1208,8 @@
     "annotations": [
       {
         "font": {
-          "color": "#404040",
-          "family": "Noto Sans",
+          "color": "#f7f7f7",
+          "family": "Noto Serif",
           "size": 8
         },
         "name": "copyright",

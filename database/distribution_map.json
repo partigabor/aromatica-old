@@ -89,8 +89,8 @@
           null,
           "\u7802\u4ec1",
           "sh\u0101r\u00e9n",
-          90.25419307181824,
-          23.84868074604945,
+          100.0,
+          20.0,
           1
         ],
         [
@@ -128,8 +128,8 @@
           null,
           null,
           null,
-          92.83832546722667,
-          25.475386676667693,
+          103.0,
+          25.0,
           1
         ],
         [
@@ -168,10 +168,10 @@
         25.475386676667693,
         12.0,
         -3.0,
-        23.84868074604945,
+        20.0,
         28.390954466794646,
         12.264142595680823,
-        25.475386676667693,
+        25.0,
         24.0
       ],
       "legendgroup": "Zingiberaceae",
@@ -182,10 +182,10 @@
         92.83832546722667,
         105.0,
         105.0,
-        90.25419307181824,
+        100.0,
         104.60640448525659,
         92.78082133837106,
-        92.83832546722667,
+        103.0,
         90.0
       ],
       "marker": {
@@ -218,8 +218,8 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
+        "color": "#000000",
+        "family": "Noto Serif",
         "size": 12
       },
       "textposition": "top right"
@@ -289,8 +289,8 @@
       ],
       "type": "scattergeo",
       "textfont": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
+        "color": "#000000",
+        "family": "Noto Serif",
         "size": 12
       },
       "textposition": "top right"
@@ -1145,23 +1145,6 @@
     },
     "margin": {
       "t": 60
-    },
-    "annotations": [
-      {
-        "font": {
-          "color": "#dddddd",
-          "family": "Noto Sans",
-          "size": 12
-        },
-        "name": "info",
-        "opacity": 0.9,
-        "showarrow": false,
-        "text": "Click on a material to navigate to its corresponding page!",
-        "x": 0.5,
-        "xref": "paper",
-        "y": 0.05,
-        "yref": "paper"
-      }
-    ]
+    }
   }
 }
