@@ -1,7 +1,7 @@
 +++
 title = "Katsumada Galangal Seed"
 author = "Gabor Parti"
-date = "2024-01-22"
+date = "2024-01-26"
 description = "The light brown, brain-shaped fruits of Alpinia hainanensis used in TCM, also known as katsumada galangal seed."
 weight = 10
 # draft = "true"

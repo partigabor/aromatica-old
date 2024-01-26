@@ -1,7 +1,7 @@
 +++
 title = "Wild Siamese Cardamom"
 author = "Gabor Parti"
-date = "2024-01-22"
+date = "2024-01-26"
 description = "The fruits of Wurfbania villosa, also known as Malabar cardamom; Tavoy cardamom; wild Siamese cardamom; bastard cardamom; bastard Siamese cardamom."
 weight = 10
 # draft = "true"

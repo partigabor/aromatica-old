@@ -1,7 +1,7 @@
 +++
 title = "Greater Galangal"
 author = "Gabor Parti"
-date = "2024-01-22"
+date = "2024-01-26"
 description = "The rhizomes of a tropical, medicinal plant; the seeds are used in TCM, also known as greater galangal; galangal; greater galanga; galanga; galingale; laos;lengkuas."
 weight = 10
 # draft = "true"

@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2024-01-22"
+date = "2024-01-26"
 description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, also known as nutmeg. It is related to [mace](../items/mace)."
 weight = 10
 # draft = "true"

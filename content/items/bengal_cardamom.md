@@ -1,7 +1,7 @@
 +++
 title = "Bengal Cardamom"
 author = "Gabor Parti"
-date = "2024-01-22"
+date = "2024-01-26"
 description = "The smoked, brown fruits of Wurfbania aromatica, similar to tsaoko, also known as Bengal cardamom; Nepal cardamom; large cardamom."
 weight = 10
 # draft = "true"
