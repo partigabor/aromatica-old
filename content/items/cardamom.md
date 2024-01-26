@@ -2,7 +2,7 @@
 title = "Cardamom"
 author = "Gabor Parti"
 date = "2024-01-26"
-description = "The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . See also [Bengal cardamom](../items/Bengal_cardamom)."
+description = "The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom ."
 weight = 10
 # draft = "true"
 # hidden = "true"
@@ -12,7 +12,7 @@ tags = ['culinary', 'medicinal', 'cardamoms']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . See also [Bengal cardamom](../items/Bengal_cardamom).
+The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom .
 
 [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)
 

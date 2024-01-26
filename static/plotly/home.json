@@ -217,19 +217,6 @@
     {
       "customdata": [
         [
-          "Bengal cardamom",
-          "Wurfbainia aromatica",
-          "Zingiberaceae",
-          "Nepal to Bangladesh",
-          null,
-          null,
-          null,
-          null,
-          90.0,
-          24.0,
-          1
-        ],
-        [
           "black cardamom",
           "Amomum subulatum",
           "Zingiberaceae",
@@ -292,19 +279,6 @@
           "h\u00f3ngd\u00f2uk\u00f2u",
           92.83832546722667,
           25.475386676667693,
-          1
-        ],
-        [
-          "Java cardamom",
-          "Amomum maximum",
-          "Zingiberaceae",
-          "Trop. & Subtrop. Asia",
-          null,
-          null,
-          null,
-          null,
-          92.78082133837106,
-          12.264142595680823,
           1
         ],
         [
@@ -376,13 +350,11 @@
       "geo": "geo",
       "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
-        "Bengal cardamom",
         "black cardamom",
         "cardamom",
         "Chinese black cardamom",
         "ginger",
         "greater galangal",
-        "Java cardamom",
         "katsumada galangal seed",
         "kepulaga",
         "Siam cardamom",
@@ -390,13 +362,11 @@
         "wild Siamese cardamom"
       ],
       "lat": [
-        24.0,
         28.0,
         10.0,
         25.0,
         26.0,
         25.475386676667693,
-        12.264142595680823,
         19.213132031896745,
         -3.0,
         12.0,
@@ -405,13 +375,11 @@
       ],
       "legendgroup": "Zingiberaceae",
       "lon": [
-        90.0,
         85.0,
         77.0,
         103.0,
         93.0,
         92.83832546722667,
-        92.78082133837106,
         109.76754301808171,
         105.0,
         105.0,
@@ -983,6 +951,57 @@
     {
       "customdata": [
         [
+          "ambergris",
+          "Physeter macrocephalus",
+          "Animalia",
+          null,
+          "\u0639\u0646\u0628\u0631",
+          "\u02bfambar",
+          "\u9f8d\u6d8e\u9999",
+          "l\u00f3ngxi\u00e1nxi\u0101ng",
+          82.0,
+          -33.0,
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "ambergris"
+      ],
+      "lat": [
+        -33.0
+      ],
+      "legendgroup": "Animalia",
+      "lon": [
+        82.0
+      ],
+      "marker": {
+        "color": "#7fbf7b",
+        "opacity": 0.75,
+        "size": 12,
+        "sizemode": "area",
+        "sizeref": 0.0009765625,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        }
+      },
+      "mode": "markers",
+      "name": "Animalia",
+      "showlegend": true,
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "top right"
+    },
+    {
+      "customdata": [
+        [
           "chile",
           "Capsicum annuum",
           "Solanaceae",
@@ -1009,7 +1028,7 @@
         -103.0
       ],
       "marker": {
-        "color": "#7fbf7b",
+        "color": "#b2cf6b",
         "opacity": 0.75,
         "size": 12,
         "sizemode": "area",
