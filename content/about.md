@@ -25,7 +25,7 @@ The term therefore refers to any substance of fragrance, focusing on spices, but
 
 {{< svg "static/images/svgs/borobudur-ship-green.svg" >}}
 
-The logo of Aromatica depicts the [Borobodur ship](https://en.wikipedia.org/wiki/Borobudur_ship), an 8th to 9th-century wooden double outrigger Javanese ship carved on the wall of the Borobodur temple (ꦧꦫꦧꦸꦝꦸꦂ). The ship is depicted as a symbol of the maritime trade routes across the Indian Ocean region, which connected the ancient world and allowed the spread of spices and other aromatics.
+The logo of Aromatica depicts the [Borobodur ship](https://en.wikipedia.org/wiki/Borobudur_ship), an 8th to 9th-century wooden double outrigger Javanese ship carved on a wall relief of the Borobodur temple (ꦧꦫꦧꦸꦝꦸꦂ). The ship here is depicted as a symbol of the maritime trade routes across the Indian Ocean region, which connected the ancient world and allowed the spread of spices and other aromatics.
 
 ## The Data
 
