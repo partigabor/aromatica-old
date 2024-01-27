@@ -1,7 +1,7 @@
 +++
 title = "Dill"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The seeds of a Mediterranean herb, also known as dill."
 weight = 10
 # draft = "true"

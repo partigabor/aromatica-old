@@ -1,7 +1,7 @@
 +++
 title = "Javanese Long Pepper"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "Fruit of Piper retrofractum."
 weight = 10
 # draft = "true"

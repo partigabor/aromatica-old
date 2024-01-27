@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The spike-like cluster of fruits of Piper longum, also known as Indian long pepper; pippali; pipalli. It is related to [pepper](../items/pepper), [cubeb](../items/cubeb)."
 weight = 10
 # draft = "true"

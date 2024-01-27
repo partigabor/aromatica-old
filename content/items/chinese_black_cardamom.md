@@ -1,7 +1,7 @@
 +++
 title = "Chinese Black Cardamom"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The dark seed pods of Hornstedtia costata, similar to tsaoko, also known as Chinese black cardamom."
 weight = 10
 # draft = "true"

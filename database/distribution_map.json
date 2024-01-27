@@ -282,32 +282,6 @@
           1
         ],
         [
-          "greater galangal",
-          "Alpinia galanga",
-          "Zingiberaceae",
-          "China, Indian Subcontinent, Indo-China, Malesia",
-          "\u062e\u0648\u0644\u0646\u062c\u0627\u0646",
-          "kh\u016blanj\u0101n, khawlanj\u0101n",
-          "\u7ea2\u8c46\u853b",
-          "h\u00f3ngd\u00f2uk\u00f2u",
-          92.83832546722667,
-          25.475386676667693,
-          1
-        ],
-        [
-          "katsumada galangal seed",
-          "Alpinia hainanensis",
-          "Zingiberaceae",
-          "China, Indo-China",
-          null,
-          null,
-          "\u8349\u8c46\u853b",
-          "c\u01ceod\u00f2uk\u00f2u",
-          109.76754301808171,
-          19.213132031896745,
-          1
-        ],
-        [
           "kepulaga",
           "Wurfbainia compacta",
           "Zingiberaceae",
@@ -318,19 +292,6 @@
           "zh\u01ceow\u0101 b\u00e1id\u00f2uk\u00f2u",
           105.0,
           -3.0,
-          1
-        ],
-        [
-          "Siam cardamom",
-          "Wurfbainia vera",
-          "Zingiberaceae",
-          "Indo-China, Malesia",
-          null,
-          null,
-          "\u767d\u8c46\u853b",
-          "b\u00e1id\u00f2uk\u00f2u",
-          105.0,
-          12.0,
           1
         ],
         [
@@ -345,19 +306,6 @@
           79.0,
           11.0,
           1
-        ],
-        [
-          "wild Siamese cardamom",
-          "Wurfbainia villosa",
-          "Zingiberaceae",
-          "China, Indian Subcontinent, Indo-China",
-          null,
-          null,
-          "\u7802\u4ec1",
-          "sh\u0101r\u00e9n",
-          100.0,
-          20.0,
-          1
         ]
       ],
       "geo": "geo",
@@ -367,24 +315,16 @@
         "cardamom",
         "Chinese black cardamom",
         "ginger",
-        "greater galangal",
-        "katsumada galangal seed",
         "kepulaga",
-        "Siam cardamom",
-        "turmeric",
-        "wild Siamese cardamom"
+        "turmeric"
       ],
       "lat": [
         28.0,
         10.0,
         25.0,
         26.0,
-        25.475386676667693,
-        19.213132031896745,
         -3.0,
-        12.0,
-        11.0,
-        20.0
+        11.0
       ],
       "legendgroup": "Zingiberaceae",
       "lon": [
@@ -392,12 +332,8 @@
         77.0,
         103.0,
         93.0,
-        92.83832546722667,
-        109.76754301808171,
         105.0,
-        105.0,
-        79.0,
-        100.0
+        79.0
       ],
       "marker": {
         "color": "#38a6a5",
@@ -419,12 +355,8 @@
         "cardamom",
         "Chinese black cardamom",
         "ginger",
-        "greater galangal",
-        "katsumada galangal seed",
         "kepulaga",
-        "Siam cardamom",
-        "turmeric",
-        "wild Siamese cardamom"
+        "turmeric"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -980,7 +912,7 @@
         -86.0
       ],
       "marker": {
-        "color": "#8dd3d7",
+        "color": "#6baed6",
         "opacity": 0.75,
         "size": 12,
         "sizemode": "area",
@@ -996,60 +928,6 @@
       "showlegend": true,
       "text": [
         "vanilla"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "#dddddd",
-        "family": "Noto Sans",
-        "size": 12
-      },
-      "textposition": "top right"
-    },
-    {
-      "customdata": [
-        [
-          "ambergris",
-          "Physeter macrocephalus",
-          "Animalia",
-          "",
-          "\u0639\u0646\u0628\u0631",
-          "\u02bfambar",
-          "\u9f8d\u6d8e\u9999",
-          "l\u00f3ngxi\u00e1nxi\u0101ng",
-          82.0,
-          -33.0,
-          1
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "\u003cb\u003e%{customdata[0]}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
-      "hovertext": [
-        "ambergris"
-      ],
-      "lat": [
-        -33.0
-      ],
-      "legendgroup": "Animalia",
-      "lon": [
-        82.0
-      ],
-      "marker": {
-        "color": "#7fbf7b",
-        "opacity": 0.75,
-        "size": 12,
-        "sizemode": "area",
-        "sizeref": 0.006944444444444444,
-        "symbol": "circle",
-        "line": {
-          "color": "rgba(0,0,0,0)",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Animalia",
-      "showlegend": true,
-      "text": [
-        "ambergris"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -1088,7 +966,7 @@
         -103.0
       ],
       "marker": {
-        "color": "#b2cf6b",
+        "color": "#8dd3d7",
         "opacity": 0.75,
         "size": 12,
         "sizemode": "area",

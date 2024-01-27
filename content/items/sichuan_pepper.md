@@ -1,7 +1,7 @@
 +++
 title = "Sichuan Pepper"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The numbing, red or green fruits of East Asian prickly ash trees, also known as Chinese pepper; Szechwan pepper."
 weight = 10
 # draft = "true"

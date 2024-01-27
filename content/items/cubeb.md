@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The dried berries of a Southeast Asian plant resembling black pepper, but with a small stalk attached, also known as cubeb pepper; tailed pepper; Java pepper. It is related to [pepper](../items/pepper)."
 weight = 10
 # draft = "true"

@@ -1,7 +1,7 @@
 +++
 title = "Kepulaga"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The white fruits of Wurfbania compacta from Sumatra and Java, also known as kepulaga; Indonesian cardamom; round cardamom; Java round cardamom; Java white cardamom."
 weight = 10
 # draft = "true"

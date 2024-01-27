@@ -1,7 +1,7 @@
 +++
 title = "Black Cardamom"
 author = "Gabor Parti"
-date = "2024-01-26"
+date = "2024-01-27"
 description = "The dark brown, smoked seed pods of a Himalayan plant, also known as black cardamom; brown cardamom; greater cardamom; Indian cardamom; Indian black cardamom; Nepal cardamom; Nepaul cardamom; Nepalese cardamom; Bengal cardamom; big cardamom; hill cardamon; winged cardamom; fake cardamom; false cardamom; amomum in Classical texts."
 weight = 10
 # draft = "true"
