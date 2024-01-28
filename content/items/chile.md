@@ -1,7 +1,7 @@
 +++
 title = "Chile"
 author = "Gabor Parti"
-date = "2024-01-27"
+date = "2024-01-28"
 description = "The fruits of Capsicum annuum and other species, also known as chili (pepper); chilli (pepper); paprika; cayenne pepper; red pepper; green pepper; etc."
 weight = 10
 # draft = "true"

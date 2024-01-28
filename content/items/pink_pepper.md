@@ -1,7 +1,7 @@
 +++
 title = "Pink Pepper"
 author = "Gabor Parti"
-date = "2024-01-27"
+date = "2024-01-28"
 description = "Pinkish peppercorns sourced from two different South American species, the Peruvian pepper tree, and the Brazilian pepper tree; both unrelated to true black pepper., also known as pink pepper; Peruvian pepper. See also [pepper](../items/pepper)."
 weight = 10
 # draft = "true"

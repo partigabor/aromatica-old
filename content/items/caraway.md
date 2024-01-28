@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2024-01-27"
+date = "2024-01-28"
 description = "The seed-like fruits of an Eurasian herb, also known as caraway (seeds)."
 weight = 10
 # draft = "true"

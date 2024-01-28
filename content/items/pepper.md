@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2024-01-27"
+date = "2024-01-28"
 description = "The dried fruits of an Indian vine, also known as black pepper; peppercorns. It is related to [long pepper](../items/long_pepper), [cubeb](../items/cubeb)."
 weight = 10
 # draft = "true"
