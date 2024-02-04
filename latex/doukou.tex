@@ -1,0 +1,246 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, margin=3cm]{geometry}
+\usepackage{graphicx} 
+\usepackage{csquotes}
+\usepackage{booktabs}
+\usepackage{soul} % for strikethrough \st{} and highlight \hl{}
+\usepackage[dvipsnames]{xcolor} % Color names
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=OliveGreen,
+    anchorcolor=black,
+    citecolor=OliveGreen,
+    filecolor=black,
+    menucolor=black,
+    runcolor=black,
+    urlcolor=OliveGreen}
+\hypersetup{breaklinks=true}
+\usepackage{url}
+\usepackage{authblk}
+\usepackage[final]{microtype}
+
+
+
+% Bibliography information processing
+\usepackage[
+    backend=biber,
+    style=apa,
+    autocite=inline,
+    sorting=nyt,
+    sortcites=true,
+    backref=false,
+    backrefstyle=three,
+    abbreviate=true,
+    block=space,
+]{biblatex}
+% \DefineBibliographyStrings{american}{
+%     backrefpage={Cited on p.},
+%     backrefpages={Cited on pp.}
+% }
+\apptocmd{\sloppy}{\hbadness 10000\relax}{}{}
+\appto{\bibsetup}{\sloppy}
+\DeclareFieldFormat{apacase}{#1} % Title casing in APA
+% \AtBeginBibliography{\small} % Can make the font in bibliography smaller
+
+\addbibresource{../static/bibliography/parti.bib} %
+
+
+
+% Languages, scripts, and fonts
+
+% Font packages
+\usepackage{libertine} % Latin, Greek, Cyrillic, Hebrew
+
+% Fontspec
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures={TeX}}
+
+% % Language settings
+\usepackage[main=english, bidi=basic]{babel}
+
+% Automatic typesetting of certain writing systems
+\babelprovide[import=ar, onchar=ids fonts]{arabic}
+% \babelprovide[import=he, onchar=ids fonts]{hebrew}
+% \babelprovide[import=sa-Deva, onchar=ids fonts]{sanskrit-devanagari}
+
+% Define fonts (https://tug.org/FontCatalogue/)
+% \babelfont{rm}{Linux Libertine}
+% \babelfont{sf}{Linux Biolinum}
+% \babelfont{tt}{Inconsolata}
+
+\babelfont[*arabic]{rm}{Noto Naskh Arabic} % Amiri
+% \babelfont[*hebrew]{rm}{Linux Libertine} % Noto Serif Hebrew
+% \babelfont[*devanagari]{rm}[Renderer=Harfbuzz]{Noto Serif Devanagari} 
+% % Settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
+
+% East Asian scripts
+% \usepackage{kotex} % Support for KR, JP, some TC (not SC).
+% \setmainhangulfont{Noto Serif CJK KR} % Only on Overleaf
+% \setmainhangulfont[
+    % Path=./fonts/,
+    % Extension = .otf,
+    % UprightFont=*-Medium,
+    % BoldFont=*-Bold
+    % ]{NotoSerifKR}
+
+\newfontfamily{\traditionalchinesefont}[
+    Path=./fonts/,
+    Extension = .otf,
+    UprightFont=*-Medium,
+    BoldFont=*-Bold
+    ]{NotoSerifTC}
+
+% \newfontfamily{\simplifiedchinesefont}[
+%     Path=./fonts/,
+%     Extension = .otf,
+%     UprightFont=*-Medium,
+%     BoldFont=*-Bold,
+%     ]{NotoSerifSC}
+
+% Other scripts
+\newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
+
+% Commands to use scripts
+\newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
+\newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
+\newcommand{\zh}[1]{\simplifiedchinesefont{#1}\rmfamily}
+
+% Keywords command
+\providecommand{\keywords}[1]{\small\noindent\textbf{\textit{Keywords ---}}#1}
+
+% ORCiD
+\definecolor{orcid}{HTML}{A6CE39}
+\usepackage{academicons}
+\newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor{orcid}{\aiOrcid}}}
+
+
+
+\title{A new etymology for Chinese \tc{豆蔻} \textit{dòukòu} `cardamom; nutmeg' }
+\author[1]{{\small\orcid{0000-0003-2042-4655}}~Gábor Parti}
+\author[2]{{\small\orcid{}}~Ian Joo}
+\affil[1,2]{The Hong Kong Polytechnic University}
+\affil[2]{Nagoya University of Commerce and Business}
+\date{\small{February 2024}}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    This paper offers a new etymological explanation for the Chinese word \tc{豆蔻} \textit{dòukòu} `cardamom; nutmeg' and explores the possibilities of its trade-language origins. We propose that this Chinese word is a loanword that could have arrived via Southern Min, from an Indian Ocean trade-language used on the ancient Maritime Silk Road during the Tang dynasty. We think this word have entered the Chinese lexicon together with the economic products it denotes, and went through phono-semantic matching. We introduce our reasoning in four main points, and detail out four sets of observations regarding 1) the first written records, 2) character composition, 3) available lexicographical data, and 4) a range of seemingly related regional \textit{Wanderwörter} (wandering loanwords) as evidence supporting our hypothesis. In uncovering this word's lexicogenesis, we also discuss the linguistic and historic plausibility of our claims, and  explore possible candidate etymons from relevant Indic and Austronesian languages.
+
+    ---
+
+    Cardamom is a popular spice with a history spanning thousands of years of culinary and medicinal use. In fact, cardamom can refer to multiple kinds of fragrant fruits, besides the well-known green seed-pods of “true cardamom”, Elettaria cardamomum. Moreover, if we dive deeper into the identities of cardamoms from an Asian perspective, we find a conundrum of words and materials. Prototypical cardamoms are botanically different species in various regions (e.g., Java, Indochina, Yunnan, India), and their names got confused along the paths of diffusion. In the present study, we look at the situation in Chinese, where the corresponding word is dòukòu \tc{豆蔻}, also pointing towards nutmeg (Donkin 2003). Dòukòu first appears as báidòukòu [white-cardamom] in a Tang-era miscellany called Youyang Zazu, where it is reported to come from the land of Kakkola, describing round cardamoms (Wurfbainia compacta) originally sourced from Siam or Java. According to this 9th-century source, the spice is called \tc{多骨} duōgǔ, and the perceived Middle Chinese pronunciation, /tɑ-kuət̚/, makes possible for it to be a transcription of an Indo-Aryan word, e.g., Pali takkola or Sanskrit kakkola. On the other hand, the same does not apply for \tc{豆蔻} dòukòu, whose Middle Chinese pronunciation would be /dəuH-həuH/. As an alternative, we propose that dòukòu could be a loan via Southern Min. Based on Kwok's reconstruction of Proto-Southern-Min, the equivalent of dòukòu would be /*tɑu-khɑu/ (Kwok 2018; B.-Ch. Kwok, personal communication, August 17, 2022), more similar to the Indic words. This is historically plausible, given that Fujian was in direct contact with the maritime traders responsible for the bulk of the spice trade, and that Sanskrit was one of the main languages of the Srivijaya Empire encompassing Kakkola around this time. In this brief etymological study, we clear the air around cardamom nomenclature, and reveal a possible trace that Fujianese traders have left on modern Chinese. This is not only interesting in terms of food history, but also in terms of the linguistic history of Chinese, as few loanwords from Southern Min have made their way into Middle Chinese.
+
+\end{abstract}
+
+\noindent{\small\textbf{\textit{Keywords --- }} Cardamom, \tc{豆蔻}, Etymology, Trade-language, Chinese, Southern Min, Indian Ocean, Spice Trade}
+
+\section{Introduction}
+
+Introduce what is cardamom a bit.
+
+\section{Etymological breadcrumbs}
+
+Scholars have a realively good understanding of the etymology of the English word \textit{cardamom}, which is usually reconstructed along the following lines:
+
+\begin{quote}
+    \textbf{English} \textit{cardamom} `cardamom' ca. 1425, via \textbf{post-classical Latin} \textit{cardimomum}, a. 1398
+    < later also from \textbf{Old French} \textit{cardemome} `cardamom', ca. 1170; cf. modern French \textit{cardamome}
+    < \textbf{Latin} \textit{cardamōmum} `cardamom', 1st c. AD
+    < \textbf{Hellenistic Greek} {καρδάμωμον} \textit{kardámōmon} `cardamom', haplological κάρδαμ- \textit{kárdam-} `cress' + ἄμωμον \textit{ámōmon} `an Indian spice plant', 3rd c. BC
+    < \textbf{Ancient Greek} {κάρδαμον} \textit{kárdamon} `garden cress, \textit{Lepidium sativum}', prehaps a loanword (many plant names with \textit{-amon} are clear loanwords; the suffIx \textit{-amon} is known from Pre-Greek), ultimately of uncertain origin, 4th c. BC; cf. cognates classical Latin \textit{cardamum}
+    \parencites[s.v. cardamom]{oed}[s.v. cardamome]{tlfi}[s.v. cardamomum]{lewis_1879_latin}[s.v. καρδάμωμον]{liddell_1940_greekenglish}[s.v. κάρδαμον]{liddell_1940_greekenglish}[644]{beekes_2010_etymological}
+\end{quote}
+
+Kárdamon was identified with the word 𐀏𐀅𐀖𐀊 ka-da-mi-ja 41 , (kardamia as a feminine form of kardamon) appearing on Mycenaean tablets listing spices in Linear B, excavated in the “House of the Sphinxes” in 1950s, and dated to the 1200s bc (Bennett et al., 1958, p. 107).
+
+
+
+this is how linguists usually reconstruct word histories: tracing word stages step by step. Basically cardamom came via Old French and Latin from a Greek word. I said kinda, because the exact origins are uncertain. And may or may not appear on Mycenaean stone tablets written in Linear B over 3000 years ago, it is outside of my specialty to judge these claims. It is quite difficult to be sure about the source of a word at this time-depth, almost 3000 years ago.
+
+What about the etymology of doukou? Well, we had some suspicions, and during our investigations we came across various pieces of evidence that led us believe that doukou is a loanword. I will now introduce our observations and reasons why we think so in 4 points.
+
+\subsection{First mentions, first confusions}
+
+The first recorded mention of \tc{豆蔻} \textit{dòukòu} is from a 9th-century book called \tc{酉陽雜俎} \textit{Youyang Zazu} [\textit{Miscellaneous Morsels from Youyang}], which is a Tang era miscellany of tall tales and legends, strange phenomena, fantastic creatures, and exotic products -- but also an excellent source of historical data. It was collated by Duan Chengsi (d. 863), and in \hl{``chapter'' (juan (scroll, or book))} 18 he discusses 24 foreign plants, which have been imported to China or have been brought as tribute from faraway places, such as Magadha (in India), Malaysia, Persia, Silla (Korea), and Syria, often reporting the local names for the non-native plants and products, and usually compares them to something more familiar to his readership. We can find descriptions of acacia, Balm of Giliad, galbanum, jackfruit, jasmine, and Narcissus, among others \parencite{reed_2003_tang}. Section 55 tells us about cardamom, the text is accessible via the Chinese Text Project\footnote{\url{https://ctext.org/wiki.pl?if=en&chapter=801324}} \parencite{sturgeon_2021_chinese}, the translation is from us.
+
+
+
+\begin{quote}
+    \tc{\textbf{白豆蔻}，出\textcolor{OliveGreen}{伽古羅}國，呼為\textcolor{OliveGreen}{多骨}。\\
+    形如芭焦，葉似杜若，長八九尺，冬夏不凋。\\
+    花淺黃色，子作朵如蒲萄。其子初出微青，熟則變白，七月採。}
+    
+    \textbf{White cardamom}, comes from the country of \textcolor{OliveGreen}{Kakula}, called \textcolor{OliveGreen}{/tɑ-kuət̚/}. [\dots]
+
+    \begin{flushright}
+        \addvspace{-2ex}
+        (YYZZ §18:55)
+    \end{flushright} 
+\end{quote}
+
+After stating the place of origin and its name, the author then proceeds to describe the plant's morphology: its height, its leaves, its yellow flowers, compares the shape of the fruits to grapes (also a \hl{foreign} plant in China), and puts the time of harvest to the seventh month of the lunar calendar.
+
+\hl{...Middle Chinese reconstructions}
+
+The fist obvious question here is: Why is it ``white'' cardamom? Or to put it more precisely, why does cardamom already have a modifier when it is the first attested instance we have of this word? According to \textcite[22]{donkin_2003_east}, the Chinese first confused nutmeg and cardamom, ``doubtless on account of a resemblance between their fruits''. We also know, that in the earliest sources, both spices were referred to as \textit{dòukòu} \parencites{hsu_1967_notes}{donkin_2003_east}, and that both were sourced from mainland Southeast Asia, and carried up to the Tang courts on ships from Kakola \parencite[184-185]{schafer_1985_golden}. This place also appears in Ibn Battuta \parencite{dunn_1986_adventures}
+
+
+To avoid nomenclatural confusion, nutmeg became 肉豆蔻 ròudòukòu, cardamom became 白豆蔻 báidòukòu.
+This mix-up exists in other languages as well!
+
+According to Donkin, the Chinese first confused nutmeg with cardamom, on account of their similar fruits, and at some point both imported spices were called doukou.
+Furthermore, both were sourced from mainland Southeast Asia, likely traded on the same trade routes, and the same ships, ((He says that, nutmeg was known in Chinese as kakola (ca. 725), and later as doukou (ca. 863), roudoukou is the name in later sources, including an illustrated herbal of 1062 (1249).))
+So, to avoid confusion nutmeg became roudoukou – flesh cardamom – while the round cardamoms became baidoukou – white cardamom.
+As many scholars noticed before, the confusion is not limited to Chinese.
+
+((Nutmeg: “chia-kou-le” (ca. 725), as “to-ku” (ca. 863). “jou-tou-k’ou” (ca. 1062)
+White cardamom: “tou-k’ou”, “pai-tou-k’ou” (Hsü, 1967; Donkin, 2003)))
+
+
+
+\subsection{Character characteristics}
+
+Our word under scrutiny is made up of two characters, \tc{豆} \textit{dòu} and \tc{蔻} \textit{kòu}. \textit{Dòu} is relatively straightforward, in dictionaries you can find definitions, such as `bean'; `pod-bearing plant or its seeds'; `bean-shaped object'; etc. \textit{Kòu} on the other hand is much more specific, and dictionary entries usually 
+
+
+– ‘used in 豆蔻’; ‘see豆蔻 nutmeg, cardamom’; etc.
+
+蔻 kòu does not mean anything else, does not appear in other words
+蔻 kòu = 艹 cǎo ‘grass, herb’ + 寇 kòu ‘bandit’ – (phono-semantic compound) 
+There is no record of 蔻 kòu before!
+Was this character created for this purpose? Where /kou/ comes from? Loan!
+荳蔻  
+Grass radical on both characters; typical device in naming foreign plant names
+E.g., 草莓 cǎoméi ‘strawberry’, 菠菜 bōcài ‘spinach’, 蒔蘿 shíluó ‘cumin’
+
+
+Let’s pause and analyze the characters for a second, doukou is made up of dou and kou. 
+Dou is pretty straightforward, in dictionaries we can find definitions such as ‘bean’; ‘pod-bearing plant or its seeds’; ‘bean-shaped object’
+Kou however is more specific: it does not mean anything else, it doesn’t appear in any other word; which is rare for a Chinese character. 
+It is made up of the radical for grass, and a phonetic component meaning ‘bandit’ – which is typical phono-semantic compound in Chinese.
+But it does not seem to exist before its emergence in the word for the spice, there is no record of it before!
+Was this character created for this purpose? It seems so. And if yes, then where does the ‘kou’ sound come from? We think it is likely a loanword.
+Furthermore, doukou often appears in a form where the first character too has the grass radical on top, which is a typical feature of words for foreign edible plants, often loanwords themselves,
+see the Chinese words for strawberry, spinach, and the old word for cumin.
+
+
+\subsection{Lexicographical clues}
+
+\subsection{The }
+
+
+
+
+
+
+
+
+
+
+\printbibliography
+
+\end{document}
