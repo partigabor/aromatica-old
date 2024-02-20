@@ -17,6 +17,8 @@ disableComments = true
 
 * muslin
 * damask
+* Bergamot orange
+* https://en.wiktionary.org/wiki/%D8%BA%D8%A7%D8%B1
 * 
 
 
