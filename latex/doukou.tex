@@ -4,21 +4,27 @@
 \usepackage{wrapfig}
 \usepackage{csquotes}
 \usepackage{booktabs}
-\usepackage{soul} % for strikethrough \st{} and highlight \hl{}
+\usepackage{tabularx}
+% Use as hqq for 50% 25% 25% width
+% \newcolumntype{h}{X}
+% \newcolumntype{q}{>{\hsize=.5\hsize}X}
 \usepackage[dvipsnames]{xcolor} % Color names
+\definecolor{accent}{HTML}{008080}
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=OliveGreen,
+    linkcolor=accent,
     anchorcolor=black,
-    citecolor=OliveGreen,
+    citecolor=accent,
     filecolor=black,
     menucolor=black,
     runcolor=black,
-    urlcolor=OliveGreen}
+    urlcolor=accent}
 \hypersetup{breaklinks=true}
 \usepackage{url}
 \usepackage{authblk}
+\usepackage{soul} % strikethrough \st{}; highlight \hl{}
+
 \usepackage[final]{microtype}
 
 
@@ -224,110 +230,68 @@ To clarify, false cardamoms are not fake, what is considered ``false'' is determ
 
 \subsection{Prototype cardamoms in Asia}
 
-While for many of the concept of cardamom is synonymous with the dried, green, camphorous seed pods, there are regions in Asia where the ``default'' cardamom looks and tastes a bit different. In the Eastern Himalayas (Nepal, Bhutan, Northeast India, Bengal) we find \textit{A. subulatum}, the smoky \textit{black cardamom} also known as  \textit{greater cardamom}, \textit{brown cardamom}, \textit{Nepal cardamom}, etc. In Yunnan, Southwestern China there is the even larger \textit{Lanxangia tsaoko}, known as \textit{Chinese black cardamom}, \textit{tsaoko cardamom}, or simply \textit{tsaoko}. Southeast Asia has two species that yield little, white, round cardamoms: \textit{Wurfbainia vera}\footnote{Formerly \textit{Amomum verum} Blackw., it is the first plant species to be named by a woman, Elizabeth Blackwell, in 1757.} mainly grown in the Cardamom Mountains of Cambodia, commonly known as \textit{round cardamom}, \textit{Siam cardamom}, or \textit{krervanh}, and \textit{Wurfbainia compacta}, growing in Indonesia known as \textit{Java round cardamom} and \textit{kepulaga}. These are few of the most important cardamom-like plants in Asia that define local or regional culinary traditions as prototypical cardamoms. Zoning in on our main goal we can pose the question: Which ones is the cardamom in China?
+While for many of the concept of cardamom is synonymous with the dried, green, camphorous seed pods, there are regions in Asia where the ``default'' cardamom looks and tastes a bit different. In the Eastern Himalayas (Nepal, Bhutan, Northeast India, Bengal) we find \textit{Amomum subulatum} Roxb., the smoky \textit{black cardamom} also known as  \textit{greater cardamom}, \textit{brown cardamom}, \textit{Nepal cardamom}, \textit{Indian (black) cardamom}, \textit{Bengal cardamom}, \textit{false cardamom}, \textit{hill cardamom}, \textit{winged cardamom}, etc. In Yunnan, Southwestern China there is the even larger \textit{Lanxangia tsao-ko} (Crevost \& Lemarié) M.F.Newman \& Skornick. syn. \textit{A. hongtsaoko} Liang et Fang; \textit{A. tsao-ko} Crevost et Lemaire, known as \textit{Chinese black cardamom}, \textit{tsaoko cardamom}, or simply \textit{tsaoko}. Southeast Asia has two species that yield little, white, round cardamoms: \textit{Wurfbainia vera} (Blackw.) Škorničk. \& A.D.Poulsen syn. \textit{A. krervanh} Pierre ex Gagnep\footnote{Initially known as \textit{A. verum} Blackw., this is the first plant species to be named by a woman, Elizabeth Blackwell, in 1757.} mainly grown in the Cardamom Mountains of Cambodia, commonly known as \textit{round cardamom}, \textit{white cardamom}, \textit{Siam cardamom}, or \textit{krervanh}, and \textit{Wurfbainia compacta} (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. \textit{A. compactum} Sol. ex Maton; \textit{A. kepulaga} Sprague \& Burkill, growing in Indonesia known as \textit{Javanese cardamom}, \textit{Java round cardamom}, \textit{Java white cardamom}, \textit{white cardamom} and \textit{kepulaga}. Less important spice-yielding plants include \textit{Wurfbainia villosa} (Lour.) Škorničk. \& A.D.Poulsen syn. \textit{A. villosum} Lour., know as \textit{Tavoy cardamom} (after a city in Myanmar, Dawei), and \textit{wild Siamese cardamom} among other names. See a concise overview in Table \ref{tab:cardamoms}. 
 
-Studying the English vernacular spice names can be quite revealing, as they contain the name of the prototype spice, modified with an adjective of color, a place of origin, or both; occasionally using a native name.
+Please notice the numerous common names for each spice. These, and their endless permutations can be a headache, but also quite revealing -- vernacular names contain references to the prototype spice, modified with an adjective of color, a place of origin, or some other salient feature; occasionally using a \hl{local/native} name.
 
-The following is a list of common names collected from historical and botanical literature on spices 
+\begin{table}[ht]
+    \centering
+    \begin{tabularx}{\textwidth}{@{}rXll@{}}
+    \toprule
+    \# & \textbf{Scientific name} & \textbf{Common name(s)} & \textbf{Region} \\ \midrule
+    1 & \textit{Elettaria cardamomum} & cardamom & South India \\
+    2 & \textit{Amomum subulatum} & black cardamom & Eastern Himalayas \\
+    3 & \textit{Lanxangia tsao-ko} & Chinese black cardamom; tsaoko & Yunnan \\
+    4 & \textit{Wurfbainia compacta} & Javanese cardamom; kepulaga & Java \\ 5 & \textit{Wurfbainia vera} & Siam cardamom; krervanh & Indochina \\
+    6 & \textit{Wurfbainia villosa} & Tavoy cardamom & Southeast Asia \\ \bottomrule
+    \end{tabularx}
+    \caption{Prominent spice plants in Asia that use the word \textit{cardamom} in their English names}
+    \label{tab:cardamoms}
+\end{table}
 
-\parencites{dalby_2000_dangerous}{prance_2005_cultural}
+% The following is a list of common names for various cardamoms (including those found in Africa) collected from botanical, historical, and culinary literature \parencites{dalby_2000_dangerous}{prance_2005_cultural}{vanwyk_2014_culinary} {hill_2004_contemporary}{anderson_2023_history}. 
 
-\parencite{vanwyk_2014_culinary}
-% {hill_2004_contemporary}{anderson_2023_history}.
+% \begin{quote}
+%     bastard cardamom, bastard Siamese cardamom, Bengal cardamom, big cardamom, black cardamom, brown cardamom, Cameroon cardamom, Chinese black cardamom, Chinese cardamom, Ethiopian cardamom, false cardamom, greater cardamom, green cardamom, Guinea cardamom, hill cardamon, Indian black cardamom, Indian cardamom, Indonesian cardamom, Java cardamom, Java round cardamom, Java white cardamom, kepulaga, korarima, krervanh, large cardamom, Madagascar cardamom, Malabar cardamom, Nepal cardamom, round cardamom, round Chinese cardamom, Siam cardamom, Tavoy cardamom, Thai cardamom, true cardamom, tsao-ko cardamom, wild Siamese cardamom, winged cardamom, Yunnan cardamom
+% \end{quote}
 
-\begin{quote}
-    amomum, bastard cardamom, bastard Siamese cardamom, Bengal cardamom, big cardamom, black cardamom, brown cardamom, Cameroon cardamom, Chinese black cardamom, Chinese cardamom, Ethiopian cardamom, fake cardamom, false cardamom, greater cardamom, green cardamom, Guinea cardamom, hill cardamon, Indian black cardamom, Indian cardamom, Indonesian cardamom, Java cardamom, Java round cardamom, Java white cardamom, kepulaga, korarima, krervanh, large cardamom, Madagascar cardamom, Malabar cardamom, Nepal cardamom, round cardamom, round Chinese cardamom, Siam cardamom, Tavoy cardamom, Thai cardamom, true cardamom, tsao-ko cardamom, wild Siamese cardamom, winged cardamom, Yunnan cardamom
-\end{quote}
+% The purpose of this selection here is to illustrate what a prototype spice means for the naming of other, similar exotic items: the word \textit{cardamom} is used as a prototype word in the generation of names for novel spices, it anchors new and unfamiliar items.
 
-Selected sources: , etc.  
+Now that we are familiar with the most important spice plants in Asia that define local or regional culinary traditions as prototypical cardamoms, we can zone in on our main goal, and we can pose the following question: What is the ``default'', prototypical cardamom in China? Which one of these can be reffered to as \textit{dòukòu} in Chinese?
 
+\subsection{Chinese cardamoms}
 
+The answer is: a few of these, and a bit more. In a Chinese context we have our not so well-known green cardamom, black cardamom from the Himalayas, the two white cardamoms from Southeast Asia, some semi-exotic ones that look like tiny brains, and the reddish fruits of galangal.
 
+In Chinese, we can observe a similar trend, as the word \tc{豆蔻} \textit{dòukòu} is often appended with modifiers of color and place of origin\footnote{Pinpointing the place of origin from spice names can be challenging, they usually refer to places where the substance was sourced/traded from.}. Table \ref{tab:doukous} shows all the different spices in question, which carry the word \textit{dòukòu} in their names. 
 
----
-
-
-% \begin{table}[ht]
-%     \centering
-%     \begin{tabular}{p{10cm}}
-%     \toprule
-%     Alpinia galanga (L.) Willd. \\
-%     Alpinia globose (Lour.) Horan. syn. Amomum globosum Lour. \\
-%     Alpinia hainanensis K.Schum. syn. Alpinia katsumadai Hayata \\
-%     Amomum maximum Roxb. \\
-%     Amomum subulatum Roxb. \\
-%     Elettaria cardamomum (L.) Maton syn. Amomum cardamomum L. \\
-%     Hornstedtia costata (Roxb.) K.Schum. syn. Amomum costatum (Roxb.) Benth. ex Baker \\
-%     Lanxangia tsao-ko (Crevost \& Lemarié) M.F.Newman \& Skornick. syn. Amomum hongtsaoko Liang et Fang; A. tsao-ko Crevost et Lemaire \\
-%     Wurfbainia aromatica (Roxb.) Škorničk. \& A.D.Poulsen syn. Amomum aromaticum Roxb. \\
-%     Wurfbainia compacta (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. Amomum compactum Sol. ex Maton; Amomum kepulaga Sprague \& Burkill \\
-%     Wurfbainia vera (Blackw.) Škorničk. \& A.D.Poulsen syn. Amomum krervanh Pierre \& Gagnep.; Amomum kravanh Pierre ex Gagnep. \\
-%     Wurfbainia villosa (Lour.) Škorničk. \& A.D.Poulsen syn. Amomum villosum Lour. \\
-%     Aframomum melegueta K.Schum. \\
-%     Aframomum grana-paradisi (L.) K.Schum. \\
-%     Aframomum cereum (Hook.f.) K.Schum. syn.Aframomum sceptrum (Oliv. \& D.Hanb.) K.Schum. \\
-%     Aframomum exscapum (Sims) Hepper \\
-%     Aframomum alboviolaceum (Ridl.) K.Schum. syn. Aframomum macrospermum (Sm.) Burkill \\
-%     Aframomum angustifolium (Sonn.) K.Schum. \\
-%     Aframomum corrorima (A.Braun) P.C.M.Jansen syn. Amomum korarima J.Pereira \\
-%     Aframomum daniellii (Hook.f.) K.Schum. syn. Aframomum hanburyi K.Schum. \\
-%     \bottomrule
-%     \end{tabular}
-%     \caption{List of Spice-bearing Aromatic Plants}
-%     \label{tab:spice-plants}
-%     \end{table}
-
-All the relevant spice bearing plants…
-
-Alpinia galanga (L.) Willd. 
-Alpinia globose (Lour.) Horan. syn. Amomum globosum Lour.
-Alpinia hainanensis K.Schum. syn. Alpinia katsumadai Hayata
-Amomum maximum Roxb.	
-Amomum subulatum Roxb.	
-Elettaria cardamomum (L.) Maton syn. Amomum cardamomum L.
-Hornstedtia costata (Roxb.) K.Schum. syn. Amomum costatum (Roxb.) Benth. ex Baker
-Lanxangia tsao-ko (Crevost \& Lemarié) M.F.Newman \& Skornick. syn. Amomum hongtsaoko Liang et Fang; A. tsao-ko Crevost et Lemaire
-Wurfbainia aromatica (Roxb.) Škorničk. \& A.D.Poulsen syn. Amomum aromaticum Roxb.
-Wurfbainia compacta (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. Amomum compactum Sol. ex Maton; Amomum kepulaga Sprague \& Burkill
-Wurfbainia vera (Blackw.) Škorničk. \& A.D.Poulsen syn. Amomum krervanh Pierre \& Gagnep.; Amomum kravanh Pierre ex Gagnep.
-Wurfbainia villosa (Lour.) Škorničk. \& A.D.Poulsen syn. Amomum villosum Lour.
-Aframomum melegueta K.Schum.	Aframomum grana-paradisi (L.) K.Schum. 
-Aframomum cereum (Hook.f.) K.Schum. syn.Aframomum sceptrum (Oliv. \& D.Hanb.) K.Schum.
-Aframomum exscapum (Sims) Hepper	
-Aframomum alboviolaceum (Ridl.) K.Schum. syn. Aframomum macrospermum (Sm.) Burkill
-Aframomum angustifolium (Sonn.) K.Schum.	
-Aframomum corrorima (A.Braun) P.C.M.Jansen	 syn. Amomum korarima J.Pereira
-Aframomum daniellii	(Hook.f.) K.Schum. syn. Aframomum hanburyi K.Schum.
-
-Now, the whole range of plants from the cardamom-group is long and unnecessary, but now we have a question: Which one is doukou?
-
+\parencite{hu_2005_food}
 
 
 \begin{table}[ht]
     \centering
-    \begin{tabular}{llllll}
+    \begin{tabularx}{\textwidth}{@{}lll@{}XX@{}}
     \toprule
-    \textbf{Scientific Name} & \textbf{English Name} & \textbf{Chinese Name} & \textbf{Pinyin} & \textbf{Literal Translation} \\
+    \textbf{Scientific name} & \textbf{English} & \textbf{Chinese} & \textbf{Pinyin} & \textbf{Gloss} \\
     \midrule
-    Elettaria cardamomum & cardamom & 小豆蔻 & xiǎodòukòu & little-bean-cardamom \\
-    Elettaria cardamomum & cardamom & 綠豆蔻 & green-bean-cardamom \\
-    Amomum subulatum & black cardamom & 香豆蔻 & xiāngdòukòu & fragrant-cardamom \\
-    Lanxangia tsao-ko & tsaoko & 草果 & cǎoguǒ & herb-fruit \\
-    Alpinia hainanensis & galangal seed & 草豆蔻 & cǎodòukòu & herb-cardamom \\
-    Alpinia galanga & greater galangal & 红豆蔻 & hóngdòukòu & red-cardamom \\
-    Wurfbainia compacta & kepulaga & 爪哇白豆蔻 & zhǎowā báidòukòu & Java-white-cardamom \\
-    Wurfbainia vera & Siam cardamom & 白豆蔻 & báidòukòu & white-cardamom \\
-    Wurfbainia villosa & wild Siamese cardamom & 砂仁 & shārén & granule-kernel \\
+    \textit{Alpinia galanga} & greater galangal & \tc{紅豆蔻} & \textit{hóngdòukòu} & red-cardamom \\
+    \textit{Alpinia hainanensis} & galangal seed & \tc{草豆蔻} & \textit{cǎodòukòu} & herb-cardamom \\
+    \textit{Amomum subulatum} & black cardamom & \tc{香豆蔻} & \textit{xiāngdòukòu} & fragrant-cardamom \\
+    \textit{Elettaria cardamomum} & cardamom & \tc{小豆蔻} & \textit{xiǎodòukòu} & little-cardamom \\
+     & & \tc{綠豆蔻} & \textit{lǜdòukòu} & green-cardamom \\
+    \textit{Lanxangia tsao-ko} & tsaoko & \tc{草果} & \textit{cǎoguǒ} & herb-fruit \\
+    \textit{Wurfbainia compacta} & kepulaga & \tc{爪哇白豆蔻} & \textit{zhǎowā báidòukòu} & Java-white-cardamom \\
+    \textit{Wurfbainia vera} & Siam cardamom & \tc{白豆蔻} & \textit{báidòukòu} & white-cardamom \\
+    \textit{Wurfbainia villosa} & Tavoy cardamom & \tc{砂仁} & \textit{shārén} & granule-kernel \\
     \bottomrule
-    \end{tabular}
-    \caption{Names of Cardamom in Different Languages}
-    \label{tab:cardamom-names}
-    \end{table}
+    \end{tabularx}
+    \caption{Prominent spice plants in Asia that use the word \textit{dòukòu} in their Chinese names}
+    \label{tab:doukous}
+\end{table}
 
-
----
-
-Well, the answer is: a few of these, and more. In a Chinese context we have our not so well-known green cardamom, black cardamom from the Himalayas, the two white cardamoms from Southeast Asia, some semi-exotic ones that look like tiny brains, and the reddish fruits of galangal.
+% 九翼豆蔻 jiǔ yì dòukòu % nine winged cardamom (Hu)
+% Amomum maximum Roxb.
+% Java cardamom (Wyk)
 
 Alpinia galanga (L.) Willd. 
 Alpinia hainanensis K.Schum.	
@@ -402,11 +366,11 @@ The first recorded mention of \tc{豆蔻} \textit{dòukòu} is from a 9th-centur
 
 
 \begin{quote}
-    \tc{\textbf{白豆蔻}，出\textcolor{OliveGreen}{伽古羅}國，呼為\textcolor{OliveGreen}{多骨}。\\
+    \tc{\textbf{白豆蔻}，出\textcolor{accent}{伽古羅}國，呼為\textcolor{accent}{多骨}。\\
     形如芭焦，葉似杜若，長八九尺，冬夏不凋。\\
     花淺黃色，子作朵如蒲萄。其子初出微青，熟則變白，七月採。}
     
-    \textbf{White cardamom}, comes from the country of \textcolor{OliveGreen}{Kakula}, called \textcolor{OliveGreen}{/tɑ-kuət̚/}. [\dots]
+    \textbf{White cardamom}, comes from the country of \textcolor{accent}{Kakula}, called \textcolor{accent}{/tɑ-kuət̚/}. [\dots]
 
     \begin{flushright}
         \addvspace{-2ex}
