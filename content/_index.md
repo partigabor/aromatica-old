@@ -14,8 +14,6 @@ bibFile = "static/bibliography/parti.json"
 
 {{% include file="number.md" %}}
 
-
-
 {{< load-plotly >}}
 
 {{< plotly json="/aromatica/plotly/home.json" height="600" >}}
