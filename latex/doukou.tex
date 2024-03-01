@@ -104,13 +104,29 @@
 %     BoldFont=*-Bold,
 %     ]{NotoSerifSC}
 
+\newfontfamily{\khmerfont}[
+    Path=./fonts/,
+    Extension = .otf,
+    UprightFont=*-Regular,
+    % BoldFont=*-Bold,
+    ]{NotoSerifKhmer}
+
+\newfontfamily{\javanesefont}[
+    Path=./fonts/,
+    Extension = .otf,
+    UprightFont=*-Regular,
+    % BoldFont=*-Bold,
+    ]{NotoSansJavanese}
+
 % Other scripts
 \newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
 
 % Commands to use scripts
 \newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
 \newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
-\newcommand{\zh}[1]{\simplifiedchinesefont{#1}\rmfamily}
+\newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
+\newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
+% \newcommand{\zh}[1]{\simplifiedchinesefont{#1}\rmfamily}
 
 % Keywords command
 \providecommand{\keywords}[1]{\small\noindent\textbf{\textit{Keywords ---}}#1}
@@ -175,6 +191,8 @@ We present our reasoning in four main points, outlining our observations on 1) t
 % This is historically plausible, given that Fujian was in direct contact with the maritime traders responsible for the bulk of the spice trade, and that Sanskrit was one of the main languages of the Srivijaya Empire encompassing Kakkola around this time. In this brief etymological study, we clear the air around cardamom nomenclature, and reveal a possible trace that Fujianese traders have left on modern Chinese. This is not only interesting in terms of food history, but also in terms of the linguistic history of Chinese, as few loanwords from Southern Min have made their way into Middle Chinese.
 
 The paper also seeks to clarify the situation surrounding the multitude of cardamoms in Asia, focusing on their origins and terminologies within a Chinese context. As it was just mentioned above, the meaning of the word \textit{dòukòu} itself can be ambiguous, and has been so since its earliest emergence; it can refer to several different aromatic fruits and seeds. The identity of \textit{dòukòu} therefore is one of the central problems to be solved while tracing the word's history.
+
+% ab ovo
 
 In section \ref{sec:plants}, we begin with a brief introduction to what cardamoms are, identifying the relevant plants and their products used in the various regions of tropical and subtropical Asia, accompanied with their nomenclature in Chinese. This will establish a foundation for our linguistic inquiries that is based on geobotanical realities. Then, in section \ref{sec:etymology}, we present our etymological hypothesis, and discuss the evidence and reasoning behind it. Following the elucidation of the lexicogenesis of this term, we examine potential candidate etymons, such as Prakrit and Arabic, discuss the linguistic and historical plausibility of our claims, and acknowledge the limitations.
 
@@ -255,7 +273,7 @@ To clarify, false cardamoms are not fake. What is considered ``false'' is determ
 
 While for many of us the concept of cardamom is synonymous with the dried, green, camphorous seed pods, there are regions in Asia and Africa, where the ``default'' cardamom looks and tastes a bit different. This article will focus on cardamoms in Asia, and African spieces will be ignored for now. 
 
-In the Eastern Himalayas (Nepal, Bhutan, Northeast India, Bengal) we find \textit{Amomum subulatum} Roxb., the smoky \textit{black cardamom}, also known by many other names, such as \textit{greater cardamom}, \textit{brown cardamom}, \textit{Nepal cardamom}, \textit{Indian (black) cardamom}, \textit{Bengal cardamom}, \textit{false cardamom}, \textit{hill cardamom}, \textit{winged cardamom}, etc. In Yunnan and Vietnam there is the even larger \textit{Lanxangia tsao-ko} (Crevost \& Lemarié) M.F.Newman \& Skornick. syn.\footnote{Here ``syn.'' is an abbreviation for synonym, after which further botanical names that the plant is known by are listed. In many cases we are dealing with names that have only changed in the last few years, therefore most of the literature still uses their previous scientific names.} \textit{Amomum hongtsaoko} Liang et Fang; \textit{Amomum tsao-ko} Crevost et Lemaire, known as \textit{Chinese black cardamom}, \textit{tsaoko cardamom}, or simply \textit{tsaoko} -- a transcription of its name in Chinese (草果). Southeast Asia has two species that yield little, white, round cardamoms: one is \textit{Wurfbainia vera} (Blackw.) Škorničk. \& A.D.Poulsen syn. \textit{Amomum krervanh/kravanh} Pierre ex Gagnep\footnote{Initially as \textit{Amomum verum} Blackw., this was the first plant species to be named by a woman, Elizabeth Blackwell, in 1757.} mainly grown in the Cardamom Mountains of Cambodia, commonly known as \textit{round cardamom}, \textit{Siam cardamom}, \textit{Cambodian cardamom} or \textit{krervanh} -- a transcription of its name in Khmer (ក្រវាញ); the other is \textit{Wurfbainia compacta} (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. \textit{Amomum compactum} Sol. ex Maton; \textit{Amomum kepulaga} Sprague \& Burkill, growing in Indonesia known as \textit{round cardamom}, \textit{Javanese cardamom}, \textit{Indonesian cardamom}, and \textit{kapulaga} -- which is the word for cardamom in Javanese. Note that the fruits of the latter two are virtually identical in their appearance and usage, therefore both are being called \textit{round cardamom} or \textit{white cardamom}\footnote{The term \textit{white cardamom} in English can be misleading, as it can refer to the bleached out seed pods of green cardamom.} colloquially. From a Chinese historical perspective, there is no difference between the two, and even modern Tradicional Chinese Medicine (TCM) does not distingush them.\footnote{See \textit{dòukòu} in a Chinese Herbal Medicine Database: \url{https://herbaltcm.sn.polyu.edu.hk/herbal/round-cardamon-fruit}.} Less important spice-yielding plants include \textit{Wurfbainia villosa} (Lour.) Škorničk. \& A.D.Poulsen syn. \textit{A. villosum} Lour., know as \textit{Tavoy cardamom} and \textit{wild Siamese cardamom} among other names. 
+In the Eastern Himalayas (Nepal, Bhutan, Northeast India, Bengal) we find \textit{Amomum subulatum} Roxb., the smoky \textit{black cardamom}, also known by many other names, such as \textit{greater cardamom}, \textit{brown cardamom}, \textit{Nepal cardamom}, \textit{Indian (black) cardamom}, \textit{Bengal cardamom}, \textit{false cardamom}, \textit{hill cardamom}, \textit{winged cardamom}, etc. In Yunnan and Vietnam there is the even larger \textit{Lanxangia tsao-ko} (Crevost \& Lemarié) M.F.Newman \& Skornick. syn.\footnote{Here ``syn.'' is an abbreviation for synonym, after which further botanical names that the plant is known by are listed. In many cases we are dealing with names that have only changed in the last few years, therefore most of the literature still uses their previous scientific names.} \textit{Amomum hongtsaoko} Liang et Fang; \textit{Amomum tsao-ko} Crevost et Lemaire, known as \textit{Chinese black cardamom}, \textit{tsaoko cardamom}, or simply \textit{tsaoko} -- a transcription of its name in Chinese (\tc{草果}). Southeast Asia has two species that yield little, white, round cardamoms: one is \textit{Wurfbainia vera} (Blackw.) Škorničk. \& A.D.Poulsen syn. \textit{Amomum krervanh/kravanh} Pierre ex Gagnep\footnote{Initially as \textit{Amomum verum} Blackw., this was the first plant species to be named by a woman, Elizabeth Blackwell, in 1757.} mainly grown in the Cardamom Mountains of Cambodia, commonly known as \textit{round cardamom}, \textit{Siam cardamom}, \textit{Cambodian cardamom} or \textit{krervanh} -- a transcription of its name in Khmer (\km{ក្រវាញ}); the other is \textit{Wurfbainia compacta} (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. \textit{Amomum compactum} Sol. ex Maton; \textit{Amomum kepulaga} Sprague \& Burkill, growing in Indonesia known as \textit{round cardamom}, \textit{Javanese cardamom}, \textit{Indonesian cardamom}, and \textit{kapulaga} -- which is Javanese for cardamom (\jv{ꦏꦥꦸꦭꦒ} \textit{kapulaga}). Note that the fruits of the latter two are virtually identical in their appearance and usage, therefore both are being called \textit{round cardamom} or \textit{white cardamom}\footnote{The term \textit{white cardamom} in English can be misleading, as it can refer to the bleached out seed pods of green cardamom.} colloquially. From a Chinese historical perspective, there is no difference between the two, and even modern Tradicional Chinese Medicine (TCM) does not distingush them.\footnote{See \textit{dòukòu} in a Chinese Herbal Medicine Database: \url{https://herbaltcm.sn.polyu.edu.hk/herbal/round-cardamon-fruit}.} Less important spice-yielding plants include \textit{Wurfbainia villosa} (Lour.) Škorničk. \& A.D.Poulsen syn. \textit{A. villosum} Lour., know as \textit{Tavoy cardamom} and \textit{wild Siamese cardamom} among other names. 
 
 Please notice the numerous common names for each spice, often overlapping. These, and their endless permutations can cause a lot of confusion in identifying various products, as there are no specific rules governing the naming of spices. However, these names can also be quite revealing -- vernacular names contain references to the prototype spice, modified with an adjective of color, a place of origin, occasionally using a \hl{local/native} name, or some other salient feature that can be helpful historical and linguistic clues. The common names are taken from the botanical, historical, and culinary literature on spices, including \textcites{vanwyk_2014_culinary,hill_2004_contemporary,dalby_2000_dangerous,anderson_2023_history}. See a concise overview of these taxons in Table \ref{tab:cardamoms}.
 
