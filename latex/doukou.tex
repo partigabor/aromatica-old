@@ -111,6 +111,13 @@
     % BoldFont=*-Bold,
     ]{NotoSerifKhmer}
 
+\newfontfamily{\linearbfont}[
+    Path=./fonts/,
+    Extension = .otf,
+    UprightFont=*-Regular,
+    % BoldFont=*-Bold,
+    ]{NotoSansLinearB}
+
 % \newfontfamily{\javanesefont}[
 %     Path=./fonts/,
 %     Extension = .otf,
@@ -130,6 +137,7 @@
 \newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
 \newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
 \newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
+\newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
 \newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
 % \newcommand{\zh}[1]{\simplifiedchinesefont{#1}\rmfamily}
 
@@ -265,6 +273,7 @@ To clarify, false cardamoms are not fake. What is considered ``false'' is determ
     \begin{tabularx}{\textwidth}{@{}XXl@{}}
     \toprule
     \textbf{Scientific name} & \textbf{Common name(s)} & \textbf{Region} \\ \midrule
+    \textit{Amomum maximum} & Java cardamom & Java; Trop. Asia \\
     \textit{Amomum subulatum} & black cardamom & Eastern Himalayas \\
     \textit{Elettaria cardamomum} & cardamom & South India \\
     \textit{Lanxangia tsao-ko} & Chinese black cardamom; tsaoko & Yunnan \\
@@ -276,13 +285,13 @@ To clarify, false cardamoms are not fake. What is considered ``false'' is determ
     \label{tab:cardamoms}
 \end{table}
 
-While for many of us the concept of cardamom is synonymous with the dried, green, camphorous seed pods, there are regions in Asia and Africa, where the ``default'' cardamom looks and tastes a bit different. This article will focus on cardamoms in Asia, and African spieces will be ignored for now. 
+While for many of us, the concept of cardamom is synonymous with the dried, green, camphorous seed pods, there are regions in Asia and Africa, where the ``default'' cardamom looks and tastes a bit different. This article will focus on cardamoms in Asia and African species will be ignored for now. 
 
-In the Eastern Himalayas (Nepal, Bhutan, Northeast India, Bengal) we find \textit{Amomum subulatum} Roxb., the smoky \textit{black cardamom}, also known by many other names, such as \textit{greater cardamom}, \textit{brown cardamom}, \textit{Nepal cardamom}, \textit{Indian (black) cardamom}, \textit{Bengal cardamom}, \textit{false cardamom}, \textit{hill cardamom}, \textit{winged cardamom}, etc. In Yunnan and Vietnam there is the even larger \textit{Lanxangia tsao-ko} (Crevost \& Lemarié) M.F.Newman \& Skornick. syn.\footnote{Here ``syn.'' is an abbreviation for synonym, after which further botanical names that the plant is known by are listed. In many cases we are dealing with names that have only changed in the last few years, therefore most of the literature still uses their previous scientific names.} \textit{Amomum hongtsaoko} Liang et Fang; \textit{Amomum tsao-ko} Crevost et Lemaire, known as \textit{Chinese black cardamom}, \textit{tsaoko cardamom}, or simply \textit{tsaoko} -- a transcription of its name in Chinese (\tc{草果} \textit{cǎoguǒ}). Southeast Asia has two species that yield little, white, round cardamoms: one is \textit{Wurfbainia vera} (Blackw.) Škorničk. \& A.D.Poulsen syn. \textit{Amomum krervanh/kravanh} Pierre ex Gagnep\footnote{Initially as \textit{Amomum verum} Blackw., this was the first plant species to be named by a woman, Elizabeth Blackwell, in 1757.} mainly grown in the Cardamom Mountains of Cambodia, commonly known as \textit{round cardamom}, \textit{Siam cardamom}, \textit{Cambodian cardamom} or \textit{krervanh} -- a transcription of its name in Khmer (\km{ក្រវាញ} \textit{kravanh}); the other is \textit{Wurfbainia compacta} (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. \textit{Amomum compactum} Sol. ex Maton; \textit{Amomum kepulaga} Sprague \& Burkill, growing in Indonesia known as \textit{round cardamom}, \textit{Javanese cardamom}, \textit{Indonesian cardamom}, and \textit{kapulaga} -- which is Javanese for cardamom.
+In the Eastern Himalayas (Nepal, Bhutan, Northeast India, Bengal) we find \textit{Amomum subulatum} Roxb., the smoky \textit{black cardamom}, also known by many other names, such as \textit{greater cardamom}, \textit{brown cardamom}, \textit{Nepal cardamom}, \textit{Indian (black) cardamom}, \textit{Bengal cardamom}, \textit{false cardamom}, \textit{hill cardamom}, \textit{winged cardamom}, etc. In Yunnan and Vietnam, there is the even larger \textit{Lanxangia tsao-ko} (Crevost \& Lemarié) M.F.Newman \& Skornick. syn.\footnote{Here ``syn.'' is an abbreviation for ``synonym'', after which further botanical names that the plant is known by are listed. In many cases we are dealing with names that have only changed in the last few years, therefore most of the literature still uses their previous scientific names.} \textit{Amomum hongtsaoko} Liang et Fang; \textit{Amomum tsao-ko} Crevost et Lemaire, known as \textit{Chinese black cardamom}, \textit{tsaoko cardamom}, or simply \textit{tsaoko} -- a transcription of its name in Chinese (\tc{草果} \textit{cǎoguǒ}). Southeast Asia has two species that yield little, white, round cardamoms: one is \textit{Wurfbainia compacta} (Sol. ex Maton) Škorničk. \& A.D.Poulsen syn. \textit{Amomum compactum} Sol. ex Maton; \textit{Amomum kepulaga} Sprague \& Burkill, growing in Indonesia known as \textit{round cardamom}, \textit{Javanese cardamom}, \textit{Indonesian cardamom}, and \textit{kapulaga} -- which is Javanese for cardamom;
 % (\jv{ꦏꦥꦸꦭꦒ} \textit{kapulaga})
-Note that the fruits of the latter two are virtually identical in their appearance and usage, therefore both are being called \textit{round cardamom} or \textit{white cardamom}\footnote{The term \textit{white cardamom} in English can be misleading, as it can refer to the bleached out seed pods of green cardamom.} colloquially. From a Chinese historical perspective, there is no difference between the two, and even modern Tradicional Chinese Medicine (TCM) does not distingush them.\footnote{See \textit{dòukòu} in a Chinese Herbal Medicine Database: \url{https://herbaltcm.sn.polyu.edu.hk/herbal/round-cardamon-fruit}.} Less important spice-yielding plants include \textit{Wurfbainia villosa} (Lour.) Škorničk. \& A.D.Poulsen syn. \textit{A. villosum} Lour., know as \textit{Tavoy cardamom} and \textit{wild Siamese cardamom} among other names. 
+the other is \textit{Wurfbainia vera} (Blackw.) Škorničk. \& A.D.Poulsen syn. \textit{Amomum krervanh/kravanh} Pierre ex Gagnep\footnote{Initially as \textit{Amomum verum} Blackw., this was the first plant species to be named by a woman, Elizabeth Blackwell, in 1757.} mainly grown in the Cardamom Mountains of Cambodia, commonly known as \textit{round cardamom}, \textit{Siam cardamom}, \textit{Cambodian cardamom} or \textit{krervanh} -- a transcription of its name in Khmer (\km{ក្រវាញ} \textit{kravanh}). Note that the fruits of the latter two are virtually identical in their appearance and usage, therefore both are being called \textit{round cardamom} or \textit{white cardamom}\footnote{The term \textit{white cardamom} in English can be misleading, as it can refer to the bleached out seed pods of green cardamom.} colloquially. From a Chinese historical perspective, there is no difference between the two, and even modern Traditional Chinese Medicine (TCM) does not distinguish between them.\footnote{See \textit{dòukòu} in a Chinese Herbal Medicine Database: \url{https://herbaltcm.sn.polyu.edu.hk/herbal/round-cardamon-fruit}} Less important spice-yielding plants include \textit{Wurfbainia villosa} (Lour.) Škorničk. \& A.D.Poulsen syn. \textit{Amomum villosum} Lour., know as \textit{Tavoy cardamom} and \textit{wild Siamese cardamom} among other names growing from Myanmar to South China, and \textit{Amomum maximum}	Roxb. syn \textit{Amomum dealbatum} Roxb. termed by \textcite{vanwyk_2014_culinary} simply as \textit{Java cardamom}, known as \textit{resah/wresah} and \textit{hanggasa} in Javanese \parencite{burkill_1966_dictionary}. 
 
-Please notice the numerous common names for each spice, often overlapping. These, and their endless permutations can cause a lot of confusion in identifying various products, as there are no specific rules governing the naming of spices. However, these names can also be quite revealing -- vernacular names contain references to the prototype spice, modified with an adjective of color, a place of origin, occasionally using a \hl{local/native} name, or some other salient feature that can be helpful historical and linguistic clues. The common names are taken from the botanical, historical, and culinary literature on spices, including \textcites{vanwyk_2014_culinary,hill_2004_contemporary,dalby_2000_dangerous,anderson_2023_history}. See a concise overview of these taxons in Table \ref{tab:cardamoms}.
+Please notice the numerous common names for each spice, often overlapping. These, and their endless permutations can cause a lot of confusion in identifying various products, as there are no specific rules governing the naming of spices. However, they can also be quite revealing -- vernacular names contain references to the prototype spice, modified with an adjective of color, a place of origin, or some other salient feature, and occasionally using a local term which all can be helpful as historical and linguistic clues. The common names reported here are a selection from the botanical, historical, and culinary literature on spices, including \textcites{vanwyk_2014_culinary,hill_2004_contemporary,dalby_2000_dangerous,hu_2005_food,burkill_1966_dictionary,anderson_2023_history}. See a concise overview of these taxons in Table \ref{tab:cardamoms}.
 
 
 
@@ -294,25 +303,12 @@ Please notice the numerous common names for each spice, often overlapping. These
 
 % The purpose of this selection here is to illustrate what a prototype spice means for the naming of other, similar exotic items: the word \textit{cardamom} is used as a prototype word in the generation of names for novel spices, it anchors new and unfamiliar items.
 
-Now that we are familiar with the most important spice plants in Asia that define local or regional culinary traditions as prototypical cardamoms, we can zone in on our main goal, and we can pose the following question: What is the ``default'', prototypical cardamom in China? Which one of these can be referred to as \textit{dòukòu} in Chinese?
+Now that we are familiar with the most important spice plants in Asia that define local or regional culinary traditions as prototypical cardamoms, we can zone in on our main objective and pose the following questions: What is the ``default'', prototypical cardamom in China, if any? And which one of these spices can be referred to as \textit{dòukòu} in Chinese?
 
-% TCM databases: white cardamom
 % Google image search?
 % Baidu?
 
 \subsection{Chinese cardamoms}
-
-The answer is: a few of these, and more. In a Chinese context we have the black cardamom of the Himalayas (\textit{A. subulatum}) called \textit{xiāngdòukòu} [fragrant cardamom], the two white cardamoms of maritime and mainland Southeast Asia, respectively Javanese cardamom (\textit{W. compacta}) -- \textit{zhǎowā
-báidòukòu} [Java-white-cardamom], and Siam cardamom (\textit{W. vera}) -- \textit{báidòukòu} [white-cardamom], and the not so well-known green fruits of \textit{E. cardamomum}. Green cardamom as a culinary spice is \hl{practically unknown} in China, however \textcite{hu_2005_food} notes that it is available in Hong Kong markets, used by ``Indian and Portuguese residents especially'', and that it grown and consumed medicinally in the Southern provinces. It is usually called \textit{xiǎodòukòu} `small cardamom' in Chinese Herbal Medicine, but \textit{lǜdòukòu} `green cardamom' is also in use.
-
-Tsaoko cardamom and Tavoy cardamom both fell out of the \textit{dòukòu} basket, tsako is simply \textit{cǎoguǒ} [herb-fruit] -- hence the English name, and Tavoy cardamom is \textit{shārén} [granule-kernel] -- a name suggestive of its compact fruit. In Hong Kong, \tc{青砂仁} \textit{qīngshā​rén} `green \textit{shārén}' also exists, referring to green cardamoms.
-
-% What about 香砂仁
-
-Additionally, we also have three new materials that utilize the word \textit{dòukòu} in Chinese. First, there is the dried, date-like fruits of greater galangal (\textit{Alpinia galanga}) which is mostly known for its fragrant rhizome and \hl{dominance} in Thai cooking. It is simply called \textit{hóngdòukòu} `red cardamom' in Chinese. Then, we have the semi-exotic fruits of \textit{Alpinia hainanensis} resembling tiny brains, called \textit{cǎodòukòu} `herb cardamom' and Anglicized as \textit{katsumada galangal seed} on Chinese Herbal Medicine databases \parencite[cf.][]{polyu_2022_chinese}. This plant is better known in the West for its attractive pink flowers, under the name Hainan galangal. Finally, there is nutmeg, the seed of a tree from an unrelated species, \textit{Myristica fragrans}, in a different plant family. Nutmeg is native to the Maluku islands of Indonesia, which were famously known as the Spice Islands during colonial times. Until the 18\textsuperscript{th} century, nutmeg and its companion, mace, were only grown here, and they were one of the most highly prized products of the spice trade primarliy due to their reputation to ward off the plague ??.
-% in the 14\textsuperscript{th} century. 
-%With half a kilo being equivalent to the cost of a house in London. 
-Nutmeg in Chinese is called \textit{ròudòukòu} [flesh-cardamom], which translates to 'meaty cardamom', while mace is \textit{ròudòukòupí}	[flesh-cardamom-skin].
 
 \begin{table}[!ht]
     \centering
@@ -322,12 +318,13 @@ Nutmeg in Chinese is called \textit{ròudòukòu} [flesh-cardamom], which transl
     \midrule
     \textit{Alpinia galanga} & greater galangal & \tc{紅\textcolor{accent}{豆蔻}} & \textit{hóng\textcolor{accent}{dòukòu}} & red-cardamom \\
     \textit{Alpinia hainanensis} & Hainan galangal & \tc{草\textcolor{accent}{豆蔻}} & \textit{cǎo\textcolor{accent}{dòukòu}} & herb-cardamom \\
+    \textit{A. maximum} & Java cardamom & \tc{九翼\textcolor{accent}{豆蔻}} & \textit{jiǔyì\textcolor{accent}{dòukòu}} & nine-winged-c. \\
     \textit{A. subulatum} & black cardamom & \tc{香\textcolor{accent}{豆蔻}} & \textit{xiāng\textcolor{accent}{dòukòu}} & fragrant-card. \\
     \textit{E.  cardamomum} & cardamom & \tc{小\textcolor{accent}{豆蔻}} & \textit{xiǎo\textcolor{accent}{dòukòu}} & little-cardamom \\
     %  & & \tc{綠豆蔻} & \textit{lǜdòukòu} & green-cardamom \\
     \textit{L. tsao-ko} & tsaoko card. & \tc{草果} & \textit{cǎoguǒ} & herb-fruit \\
     \textit{Myristica fragrans} & nutmeg & \tc{肉\textcolor{accent}{豆蔻}} & \textit{ròu\textcolor{accent}{dòukòu}} & flesh-cardamom \\
-    \textit{W. compacta} & Indonesian card. & \tc{爪哇白\textcolor{accent}{豆蔻}} & \textit{zhǎowā bái\textcolor{accent}{dòukòu}} & Java-white-card. \\
+    \textit{W. compacta} & Indonesian card. & \tc{爪哇白\textcolor{accent}{豆蔻}} & \textit{zhǎowā bái\textcolor{accent}{dòukòu}} & Java-white-c. \\
     \textit{W. vera} & Siam card. & \tc{白\textcolor{accent}{豆蔻}} & \textit{bái\textcolor{accent}{dòukòu}} & white-cardamom \\
     \textit{W. villosa} & Tavoy card. & \tc{砂仁} & \textit{shārén} & granule-kernel \\
     \bottomrule
@@ -336,51 +333,71 @@ Nutmeg in Chinese is called \textit{ròudòukòu} [flesh-cardamom], which transl
     \label{tab:doukous}
 \end{table}
 
-% 九翼豆蔻 jiǔ yì dòukòu % nine winged cardamom (Hu)
-% Amomum maximum Roxb.
-% Java cardamom (Wyk)
-
-In Chinese, \textit{dòukòu} operates similarly to English \textit{cardamom}; at least on a pragmatic level if not botanically. It is a generic term that tends to be combined with additional modifiers of color, place, or other features to narrow down its meaning. Mirroring the use of modifiers in English, a formula $x~cardamom = x~doukou$ can be observed. Table \ref{tab:doukous} displays the various spices that incorporate the word \textit{dòukòu} in their names.
 
 % dialectal variations are beyond the scope of this discussion
 
+The answer is a few of these and more. In a Chinese context, we have the black cardamom of the Eastern Himalayas (\textit{A. subulatum}) known in Chinese as \textit{xiāngdòukòu} [fragrant-cardamom], the two white cardamoms of maritime and mainland Southeast Asia, respectively Indonesian cardamom (\textit{W. compacta}) called \textit{zhǎowā
+báidòukòu} [Java-white-cardamom] and Siam cardamom (\textit{W. vera}) called \textit{báidòukòu} [white-cardamom]; besides the not so well-known green fruits of \textit{E. cardamomum}. Green cardamom as a culinary spice is not notable in China, however, \textcite{hu_2005_food} notes that it is available in Hong Kong markets, used by ``Indian and Portuguese residents especially'', and that it is grown and consumed medicinally in the Southern provinces. It is usually called \textit{xiǎodòukòu} `small cardamom' in Chinese Herbal Medicine, but \textit{lǜdòukòu} `green cardamom' is also in use. Java cardamom (\textit{A. maximum}) is called \textit{jiǔyìdòukòu} [nine-winged-cardamom] in Chinese. 
+
+Tsaoko cardamom and Tavoy cardamom both fell out of the \textit{dòukòu} basket, tsako is simply \textit{cǎoguǒ} [herb-fruit] -- hence the English name, and Tavoy cardamom is \textit{shārén} [granule-kernel] -- a name suggestive of its compact fruit. In Hong Kong, \tc{青砂仁} \textit{qīngshā​rén} `green \textit{shārén}' also exists, referring to green cardamoms.
+
+%There is a variety? used in Sichuan called 香砂仁!
+
+
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.45\textwidth]{imgs/nutmeg.png}
+%     \caption{\textit{Myristica fragrans} in \textit{Köhler's Medizinal Pflanzen} \pvolcite[]{2}[132]{koehler_1887_koehler}}
+%     \label{fig:nutmeg}
+% \end{figure}
+
+\begin{wrapfigure}{r}{0.5\textwidth}
+    \centering
+    \includegraphics[width=0.5\textwidth]{imgs/nutmeg.png}
+    \caption{\textit{Myristica fragrans} in \textit{Köhler's Medizinal Pflanzen} \pvolcite[]{2}[132]{koehler_1887_koehler}}
+    \label{fig:nutmeg}
+\end{wrapfigure}
+
+
+Additionally, we also have three new materials that utilize the word \textit{dòukòu} in their Chinese names. First, there are the dried, date-like fruits of greater galangal (\textit{Alpinia galanga} (L.) Willd.) which is mostly known for its fragrant rhizome and ubiquity in Thai cooking. It is simply called \textit{hóngdòukòu} [red-cardamom] in Chinese. Then, we have the semi-exotic fruits of \textit{Alpinia hainanensis} K.Schum. from coastal southern China (especially Hainan), resembling tiny brains, called \textit{cǎodòukòu} [herb-cardamom] and anglicized as \textit{katsumada galangal seed} on Chinese Herbal Medicine databases \parencite[cf.][]{polyu_2022_chinese}. This plant is better known in the West for its attractive pink flowers, under the name \textit{Hainan galangal}.  Finally, there is nutmeg, the seed of a tree from an unrelated species, \textit{Myristica fragrans} Houtt., from a different plant family. Nutmeg is native to the Maluku islands of Indonesia, which were famously known as the Spice Islands during colonial times. Until the 18\textsuperscript{th} century, nutmeg and its aril, mace, were only grown here, and they were one of the most highly prized products of the spice trade primarily due to their reputation to ward off the plague \parencite[see][]{milton_1999_nathaniel}. Nutmeg in Chinese is called \textit{ròudòukòu} [flesh-cardamom], which translates to 'meaty cardamom', while mace is \textit{ròudòukòupí}	[flesh-cardamom-skin].
+
+% With half a kilo being equivalent to the cost of a house in London.
+
+In Chinese, \textit{dòukòu} operates similarly to the English word \textit{cardamom}; at least on a pragmatic level even if not botanically matching. It is a generic term that tends to be combined with additional modifiers of color, place, or other features to narrow down its meaning. Mirroring the use of modifiers in English, a formula $x~cardamom = x~doukou$ can be observed. Table \ref{tab:doukous} displays the various spices that incorporate the word \textit{dòukòu} in their names. But where does this word come from? We will try to address this question in the next section.
+
 % \footnote{Pinpointing the place of origin from spice names can be challenging, they usually refer to places where the substance was sourced/traded from.}
 
-% By the way, the aromatic plants under scrutiny all come from a region surrounding mainland Southeast Asia, which is a biodiversity superhotspot, with many stops along the Maritime Silk Road.
-
-% \parencite{ji_1979_nanfang}
+% By the way, the aromatic plants under scrutiny all come from a region surrounding mainland Southeast Asia, which is a biodiversity super hotspot, with many stops along the Maritime Silk Road.
 
 \section{The etymology of \textit{dòukòu}}\label{sec:etymology}
 
-Scholars have a reatively good understanding of the etymology of the English word \textit{cardamom}, but the exact origins are still obscure. Basically, the word \textit{cardamom} entered English from via Old French and Latin, from a Greek word, beyond which experts suspect a Pre-Greek source \parencite{beekes_2010_etymological}. Stages in this word's history are usually reconstructed along the following lines:
+Scholars have a relatively good understanding of the etymology of the English word \textit{cardamom}, but the exact origins are still obscure. The word \textit{cardamom} entered English via Old French and Latin, from a Greek word, beyond which experts suspect a Pre-Greek source \parencite{beekes_2010_etymological}. Stages in this word's history are usually reconstructed along the following lines:
 
 \begin{quote}
     \textbf{English} \textit{cardamom} `cardamom' ca. 1425, via \textbf{post-classical Latin} \textit{cardimomum}, a. 1398; 
     later also from \textbf{Old French} \textit{cardemome} `cardamom', ca. 1170
     < \textbf{Latin} \textit{cardamōmum} `cardamom', 1st c. AD
     < \textbf{Hellenistic Greek} {καρδάμωμον} \textit{kardámōmon} `cardamom', haplological κάρδαμ- \textit{kárdam-} `cress' + ἄμωμον \textit{ámōmon} `an Indian spice plant', 3rd c. BC
-    < \textbf{Ancient Greek} {κάρδαμον} \textit{kárdamon} `garden cress, \textit{Lepidium sativum}', prehaps a loanword (many plant names with \textit{-amon} are clear loanwords; the suffIx \textit{-amon} is known from Pre-Greek), ultimately of uncertain origin, 4th c. BC 
+    < \textbf{Ancient Greek} {κάρδαμον} \textit{kárdamon} `garden cress, \textit{Lepidium sativum}', perhaps a loanword (many plant names with \textit{-amon} are clear loanwords; the suffIx \textit{-amon} is known from Pre-Greek), ultimately of uncertain origin, 4th c. BC 
     %; cf. cognates classical Latin \textit{cardamum}
     \parencites[s.v. cardamom]{oed}[s.v. cardamome]{tlfi}[s.v. cardamomum]{lewis_1879_latin}[s.v. καρδάμωμον]{liddell_1940_greekenglish}[s.v. κάρδαμον]{liddell_1940_greekenglish}[644]{beekes_2010_etymological}
 \end{quote}
 
-% have been identified with 𐀏𐀅𐀖𐀊 ka-da-mi-ja, written in Linear B on Mycenaean tablets, c. 1200 bc.
+\textit{Kárdamon} has been identified with \lb{𐀏𐀅𐀖𐀊} \textit{ka-da-mi-ja} (\textit{kardamia} as a feminine form of \textit{kardamon}), written on Mycenaean tablets listing spices in Linear B, excavated in the ``House of the Sphinxes'' in 1950s, and dated to the 1200s BC \parencite[107]{bennett_1958_mycenae}.
 
-% Kárdamon was identified with the word 𐀏𐀅𐀖𐀊 ka-da-mi-ja 41 , (kardamia as a feminine form of kardamon) appearing on Mycenaean tablets listing spices in Linear B, excavated in the “House of the Sphinxes” in 1950s, and dated to the 1200s bc (Bennett et al., 1958, p. 107).
+% May or may not appear on Mycenaean stone tablets written in Linear B over 3000 years ago, it is outside of our specialty to judge these claims. It is quite difficult to be sure about the source of a word at this time-depth, almost 3000 years ago.
 
-% this is how linguists usually reconstruct word histories: tracing word stages step by step. 
-
-% And may or may not appear on Mycenaean stone tablets written in Linear B over 3000 years ago, it is outside of my specialty to judge these claims. It is quite difficult to be sure about the source of a word at this time-depth, almost 3000 years ago.
-
-Let us now turn towards the etymology of \textit{dòukòu}. During our research, we came across various pieces of evidence that led us to believe that \textit{dòukòu} might be a loanword as well, we will now present our observations in four main points and explain what these pieces of information entail...
+Let us now turn to the etymology of \textit{dòukòu}. During our research, we came across various pieces of evidence that led us to believe that \textit{dòukòu} might be a loanword as well, we will now present our observations and outline four main points to support our argument and explain what these pieces of information entail \hl{...blabla}
 
 \subsection{First mentions, first questions}
 
-The first mention of \textit{dòukòu} appears in the \tc{藝文類聚} \textit{Yiwen Leiju} (\textit{Collection of Literature Arranged by Categories}), an encyclopedic work (\textit{leishu}) compiled in 624. It references earlier writings -- including poetry -- thus aiding later literary scholars to reconstruct otherwise lost books. In volume\footnote{\tc{卷} \textit{juàn}, technically meaning `scroll', or `book'.} 32, we find lines quoting a poem titled \tc{春別詩} (\textit{Spring Farewell Poem}):\footnote{The text is accessible via the Chinese Text Project \parencite{sturgeon_2021_chinese}, see volume 32, section 18 in the \textit{Yiwen Leiju}: \url{https://ctext.org/text.pl?node=543270\&if=en\#n543288}; translation is provided by the authors.}
+% \parencite{ji_1979_nanfang}
+
+The first mention of \tc{荳蔻} \textit{dòukòu} appears in the \tc{藝文類聚} \textit{Yiwen Leiju} (\textit{Collection of Literature Arranged by Categories}), an encyclopedic work (\textit{leishu}) compiled in 624. It references earlier writings -- including poetry -- thus aiding later literary scholars to reconstruct otherwise lost titles. In volume\footnote{\tc{卷} \textit{juàn}, technically meaning `scroll', or `book'.} 32, we find lines quoting a poem titled \tc{春別詩} \textit{Spring Farewell Poem}:\footnote{The text is accessible via the Chinese Text Project \parencite{sturgeon_2021_chinese}, see volume 32, section 18 in the \textit{Yiwen Leiju}: \url{https://ctext.org/text.pl?node=543270\&if=en\#n543288}; translation is provided by the authors.}
 
 \begin{quote}
 
-\tc{別觀蒲萄帶實垂，} Don't look at the grapes hang in clusters ripe,
+\tc{別觀蒲萄帶實垂，} Don't look at grapes hanging in clusters ripe,
 
 \tc{江南荳蔻生連枝，} Cardamoms in Jiangnan entwined side by side.
 
@@ -390,9 +407,9 @@ The first mention of \textit{dòukòu} appears in the \tc{藝文類聚} \textit{
 
 \end{quote}
 
-Those with hearts and regrets are us -- humans -- abandoning each other, unlike nature's unconscious creatures that bind together. The poem is attributed to Emperor Jianwen of Liang (r. 549--551), and it is about the sorrow of separation (from a concubine). According to the poem, cardamom plants of some sort are growing in Jiangnan, which is a historical region in the lower Yangtze River valley, known for its mild climate and  picturesque landscapes -- a typical backdrop for Tang poetry. It is not easy to tell if a type of cardamom\footnote{\textit{Wurfbania villosa} and \textit{Alpinia hainanensis} are native to South China.} was really cultivated here, or the invocation of aromatic plants is purely an artistic tool; \textit{dòukòu} this time could also refer to an exotic, imported spice. Nonetheless, the poem is a valuable piece of evidence for the early existence of the word \textit{dòukòu} in Chinese literature, and people's awareness of a fragrant plant called \textit{dòukòu} as early as the 6-7\textsuperscript{th} century.
+Those with hearts and regrets are us -- humans -- abandoning each other, unlike nature's unconscious creatures that bind together. The poem is attributed to emperor-poet Jianwen of Liang (r. 549--551), and it is about the sorrow of separation (from a concubine). According to the poem, cardamom plants of some sort are growing in Jiangnan, which is a historical region in the lower Yangtze River valley, known for its mild climate and picturesque landscapes -- a typical backdrop for classical poetry. It is not easy to tell if a type of cardamom was really cultivated here, or if the invocation of aromatic plants is merely an artistic tool. \textit{W. villosa} and \textit{A. hainanensis} are native to Southern China, but \textit{dòukòu} this time could also refer to an exotic, imported spice, just like an emperor would have access to. Nonetheless, the poem is a valuable piece of evidence for the early existence of the word \textit{dòukòu} in Chinese literature, and people's awareness of a fragrant plant called \textit{dòukòu} as early as the 6-7\textsuperscript{th} century.
 
-The first \hl{elaborate} mention of \tc{豆蔻} \textit{dòukòu} is from a 9\textsuperscript{th}-century book called \tc{酉陽雜俎} \textit{Youyang Zazu} [\textit{Miscellaneous Morsels from Youyang}], which is a Tang era miscellany of tall tales and legends, strange phenomena, fantastic creatures, and exotic products, but also serves as an excellent source of historical data. The work was collated by Duan Chengsi (d. 863). In volume 18, the author discusses 24 foreign plants that have been imported to China or brought as tribute from faraway places, such as Magadha (in India), Malaysia, Persia, Silla (Korea), and Syria \parencite{reed_2003_tang}. Elevating the resource's usefulness, Duan often reports the local names for non-native plants and products and usually compares them to something more familiar to his Chinese readership. The mentioned chapter describes acacia, Balm of Giliad, galbanum, jackfruit, jasmine, and narcissus, among others. Section 55 tells us about cardamom:\footnote{The text is accessible via the Chinese Text Project \parencite{sturgeon_2021_chinese}, see volume 18, section 55 in the \textit{Youyang Zazu}: \url{https://ctext.org/wiki.pl?if=en&chapter=801324}; translation is provided by the authors.}
+The first \hl{elaborate} mention of \tc{豆蔻} \textit{dòukòu} is from a 9\textsuperscript{th}-century book called \tc{酉陽雜俎} \textit{Youyang Zazu} [\textit{Miscellaneous Morsels from Youyang}], which is a Tang era miscellany of tall tales and legends, strange phenomena, fantastic creatures, and exotic products, but also serves as an excellent source of historical data. The work was collated by Duan Chengsi (d. 863), and in volume 18, the author discusses 24 foreign plants that have been imported to China or brought as tribute from faraway places, such as Magadha (in India), Malaysia, Persia, Silla (Korea), and Syria \parencite{reed_2003_tang}. Elevating the resource's usefulness, Duan often reports the local names for non-native plants and products and usually compares them to something more familiar to his Chinese readership. The mentioned chapter describes acacia, Balm of Giliad, galbanum, jackfruit, jasmine, and narcissus, among others. Section 55 tells us about cardamom:\footnote{The text is accessible via the Chinese Text Project \parencite{sturgeon_2021_chinese}, see volume 18, section 55 in the \textit{Youyang Zazu}: \url{https://ctext.org/wiki.pl?if=en&chapter=801324}; translation is provided by the authors.}
 
 \begin{quote}
     \tc{\textbf{白豆蔻}，出\textcolor{accent}{伽古羅}國，呼為\textcolor{accent}{多骨}。\\
@@ -416,30 +433,31 @@ ZheSha: /tɑ kuət̚/ and /dəuH həuH/ and /ɡɨɑ kuoX lɑ/
 
 \bigskip
 
-After stating the place of origin (Kakola MC: /ɡɨɑkuolɑ/) and its local name (MC: /tɑ kuət̚/), the author proceeds to describe the plant's morphology: its height, leaves, and yellow flowers, then compares the shape of the fruits to grapes (also a non-native plant in China), and puts the time of harvest to the seventh month of the calendar.
+After stating the place of origin (Kakola, MC: /ɡɨɑkuolɑ/) and its local name (MC: /tɑ kuət̚/), the author proceeds to describe the plant's morphology: its height, leaves, and yellow flowers, then compares the shape of the fruits to grapes, and puts the time of harvest to the seventh month of the calendar.
 
-The fist obvious question about this entry is: If we talk about white cardamom -- an imported product -- does this mean that the unmarked \textit{dòukòu} points to something else? Why does cardamom have a modifier when it is one of the first attested instance we have of this word? In today's Traditional Chinese Medicine (TCM), unmarked \textit{dòukòu} refers to the fruits of white cardamom, the same substance colloquially known as \textit{báidòukòu} `white cardamom'.
+% (also a non-native plant in China??)
+
+The entry is very clear about the plant and its product -- white cardamom a.k.a. round cardamom -- and so a trivial question to ask is: Did the unmarked \textit{dòukòu} point to a different spice? And if yes, what was it referring to? And why does \textit{dòukòu} have a modifier when it is the first attested instance we have that describes any type of cardamom? 
+% We are not sure, the same way we cannot be sure about the identity of cardamom in the ancient Mediterranean. 
+In today's Traditional Chinese Medicine (TCM), unmarked \textit{dòukòu} refers to the fruits of white cardamom, the same substance colloquially known as \textit{báidòukòu} `white cardamom' \parencites[cf.][]{polyu_2024_chinese,hkbu_2024_chinese}.
 
 % https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&lang=eng&page=1&f_search=1&qry=%E8%94%BB&facetbar=1&sort=name_cht&extension=all
 
 % https://herbaltcm.sn.polyu.edu.hk/herbal/search?type=-1&keyword=%E8%B1%86%E8%94%BB
 
-According to \textcite[22]{donkin_2003_east}, the Chinese first confused nutmeg and cardamom (presumably round cardamom), ``doubtless on account of a resemblance between their fruits''. We know that in the earliest sources, both spices were referred to as \textit{dòukòu} \parencites{hsu_1967_notes}{donkin_2003_east}. Both nutmeg and the white round cardamoms were sourced from mainland Southeast Asia, and then carried up to the Tang courts on ships from Kakola \parencite[184-185]{schafer_1985_golden}. This place also appears in Ibn Battuta \parencite{dunn_1986_adventures}
+According to \textcite[22]{donkin_2003_east}, the Chinese first confused nutmeg and round cardamom, ``doubtless on account of a resemblance between their fruits''. We know that in the earliest sources, both of these imported spices were referred to as \textit{dòukòu} \parencites{hsu_1967_notes}{donkin_2003_east}, and that both nutmeg and the white round cardamoms were sourced from mainland Southeast Asia and then carried up to the Tang courts on ships from Kakola \parencite[184-185]{schafer_1985_golden}. 
 
-% clarify round and white
+% This place also appears in Ibn Battuta \parencite{dunn_1986_adventures}
 
-To avoid nomenclatural confusion, nutmeg became 肉豆蔻 ròudòukòu, cardamom became 白豆蔻 báidòukòu.
-This mix-up exists in other languages as well!
+The confusion is not limited to Chinese, other scholars have noticed before \parencite[see][]{wolters_1967_early,wheatley_1961_golden} that the mix-up exists in other languages as well. It seems that to avoid nomenclatural confusion, in Chinese nutmeg became \tc{肉豆蔻} \textit{ròudòukòu}, white cardamom became \tc{白豆蔻} \textit{báidòukòu} early on.
 
-According to Donkin, the Chinese first confused nutmeg with cardamom, on account of their similar fruits, and at some point both imported spices were called doukou.
-Furthermore, both were sourced from mainland Southeast Asia, likely traded on the same trade routes, and the same ships, ((He says that, nutmeg was known in Chinese as kakola (ca. 725), and later as doukou (ca. 863), roudoukou is the name in later sources, including an illustrated herbal of 1062 (1249).))
-So, to avoid confusion nutmeg became roudoukou – flesh cardamom – while the round cardamoms became baidoukou – white cardamom.
-As many scholars noticed before, the confusion is not limited to Chinese.
+From a Chinese perspective, both spices were sourced from the same place, the entrepôts of mainland Southeast Asia (including Kakola), and likely traded on the same trade routes and the same ships. In reality, the white cardamom came from either the hills of Indochina (\textit{W. vera}) or Java (\textit{W. compacta}), while nutmeg traversed a longer journey, first being shipped to Java from the Maluku islands. Being part of the same maritime trade network, products of Java were transported north towards the Asian mainland and the two products were likely traded together by merchants; the Chinese could have easily confused them.
 
-((Nutmeg: “chia-kou-le” (ca. 725), as “to-ku” (ca. 863). “jou-tou-k’ou” (ca. 1062)
-White cardamom: “tou-k’ou”, “pai-tou-k’ou” (Hsü, 1967; Donkin, 2003)))
+% Funan, Chenla, Champa
 
-% Further mentions?
+% ((Donkin says that nutmeg was known in Chinese as kakola (ca. 725), and later as doukou (ca. 863), roudoukou is the name in later sources, including an illustrated herbal of 1062 (1249).))
+% ((Nutmeg: “chia-kou-le” (ca. 725), as “to-ku” (ca. 863). “jou-tou-k’ou” (ca. 1062)
+% White cardamom: “tou-k’ou”, “pai-tou-k’ou” (Hsü, 1967; Donkin, 2003)))
 
 \subsection{Character characteristics}
 
@@ -450,6 +468,9 @@ Our word under scrutiny is made up of two characters, \tc{豆} \textit{dòu} and
 Furthermore, doukou often appears in a form ?? where the first character too has the grass radical on top (i.e., \tc{荳蔻}). Featuring the grass radical on both characters seems to be a typical device in the naming foreign edible plants, often loanwords themselves. Cf. the Chinese words \tc{草莓} \textit{cǎoméi} `strawberry', \tc{菠菜} \textit{bōcài} `spinach', and an archaic\footnote{The modern word for cumin, \tc{孜然} \textit{zī​rán} comes via Uyghur, \hl{from Sanskrit?}} word for `cumin', \tc{蒔蘿} \textit{shíluó} `cumin'.
 
 \subsection{Lexicographical clues}
+
+Chinese is one of the major languages without an authoritative etymological dictionary. 
+
 
 Youwei Shi (2021) Loanwords in the Chinese Language. Routledge:
 	“Doukou 豆蔻, meaning cardamom, introduced to China in the 	Tang dynasty, probably originated from Arabic takur, related to 	the name of the ancient port Takola.” (p. 44)
@@ -498,22 +519,8 @@ Now the question is: Could 豆蔻 dòukòu be an eponymous loan related to one o
 
 
 
-\noindent\rule{\textwidth}{0.5pt}
+% \noindent\rule{\textwidth}{0.5pt}
 
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.45\textwidth]{imgs/nutmeg.png}
-    \caption{\textit{Myristica fragrans} in \textit{Köhler's Medizinal Pflanzen} \pvolcite[]{2}[132]{koehler_1887_koehler}}
-    \label{fig:nutmeg}
-\end{figure}
-
-% \begin{wrapfigure}{r}{0.5\textwidth}
-%     \centering
-%     \includegraphics[width=0.5\textwidth]{imgs/nutmeg.png}
-%     \caption{\textit{Myristica fragrans} in \textit{Köhler's Medizinal Pflanzen} \pvolcite[]{2}[132]{koehler_1887_koehler}}
-%     \label{fig:nutmeg}
-% \end{wrapfigure}
 
 
 \printbibliography
