@@ -82,7 +82,7 @@
 
 % East Asian scripts
 % \usepackage{kotex} % Support for KR, JP, some TC (not SC).
-% \setmainhangulfont{Noto Serif CJK KR} % Only on Overleaf
+% \setmainhangulfont{Noto Serif CJK KR} % Only works on Overleaf, not locally.
 % \setmainhangulfont[
     % Path=./fonts/,
     % Extension = .otf,
@@ -93,48 +93,48 @@
 \newfontfamily{\traditionalchinesefont}[
     Path=./fonts/,
     Extension = .otf,
-    UprightFont=*-Medium,
+    UprightFont=*-Regular,
     BoldFont=*-Bold
     ]{NotoSerifTC}
 
 % \newfontfamily{\simplifiedchinesefont}[
 %     Path=./fonts/,
 %     Extension = .otf,
-%     UprightFont=*-Medium,
+%     UprightFont=*-Regular,
 %     BoldFont=*-Bold,
 %     ]{NotoSerifSC}
 
-\newfontfamily{\khmerfont}[
+% Other scripts
+\newfontfamily{\cuneiformfont}[
     Path=./fonts/,
     Extension = .otf,
     UprightFont=*-Regular,
-    % BoldFont=*-Bold,
-    ]{NotoSerifKhmer}
-
-\newfontfamily{\linearbfont}[
-    Path=./fonts/,
-    Extension = .otf,
-    UprightFont=*-Regular,
-    % BoldFont=*-Bold,
-    ]{NotoSansLinearB}
-
-% \newfontfamily{\javanesefont}[
-%     Path=./fonts/,
-%     Extension = .otf,
-%     UprightFont=*-Regular,
-%     % BoldFont=*-Bold,
-%     ]{NotoSansJavanese}
+    ]{NotoSansCuneiform}
 
 \newfontfamily{\javanesefont}[
     Path=./fonts/,
     Extension = .ttf,
     ]{javatext}
 
+\newfontfamily{\khmerfont}[
+    Path=./fonts/,
+    Extension = .otf,
+    UprightFont=*-Regular,
+    ]{NotoSerifKhmer}
+
+\newfontfamily{\linearbfont}[
+    Path=./fonts/,
+    Extension = .otf,
+    UprightFont=*-Regular,
+    ]{NotoSansLinearB}
+
+
 % Other scripts
 \newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
 
 % Commands to use scripts
 \newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
+\newcommand{\cu}[1]{\cuneiformfont{#1}\rmfamily}
 \newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
 \newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
 \newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
@@ -242,7 +242,7 @@ The green pods are still valuable today, it is the 3\textsuperscript{rd} most ex
 
 \subsection{False cardamoms}
 
-Now, the name \textit{true cardamom} implies the existence of ``false'' ones, which is not so unusual in English spice nomenclature; it can happen for two reasons. First, the term \textit{false} and its synonyms are typically used to designate alternative economic products (cf. \textit{false peppers}). Second, they hint at practices of adulteration (cf. \textit{bastard saffron}). As one of the strategies employed to distinguish spices is by using a marker of authenticity, words, such as \textit{true, real, false, fake, bastard} can occur in vernacular names. In our case, the former holds true: there are at least a dozen other spice-bearing aromatic plants in the ginger family referred to as \textit{cardamoms}, two of which we have already mentioned. Until very recently, almost all cardamom-like plants were neatly sorted into two genera: the genus \textit{Amomum} with a native range spanning from South to Southeast Asia, and the genus \textit{Aframomum} distributed in Africa. Today, many of them boast with new and revised scientific names, which can make their discussion quite overwhelming.\footnote{Modern taxonomic classification of plants started with \textcite{linnaeus_1758_systema}, but it is still developing to this day -- English botanist Burkill have already lamented on the ``unwelcome'' renaming of some cardamom species almost a hundred years ago \parencite[see][]{burkill_1930_cardamoms}.}
+Now, the name \textit{true cardamom} implies the existence of ``false'' ones, which is not so unusual in English spice nomenclature; it can happen for two reasons. First, the term \textit{false} and its synonyms are typically used to designate alternative economic products (cf. \textit{false peppers}). Second, they hint at practices of adulteration (cf. \textit{bastard saffron}). As one of the strategies employed to distinguish spices is by using a marker of authenticity, words, such as \textit{true, real, false, fake, bastard} can occur in vernacular names. In our case, the former holds true: there are at least a dozen other spice-bearing aromatic plants in the ginger family referred to as \textit{cardamoms}, two of which we have already mentioned. Until very recently, almost all cardamom-like plants were neatly sorted into two genera: the genus \textit{Amomum} with a native range spanning from South to Southeast Asia, and the genus \textit{Aframomum} distributed in Africa. Today, many of them boast with new and revised scientific names, which can make their discussion quite overwhelming.\footnote{Although the modern taxonomic classification of plants started with Linnaeus's \textit{Systema Naturae} in 1758, it is still developing to this day -- English botanist Burkill have already lamented on the ``unwelcome'' renaming of some cardamom species almost a hundred years ago \parencite[see][]{burkill_1930_cardamoms}.}
 
 So, why are these other spices being called \textit{cardamoms} as well? In short, these plants and their products are named so because of their physical, chemical, and functional similarities to a prototype spice, especially in one distinct feature: they are all aromatic seed pods containing small seeds. The compact fruits' shared morphology is distinctivie enough to warrant association with an already known item, which influences the naming of newly acquired and encountered spices. In a western context, the prototype spice is the green cardamom we know (\textit{E. cardamomum}), hence the name \textit{true cardamom}. We take the idea of a ``prototype spice'' from the prototype theory in cognitive science, as this seems to illuminate best the categorization and naming practices of new spices during acculturation \parencite[see][]{parti_2023_mapping}.
 
@@ -359,7 +359,7 @@ Tsaoko cardamom and Tavoy cardamom both fell out of the \textit{dòukòu} basket
 \end{wrapfigure}
 
 
-Additionally, we also have three new materials that utilize the word \textit{dòukòu} in their Chinese names. First, there are the dried, date-like fruits of greater galangal (\textit{Alpinia galanga} (L.) Willd.) which is mostly known for its fragrant rhizome and ubiquity in Thai cooking. It is simply called \textit{hóngdòukòu} [red-cardamom] in Chinese. Then, we have the semi-exotic fruits of \textit{Alpinia hainanensis} K.Schum. from coastal southern China (especially Hainan), resembling tiny brains, called \textit{cǎodòukòu} [herb-cardamom] and anglicized as \textit{katsumada galangal seed} on Chinese Herbal Medicine databases \parencite[cf.][]{polyu_2022_chinese}. This plant is better known in the West for its attractive pink flowers, under the name \textit{Hainan galangal}.  Finally, there is nutmeg, the seed of a tree from an unrelated species, \textit{Myristica fragrans} Houtt., from a different plant family. Nutmeg is native to the Maluku islands of Indonesia, which were famously known as the Spice Islands during colonial times. Until the 18\textsuperscript{th} century, nutmeg and its aril, mace, were only grown here, and they were one of the most highly prized products of the spice trade primarily due to their reputation to ward off the plague \parencite[see][]{milton_1999_nathaniel}. Nutmeg in Chinese is called \textit{ròudòukòu} [flesh-cardamom], which translates to 'meaty cardamom', while mace is \textit{ròudòukòupí}	[flesh-cardamom-skin].
+Additionally, we also have three new materials that utilize the word \textit{dòukòu} in their Chinese names. First, there are the dried, date-like fruits of greater galangal (\textit{Alpinia galanga} (L.) Willd.) which is mostly known for its fragrant rhizome and ubiquity in Thai cooking. It is simply called \textit{hóngdòukòu} [red-cardamom] in Chinese. Then, we have the semi-exotic fruits of \textit{Alpinia hainanensis} K.Schum. from coastal southern China (especially Hainan), resembling tiny brains, called \textit{cǎodòukòu} [herb-cardamom] and anglicized as \textit{katsumada galangal seed} on Chinese Herbal Medicine databases \parencite[cf.][]{polyu_2024_chinese}. This plant is better known in the West for its attractive pink flowers, under the name \textit{Hainan galangal}.  Finally, there is nutmeg, the seed of a tree from an unrelated species, \textit{Myristica fragrans} Houtt., from a different plant family. Nutmeg is native to the Maluku islands of Indonesia, which were famously known as the Spice Islands during colonial times. Until the 18\textsuperscript{th} century, nutmeg and its aril, mace, were only grown here, and they were one of the most highly prized products of the spice trade primarily due to their reputation to ward off the plague \parencite[see][]{milton_1999_nathaniel}. Nutmeg in Chinese is called \textit{ròudòukòu} [flesh-cardamom], which translates to 'meaty cardamom', while mace is \textit{ròudòukòupí}	[flesh-cardamom-skin].
 
 % With half a kilo being equivalent to the cost of a house in London.
 
@@ -461,65 +461,115 @@ From a Chinese perspective, the two spices were sourced from the same place, the
 
 \subsection{Character characteristics}
 
-Our word under scrutiny is made up of two characters, \tc{豆} \textit{dòu} and \tc{蔻} \textit{kòu}. \textit{Dòu} is relatively straightforward, in dictionaries you can find definitions, such as `bean'; `pod-bearing plant or its seeds'; `bean-shaped object'; etc. \parencite[179]{kleeman_2010_oxford}. \textit{Kòu} on the other hand is much more specific, and dictionary entries usually direct the reader to other entries where the character is used, e.g., `used in \tc{豆蔻}'; `see \tc{豆蔻} nutmeg, cardamom'; etc. ?? The case in point here is that \textit{kòu} does not mean anything else, and it does not appear in other word, which is rare for a Chinese character. 
+Our word under scrutiny is made up of two characters, \tc{豆} \textit{dòu} and \tc{蔻} \textit{kòu}. \textit{Dòu} is relatively straightforward, in dictionaries you can find definitions, such as `bean'; `bean-shaped object' \parencite[179]{kleeman_2010_oxford}; `pod-bearing plant or its seeds', etc. \textit{Kòu} on the other hand is much more specific, and dictionary entries usually direct the reader to other terms where the character is used, e.g., `used in \tc{豆蔻}'; `see \tc{豆蔻} nutmeg, cardamom'; etc. \parencite{mdbg}. The case in point here is that \textit{kòu} does not mean anything else, and it does not appear in other word, which is rather rare for a Chinese character. 
 
-\tc{蔻} \textit{kòu} is made up of the radical for grass, \tc{艹} \textit{cǎo} `grass, herb' ??, and a phonetic component \tc{寇} \textit{kòu} meaning `bandit' which is a typical phono-semantic compound in Chinese. This sinogram however does not seem to exist before its emergence in the word for the spices, there is no record of \tc{蔻} \textit{kòu} before the 9th century. Was this character created for this purpose? It seems so. And if yes, then where does the \hl{/kou/ sound} come from? We think it is likely a loanword.
+\tc{蔻} \textit{kòu} is made up of the radical for grass, \tc{艹} \textit{cǎo} `grass, herb', and a phonetic component \tc{寇} \textit{kòu} meaning `bandit' which is a typical phono-semantic compound in Chinese. This sinogram however does not seem to exist before its emergence in the word for the spice, there is no record of \tc{蔻} \textit{kòu} before. Was this character devised solely for this purpose? It seems so. And if yes, then where does the \hl{/kou/ sound} come from? We think it is likely a loan.
 
-Furthermore, doukou often appears in a form ?? where the first character too has the grass radical on top (i.e., \tc{荳蔻}). Featuring the grass radical on both characters seems to be a typical device in the naming foreign edible plants, often loanwords themselves. Cf. the Chinese words \tc{草莓} \textit{cǎoméi} `strawberry', \tc{菠菜} \textit{bōcài} `spinach', and an archaic\footnote{The modern word for cumin, \tc{孜然} \textit{zī​rán} comes via Uyghur, \hl{from Sanskrit?}} word for `cumin', \tc{蒔蘿} \textit{shíluó} `cumin'.
+Furthermore, \textit{dòukòu} often appears in a form where the first character too has the grass radical on top (i.e., \tc{荳蔻}), cf. the poem quoted earlier. Featuring the grass radical on both characters seems to be a typical device in the naming of foreign edible plants, often loanwords themselves. Compare Chinese words such as \tc{草莓} \textit{cǎoméi} `strawberry', \tc{菠菜} \textit{bōcài} `spinach', and an archaic\footnote{The modern word for cumin, \tc{孜然} \textit{zīrán} comes via Uyghur.} word for `cumin', \tc{蒔蘿} \textit{shíluó} meaning `dill' today.
+
+% % 3 to 2 syllables?
+
+% Bisyllabic? No problem.
+% 蘋果 píngguǒ ‘apple’  频婆罗 pínpóluó [vimbara, from Sanskrit] + fruit
+% 石榴 shíliú ‘pomegranate’  安石榴 ānshíliú [Parthian/Arsacid lump]
+% 菠菜 bōcài ‘spinach’  波斯菜 bōsīcài [Persian vegetable] OR ~			      波棱菜 bōléngcài [Palinga (kingdom in Nepal) veg.]
+
+% (Shi, 2021, p. 44)
 
 \subsection{Lexicographical clues}
 
-Chinese is one of the major languages without an authoritative etymological dictionary. 
+Chinese is one the few major languages with no authoritative etymological dictionary, but there are a few works on loanwords in Chinese. The most recent publication on this topic has an entry on \textit{dòukòu}, and it goes: 
 
+\begin{quote}
+	``Doukou \tc{豆蔻}, meaning cardamom, introduced to China in the Tang dynasty, probably originated from Arabic takur, related to the name of the ancient port Takola.'' \parencite[44]{shi_2021_loanwords}
+\end{quote}
 
-Youwei Shi (2021) Loanwords in the Chinese Language. Routledge:
-	“Doukou 豆蔻, meaning cardamom, introduced to China in the 	Tang dynasty, probably originated from Arabic takur, related to 	the name of the ancient port Takola.” (p. 44)
-No Arabic word like takur
-Points to a place: Takola.
+This sounds like a critical claim to push our investigation forward, but unfortunately, Arabic does not have a word that sounds or looks like ``takur''. However, it does point to an ancient port: Takola, which sounds awfully familiar to the Kakola we saw before.
 
----
+Kakola (Chinese: \tc{伽古羅} \textit{jiāgǔluó}, MC: /ɡɨɑkuolɑ/; Arabic: قاقلـة  \textit{Qāqulla}) has been identified as Takola, an old trading emporion on the western coast of the Malay peninsula, known to Ancient Greek geographers as the ``the Golden Chersonese''\footnote{Described in Ptolemy's \textit{Geography} (AD 2\textsuperscript{nd} c.)}. It was also recorded as Talaitakkōlam in Tamil inscriptions produced during the Chōla expeditions and conquest of Srivijaya in the 11\textsuperscript{th} century \parencite[270]{wheatley_1961_golden}, and visited by the great traveller, Ibn Battuta in the 14\textsuperscript{th} century \parencite{dunn_1986_adventures}. From these and other sources we know that Takola/Kakola was a significant port of call for all merchants and travellers passing through the Malay Peninsula, and trade flourished for centuries. Did this placename leave a mark on the names of products it traded? What exactly is Arabic ``takur'' \textcite{shi_2021_loanwords} alluded to?
 
-So, I tried to check what the dictionary says. Chinese is one the few major languages with no authoritative etymological dictionary, but there are some works on loanwords in Chinese. The most recent publication on this topic has an entry on doukou, and it says: 
-…
-This sounds like an crucial claim to push our investigation forward, 
-but sadly, Arabic does not have a word that sounds or looks like takur
-it does on the other hand point to an ancient port: Takola, which sounds awfully familiar to Kakola.
+% T/K soundchange?
 
-
-
-
+% Happens in Austronesian languages
+% Hawaiian lost /t/ for /k/
+% In Samoan it’s happening now
+% ...
 
 \subsection{The sea of kakkola/takkola type words}
 
-Arabic قاقلة qāqulla ‘cardamom’ < Aramaic < Akkadian < Sanskrit?
-Sanskrit कक्कोल kakkola ‘species of plant (bearing a berry, the inner part of which is waxy and aromatic’/ तक्कोल takkola *‘Pimenta acris’ (Monier-Williams, 1899, pp. 241, 431)
-Pali takkola ‘perfume made from an aromatic berry’ (Pali Text Society, 1921–1925, p. 292),
-Tibetan ཀ་ཀོ་ལ kakola ‘black cardamom’ (Amomum tsao-ko) (Goldstein et al., 2001, p. 1), 嘎哥拉 gágēlā in Eastern Tibet (Hu, 2005)
-Javanese ꦏꦥꦸꦭꦒ kapulaga?, Malay pelaga? …etc.
-Kakola (Chinese: Kakula, Arabic: Qāqulla) was a trading emporion on the western coast of Malay peninsula known in Ancient Greece as Takola of the golden Chersonese in Ptolemy’s Geography, AD 2nd c., and Talaitakkōlam in Tamil based on inscriptions from Chōla expeditions, AD 10th c. (Wheatley, 1961, p. 270).
+There is an Arabic word for cardamom, قاقلة \textit{qāqulla}, which is clearly not a native Arabic word.\footnote{The Modern Standard Arabic (MSA) word now is هال \textit{hāl}, which is seems to be a later loan ultimately from Proto-Dravidian \textit{*ēla} \cite{burrow_1984_dravidian} that arrived via Persian هیل \textit{hil} (cf. Sanskrit एला \textit{elā}).} It is usually traced back to Sanskrit via Aramaic/Classical Syriac and Akkadian \parencites[489]{loew_1928_flora}[58]{zimmern_1915_akkadische}. In Akkadian it appears as \cu{𒋡𒄣𒌌𒇻𒊬} (qa-qu-ul-lu.SAR) \textit{qāqullu} on cuneiform tablets\footnote{The tablet now is in the British Museum (\url{https://www.britishmuseum.org/collection/object/W_1881-0706-688}), see tablet 2, column 2, item 5, also listing coriander, mint, and thyme.} from Mesopotamia, listing plants from the garden of king Marduk-apla-iddina, the Biblical Merodach-Baladan reigning in the 7\textsuperscript{th} BC \parencite{ridder_2019_botanical}.
 
----
+% https://www.worldhistory.org/image/4925/list-of-plants-in-the-garden-of-marduk-apla-iddina/ 
 
-There is an Arabic word for cardamom, qāqulla, which is not a native word. It is usually traced back to Sanskrit via Aramaic and Akkadian.
-Looking up the Sanskrit word will send us down a rabbit hole about kakkola/takkola, a word that is the proposed etymon for others, such as Pali takkola, Tibetan kakola, and many more, including Javanese and Malay.
-Kakola has been identified as Takola, an old trading emporion on the western coast of the Malay peninsula, already known to Ancient Greek geographers like Ptolemy, and also recorded in Tamil inscriptions of Chola expeditions.
-The 4th reason therefore is about a regional review of seemingly related words, the technical word for these are Wanderwort of Kulturwort using German. 
+% https://www.reddit.com/r/ArtefactPorn/comments/249sdj/list_of_plants_in_a_royal_babylonian_garden_king/
 
+Tracing the Sanskrit word will send us down a rabbit hole about \textit{kakkola/takkola}, a word that is the proposed etymon for many others, such as Prakrit, Pali, Tibetan, and many more, even including Javanese and Malay. In \textcite[431, 241]{monier-williams_1899_sanskritenglish}, कक्कोल \textit{kakkola} is given as `species of plant bearing a berry, the inner part of which is waxy and aromatic'; तक्कोल \textit{takkola} as `Pimenta acris'.\footnote{Citing \textit{Pimenta acris} is an erroneous attempt at the identification of this aromatic plant, as it is native to the Americas.} Pali \textit{takkola} is given as a `perfume made from an aromatic berry' \parencite[292]{palitextsociety_1921_pali}, while in Prakrit कक्कोल \textit{kakkōla} it is said to be `a kind of fragrant fruit' \parencite[213]{sheth_1923_paiasaddamahannavo}. In Tibetan \bo{ཀ་ཀོ་ལ} \textit{kakola} refers to the Chinese `black cardamom' (\textit{Amomum tsao-ko}) \parencite[1]{goldstein_2001_new}, a name that is also reflected as \tc{嘎哥拉} \textit{gágēlā} in Eastern Tibet \parencite{hu_2005_food}. 
 
-(Just as the use of cinnamon may have led to the discovery of cloves, so one or other of the many cardamoms grown in South China and mainland South East Asia probably predisposed the Chinese to the imported nutmeg Takkola (Chinese Ko-ku-lo, Arabic) was a place or region on the west coast of Malaya,170 which the Chinese from the eighth century thought produced both nutmegs and the round cardamom (Amomum kepulaga), the latter possibly introduced from Java.171)
+Javanese \jv{ꦏꦥꦸꦭꦒ} kapulaga?, Malay pelaga? …etc.
 
+Others have already noticed this before, \textcite[20]{hoogervorst_2013_southeast} offers a selection of all the takkola/kakkola type words around the Indian Ocean world and pinned them on a map; the words usually have the sense of some sort of aromatic substance or spice. 
 
+\hl{still working on this part}
 
-Other people have already noticed this before. Here is a collection of all the takkola/kakkola type words around the Indian Ocean world; the words usually have the sense of some aromatic substance or spice. 
-Historians place the ancient port of Takola here, marked with the red dot, and we know from Chinese sources that the Chinese have imported products from here, so
-Now the question is: Could 豆蔻 dòukòu be an eponymous loan related to one of these names? Could this transmission happen?
+% Historians place the ancient port of Takola here, marked with the red dot, and we know from Chinese sources that the Chinese have imported products from here, so now the question is: 
 
+Could \tc{豆蔻} dòukòu be an eponymous loan related to one of these names? Could this transmission happen?
 
+% The 4th reason therefore is about a regional review of seemingly related words, the technical word for these are \textit{Wanderwort} of \textit{Kulturwort} using German. 
 
-
-
+% (Just as the use of cinnamon may have led to the discovery of cloves, so one or other of the many cardamoms grown in South China and mainland South East Asia probably predisposed the Chinese to the imported nutmeg Takkola (Chinese Ko-ku-lo, Arabic) was a place or region on the west coast of Malaya,170 which the Chinese from the eighth century thought produced both nutmegs and the round cardamom (Amomum kepulaga), the latter possibly introduced from Java.171)
 
 % \noindent\rule{\textwidth}{0.5pt}
+
+\section{Discussion}
+
+\subsection{Reasons for plausibility}
+
+% Linguistic:
+% Via Southern Min? – light blue on the map
+% Middle Chinese rendering of 豆蔻 would be /dəuH-həuH/, which is a bit “distant sounding”
+% Proto-Southern Min reconstruction /*tɑu-khɑu/ (Kwok, 2018), a bit closer.
+% But PSM transmissions to other Chinese dialects are rare! 
+% Historic:
+% Min speakers from Fujian have historically participated in regional trade all around the South China Sea and maritime Southeast Asia (i.e. Hokkien).
+% Contact with Indian, Persian, \& Arab traders on the coast was large-scale and is well-documented (cf. Hourani, 1975).
+% The usage and influence of Indic languages (e.g., Sanskrit, Tamil) in SEA is well established – e.g., Champa, Srivijaya Empire (Wolters, 1967; Coedès, 1975).
+
+% ---
+
+% We think yes, it’s plausible, and here is how.
+% Ian, who is more familiar with phonology, had this idea that the Chinese word might have arrived though Southern Min, because the Middle Chinese rendering of doukou would be something like /dəuH-həuH/, which is not that close to the other takola type words. However, the Proto-Southern-Min reconstruction of these characters sounds a bit closer to a suspected etymon.
+% Professor Kwok, who reconstructed the Proto-Southern-Min said the problem with this is that transmissions from Proto-Min into other Chinese dialects are extremely rare because of Fujian’s geographical isolation.
+% Historically speaking, however:
+% Min speakers from Fujian have historically participated in regional trade all around the South China Sea and maritime Southeast Asia (i.e. Hokkien).
+% Contact with Indian, Persian, and Arab traders on the coast is documented (cf. Hourani, 1975).
+% The usage and influence of Indic languages (Sanskrit, Tamil) across the Srivijaya Empire is well established (Wolters, 1967).
+
+
+
+% According to our 9th-century source, the spice is called duōgǔ 多骨, and the perceived Middle Chinese pronunciation, /tɑ-kuət̚/, makes possible for it to be a transcription of an Indo-Aryan word, e.g., Pali takkola or Sanskrit kakkola. On the other hand, the same does not apply for dòukòu 豆蔻, whose Middle Chinese pronunciation would be /dəuH-həuH/. As an alternative, we propose that dòukòu could be a loan via Southern Min. Based on Kwok’s reconstruction of Proto-Southern-Min, the equivalent of dòukòu would be /*tɑu-khɑu/ (Kwok 2018; B.-Ch. Kwok, personal communication, August 17, 2022), more similar to the Indic words. This is historically plausible, given that Fujian was in direct contact with the maritime traders responsible for the bulk of the spice trade, and that Sanskrit was one of the main languages of the Srivijaya Empire encompassing Kakkola around this time. In this brief etymological study, we clear the air around cardamom nomenclature, and reveal a possible trace that Fujianese traders have left on modern Chinese. This is not only interesting in terms of food history, but also in terms of the linguistic history of Chinese, as few loanwords from Southern Min have made their way into Middle Chinese.
+
+
+\section{Conclusion}
+
+% Hypothesis for the trade-language origins of 豆蔻 dòukòu:
+% Chinese < Southern Min < some Indic language with “phono-semantic matching” (masking the foreign quality of words with some native elements)
+% Reasons:
+% The word appears in Chinese historical records with its origin and pronunciation
+% The word emerges with the arrival of the foreign economic products it denotes
+% The word is denoted as a loanword by other linguists connecting it to Takola
+% The word seems to fit into a group of takkola-type Wanderwörter in the region
+% There is both linguistic and historical plausibility for this transmission to take place on the Maritime Silk Road during the Tang era.
+% Limitations:
+% Circumstantial evidence; no definite proof
+
+% ---
+
+% To wrap it up, our proposal for the trade language origins of 豆蔻 doukou is that it could have entered Chinese via Southern-Min, which obtained it through contact with some Indic language, via phono-semantic matching.
+% We think this happened based on the observations I presented:
+
+
+% (where the word‘s non-native quality is hidden by replacing it with phonetically and semantically similar words from the adopting language) 可口可乐 Coca-Cola, ‘happy and entertaining’, 万维网 wàn wéi wǎng ‘myriad dimensional net’ = www. 
 
 
 
