@@ -62,21 +62,13 @@ ALLSPICE -- Pimenta dioica (L.) Merr. -- is a(n) tree in the *Myrtaceae* family,
 
 ## Etymologies
 
-**English** *allspice*, from *all* + *spice*; after the flavor profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper
- {{< cite "oed;oe" "" >}}
+ {{< cite "oed;oe" >}}
 
-**English** *pimento* 'allspice; sweet pepper'
- partly **Portuguese** *pimenta* 'allspice; sweet pepper; black pepper', AD 15 c.
- and partly **Spanish** *pimiento* 'hot and sweet pepper; formerly also black pepper; pepper plant of both kinds', earlier *pimienta* 'black pepper, peppercorn, ground pepper' 13th c.
-< **Medieval Latin** *pigmenta* 'plant juice; food seasoning; condiment; spices; perfumes', plural of *pigmentum*
-< **Latin** *pigmentum* 'colour, paint; ointment; drug; spiced wine', from *pingō* 'to paint' + *-mentum* 'instrument'
- {{< cite "oed;oed;oed;gomezdesilva_1985_elsevier;corominas_1987_breve;lewis_1879_latin" "" >}}
+ {{< cite "oed;gomezdesilva_1985_elsevier;corominas_1987_breve;lewis_1879_latin" >}}
 
-**Arabic** فلفل إفرنجي *fulful ifranjī* 'allspice' [European pepper], literally `Frankish pepper', named so because it was transmitted by Europeans
- {{< cite "baalbaki_1995_almawrid" "" >}}
+ {{< cite "baalbaki_1995_almawrid" >}}
 
-**Mandarin Chinese** 多香果 *duōxiāngguǒ* 'allspice' [many-spice-fruit], maybe inspired by a foreign name
- {{< cite "mdbg" "" >}}
+ {{< cite "mdbg" >}}
 
 ## Gallery
 
