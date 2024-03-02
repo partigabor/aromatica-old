@@ -1,20 +1,20 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2024-02-28"
+date = "2024-03-02"
 description = "The dried unripe berries of a small Caribbean tree, also known as allspice; Jamaica pepper; pimento; myrtle pepper; newspice."
 weight = 10
 # draft = "true"
 # hidden = "true"
 plotly = true
 categories = ['spice']
-tags = ['culinary', 'medicinal', 'perfumery', 'distillery']
+tags = ['culinary', 'medicinal', 'perfumery', 'distillery', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
 The dried unripe berries of a small Caribbean tree, also known as allspice; Jamaica pepper; pimento; myrtle pepper; newspice.
 
-[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Allspice)
+[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Allspice) [[<i class="fab fa-wikipedia-w"></i>]](https://en.wiktionary.org/wiki/allspice)
 
 {{< load-photoswipe >}}
 
@@ -22,7 +22,7 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 
 <center>
 
-**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Hindi:** <span class="devanagari-text">गंधद्रव्य?</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span>
+**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Hindi:** <span class="devanagari-text">गंधद्रव्य</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span>
 
 </center>
 
@@ -38,7 +38,7 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 |    cultivation   |                                                                             Jamaica; Mexico; Honduras                                                                             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061), [TROP](https://tropicos.org/name/22101787), [EOL](https://eol.org/pages/2508608)|
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree from the *Myrtaceae* family, growing in the seasonally dry tropical biome, originating in the region(s) of S. Mexico to C. America, Caribbean. It is used as a(n) culinary and medicinal and perfumery and distillery spice, and cultivated for its unripe fruit; leaf; wood.{{< cite "powo" >}}
+ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree in the *Myrtaceae* family, growing in the seasonally dry tropical biome, with a native range inS. Mexico to C. America, Caribbean. It is used as a(n) culinary and medicinal and perfumery and distillery spice, cultivated for its unripe fruit; leaf; wood.{{< cite "powo" >}}
 
 ![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
@@ -76,7 +76,7 @@ Allspice, also known as pimento and Jamaica pepper, refers to the dried
 unripe fruits of a tropical evergreen tree growing in the Caribbean: the
 *Pimenta dioica*. The dried berries are dark brown, hard to the touch,
 and 4--6 mm in diameter (thus larger than black pepper). Their signature
-crown is by a small ring of the calyx {{< cite vanwyk_culinary_2014 >}}. 
+crown is by a small ring of the calyx {{< cite vanwyk_2014_culinary >}}. 
 
 <!-- 
 It

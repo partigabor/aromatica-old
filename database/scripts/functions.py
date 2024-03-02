@@ -195,6 +195,19 @@ def centroid_coordinates(df):
 
 
 
+# # Convert PDFs
+# from pdf2image import convert_from_path
+
+# def convert_pdf_to_png(file):
+#     name = str(file)
+#     name = re.sub(".*(?=/)", "", name)
+#     name = re.sub("\..*", "", name)
+#     pages = convert_from_path(file, 0)
+#     for page in pages:
+#         page.save(path + name + ".png", 'PNG')
+
+
+
 ## Images and colors
 
 ### Hex to RGBA

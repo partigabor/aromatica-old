@@ -2,7 +2,7 @@ Allspice, also known as pimento and Jamaica pepper, refers to the dried
 unripe fruits of a tropical evergreen tree growing in the Caribbean: the
 *Pimenta dioica*. The dried berries are dark brown, hard to the touch,
 and 4--6 mm in diameter (thus larger than black pepper). Their signature
-crown is by a small ring of the calyx {{< cite vanwyk_culinary_2014 >}}. 
+crown is by a small ring of the calyx {{< cite vanwyk_2014_culinary >}}. 
 
 <!-- 
 It
