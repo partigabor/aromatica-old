@@ -38,7 +38,7 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 |    cultivation   |                                                                             Jamaica; Mexico; Honduras                                                                             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061), [TROP](https://tropicos.org/name/22101787), [EOL](https://eol.org/pages/2508608)|
 
-ALLSPICE (*Pimenta dioica* (L.) Merr.) is a(n) tree in the *Myrtaceae* family, growing in the seasonally dry tropical biome, with a native range inS. Mexico to C. America, Caribbean. It is used as a(n) culinary and medicinal and perfumery and distillery spice, cultivated for its unripe fruit; leaf; wood.{{< cite "powo" >}}
+ALLSPICE -- *Pimenta dioica* (L.) Merr. -- is a(n) tree in the *Myrtaceae* family, growing in the seasonally dry tropical biome, with a native range of S. Mexico to C. America, Caribbean. It is used as a(n) culinary; medicinal; perfumery; distillery spice, cultivated for its unripe fruit; leaf; wood. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 

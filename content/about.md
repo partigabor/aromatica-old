@@ -56,9 +56,12 @@ The main challenge of combining different spice datasets is that the basis of co
 
 Plant distribution and habitat data is taken from [Plants of the World Online (POWO)](https://powo.science.kew.org/), which uses the [World Checklist of Vascular Plants (WCVP)](https://wcvp.science.kew.org/) dataset hosted and maintained by the Royal Botanic Gardens at Kew {{< cite govaerts_2023_world >}}. Geographical codes, names, and polygon data comes from the level 3 [dataset](https://github.com/tdwg/wgsrpd) ("botanical countries") of the [*World Geographical Scheme for Recording Plant Distributions* (2nd ed.)](https://web.archive.org/web/20160125135239/http:/www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf) of the *International Working Group on Taxonomic Databases For Plant Sciences* (TDWG).
 
-plant_name_id|ipni_id|taxon_rank|taxon_status|family|genus_hybrid|genus|species_hybrid|species|infraspecific_rank|infraspecies|parenthetical_author|primary_author|publication_author|place_of_publication|volume_and_page|first_published|nomenclatural_remarks|geographic_area|lifeform_description|climate_description|taxon_name|taxon_authors|accepted_plant_name_id|basionym_plant_name_id|replaced_synonym_author|homotypic_synonym|parent_plant_name_id|powo_id|hybrid_formula|reviewed
 
-156136|196799-2|Species|Accepted|Myrtaceae||Pimenta||dioica|||L.|Merr.||Contr. Gray Herb.|, n.s., 165: 337|(1947)||S. Mexico to C. America, Caribbean|tree|seasonally dry tropical|Pimenta dioica|(L.) Merr.|156136|132459|||156124|196799-2||Y
+
+<!-- plant_name_id|ipni_id|taxon_rank|taxon_status|family|genus_hybrid|genus|species_hybrid|species|infraspecific_rank|infraspecies|parenthetical_author|primary_author|publication_author|place_of_publication|volume_and_page|first_published|nomenclatural_remarks|geographic_area|lifeform_description|climate_description|taxon_name|taxon_authors|accepted_plant_name_id|basionym_plant_name_id|replaced_synonym_author|homotypic_synonym|parent_plant_name_id|powo_id|hybrid_formula|reviewed -->
+
+<!-- 156136|196799-2|Species|Accepted|Myrtaceae||Pimenta||dioica|||L.|Merr.||Contr. Gray Herb.|, n.s., 165: 337|(1947)||S. Mexico to C. America, Caribbean|tree|seasonally dry tropical|Pimenta dioica|(L.) Merr.|156136|132459|||156124|196799-2||Y -->
+
 
 
 Linguistic and geographic data on languages are from Glottolog and WALS...
