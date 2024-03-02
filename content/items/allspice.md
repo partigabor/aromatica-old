@@ -12,9 +12,7 @@ tags = ['culinary', 'medicinal', 'perfumery', 'distillery', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried unripe berries of a small Caribbean tree, also known as allspice; Jamaica pepper; pimento; myrtle pepper; newspice.
-
-[<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Allspice) [[<i class="fab fa-wikipedia-w"></i>]](https://en.wiktionary.org/wiki/allspice)
+The dried unripe berries of a small Caribbean tree, also known as allspice; Jamaica pepper; pimento; myrtle pepper; newspice. [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Allspice)
 
 {{< load-photoswipe >}}
 
@@ -22,7 +20,7 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 
 <center>
 
-**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Hindi:** <span class="devanagari-text">गंधद्रव्य</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span>
+**English:** allspice · **Hungarian:** szegfűbors · **Arabic:** <span class="arabic-text" dir="rtl">فلفل إفرنجي</span> · **Hindi:** <span class="devanagari-text">गंधद्रव्य</span> · **Chinese:** <span class="traditional-chinese-text">多香果</span> · [<i class="fab fa-wikipedia-w"></i>](https://en.wiktionary.org/wiki/allspice)
 
 </center>
 
@@ -36,9 +34,9 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 |    continents    |                                                                         Northern America, Southern America                                                                        |
 |       part       |                                                                              unripe fruit; leaf; wood                                                                             |
 |    cultivation   |                                                                             Jamaica; Mexico; Honduras                                                                             |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2), [GBIF](https://www.gbif.org/species/3186061), [TROP](https://tropicos.org/name/22101787), [EOL](https://eol.org/pages/2508608)|
+|botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2); [GBIF](https://www.gbif.org/species/3186061); [TROP](https://tropicos.org/name/22101787); [EOL](https://eol.org/pages/2508608)|
 
-ALLSPICE -- *Pimenta dioica* (L.) Merr. -- is a(n) tree in the *Myrtaceae* family, growing in the seasonally dry tropical biome, with a native range of S. Mexico to C. America, Caribbean. It is used as a(n) culinary; medicinal; perfumery; distillery spice, cultivated for its unripe fruit; leaf; wood. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+ALLSPICE -- Pimenta dioica (L.) Merr. -- is a(n) tree in the *Myrtaceae* family, growing in the seasonally dry tropical biome, with a native range of S. Mexico to C. America, Caribbean. It is used as a(n) culinary; medicinal; perfumery; distillery spice, cultivated for its unripe fruit; leaf; wood. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 
@@ -62,7 +60,17 @@ ALLSPICE -- *Pimenta dioica* (L.) Merr. -- is a(n) tree in the *Myrtaceae* famil
 
 </p>
 
-## Gallery
+## Etymologies
+
+**English** *allspice*, from *all* + *spice*; after the flavor profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper
+ {{< cite "oed" "allspice" >}}**English** *pimento* 'allspice; sweet pepper'
+ partly **Portuguese** *pimenta* 'allspice; sweet pepper; black pepper', AD 15 c.
+ and partly **Spanish** *pimiento* 'hot and sweet pepper; formerly also black pepper; pepper plant of both kinds', earlier \textit{pimienta} `black pepper; peppercorn; ground pepper' \nth{13} c.
+< **Medieval Latin** *pigmenta* 'plant juice; food seasoning; condiment; spices; perfumes', plural of \textit{pigmentum}
+< **Latin** *pigmentum* 'colour, paint; ointment; drug; spiced wine', from \textit{pingō} `to paint' + \textit{-mentum} `instrument'
+ {{< cite "oed;oed;oed;[415]{gomez_de_silva_elseviers_1985}[495]{corominas_breve_1987};lewis_latin_1879" "pimento;pimento;pimiento;;pigmentum" >}}**Arabic** فلفل إفرنجي *fulful ifranjī* 'allspice' [European pepper], literally `Frankish pepper', named so because it was transmitted by Europeans
+ {{< cite "baalbaki_-mawrid_1995" "" >}}**Mandarin Chinese** 多香果 *duōxiāngguǒ* 'allspice' [many-spice-fruit], maybe inspired by a foreign name
+ {{< cite "mdbg" "" >}}## Gallery
 
 {{< load-photoswipe >}}
 
