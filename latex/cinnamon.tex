@@ -1,0 +1,288 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, margin=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{subfig}
+\usepackage{csquotes}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{url}
+\usepackage{soul} % strikethrough \st{}; highlight \hl{}
+% \usepackage[final]{microtype}
+
+% Referencing
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor} % Color names
+\definecolor{accent}{HTML}{008080}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=accent,
+    anchorcolor=black,
+    citecolor=accent,
+    filecolor=black,
+    menucolor=black,
+    runcolor=black,
+    urlcolor=accent}
+\hypersetup{breaklinks=true}
+
+% Bibliography
+\usepackage[
+    backend=biber,
+    style=apa,
+    autocite=inline,
+    sorting=nyt,
+    sortcites=true,
+    backref=false,
+    backrefstyle=three,
+    abbreviate=true,
+    block=space,
+]{biblatex}
+\DefineBibliographyStrings{american}{
+    backrefpage={Cited on p.},
+    backrefpages={Cited on pp.}}
+\apptocmd{\sloppy}{\hbadness 10000\relax}{}{}
+\appto{\bibsetup}{\sloppy}
+\DeclareFieldFormat{apacase}{#1} % Title casing in APA
+% \AtBeginBibliography{\small} % Can make the font in bibliography smaller
+\addbibresource{../static/bibliography/parti.bib} %
+
+
+
+% Languages, scripts, and fonts
+% \usepackage{libertine} % Font package: Latin, Greek, Cyrillic, Hebrew
+
+\usepackage[main=english, bidi=basic]{babel}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures={TeX}}
+\setmainfont{Brill}
+
+% Automatic typesetting of writing systems
+\babelprovide[import=ar, onchar=ids fonts]{arabic}
+\babelprovide[import=sa-Deva, onchar=ids fonts]{sanskrit-devanagari}
+\babelprovide[import=he, onchar=ids fonts]{hebrew}
+
+% Define fonts (https://tug.org/FontCatalogue/)
+% \babelfont{rm}{Linux Libertine}
+% \babelfont{sf}{Linux Biolinum}
+% \babelfont{tt}{Inconsolata}
+
+\babelfont[*arabic]{rm}{Noto Naskh Arabic}
+\babelfont[*hebrew]{rm}{Noto Serif Hebrew}
+\babelfont[*devanagari]{rm}[Renderer=Harfbuzz]{Noto Serif Devanagari} 
+
+% Settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
+
+% % East Asian scripts
+% \usepackage{kotex} % Support for KR, JP, limited TC, no SC 
+% % \setmainhangulfont{Noto Serif CJK KR} % Only works on Overleaf, not locally!
+% \setmainhangulfont[
+    % Path=./fonts/,
+    % Extension = .otf,
+    % UprightFont=*-Medium,
+    % BoldFont=*-Bold
+    % ]{NotoSerifKR}
+
+% Other scripts
+% \newfontfamily{\cuneiformfont}[
+%     Path=./fonts/,
+%     Extension = .otf,
+%     UprightFont=*-Regular,
+%     ]{NotoSansCuneiform}
+
+% \newfontfamily{\javanesefont}[
+%     Path=./fonts/,
+%     Extension = .ttf,
+%     ]{Javatext}
+
+% \newfontfamily{\khmerfont}[
+%     Path=./fonts/,
+%     Extension = .otf,
+%     UprightFont=*-Regular,
+%     ]{NotoSerifKhmer}
+
+% \newfontfamily{\linearbfont}[
+%     Path=./fonts/,
+%     Extension = .otf,
+%     UprightFont=*-Regular,
+%     ]{NotoSansLinearB}
+
+\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
+% \newfontfamily{\traditionalchinesefont}[
+%     Path=./fonts/,
+%     Extension = .otf,
+%     UprightFont=*-Regular,
+%     BoldFont=*-Bold,
+%     ]{NotoSerifTC}
+
+% \newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
+
+% Commands to use the scripts
+% \newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
+% \newcommand{\cu}[1]{\cuneiformfont{#1}\rmfamily}
+% \newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
+% \newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
+% \newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
+
+\newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
+
+
+
+% Keywords command
+\providecommand{\keywords}[1]{\small\noindent\textbf{\textit{Keywords ---}}#1}
+
+% ORCiD
+\definecolor{orcid}{HTML}{A6CE39}
+\usepackage{academicons}
+\newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor{orcid}{\aiOrcid}}}
+
+% Affiliation
+\newcommand{\footremember}[2]{%
+    \footnote{#2}
+    \newcounter{#1}
+    \setcounter{#1}{\value{footnote}}%
+}
+\newcommand{\footrecall}[1]{%
+    \footnotemark[\value{#1}]%
+} 
+
+% Title, author, date
+\title{The Linguistic Genealogies of Cinnamon: A Story of Spice Diffusion and \textit{Wanderwort} Propagation}
+\author{Gábor Parti {\small\orcid{0000-0003-2042-4655}}}
+% \author{Gábor Parti\footremember{aff}{The Hong Kong Polytechnic University}~{\small\orcid{0000-0003-2042-4655}}}
+\date{The Hong Kong Polytechnic University\\[2.5ex]\today}
+% \date{\small\today}
+
+\begin{document}
+
+\setlength{\tabcolsep}{2pt} % Change table padding
+
+\maketitle
+
+\begin{abstract}
+    Abstract
+\end{abstract}
+
+\noindent{\small\textbf{Keywords --- } 1, 2, 3}
+
+\section{Introduction}
+
+Tests:
+
+Normal text: Hello world!
+
+Italic text: \textit{Hello world!}
+
+Bold text: \textbf{Hello world!}
+
+Bold-italic text: \textbf{\textit{Hello world!}}
+
+Small caps text: \textsc{Hello world!}
+
+Capitalized text: \MakeUppercase{Hello world!}
+
+Supercript text: Hello\textsuperscript{world!}
+
+Underlined text: \ul{Hello world!}
+
+Strikethrough text: \st{Hello world!}
+
+Highlight text: \hl{Hello world!}
+
+
+
+Greek font: Γεια σας
+
+Cyrillic font: Здраво
+
+Arabic font: السلام عليكم
+
+Hebrew font: שלום
+
+Sanskrit font: नमस्ते
+
+Traditional Chinese font: \tc{你好}
+
+Korean font: 안녕하세요
+
+Japanese font: こんにちは
+
+
+
+
+
+% Sure! Your proposed academic paper sounds fascinating, exploring the etymological genealogies of cinnamon and comparing the spread of the names "tea" and "chai" through sea and land routes. To structure your paper effectively, you can follow these steps:
+
+%     Introduction:
+%         Provide an overview of the topic, highlighting the significance of studying the etymology of spices like cinnamon and tea in the context of linguistics and digital humanities.
+%         Explain the relevance of comparing the spread of tea's names ("tea" and "chai") based on different transportation routes.
+%         State your research objectives and outline the structure of the paper.
+
+%     Literature Review:
+%         Review existing literature on the history and origins of cinnamon and tea, focusing on linguistic research, historical accounts, and digital humanities approaches.
+%         Discuss previous studies on the etymology of cinnamon and its names in various languages, as well as the evolution of the names for tea ("tea" and "chai") in different regions.
+
+%     Methodology:
+%         Explain the methods you will employ to investigate the etymology of cinnamon and tea names.
+%         Discuss how you will collect data on the distribution of cinnamon's names in various languages and the spread of "tea" and "chai" based on sea and land routes.
+%         Clarify the linguistic and digital humanities tools or databases you will use in your research.
+
+%     Etymology and Distribution of Cinnamon's Names:
+%         Present an in-depth analysis of the etymological history of the word "cinnamon" and its variations in different languages.
+%         Trace the spread of cinnamon and its name through historical trade routes and cultural exchanges.
+
+%     Comparative Analysis of "Tea" and "Chai":
+%         Explore the linguistic origins of the words "tea" and "chai," including their histories and regional variations.
+%         Compare the spread of these names based on sea routes (e.g., through European maritime trade) and land routes (e.g., through the Silk Road).
+
+%     Digital Humanities Approaches:
+%         Discuss the digital tools and computational methods used in your research to analyze language data and historical patterns.
+%         Evaluate the benefits and limitations of employing digital humanities techniques in linguistic research.
+
+%     Case Studies:
+%         Present specific case studies or examples that illustrate the findings from your research.
+%         Analyze the distribution of cinnamon's names in selected languages and regions, considering the historical contexts of trade and cultural interactions.
+
+%     Discussion and Interpretation:
+%         Interpret the results of your research and discuss the implications of your findings.
+%         Explore the cultural and historical significance of cinnamon and tea, as reflected in their linguistic representations.
+
+%     Conclusion:
+%         Summarize the key points of your paper and restate the main findings.
+%         Discuss the broader implications of your research for the fields of linguistics and digital humanities.
+%         Suggest potential avenues for further research in this area.
+
+%     References:
+%         Provide a comprehensive list of the sources you cited throughout the paper, following the appropriate citation style (e.g., APA, MLA).
+
+% Remember to maintain a clear and coherent flow in your paper, using headings and subheadings to organize the content. Good luck with your academic paper!
+
+
+
+
+
+
+
+
+% Cinnamon is a spice, well-known around the world for its sweet aroma and flavour, obtained from trees in the \textit{Cinnamomum} genus. In fact, cinnamon does not come from just one tree, it is acquired from the inner barks of multiple species. During its several thousand years history of human use and consumption across various cultures, knowledge and understanding regarding the origins of this once highly prized product often pertained to confusion and mystery. 
+
+% One of the reasons for this perplexity, is that cinnamon was, and still is often confused with cassia. Evidently, the two products have a high degree of resemblance and their methods of procurement are identical -- they are essentially the two main varieties of a tropical evergreen plant: \textit{Cinnamomum verum} J.Presl\footnote{http://powo.science.kew.org/taxon/463752-1}, literally "true cinnamon" (also known as \textit{C. zeylanicum} Blume "Ceylon cinnamon") and \textit{Cinnamomum cassia} (L.) J.Presl\footnote{http://powo.science.kew.org/taxon/77109079-1; http://www.theplantlist.org/tpl1.1/record/kew-2721201} "Cassia cinnamon*" (also known as \textit{C. aromaticum} among other names.
+
+% It is hard to navigate between the hundreds of species and subspecies of cinnamon and their overlapping botanical taxons and binomial synonyms, \textit{C. verum} for example has 51 botanical synonyms, mainly a result of botanical history and competing naturalists. The main difference between the two species (besides certain varying characteristics of taste) are geographic. Cinnamon is native to Ceylon (Sri Lanka), while cassia originates from southern China, therefore often called "Chinese cinnamon" and "Chinese cassia". We believe it is impossible to discuss cinnamon without discussing cassia as well, since the two are often interchanged (in discourse, and in the kitchen), and the term cinnamon sometimes refers to species of both cinnamon and cassia. Besides the two main varieties mentioned above, there are many other popular species in the \textit{Cinnamomum} genus, including Indonesian cinnamon (\textit{C. burmanni}\footnote{http://powo.science.kew.org/taxon/463328-1}) and Saigon cinnamon or Vietnamese cinnamon (\textit{C. loureiroi}\footnote{http://powo.science.kew.org/taxon/463519-1}). over 200 accepted species are listed in the database of Plants of the World Online (POWO).
+
+% \begin{figure}
+% \centering
+% \includegraphics[width=8.5cm]{imgs/Cinnamomum.png}
+% \caption{Habitat of the genus \textit{Cinnamomum}: Tropical \& Subtropical Asia to W. Pacific; green=native, purple=introduced \cite{POWO}}
+% \end{figure}
+
+
+
+
+% The aim of this article is to dispel some of this uncertainty from a historical and linguistic perspective, while trying to give an account of etymological knowledge in several languages.
+
+% \section{Cinnamon and Cassia (litrev)}
+% Cinnamon is one of the ``oldest'' spices we use.
+
+
+
+\end{document}
