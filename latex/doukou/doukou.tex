@@ -41,8 +41,7 @@
 ]{biblatex}
 % \DefineBibliographyStrings{american}{
 %     backrefpage={Cited on p.},
-%     backrefpages={Cited on pp.}
-% }
+%     backrefpages={Cited on pp.}}
 \apptocmd{\sloppy}{\hbadness 10000\relax}{}{}
 \appto{\bibsetup}{\sloppy}
 \DeclareFieldFormat{apacase}{#1} % Title casing in APA
@@ -50,6 +49,7 @@
 
 \addbibresource{parti.bib} %
 % \addbibresource{joo.bib} %
+
 
 
 % Languages, scripts, and fonts
@@ -111,6 +111,7 @@
     Path=./fonts/,
     Extension = .otf,
     UprightFont=*-Regular,
+    BoldFont=*-Bold,
     ]{NotoSerifTC}
 
 \newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
@@ -122,6 +123,8 @@
 \newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
 \newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
 \newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
+
+
 
 % Keywords command
 \providecommand{\keywords}[1]{\small\noindent\textbf{\textit{Keywords ---}}#1}
