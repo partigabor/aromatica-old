@@ -73,8 +73,8 @@
 % Settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
 
 % % East Asian scripts
-% \usepackage{kotex} % Support for KR, JP, limited TC, no SC 
-% % \setmainhangulfont{Noto Serif CJK KR} % Only works on Overleaf, not locally!
+\usepackage{kotex} 
+\setmainhangulfont{Noto Serif KR} % Support for KR, JP, limited TC, no SC 
 % \setmainhangulfont[
     % Path=./fonts/,
     % Extension = .otf,
@@ -82,48 +82,37 @@
     % BoldFont=*-Bold
     % ]{NotoSerifKR}
 
-% Other scripts
-% \newfontfamily{\cuneiformfont}[
-%     Path=./fonts/,
-%     Extension = .otf,
-%     UprightFont=*-Regular,
-%     ]{NotoSansCuneiform}
+\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
 
+% % Other scripts
 % \newfontfamily{\javanesefont}[
+%     Scale=1.0,
 %     Path=./fonts/,
 %     Extension = .ttf,
 %     ]{Javatext}
 
-% \newfontfamily{\khmerfont}[
+% \newfontfamily{\javanesefont}[
 %     Path=./fonts/,
 %     Extension = .otf,
 %     UprightFont=*-Regular,
-%     ]{NotoSerifKhmer}
+%     ]{NotoSansJavanese}
 
-% \newfontfamily{\linearbfont}[
-%     Path=./fonts/,
-%     Extension = .otf,
-%     UprightFont=*-Regular,
-%     ]{NotoSansLinearB}
+\newfontfamily{\javanesefont}{Noto Sans Javanese}
+\newfontfamily{\cuneiformfont}{Noto Sans Cuneiform}
+\newfontfamily{\linearbfont}{Noto Sans Linear B}
 
-\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
-% \newfontfamily{\traditionalchinesefont}[
-%     Path=./fonts/,
-%     Extension = .otf,
-%     UprightFont=*-Regular,
-%     BoldFont=*-Bold,
-%     ]{NotoSerifTC}
+\newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
+\newfontfamily{\khmerfont}[Script=Khmer]{Noto Serif Khmer}
 
-% \newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
+
 
 % Commands to use the scripts
-% \newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
-% \newcommand{\cu}[1]{\cuneiformfont{#1}\rmfamily}
-% \newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
-% \newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
-% \newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
-
 \newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
+\newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
+\newcommand{\cu}[1]{\cuneiformfont{#1}\rmfamily}
+\newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
+\newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
+\newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
 
 
 
@@ -135,16 +124,6 @@
 \usepackage{academicons}
 \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor{orcid}{\aiOrcid}}}
 
-% Affiliation
-\newcommand{\footremember}[2]{%
-    \footnote{#2}
-    \newcounter{#1}
-    \setcounter{#1}{\value{footnote}}%
-}
-\newcommand{\footrecall}[1]{%
-    \footnotemark[\value{#1}]%
-} 
-
 % Title, author, date
 \title{The Linguistic Genealogies of Cinnamon: A Story of Spice Diffusion and \textit{Wanderwort} Propagation}
 \author{Gábor Parti {\small\orcid{0000-0003-2042-4655}}}
@@ -154,7 +133,7 @@
 
 \begin{document}
 
-\setlength{\tabcolsep}{2pt} % Change table padding
+% \setlength{\tabcolsep}{2pt} % Change table padding
 
 \maketitle
 
@@ -165,48 +144,6 @@
 \noindent{\small\textbf{Keywords --- } 1, 2, 3}
 
 \section{Introduction}
-
-Tests:
-
-Normal text: Hello world!
-
-Italic text: \textit{Hello world!}
-
-Bold text: \textbf{Hello world!}
-
-Bold-italic text: \textbf{\textit{Hello world!}}
-
-Small caps text: \textsc{Hello world!}
-
-Capitalized text: \MakeUppercase{Hello world!}
-
-Supercript text: Hello\textsuperscript{world!}
-
-Underlined text: \ul{Hello world!}
-
-Strikethrough text: \st{Hello world!}
-
-Highlight text: \hl{Hello world!}
-
-
-
-Greek font: Γεια σας
-
-Cyrillic font: Здраво
-
-Arabic font: السلام عليكم
-
-Hebrew font: שלום
-
-Sanskrit font: नमस्ते
-
-Traditional Chinese font: \tc{你好}
-
-Korean font: 안녕하세요
-
-Japanese font: こんにちは
-
-
 
 
 
