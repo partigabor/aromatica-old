@@ -1,0 +1,3324 @@
+{
+  "data": [
+    {
+      "customdata": [
+        [
+          "kaneel",
+          "Afrikaans",
+          "Indo-European",
+          "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+          30.0,
+          -22.0,
+          "canela"
+        ],
+        [
+          "kaneel",
+          "Estonian",
+          "Uralic",
+          "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+          25.82,
+          58.55,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Faroese",
+          "Indo-European",
+          "kanel \u003ci\u003e\u003c\u002fi\u003e",
+          -6.88497,
+          62.0732,
+          "canela"
+        ],
+        [
+          "kaneli",
+          "Finnish",
+          "Uralic",
+          "kaneli \u003ci\u003e\u003c\u002fi\u003e",
+          25.5577,
+          64.7628,
+          "canela"
+        ],
+        [
+          "cannelle",
+          "French",
+          "Indo-European",
+          "cannelle \u003ci\u003e\u003c\u002fi\u003e",
+          2.0,
+          48.0,
+          "canela"
+        ],
+        [
+          "caineal",
+          "Scottish Gaelic",
+          "Indo-European",
+          "caineal \u003ci\u003e\u003c\u002fi\u003e",
+          -5.24366,
+          56.7574,
+          "canela"
+        ],
+        [
+          "canela",
+          "Galician",
+          "Indo-European",
+          "canela \u003ci\u003e\u003c\u002fi\u003e",
+          -7.5343,
+          42.2446,
+          "canela"
+        ],
+        [
+          "Kaneel",
+          "German",
+          "Indo-European",
+          "Kaneel \u003ci\u003e\u003c\u002fi\u003e",
+          12.4676,
+          48.649,
+          "canela"
+        ],
+        [
+          "\u03ba\u03b1\u03bd\u03ad\u03bb\u03b1",
+          "Modern Greek",
+          "Indo-European",
+          "\u03ba\u03b1\u03bd\u03ad\u03bb\u03b1 \u003ci\u003ekan\u00e9la\u003c\u002fi\u003e",
+          23.13,
+          38.36,
+          "canela"
+        ],
+        [
+          "kanell",
+          "Icelandic",
+          "Indo-European",
+          "kanell \u003ci\u003e\u003c\u002fi\u003e",
+          -19.0212,
+          63.4837,
+          "canela"
+        ],
+        [
+          "cain\u00e9al",
+          "Irish",
+          "Indo-European",
+          "cain\u00e9al \u003ci\u003e\u003c\u002fi\u003e",
+          -7.61509,
+          53.2186,
+          "canela"
+        ],
+        [
+          "cannella",
+          "Italian",
+          "Indo-European",
+          "cannella \u003ci\u003e\u003c\u002fi\u003e",
+          12.6489,
+          43.0464,
+          "canela"
+        ],
+        [
+          "kan\u00e9la",
+          "Kabuverdianu",
+          "Indo-European",
+          "kan\u00e9la \u003ci\u003e\u003c\u002fi\u003e",
+          -23.6148,
+          15.0586,
+          "canela"
+        ],
+        [
+          "Kaneel",
+          "Low German",
+          "Indo-European",
+          "Kaneel \u003ci\u003e\u003c\u002fi\u003e",
+          null,
+          null,
+          "canela"
+        ],
+        [
+          "kanelina",
+          "Plateau Malagasy",
+          "Austronesian",
+          "kanelina \u003ci\u003e\u003c\u002fi\u003e",
+          47.1211,
+          -19.5907,
+          "canela"
+        ],
+        [
+          "kannella",
+          "Maltese",
+          "Afro-Asiatic",
+          "kannella \u003ci\u003e\u003c\u002fi\u003e",
+          14.4508,
+          35.8884,
+          "canela"
+        ],
+        [
+          "cannelle",
+          "Anglo-Norman",
+          "Indo-European",
+          "cannelle \u003ci\u003e\u003c\u002fi\u003e",
+          -1.0,
+          51.0,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Norwegian",
+          "Indo-European",
+          "kanel \u003ci\u003e\u003c\u002fi\u003e",
+          10.71,
+          59.92,
+          "canela"
+        ],
+        [
+          "can\u00e8la",
+          "Occitan",
+          "Indo-European",
+          "can\u00e8la \u003ci\u003e\u003c\u002fi\u003e",
+          6.82979,
+          44.1415,
+          "canela"
+        ],
+        [
+          "canela",
+          "Portuguese",
+          "Indo-European",
+          "canela \u003ci\u003e\u003c\u002fi\u003e",
+          -8.1,
+          39.91,
+          "canela"
+        ],
+        [
+          "canela",
+          "Spanish",
+          "Indo-European",
+          "canela \u003ci\u003e\u003c\u002fi\u003e",
+          -1.11788,
+          40.4414,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Swedish",
+          "Indo-European",
+          "kanel \u003ci\u003e\u003c\u002fi\u003e",
+          17.389526,
+          59.800634,
+          "canela"
+        ],
+        [
+          "kanela",
+          "Tagalog",
+          "Austronesian",
+          "kanela \u003ci\u003e\u003c\u002fi\u003e",
+          121.747,
+          14.06,
+          "canela"
+        ],
+        [
+          "canela",
+          "Venetian",
+          "Indo-European",
+          "canela \u003ci\u003e\u003c\u002fi\u003e",
+          12.214167,
+          45.503581,
+          "canela"
+        ],
+        [
+          "kaneel",
+          "Dutch",
+          "Indo-European",
+          "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+          5.0,
+          52.0,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Danish",
+          "Indo-European",
+          "kanel \u003ci\u003e\u003c\u002fi\u003e",
+          9.36284,
+          54.8655,
+          "canela"
+        ],
+        [
+          "kan\u0113lis",
+          "Latvian",
+          "Indo-European",
+          "kan\u0113lis \u003ci\u003e\u003c\u002fi\u003e",
+          24.309118,
+          56.826108,
+          "canela"
+        ],
+        [
+          "kanell\u00eb",
+          "Northern Tosk Albanian",
+          "Indo-European",
+          "kanell\u00eb \u003ci\u003e\u003c\u002fi\u003e",
+          20.0,
+          41.0,
+          "canela"
+        ],
+        [
+          "kanela",
+          "Basque",
+          null,
+          "kanela \u003ci\u003e\u003c\u002fi\u003e",
+          -1.31622,
+          43.2787,
+          "canela"
+        ],
+        [
+          "kanela",
+          "Coastal-Naga Bikol",
+          "Austronesian",
+          "kanela \u003ci\u003e\u003c\u002fi\u003e",
+          123.403,
+          13.7574,
+          "canela"
+        ],
+        [
+          "kanell",
+          "Breton",
+          "Indo-European",
+          "kanell \u003ci\u003e\u003c\u002fi\u003e",
+          -3.78934,
+          48.2452,
+          "canela"
+        ],
+        [
+          "canella",
+          "Catalan",
+          "Indo-European",
+          "canella \u003ci\u003e\u003c\u002fi\u003e",
+          1.569,
+          41.453,
+          "canela"
+        ],
+        [
+          "\u043a\u0430\u043d\u0435\u0301\u043b\u0430",
+          "Bulgarian",
+          "Indo-European",
+          "\u043a\u0430\u043d\u0435\u0301\u043b\u0430 \u003ci\u003ekan\u00e9la\u003c\u002fi\u003e",
+          25.047,
+          43.3646,
+          "canela"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "kaneli \u003ci\u003e\u003c\u002fi\u003e",
+        "cannelle \u003ci\u003e\u003c\u002fi\u003e",
+        "caineal \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "Kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "\u03ba\u03b1\u03bd\u03ad\u03bb\u03b1 \u003ci\u003ekan\u00e9la\u003c\u002fi\u003e",
+        "kanell \u003ci\u003e\u003c\u002fi\u003e",
+        "cain\u00e9al \u003ci\u003e\u003c\u002fi\u003e",
+        "cannella \u003ci\u003e\u003c\u002fi\u003e",
+        "kan\u00e9la \u003ci\u003e\u003c\u002fi\u003e",
+        "Kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanelina \u003ci\u003e\u003c\u002fi\u003e",
+        "kannella \u003ci\u003e\u003c\u002fi\u003e",
+        "cannelle \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "can\u00e8la \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanela \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "kan\u0113lis \u003ci\u003e\u003c\u002fi\u003e",
+        "kanell\u00eb \u003ci\u003e\u003c\u002fi\u003e",
+        "kanela \u003ci\u003e\u003c\u002fi\u003e",
+        "kanela \u003ci\u003e\u003c\u002fi\u003e",
+        "kanell \u003ci\u003e\u003c\u002fi\u003e",
+        "canella \u003ci\u003e\u003c\u002fi\u003e",
+        "\u043a\u0430\u043d\u0435\u0301\u043b\u0430 \u003ci\u003ekan\u00e9la\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        -22.0,
+        58.55,
+        62.0732,
+        64.7628,
+        48.0,
+        56.7574,
+        42.2446,
+        48.649,
+        38.36,
+        63.4837,
+        53.2186,
+        43.0464,
+        15.0586,
+        null,
+        -19.5907,
+        35.8884,
+        51.0,
+        59.92,
+        44.1415,
+        39.91,
+        40.4414,
+        59.800634,
+        14.06,
+        45.503581,
+        52.0,
+        54.8655,
+        56.826108,
+        41.0,
+        43.2787,
+        13.7574,
+        48.2452,
+        41.453,
+        43.3646
+      ],
+      "legendgroup": "canela",
+      "lon": [
+        30.0,
+        25.82,
+        -6.88497,
+        25.5577,
+        2.0,
+        -5.24366,
+        -7.5343,
+        12.4676,
+        23.13,
+        -19.0212,
+        -7.61509,
+        12.6489,
+        -23.6148,
+        null,
+        47.1211,
+        14.4508,
+        -1.0,
+        10.71,
+        6.82979,
+        -8.1,
+        -1.11788,
+        17.389526,
+        121.747,
+        12.214167,
+        5.0,
+        9.36284,
+        24.309118,
+        20.0,
+        -1.31622,
+        123.403,
+        -3.78934,
+        1.569,
+        25.047
+      ],
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "canela",
+      "showlegend": true,
+      "text": [
+        "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "kaneli \u003ci\u003e\u003c\u002fi\u003e",
+        "cannelle \u003ci\u003e\u003c\u002fi\u003e",
+        "caineal \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "Kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "\u03ba\u03b1\u03bd\u03ad\u03bb\u03b1 \u003ci\u003ekan\u00e9la\u003c\u002fi\u003e",
+        "kanell \u003ci\u003e\u003c\u002fi\u003e",
+        "cain\u00e9al \u003ci\u003e\u003c\u002fi\u003e",
+        "cannella \u003ci\u003e\u003c\u002fi\u003e",
+        "kan\u00e9la \u003ci\u003e\u003c\u002fi\u003e",
+        "Kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanelina \u003ci\u003e\u003c\u002fi\u003e",
+        "kannella \u003ci\u003e\u003c\u002fi\u003e",
+        "cannelle \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "can\u00e8la \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanela \u003ci\u003e\u003c\u002fi\u003e",
+        "canela \u003ci\u003e\u003c\u002fi\u003e",
+        "kaneel \u003ci\u003e\u003c\u002fi\u003e",
+        "kanel \u003ci\u003e\u003c\u002fi\u003e",
+        "kan\u0113lis \u003ci\u003e\u003c\u002fi\u003e",
+        "kanell\u00eb \u003ci\u003e\u003c\u002fi\u003e",
+        "kanela \u003ci\u003e\u003c\u002fi\u003e",
+        "kanela \u003ci\u003e\u003c\u002fi\u003e",
+        "kanell \u003ci\u003e\u003c\u002fi\u003e",
+        "canella \u003ci\u003e\u003c\u002fi\u003e",
+        "\u043a\u0430\u043d\u0435\u0301\u043b\u0430 \u003ci\u003ekan\u00e9la\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u2c9b\u2c81\u2c99\u2c9b\u2c9f\u2c9b",
+          "Coptic",
+          "Afro-Asiatic",
+          "\u2c9b\u2c81\u2c99\u2c9b\u2c9f\u2c9b \u003ci\u003enamnon\u003c\u002fi\u003e",
+          31.2053,
+          29.472,
+          "kinnamon"
+        ],
+        [
+          "\u30b7\u30ca\u30e2\u30f3",
+          "Japanese",
+          "Japonic",
+          "\u30b7\u30ca\u30e2\u30f3 \u003ci\u003eshinamon\u003c\u002fi\u003e",
+          135.0,
+          35.0,
+          "kinnamon"
+        ],
+        [
+          "\uc2dc\ub098\ubaac",
+          "Korean",
+          "kore1284",
+          "\uc2dc\ub098\ubaac \u003ci\u003esinamon\u003c\u002fi\u003e",
+          126.98,
+          37.54,
+          "kinnamon"
+        ],
+        [
+          "cinnam\u014dmum",
+          "Latin",
+          "Indo-European",
+          "cinnam\u014dmum \u003ci\u003e\u003c\u002fi\u003e",
+          12.4502,
+          41.9026,
+          "kinnamon"
+        ],
+        [
+          "cinnamum",
+          "Latin",
+          "Indo-European",
+          "cinnamum \u003ci\u003e\u003c\u002fi\u003e",
+          12.4502,
+          41.9026,
+          "kinnamon"
+        ],
+        [
+          "synamon",
+          "Welsh",
+          "Indo-European",
+          "synamon \u003ci\u003e\u003c\u002fi\u003e",
+          -4.0,
+          52.0,
+          "kinnamon"
+        ],
+        [
+          "cinamonas",
+          "Lithuanian",
+          "Indo-European",
+          "cinamonas \u003ci\u003e\u003c\u002fi\u003e",
+          23.9601,
+          55.1429,
+          "kinnamon"
+        ],
+        [
+          "cymt",
+          "Lower Sorbian",
+          "Indo-European",
+          "cymt \u003ci\u003e\u003c\u002fi\u003e",
+          13.9407,
+          51.6621,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u0438\u043c\u0435\u0442",
+          "Macedonian",
+          "Indo-European",
+          "\u0446\u0438\u043c\u0435\u0442 \u003ci\u003ecimet\u003c\u002fi\u003e",
+          21.7932,
+          41.5957,
+          "kinnamon"
+        ],
+        [
+          "\u010binnamonu",
+          "Maltese",
+          "Afro-Asiatic",
+          "\u010binnamonu \u003ci\u003e\u003c\u002fi\u003e",
+          14.4508,
+          35.8884,
+          "kinnamon"
+        ],
+        [
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0576",
+          "Western Armenian",
+          "Indo-European",
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0576 \u003ci\u003eginamon\u003c\u002fi\u003e",
+          44.4839,
+          40.1897,
+          "kinnamon"
+        ],
+        [
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0574\u0578\u0576",
+          "Classical-Middle Armenian",
+          "Indo-European",
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0574\u0578\u0576 \u003ci\u003ekinamomon\u003c\u002fi\u003e",
+          41.346422,
+          38.592316,
+          "kinnamon"
+        ],
+        [
+          "cynamon",
+          "Polish",
+          "Indo-European",
+          "cynamon \u003ci\u003e\u003c\u002fi\u003e",
+          18.6255,
+          51.8439,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u0438\u043c\u0435\u0442",
+          "Serbian-Croatian-Bosnian",
+          "Indo-European",
+          "\u0446\u0438\u043c\u0435\u0442 \u003ci\u003ecimet\u003c\u002fi\u003e",
+          18.81,
+          44.15,
+          "kinnamon"
+        ],
+        [
+          "cimet",
+          "Slovenian",
+          "Indo-European",
+          "cimet \u003ci\u003e\u003c\u002fi\u003e",
+          14.7766,
+          46.2543,
+          "kinnamon"
+        ],
+        [
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0576",
+          "Eastern Armenian",
+          "Indo-European",
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0576 \u003ci\u003ekinamon\u003c\u002fi\u003e",
+          45.0,
+          40.0,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u0438\u043d\u0430\u043c\u043e\u0301\u043d ",
+          "Ukrainian",
+          "Indo-European",
+          "\u0446\u0438\u043d\u0430\u043c\u043e\u0301\u043d  \u003ci\u003ecynam\u00f3n\u003c\u002fi\u003e",
+          29.945,
+          49.796,
+          "kinnamon"
+        ],
+        [
+          "cymt",
+          "Upper Sorbian",
+          "Indo-European",
+          "cymt \u003ci\u003e\u003c\u002fi\u003e",
+          14.4098,
+          51.2403,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u044b\u043d\u0430\u043c\u043e\u0301\u043d",
+          "Belarusian",
+          "Indo-European",
+          "\u0446\u044b\u043d\u0430\u043c\u043e\u0301\u043d \u003ci\u003ecynam\u00f3n\u003c\u002fi\u003e",
+          25.6038,
+          53.2307,
+          "kinnamon"
+        ],
+        [
+          "\u05e7\u05b4\u05e0\u05b8\u05bc\u05de\u05d5\u05b9\u05df",
+          "Modern Hebrew",
+          "Afro-Asiatic",
+          "\u05e7\u05b4\u05e0\u05b8\u05bc\u05de\u05d5\u05b9\u05df \u003ci\u003eqinn\u0101m\u1e53n\u003c\u002fi\u003e",
+          35.0179,
+          31.1056,
+          "kinnamon"
+        ],
+        [
+          "hinamona",
+          "Maori",
+          "Austronesian",
+          "hinamona \u003ci\u003e\u003c\u002fi\u003e",
+          176.541,
+          -38.2881,
+          "kinnamon"
+        ],
+        [
+          "\u05e6\u05d9\u05de\u05e2\u05e8\u05d9\u05e0\u05d2",
+          "Eastern Yiddish",
+          "Indo-European",
+          "\u05e6\u05d9\u05de\u05e2\u05e8\u05d9\u05e0\u05d2 \u003ci\u003etsimering\u003c\u002fi\u003e",
+          19.42,
+          51.75,
+          "kinnamon"
+        ],
+        [
+          "Zimt",
+          "German",
+          "Indo-European",
+          "Zimt \u003ci\u003e\u003c\u002fi\u003e",
+          12.4676,
+          48.649,
+          "kinnamon"
+        ],
+        [
+          "\u1245\u1293\u121e\u1219",
+          "Geez",
+          "Afro-Asiatic",
+          "\u1245\u1293\u121e\u1219 \u003ci\u003eq\u0259n\u0101momu\u003c\u002fi\u003e",
+          40.6821,
+          10.1342,
+          "kinnamon"
+        ],
+        [
+          "\u05e7\u05d9\u05e0\u05de\u05d5\u05df",
+          "Modern Hebrew",
+          "Afro-Asiatic",
+          "\u05e7\u05d9\u05e0\u05de\u05d5\u05df \u003ci\u003ekinam\u00f3n\u003c\u002fi\u003e",
+          35.0179,
+          31.1056,
+          "kinnamon"
+        ],
+        [
+          "cinnamon",
+          "English",
+          "Indo-European",
+          "cinnamon \u003ci\u003e\u003c\u002fi\u003e",
+          -1.0,
+          53.0,
+          "kinnamon"
+        ],
+        [
+          "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd",
+          "Ionic-Attic Ancient Greek",
+          "Indo-European",
+          "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd \u003ci\u003ekinn\u00e1m\u014dmon\u003c\u002fi\u003e",
+          21.9129,
+          39.8155,
+          "kinnamon"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "\u2c9b\u2c81\u2c99\u2c9b\u2c9f\u2c9b \u003ci\u003enamnon\u003c\u002fi\u003e",
+        "\u30b7\u30ca\u30e2\u30f3 \u003ci\u003eshinamon\u003c\u002fi\u003e",
+        "\uc2dc\ub098\ubaac \u003ci\u003esinamon\u003c\u002fi\u003e",
+        "cinnam\u014dmum \u003ci\u003e\u003c\u002fi\u003e",
+        "cinnamum \u003ci\u003e\u003c\u002fi\u003e",
+        "synamon \u003ci\u003e\u003c\u002fi\u003e",
+        "cinamonas \u003ci\u003e\u003c\u002fi\u003e",
+        "cymt \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0446\u0438\u043c\u0435\u0442 \u003ci\u003ecimet\u003c\u002fi\u003e",
+        "\u010binnamonu \u003ci\u003e\u003c\u002fi\u003e",
+        "\u056f\u056b\u0576\u0561\u0574\u0578\u0576 \u003ci\u003eginamon\u003c\u002fi\u003e",
+        "\u056f\u056b\u0576\u0561\u0574\u0578\u0574\u0578\u0576 \u003ci\u003ekinamomon\u003c\u002fi\u003e",
+        "cynamon \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0446\u0438\u043c\u0435\u0442 \u003ci\u003ecimet\u003c\u002fi\u003e",
+        "cimet \u003ci\u003e\u003c\u002fi\u003e",
+        "\u056f\u056b\u0576\u0561\u0574\u0578\u0576 \u003ci\u003ekinamon\u003c\u002fi\u003e",
+        "\u0446\u0438\u043d\u0430\u043c\u043e\u0301\u043d  \u003ci\u003ecynam\u00f3n\u003c\u002fi\u003e",
+        "cymt \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0446\u044b\u043d\u0430\u043c\u043e\u0301\u043d \u003ci\u003ecynam\u00f3n\u003c\u002fi\u003e",
+        "\u05e7\u05b4\u05e0\u05b8\u05bc\u05de\u05d5\u05b9\u05df \u003ci\u003eqinn\u0101m\u1e53n\u003c\u002fi\u003e",
+        "hinamona \u003ci\u003e\u003c\u002fi\u003e",
+        "\u05e6\u05d9\u05de\u05e2\u05e8\u05d9\u05e0\u05d2 \u003ci\u003etsimering\u003c\u002fi\u003e",
+        "Zimt \u003ci\u003e\u003c\u002fi\u003e",
+        "\u1245\u1293\u121e\u1219 \u003ci\u003eq\u0259n\u0101momu\u003c\u002fi\u003e",
+        "\u05e7\u05d9\u05e0\u05de\u05d5\u05df \u003ci\u003ekinam\u00f3n\u003c\u002fi\u003e",
+        "cinnamon \u003ci\u003e\u003c\u002fi\u003e",
+        "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd \u003ci\u003ekinn\u00e1m\u014dmon\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        29.472,
+        35.0,
+        37.54,
+        41.9026,
+        41.9026,
+        52.0,
+        55.1429,
+        51.6621,
+        41.5957,
+        35.8884,
+        40.1897,
+        38.592316,
+        51.8439,
+        44.15,
+        46.2543,
+        40.0,
+        49.796,
+        51.2403,
+        53.2307,
+        31.1056,
+        -38.2881,
+        51.75,
+        48.649,
+        10.1342,
+        31.1056,
+        53.0,
+        39.8155
+      ],
+      "legendgroup": "kinnamon",
+      "lon": [
+        31.2053,
+        135.0,
+        126.98,
+        12.4502,
+        12.4502,
+        -4.0,
+        23.9601,
+        13.9407,
+        21.7932,
+        14.4508,
+        44.4839,
+        41.346422,
+        18.6255,
+        18.81,
+        14.7766,
+        45.0,
+        29.945,
+        14.4098,
+        25.6038,
+        35.0179,
+        176.541,
+        19.42,
+        12.4676,
+        40.6821,
+        35.0179,
+        -1.0,
+        21.9129
+      ],
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "kinnamon",
+      "showlegend": true,
+      "text": [
+        "\u2c9b\u2c81\u2c99\u2c9b\u2c9f\u2c9b \u003ci\u003enamnon\u003c\u002fi\u003e",
+        "\u30b7\u30ca\u30e2\u30f3 \u003ci\u003eshinamon\u003c\u002fi\u003e",
+        "\uc2dc\ub098\ubaac \u003ci\u003esinamon\u003c\u002fi\u003e",
+        "cinnam\u014dmum \u003ci\u003e\u003c\u002fi\u003e",
+        "cinnamum \u003ci\u003e\u003c\u002fi\u003e",
+        "synamon \u003ci\u003e\u003c\u002fi\u003e",
+        "cinamonas \u003ci\u003e\u003c\u002fi\u003e",
+        "cymt \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0446\u0438\u043c\u0435\u0442 \u003ci\u003ecimet\u003c\u002fi\u003e",
+        "\u010binnamonu \u003ci\u003e\u003c\u002fi\u003e",
+        "\u056f\u056b\u0576\u0561\u0574\u0578\u0576 \u003ci\u003eginamon\u003c\u002fi\u003e",
+        "\u056f\u056b\u0576\u0561\u0574\u0578\u0574\u0578\u0576 \u003ci\u003ekinamomon\u003c\u002fi\u003e",
+        "cynamon \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0446\u0438\u043c\u0435\u0442 \u003ci\u003ecimet\u003c\u002fi\u003e",
+        "cimet \u003ci\u003e\u003c\u002fi\u003e",
+        "\u056f\u056b\u0576\u0561\u0574\u0578\u0576 \u003ci\u003ekinamon\u003c\u002fi\u003e",
+        "\u0446\u0438\u043d\u0430\u043c\u043e\u0301\u043d  \u003ci\u003ecynam\u00f3n\u003c\u002fi\u003e",
+        "cymt \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0446\u044b\u043d\u0430\u043c\u043e\u0301\u043d \u003ci\u003ecynam\u00f3n\u003c\u002fi\u003e",
+        "\u05e7\u05b4\u05e0\u05b8\u05bc\u05de\u05d5\u05b9\u05df \u003ci\u003eqinn\u0101m\u1e53n\u003c\u002fi\u003e",
+        "hinamona \u003ci\u003e\u003c\u002fi\u003e",
+        "\u05e6\u05d9\u05de\u05e2\u05e8\u05d9\u05e0\u05d2 \u003ci\u003etsimering\u003c\u002fi\u003e",
+        "Zimt \u003ci\u003e\u003c\u002fi\u003e",
+        "\u1245\u1293\u121e\u1219 \u003ci\u003eq\u0259n\u0101momu\u003c\u002fi\u003e",
+        "\u05e7\u05d9\u05e0\u05de\u05d5\u05df \u003ci\u003ekinam\u00f3n\u003c\u002fi\u003e",
+        "cinnamon \u003ci\u003e\u003c\u002fi\u003e",
+        "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd \u003ci\u003ekinn\u00e1m\u014dmon\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u043a\u0430\u0440\u044b\u0301\u0446\u0430",
+          "Belarusian",
+          "Indo-European",
+          "\u043a\u0430\u0440\u044b\u0301\u0446\u0430 \u003ci\u003ekar\u00fdca\u003c\u002fi\u003e",
+          25.6038,
+          53.2307,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0446\u0430",
+          "Kirghiz",
+          "Turkic",
+          "\u043a\u043e\u0440\u0438\u0446\u0430 \u003ci\u003ekoritsa\u003c\u002fi\u003e",
+          74.0,
+          42.0,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0301\u0446\u0430",
+          "Russian",
+          "Indo-European",
+          "\u043a\u043e\u0440\u0438\u0301\u0446\u0430 \u003ci\u003ekor\u00edca\u003c\u002fi\u003e",
+          50.0,
+          59.0,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0301\u0446\u044f ",
+          "Ukrainian",
+          "Indo-European",
+          "\u043a\u043e\u0440\u0438\u0301\u0446\u044f  \u003ci\u003ekor\u00fdcja\u003c\u002fi\u003e",
+          29.945,
+          49.796,
+          "korica"
+        ],
+        [
+          "sko\u0159ice",
+          "Czech",
+          "Indo-European",
+          "sko\u0159ice \u003ci\u003e\u003c\u002fi\u003e",
+          15.10437,
+          49.873398,
+          "korica"
+        ],
+        [
+          "skorica",
+          "Upper Sorbian",
+          "Indo-European",
+          "skorica \u003ci\u003e\u003c\u002fi\u003e",
+          14.4098,
+          51.2403,
+          "korica"
+        ],
+        [
+          "koritsa",
+          "Northern Uzbek",
+          "Turkic",
+          "koritsa \u003ci\u003ekoritsa\u003c\u002fi\u003e",
+          69.211,
+          40.886,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0446\u0430 ",
+          "Kirghiz",
+          "Turkic",
+          "\u043a\u043e\u0440\u0438\u0446\u0430  \u003ci\u003eqoritsa\u003c\u002fi\u003e",
+          74.0,
+          42.0,
+          "korica"
+        ],
+        [
+          "\u0161korica",
+          "Slovak",
+          "Indo-European",
+          "\u0161korica \u003ci\u003e\u003c\u002fi\u003e",
+          18.78479,
+          48.545705,
+          "korica"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "\u043a\u0430\u0440\u044b\u0301\u0446\u0430 \u003ci\u003ekar\u00fdca\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0446\u0430 \u003ci\u003ekoritsa\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0301\u0446\u0430 \u003ci\u003ekor\u00edca\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0301\u0446\u044f  \u003ci\u003ekor\u00fdcja\u003c\u002fi\u003e",
+        "sko\u0159ice \u003ci\u003e\u003c\u002fi\u003e",
+        "skorica \u003ci\u003e\u003c\u002fi\u003e",
+        "koritsa \u003ci\u003ekoritsa\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0446\u0430  \u003ci\u003eqoritsa\u003c\u002fi\u003e",
+        "\u0161korica \u003ci\u003e\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        53.2307,
+        42.0,
+        59.0,
+        49.796,
+        49.873398,
+        51.2403,
+        40.886,
+        42.0,
+        48.545705
+      ],
+      "legendgroup": "korica",
+      "lon": [
+        25.6038,
+        74.0,
+        50.0,
+        29.945,
+        15.10437,
+        14.4098,
+        69.211,
+        74.0,
+        18.78479
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "korica",
+      "showlegend": true,
+      "text": [
+        "\u043a\u0430\u0440\u044b\u0301\u0446\u0430 \u003ci\u003ekar\u00fdca\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0446\u0430 \u003ci\u003ekoritsa\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0301\u0446\u0430 \u003ci\u003ekor\u00edca\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0301\u0446\u044f  \u003ci\u003ekor\u00fdcja\u003c\u002fi\u003e",
+        "sko\u0159ice \u003ci\u003e\u003c\u002fi\u003e",
+        "skorica \u003ci\u003e\u003c\u002fi\u003e",
+        "koritsa \u003ci\u003ekoritsa\u003c\u002fi\u003e",
+        "\u043a\u043e\u0440\u0438\u0446\u0430  \u003ci\u003eqoritsa\u003c\u002fi\u003e",
+        "\u0161korica \u003ci\u003e\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u1240\u1228\u134b",
+          "Amharic",
+          "Afro-Asiatic",
+          "\u1240\u1228\u134b \u003ci\u003e\u1e33\u00e4r\u00e4fa\u003c\u002fi\u003e",
+          39.543456,
+          11.708182,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0650\u0631\u0652\u0641\u064e\u0629",
+          "Standard Arabic",
+          "Afro-Asiatic",
+          "\u0642\u0650\u0631\u0652\u0641\u064e\u0629 \u003ci\u003eqirfa\u003c\u002fi\u003e",
+          43.8525,
+          27.9625,
+          "qirfa"
+        ],
+        [
+          "qorfe",
+          "Somali",
+          "Afro-Asiatic",
+          "qorfe \u003ci\u003e\u003c\u002fi\u003e",
+          45.152856,
+          4.778704,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0631\u0641\u0629",
+          "Egyptian Arabic",
+          "Afro-Asiatic",
+          "\u0642\u0631\u0641\u0629 \u003ci\u003e\u0294erfa\u003c\u002fi\u003e",
+          31.0,
+          31.0,
+          "qirfa"
+        ],
+        [
+          "qarafaa",
+          "West Central Oromo",
+          "Afro-Asiatic",
+          "qarafaa \u003ci\u003e\u003c\u002fi\u003e",
+          36.7365,
+          8.81391,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0631\u0641\u0629\u200e ",
+          "Moroccan Arabic",
+          "Afro-Asiatic",
+          "\u0642\u0631\u0641\u0629\u200e  \u003ci\u003eqarfa\u003c\u002fi\u003e",
+          -7.5,
+          32.5,
+          "qirfa"
+        ],
+        [
+          "\u1243\u122d\u134b ",
+          "Tigrinya",
+          "Afro-Asiatic",
+          "\u1243\u122d\u134b  \u003ci\u003e\u1e33arfa\u003c\u002fi\u003e",
+          38.9266,
+          15.3359,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0631\u0641\u0629\u200e ",
+          "Hijazi Arabic",
+          "Afro-Asiatic",
+          "\u0642\u0631\u0641\u0629\u200e  \u003ci\u003egirfa\u003c\u002fi\u003e",
+          38.9237,
+          22.8346,
+          "qirfa"
+        ],
+        [
+          "kirfa",
+          "Hausa",
+          "Afro-Asiatic",
+          "kirfa \u003ci\u003e\u003c\u002fi\u003e",
+          8.7804,
+          11.1513,
+          "qirfa"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "\u1240\u1228\u134b \u003ci\u003e\u1e33\u00e4r\u00e4fa\u003c\u002fi\u003e",
+        "\u0642\u0650\u0631\u0652\u0641\u064e\u0629 \u003ci\u003eqirfa\u003c\u002fi\u003e",
+        "qorfe \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0642\u0631\u0641\u0629 \u003ci\u003e\u0294erfa\u003c\u002fi\u003e",
+        "qarafaa \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0642\u0631\u0641\u0629\u200e  \u003ci\u003eqarfa\u003c\u002fi\u003e",
+        "\u1243\u122d\u134b  \u003ci\u003e\u1e33arfa\u003c\u002fi\u003e",
+        "\u0642\u0631\u0641\u0629\u200e  \u003ci\u003egirfa\u003c\u002fi\u003e",
+        "kirfa \u003ci\u003e\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        11.708182,
+        27.9625,
+        4.778704,
+        31.0,
+        8.81391,
+        32.5,
+        15.3359,
+        22.8346,
+        11.1513
+      ],
+      "legendgroup": "qirfa",
+      "lon": [
+        39.543456,
+        43.8525,
+        45.152856,
+        31.0,
+        36.7365,
+        -7.5,
+        38.9266,
+        38.9237,
+        8.7804
+      ],
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "qirfa",
+      "showlegend": true,
+      "text": [
+        "\u1240\u1228\u134b \u003ci\u003e\u1e33\u00e4r\u00e4fa\u003c\u002fi\u003e",
+        "\u0642\u0650\u0631\u0652\u0641\u064e\u0629 \u003ci\u003eqirfa\u003c\u002fi\u003e",
+        "qorfe \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0642\u0631\u0641\u0629 \u003ci\u003e\u0294erfa\u003c\u002fi\u003e",
+        "qarafaa \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0642\u0631\u0641\u0629\u200e  \u003ci\u003eqarfa\u003c\u002fi\u003e",
+        "\u1243\u122d\u134b  \u003ci\u003e\u1e33arfa\u003c\u002fi\u003e",
+        "\u0642\u0631\u0641\u0629\u200e  \u003ci\u003egirfa\u003c\u002fi\u003e",
+        "kirfa \u003ci\u003e\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u062f\u0627\u0644\u0686\u06cc\u0646\u06cc",
+          "Pashto",
+          "Indo-European",
+          "\u062f\u0627\u0644\u0686\u06cc\u0646\u06cc \u003ci\u003edolchini\u003c\u002fi\u003e",
+          null,
+          null,
+          "darchin"
+        ],
+        [
+          "\u0434\u0430\u0440\u0448\u044b\u043d ",
+          "Kazakh",
+          "Turkic",
+          "\u0434\u0430\u0440\u0448\u044b\u043d  \u003ci\u003edar\u015f\u0131n\u003c\u002fi\u003e",
+          71.454,
+          51.17,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u093f\u0928\u0940",
+          "Nepali",
+          "Indo-European",
+          "\u0926\u093e\u0932\u091a\u093f\u0928\u0940 \u003ci\u003ed\u0101lacin\u012b\u003c\u002fi\u003e",
+          85.0,
+          28.0,
+          "darchin"
+        ],
+        [
+          "\u0564\u0561\u0580\u0579\u056b\u0576",
+          "Western Armenian",
+          "Indo-European",
+          "\u0564\u0561\u0580\u0579\u056b\u0576 \u003ci\u003etarch\u02bfin\u003c\u002fi\u003e",
+          44.4839,
+          40.1897,
+          "darchin"
+        ],
+        [
+          "dar\u00e7\u00een",
+          "Northern Kurdish",
+          "Indo-European",
+          "dar\u00e7\u00een \u003ci\u003e\u003c\u002fi\u003e",
+          43.0,
+          37.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u06cc\u0646",
+          "Central Kurdish",
+          "Indo-European",
+          "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003edar\u00e7\u00een\u003c\u002fi\u003e",
+          45.8077,
+          35.6539,
+          "darchin"
+        ],
+        [
+          "\u0564\u0561\u0580\u056b\u0573\u0565\u0576\u056b\u056f",
+          "Classical-Middle Armenian",
+          "Indo-European",
+          "\u0564\u0561\u0580\u056b\u0573\u0565\u0576\u056b\u056f \u003ci\u003edari\u010denik\u003c\u002fi\u003e",
+          41.346422,
+          38.592316,
+          "darchin"
+        ],
+        [
+          "\u0b26\u0b3e\u0b32\u0b1a\u0b3f\u0b28\u0b3f",
+          "Odia",
+          "Indo-European",
+          "\u0b26\u0b3e\u0b32\u0b1a\u0b3f\u0b28\u0b3f \u003ci\u003ed\u0101lcini\u003c\u002fi\u003e",
+          85.0,
+          21.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0644\u0686\u06cc\u0646",
+          "Kashmiri",
+          "Indo-European",
+          "\u062f\u0627\u0644\u0686\u06cc\u0646 \u003ci\u003ed\u0101lch\u012bn\u003c\u002fi\u003e",
+          74.330455,
+          34.166825,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u06cc\u0646",
+          "Ottoman Turkish",
+          "Turkic",
+          "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003edar\u00e7\u0131n\u003c\u002fi\u003e",
+          32.87,
+          39.87,
+          "darchin"
+        ],
+        [
+          "\u0a26\u0a3e\u0a32\u0a1a\u0a40\u0a28\u0a40",
+          "Western Panjabi",
+          "Indo-European",
+          "\u0a26\u0a3e\u0a32\u0a1a\u0a40\u0a28\u0a40 \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+          75.3474,
+          30.0948,
+          "darchin"
+        ],
+        [
+          "\u0a26\u0a3e\u0a32\u0a3c\u0a1a\u0a40\u0a28\u0a40",
+          "Western Panjabi",
+          "Indo-European",
+          "\u0a26\u0a3e\u0a32\u0a3c\u0a1a\u0a40\u0a28\u0a40 \u003ci\u003ed\u0101\u1e37c\u012bn\u012b\u003c\u002fi\u003e",
+          75.3474,
+          30.0948,
+          "darchin"
+        ],
+        [
+          "\u0c26\u0c3e\u0c32\u0c4d\u0c1a\u0c3f\u0c28\u0c3f",
+          "Telugu",
+          "Dravidian",
+          "\u0c26\u0c3e\u0c32\u0c4d\u0c1a\u0c3f\u0c28\u0c3f \u003ci\u003ed\u0101lcini\u003c\u002fi\u003e",
+          78.7024,
+          16.4529,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u06cc\u0646",
+          "Western Farsi",
+          "Indo-European",
+          "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003ed\u00e2r\u010din\u003c\u002fi\u003e",
+          53.3,
+          32.9,
+          "darchin"
+        ],
+        [
+          "\u0ca6\u0cbe\u0cb2\u0ccd\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf ",
+          "Kannada",
+          "Dravidian",
+          "\u0ca6\u0cbe\u0cb2\u0ccd\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf  \u003ci\u003ed\u0101lcinni\u003c\u002fi\u003e",
+          76.1198,
+          13.5878,
+          "darchin"
+        ],
+        [
+          "\u0564\u0561\u0580\u0579\u056b\u0576",
+          "Eastern Armenian",
+          "Indo-European",
+          "\u0564\u0561\u0580\u0579\u056b\u0576 \u003ci\u003edar\u010d\u02bfin\u003c\u002fi\u003e",
+          45.0,
+          40.0,
+          "darchin"
+        ],
+        [
+          "\u0434\u0430\u0440\u0447\u0438\u043d",
+          "Tatar",
+          "Turkic",
+          "\u0434\u0430\u0440\u0447\u0438\u043d \u003ci\u003edar\u00e7in\u003c\u002fi\u003e",
+          49.11577,
+          55.79592,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0633\u064a\u0646\u200e ",
+          "Gulf Arabic",
+          "Afro-Asiatic",
+          "\u062f\u0627\u0631\u0633\u064a\u0646\u200e  \u003ci\u003ed\u0101rs\u012bn\u003c\u002fi\u003e",
+          47.5,
+          30.17,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0930\u0941\u0938\u093f\u0924\u093e",
+          "Sanskrit",
+          "Indo-European",
+          "\u0926\u093e\u0930\u0941\u0938\u093f\u0924\u093e \u003ci\u003ed\u0101rusit\u0101\u003c\u002fi\u003e",
+          77.0,
+          20.0,
+          "darchin"
+        ],
+        [
+          "\u05d3\u05b7\u05bc\u05e8\u05b0\u05e6\u05b4\u05d9\u05e0\u05b4\u05d9",
+          "Jewish Babylonian Aramaic",
+          "Afro-Asiatic",
+          "\u05d3\u05b7\u05bc\u05e8\u05b0\u05e6\u05b4\u05d9\u05e0\u05b4\u05d9 \u003ci\u003edar\u1e63\u012bn\u012b\u003c\u002fi\u003e",
+          44.245,
+          32.273,
+          "darchin"
+        ],
+        [
+          "\u0434\u043e\u0440\u0447\u0438\u043d ",
+          "Tajik",
+          "Indo-European",
+          "\u0434\u043e\u0440\u0447\u0438\u043d  \u003ci\u003edor\u010din\u003c\u002fi\u003e",
+          68.5549,
+          38.8213,
+          "darchin"
+        ],
+        [
+          "\ud804\udd13\ud804\udd23\ud804\udd34 \ud804\udd0c\ud804\udd28\ud804\udd1a\ud804\udd28",
+          "Chakma",
+          "Indo-European",
+          "\ud804\udd13\ud804\udd23\ud804\udd34 \ud804\udd0c\ud804\udd28\ud804\udd1a\ud804\udd28 \u003ci\u003edal chini\u003c\u002fi\u003e",
+          92.339,
+          23.00148,
+          "darchin"
+        ],
+        [
+          "tar\u00e7\u0131n",
+          "Turkish",
+          "Turkic",
+          "tar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+          32.8667,
+          39.8667,
+          "darchin"
+        ],
+        [
+          "dar\u00e7yn",
+          "Turkmen",
+          "Turkic",
+          "dar\u00e7yn \u003ci\u003e\u003c\u002fi\u003e",
+          59.17574,
+          37.08719,
+          "darchin"
+        ],
+        [
+          "dalasini",
+          "Swahili",
+          "Atlantic-Congo",
+          "dalasini \u003ci\u003e\u003c\u002fi\u003e",
+          37.624,
+          -8.25605,
+          "darchin"
+        ],
+        [
+          "dalchini",
+          "Khasi",
+          "Austroasiatic",
+          "dalchini \u003ci\u003e\u003c\u002fi\u003e",
+          91.9998,
+          24.977,
+          "darchin"
+        ],
+        [
+          "ndarathini",
+          "Kikuyu",
+          "Atlantic-Congo",
+          "ndarathini \u003ci\u003e\u003c\u002fi\u003e",
+          36.719,
+          -0.29005,
+          "darchin"
+        ],
+        [
+          "\u10d3\u10d0\u10e0\u10d8\u10e9\u10d8\u10dc\u10d8",
+          "Georgian",
+          "kart1248",
+          "\u10d3\u10d0\u10e0\u10d8\u10e9\u10d8\u10dc\u10d8 \u003ci\u003edari\u010dini\u003c\u002fi\u003e",
+          43.78613,
+          41.850397,
+          "darchin"
+        ],
+        [
+          "tar\u00e7\u0131n",
+          "Crimean Tatar",
+          "Turkic",
+          "tar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+          34.08,
+          45.0,
+          "darchin"
+        ],
+        [
+          "dar\u00e7\u0131n",
+          "North Azerbaijani",
+          "Turkic",
+          "dar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+          46.4737,
+          40.97768,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940",
+          "Hindi",
+          "Indo-European",
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940 \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+          77.0,
+          25.0,
+          "darchin"
+        ],
+        [
+          "dolchin",
+          "Northern Uzbek",
+          "Turkic",
+          "dolchin \u003ci\u003edolchin\u003c\u002fi\u003e",
+          69.211,
+          40.886,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u093f\u0928\u0940",
+          "Maithili",
+          "Indo-European",
+          "\u0926\u093e\u0932\u091a\u093f\u0928\u0940 \u003ci\u003edalchini\u003c\u002fi\u003e",
+          86.2211,
+          26.3817,
+          "darchin"
+        ],
+        [
+          "\u09a6\u09be\u09b2\u099a\u09c7\u09a8\u09bf",
+          "Assamese",
+          "Indo-European",
+          "\u09a6\u09be\u09b2\u099a\u09c7\u09a8\u09bf \u003ci\u003edalseni\u003c\u002fi\u003e",
+          91.2932,
+          26.0876,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u0649\u0646",
+          "Uighur",
+          "Turkic",
+          "\u062f\u0627\u0631\u0686\u0649\u0646 \u003ci\u003edarchin\u003c\u002fi\u003e",
+          87.38,
+          43.88,
+          "darchin"
+        ],
+        [
+          "\u09a6\u09be\u09b0\u099a\u09bf\u09a8\u09bf",
+          "Bengali",
+          "Indo-European",
+          "\u09a6\u09be\u09b0\u099a\u09bf\u09a8\u09bf \u003ci\u003edarcini\u003c\u002fi\u003e",
+          90.0,
+          24.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u06cc\u0646\u06cc",
+          "Urdu",
+          "Indo-European",
+          "\u062f\u0627\u0631\u0686\u06cc\u0646\u06cc \u003ci\u003ed\u0101rc\u012bn\u012b\u003c\u002fi\u003e",
+          67.0,
+          25.0,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940 ",
+          "Marathi",
+          "Indo-European",
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940  \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+          76.6665,
+          17.9344,
+          "darchin"
+        ],
+        [
+          "\u0715\u072a\u0728\u071d\u0722\u071d",
+          "Classical Syriac",
+          "Afro-Asiatic",
+          "\u0715\u072a\u0728\u071d\u0722\u071d \u003ci\u003ed\u0101r\u1e63\u012bn\u012b\u003c\u002fi\u003e",
+          42.1432,
+          37.1129,
+          "darchin"
+        ],
+        [
+          "\u0728\u071d\u0722\u0715\u072a\u0713",
+          "Classical Syriac",
+          "Afro-Asiatic",
+          "\u0728\u071d\u0722\u0715\u072a\u0713 \u003ci\u003e\u1e63\u012bndre\u1e21\u003c\u002fi\u003e",
+          42.1432,
+          37.1129,
+          "darchin"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "\u062f\u0627\u0644\u0686\u06cc\u0646\u06cc \u003ci\u003edolchini\u003c\u002fi\u003e",
+        "\u0434\u0430\u0440\u0448\u044b\u043d  \u003ci\u003edar\u015f\u0131n\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u093f\u0928\u0940 \u003ci\u003ed\u0101lacin\u012b\u003c\u002fi\u003e",
+        "\u0564\u0561\u0580\u0579\u056b\u0576 \u003ci\u003etarch\u02bfin\u003c\u002fi\u003e",
+        "dar\u00e7\u00een \u003ci\u003e\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003edar\u00e7\u00een\u003c\u002fi\u003e",
+        "\u0564\u0561\u0580\u056b\u0573\u0565\u0576\u056b\u056f \u003ci\u003edari\u010denik\u003c\u002fi\u003e",
+        "\u0b26\u0b3e\u0b32\u0b1a\u0b3f\u0b28\u0b3f \u003ci\u003ed\u0101lcini\u003c\u002fi\u003e",
+        "\u062f\u0627\u0644\u0686\u06cc\u0646 \u003ci\u003ed\u0101lch\u012bn\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003edar\u00e7\u0131n\u003c\u002fi\u003e",
+        "\u0a26\u0a3e\u0a32\u0a1a\u0a40\u0a28\u0a40 \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0a26\u0a3e\u0a32\u0a3c\u0a1a\u0a40\u0a28\u0a40 \u003ci\u003ed\u0101\u1e37c\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0c26\u0c3e\u0c32\u0c4d\u0c1a\u0c3f\u0c28\u0c3f \u003ci\u003ed\u0101lcini\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003ed\u00e2r\u010din\u003c\u002fi\u003e",
+        "\u0ca6\u0cbe\u0cb2\u0ccd\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf  \u003ci\u003ed\u0101lcinni\u003c\u002fi\u003e",
+        "\u0564\u0561\u0580\u0579\u056b\u0576 \u003ci\u003edar\u010d\u02bfin\u003c\u002fi\u003e",
+        "\u0434\u0430\u0440\u0447\u0438\u043d \u003ci\u003edar\u00e7in\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0633\u064a\u0646\u200e  \u003ci\u003ed\u0101rs\u012bn\u003c\u002fi\u003e",
+        "\u0926\u093e\u0930\u0941\u0938\u093f\u0924\u093e \u003ci\u003ed\u0101rusit\u0101\u003c\u002fi\u003e",
+        "\u05d3\u05b7\u05bc\u05e8\u05b0\u05e6\u05b4\u05d9\u05e0\u05b4\u05d9 \u003ci\u003edar\u1e63\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0434\u043e\u0440\u0447\u0438\u043d  \u003ci\u003edor\u010din\u003c\u002fi\u003e",
+        "\ud804\udd13\ud804\udd23\ud804\udd34 \ud804\udd0c\ud804\udd28\ud804\udd1a\ud804\udd28 \u003ci\u003edal chini\u003c\u002fi\u003e",
+        "tar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+        "dar\u00e7yn \u003ci\u003e\u003c\u002fi\u003e",
+        "dalasini \u003ci\u003e\u003c\u002fi\u003e",
+        "dalchini \u003ci\u003e\u003c\u002fi\u003e",
+        "ndarathini \u003ci\u003e\u003c\u002fi\u003e",
+        "\u10d3\u10d0\u10e0\u10d8\u10e9\u10d8\u10dc\u10d8 \u003ci\u003edari\u010dini\u003c\u002fi\u003e",
+        "tar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+        "dar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u0940\u0928\u0940 \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+        "dolchin \u003ci\u003edolchin\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u093f\u0928\u0940 \u003ci\u003edalchini\u003c\u002fi\u003e",
+        "\u09a6\u09be\u09b2\u099a\u09c7\u09a8\u09bf \u003ci\u003edalseni\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u0649\u0646 \u003ci\u003edarchin\u003c\u002fi\u003e",
+        "\u09a6\u09be\u09b0\u099a\u09bf\u09a8\u09bf \u003ci\u003edarcini\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646\u06cc \u003ci\u003ed\u0101rc\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u0940\u0928\u0940  \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0715\u072a\u0728\u071d\u0722\u071d \u003ci\u003ed\u0101r\u1e63\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0728\u071d\u0722\u0715\u072a\u0713 \u003ci\u003e\u1e63\u012bndre\u1e21\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        null,
+        51.17,
+        28.0,
+        40.1897,
+        37.0,
+        35.6539,
+        38.592316,
+        21.0,
+        34.166825,
+        39.87,
+        30.0948,
+        30.0948,
+        16.4529,
+        32.9,
+        13.5878,
+        40.0,
+        55.79592,
+        30.17,
+        20.0,
+        32.273,
+        38.8213,
+        23.00148,
+        39.8667,
+        37.08719,
+        -8.25605,
+        24.977,
+        -0.29005,
+        41.850397,
+        45.0,
+        40.97768,
+        25.0,
+        40.886,
+        26.3817,
+        26.0876,
+        43.88,
+        24.0,
+        25.0,
+        17.9344,
+        37.1129,
+        37.1129
+      ],
+      "legendgroup": "darchin",
+      "lon": [
+        null,
+        71.454,
+        85.0,
+        44.4839,
+        43.0,
+        45.8077,
+        41.346422,
+        85.0,
+        74.330455,
+        32.87,
+        75.3474,
+        75.3474,
+        78.7024,
+        53.3,
+        76.1198,
+        45.0,
+        49.11577,
+        47.5,
+        77.0,
+        44.245,
+        68.5549,
+        92.339,
+        32.8667,
+        59.17574,
+        37.624,
+        91.9998,
+        36.719,
+        43.78613,
+        34.08,
+        46.4737,
+        77.0,
+        69.211,
+        86.2211,
+        91.2932,
+        87.38,
+        90.0,
+        67.0,
+        76.6665,
+        42.1432,
+        42.1432
+      ],
+      "marker": {
+        "color": "#73af48",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "darchin",
+      "showlegend": true,
+      "text": [
+        "\u062f\u0627\u0644\u0686\u06cc\u0646\u06cc \u003ci\u003edolchini\u003c\u002fi\u003e",
+        "\u0434\u0430\u0440\u0448\u044b\u043d  \u003ci\u003edar\u015f\u0131n\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u093f\u0928\u0940 \u003ci\u003ed\u0101lacin\u012b\u003c\u002fi\u003e",
+        "\u0564\u0561\u0580\u0579\u056b\u0576 \u003ci\u003etarch\u02bfin\u003c\u002fi\u003e",
+        "dar\u00e7\u00een \u003ci\u003e\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003edar\u00e7\u00een\u003c\u002fi\u003e",
+        "\u0564\u0561\u0580\u056b\u0573\u0565\u0576\u056b\u056f \u003ci\u003edari\u010denik\u003c\u002fi\u003e",
+        "\u0b26\u0b3e\u0b32\u0b1a\u0b3f\u0b28\u0b3f \u003ci\u003ed\u0101lcini\u003c\u002fi\u003e",
+        "\u062f\u0627\u0644\u0686\u06cc\u0646 \u003ci\u003ed\u0101lch\u012bn\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003edar\u00e7\u0131n\u003c\u002fi\u003e",
+        "\u0a26\u0a3e\u0a32\u0a1a\u0a40\u0a28\u0a40 \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0a26\u0a3e\u0a32\u0a3c\u0a1a\u0a40\u0a28\u0a40 \u003ci\u003ed\u0101\u1e37c\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0c26\u0c3e\u0c32\u0c4d\u0c1a\u0c3f\u0c28\u0c3f \u003ci\u003ed\u0101lcini\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646 \u003ci\u003ed\u00e2r\u010din\u003c\u002fi\u003e",
+        "\u0ca6\u0cbe\u0cb2\u0ccd\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf  \u003ci\u003ed\u0101lcinni\u003c\u002fi\u003e",
+        "\u0564\u0561\u0580\u0579\u056b\u0576 \u003ci\u003edar\u010d\u02bfin\u003c\u002fi\u003e",
+        "\u0434\u0430\u0440\u0447\u0438\u043d \u003ci\u003edar\u00e7in\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0633\u064a\u0646\u200e  \u003ci\u003ed\u0101rs\u012bn\u003c\u002fi\u003e",
+        "\u0926\u093e\u0930\u0941\u0938\u093f\u0924\u093e \u003ci\u003ed\u0101rusit\u0101\u003c\u002fi\u003e",
+        "\u05d3\u05b7\u05bc\u05e8\u05b0\u05e6\u05b4\u05d9\u05e0\u05b4\u05d9 \u003ci\u003edar\u1e63\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0434\u043e\u0440\u0447\u0438\u043d  \u003ci\u003edor\u010din\u003c\u002fi\u003e",
+        "\ud804\udd13\ud804\udd23\ud804\udd34 \ud804\udd0c\ud804\udd28\ud804\udd1a\ud804\udd28 \u003ci\u003edal chini\u003c\u002fi\u003e",
+        "tar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+        "dar\u00e7yn \u003ci\u003e\u003c\u002fi\u003e",
+        "dalasini \u003ci\u003e\u003c\u002fi\u003e",
+        "dalchini \u003ci\u003e\u003c\u002fi\u003e",
+        "ndarathini \u003ci\u003e\u003c\u002fi\u003e",
+        "\u10d3\u10d0\u10e0\u10d8\u10e9\u10d8\u10dc\u10d8 \u003ci\u003edari\u010dini\u003c\u002fi\u003e",
+        "tar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+        "dar\u00e7\u0131n \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u0940\u0928\u0940 \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+        "dolchin \u003ci\u003edolchin\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u093f\u0928\u0940 \u003ci\u003edalchini\u003c\u002fi\u003e",
+        "\u09a6\u09be\u09b2\u099a\u09c7\u09a8\u09bf \u003ci\u003edalseni\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u0649\u0646 \u003ci\u003edarchin\u003c\u002fi\u003e",
+        "\u09a6\u09be\u09b0\u099a\u09bf\u09a8\u09bf \u003ci\u003edarcini\u003c\u002fi\u003e",
+        "\u062f\u0627\u0631\u0686\u06cc\u0646\u06cc \u003ci\u003ed\u0101rc\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0926\u093e\u0932\u091a\u0940\u0928\u0940  \u003ci\u003ed\u0101lc\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0715\u072a\u0728\u071d\u0722\u071d \u003ci\u003ed\u0101r\u1e63\u012bn\u012b\u003c\u002fi\u003e",
+        "\u0728\u071d\u0722\u0715\u072a\u0713 \u003ci\u003e\u1e63\u012bndre\u1e21\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u8089\u6842",
+          "Mandarin Chinese",
+          "Sino-Tibetan",
+          "\u8089\u6842 \u003ci\u003er\u00f2ugu\u00ec\u003c\u002fi\u003e",
+          116.228,
+          40.0209,
+          "gui"
+        ],
+        [
+          "\u6842\u76ae",
+          "Mandarin Chinese",
+          "Sino-Tibetan",
+          "\u6842\u76ae \u003ci\u003egu\u00ecp\u00ed\u003c\u002fi\u003e",
+          116.228,
+          40.0209,
+          "gui"
+        ],
+        [
+          "qu\u1ebf",
+          "Vietnamese",
+          "Austroasiatic",
+          "qu\u1ebf \u003ci\u003e\u003c\u002fi\u003e",
+          105.774071,
+          20.681188,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Cantonese",
+          "Sino-Tibetan",
+          "\u8089\u6842 \u003ci\u003ejuk6 gwai3\u003c\u002fi\u003e",
+          113.2021,
+          23.0118,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Hakka Chinese",
+          "Sino-Tibetan",
+          "\u8089\u6842 \u003ci\u003engiuk-kui\u003c\u002fi\u003e",
+          116.0,
+          25.0,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Min Nan Chinese",
+          "Sino-Tibetan",
+          "\u8089\u6842 \u003ci\u003ejio\u030dk-ku\u00ec\u002flio\u030dk-ku\u00ec\u3000\u003c\u002fi\u003e",
+          118.17,
+          24.5,
+          "gui"
+        ],
+        [
+          "\uacc4\ud53c",
+          "Korean",
+          "kore1284",
+          "\uacc4\ud53c \u003ci\u003egyepi\u003c\u002fi\u003e",
+          126.98,
+          37.54,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Japanese",
+          "Japonic",
+          "\u8089\u6842 \u003ci\u003enikkei\u003c\u002fi\u003e",
+          135.0,
+          35.0,
+          "gui"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "\u8089\u6842 \u003ci\u003er\u00f2ugu\u00ec\u003c\u002fi\u003e",
+        "\u6842\u76ae \u003ci\u003egu\u00ecp\u00ed\u003c\u002fi\u003e",
+        "qu\u1ebf \u003ci\u003e\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003ejuk6 gwai3\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003engiuk-kui\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003ejio\u030dk-ku\u00ec\u002flio\u030dk-ku\u00ec\u3000\u003c\u002fi\u003e",
+        "\uacc4\ud53c \u003ci\u003egyepi\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003enikkei\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        40.0209,
+        40.0209,
+        20.681188,
+        23.0118,
+        25.0,
+        24.5,
+        37.54,
+        35.0
+      ],
+      "legendgroup": "gui",
+      "lon": [
+        116.228,
+        116.228,
+        105.774071,
+        113.2021,
+        116.0,
+        118.17,
+        126.98,
+        135.0
+      ],
+      "marker": {
+        "color": "#edae08",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "gui",
+      "showlegend": true,
+      "text": [
+        "\u8089\u6842 \u003ci\u003er\u00f2ugu\u00ec\u003c\u002fi\u003e",
+        "\u6842\u76ae \u003ci\u003egu\u00ecp\u00ed\u003c\u002fi\u003e",
+        "qu\u1ebf \u003ci\u003e\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003ejuk6 gwai3\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003engiuk-kui\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003ejio\u030dk-ku\u00ec\u002flio\u030dk-ku\u00ec\u3000\u003c\u002fi\u003e",
+        "\uacc4\ud53c \u003ci\u003egyepi\u003c\u002fi\u003e",
+        "\u8089\u6842 \u003ci\u003enikkei\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u0c9a\u0cc6\u0c95\u0ccd\u0c95\u0cc6",
+          "Tulu",
+          "Dravidian",
+          "\u0c9a\u0cc6\u0c95\u0ccd\u0c95\u0cc6 \u003ci\u003echekke\u003c\u002fi\u003e",
+          75.2651,
+          12.8114,
+          "other"
+        ],
+        [
+          "kayu manis",
+          "Standard Indonesian",
+          "Austronesian",
+          "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+          109.716,
+          -7.33458,
+          "other"
+        ],
+        [
+          "\u0e2d\u0e1a\u0e40\u0e0a\u0e22",
+          "Thai",
+          "taik1256",
+          "\u0e2d\u0e1a\u0e40\u0e0a\u0e22 \u003ci\u003e\u00f2p-ch\u0259\u0259i\u003c\u002fi\u003e",
+          100.671,
+          14.192,
+          "other"
+        ],
+        [
+          "\u0b95\u0bb0\u0bc1\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8",
+          "Tamil",
+          "Dravidian",
+          "\u0b95\u0bb0\u0bc1\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8 \u003ci\u003ekaruv\u0101ppa\u1e6d\u1e6dai\u003c\u002fi\u003e",
+          78.825989,
+          10.520219,
+          "other"
+        ],
+        [
+          "kulit manis",
+          "Standard Indonesian",
+          "Austronesian",
+          "kulit manis \u003ci\u003e\u003c\u002fi\u003e",
+          109.716,
+          -7.33458,
+          "other"
+        ],
+        [
+          "\u0c32\u0c35\u0c02\u0c17\u0c2a\u0c1f\u0c4d\u0c1f",
+          "Telugu",
+          "Dravidian",
+          "\u0c32\u0c35\u0c02\u0c17\u0c2a\u0c1f\u0c4d\u0c1f \u003ci\u003elava\u1e45gapa\u1e6d\u1e6da\u003c\u002fi\u003e",
+          78.7024,
+          16.4529,
+          "other"
+        ],
+        [
+          "anoatre dua",
+          "Twi",
+          "Atlantic-Congo",
+          "anoatre dua \u003ci\u003e\u003c\u002fi\u003e",
+          -1.33,
+          6.35,
+          "other"
+        ],
+        [
+          "fah\u00e9j",
+          "Hungarian",
+          "Uralic",
+          "fah\u00e9j \u003ci\u003e\u003c\u002fi\u003e",
+          19.6555271429,
+          46.9068585714,
+          "other"
+        ],
+        [
+          "\u0b87\u0bb2\u0bb5\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8",
+          "Tamil",
+          "Dravidian",
+          "\u0b87\u0bb2\u0bb5\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8 \u003ci\u003eilava\u1e45kappa\u1e6d\u1e6dai\u003c\u002fi\u003e",
+          78.825989,
+          10.520219,
+          "other"
+        ],
+        [
+          "\u0f64\u0f72\u0f44\u0f0b\u0f5a ",
+          "Tibetan",
+          "Sino-Tibetan",
+          "\u0f64\u0f72\u0f44\u0f0b\u0f5a  \u003ci\u003eshing tsha\u003c\u002fi\u003e",
+          90.1872,
+          28.3681,
+          "other"
+        ],
+        [
+          "\u0ead\u0ebb\u0e9a\u0ec0\u0e8a\u0eb5\u0e8d ",
+          "Lao",
+          "taik1256",
+          "\u0ead\u0ebb\u0e9a\u0ec0\u0e8a\u0eb5\u0e8d  \u003ci\u003e\u02bcop s\u0153\u0304i\u003c\u002fi\u003e",
+          102.46,
+          19.0,
+          "other"
+        ],
+        [
+          "\ua98f\ua9aa\ua9b8\ua9a9\ua9a4\ua9b6\ua9b1\ua9c0",
+          "Javanese",
+          "Austronesian",
+          "\ua98f\ua9aa\ua9b8\ua9a9\ua9a4\ua9b6\ua9b1\ua9c0 \u003ci\u003ekayu manis\u003c\u002fi\u003e",
+          109.287,
+          -7.001,
+          "other"
+        ],
+        [
+          "\u0ec1\u0e84\u0ec8",
+          "Lao",
+          "taik1256",
+          "\u0ec1\u0e84\u0ec8 \u003ci\u003ekh\u01e3\u003c\u002fi\u003e",
+          102.46,
+          19.0,
+          "other"
+        ],
+        [
+          "\u17a2\u17bb\u1794\u1786\u17ba\u1799",
+          "Central Khmer",
+          "Austroasiatic",
+          "\u17a2\u17bb\u1794\u1786\u17ba\u1799 \u003ci\u003eobchheuy\u003c\u002fi\u003e",
+          105.015,
+          12.0515,
+          "other"
+        ],
+        [
+          "kayu manis",
+          "Brunei",
+          "Austronesian",
+          "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+          114.429505,
+          4.456045,
+          "other"
+        ],
+        [
+          "\u101e\u1005\u103a\u1000\u103c\u1036\u1015\u102d\u102f\u1038",
+          "Burmese",
+          "Sino-Tibetan",
+          "\u101e\u1005\u103a\u1000\u103c\u1036\u1015\u102d\u102f\u1038 \u003ci\u003esackrampui:\u003c\u002fi\u003e",
+          93.9665,
+          20.7926,
+          "other"
+        ],
+        [
+          "kayu manis",
+          "Standard Malay",
+          "Austronesian",
+          "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+          101.699,
+          3.08896,
+          "other"
+        ],
+        [
+          "\u0d15\u0d31\u0d41\u0d35",
+          "Malayalam",
+          "Dravidian",
+          "\u0d15\u0d31\u0d41\u0d35 \u003ci\u003eka\u1e5fuva\u003c\u002fi\u003e",
+          76.7651,
+          9.59208,
+          "other"
+        ],
+        [
+          "anoater dua",
+          "Fante",
+          "Atlantic-Congo",
+          "anoater dua \u003ci\u003e\u003c\u002fi\u003e",
+          -1.33,
+          6.35,
+          "other"
+        ],
+        [
+          "\u0989\u09b6\u09bf\u0982\u09b6\u09be",
+          "Manipuri",
+          "Sino-Tibetan",
+          "\u0989\u09b6\u09bf\u0982\u09b6\u09be \u003ci\u003eushingsha\u003c\u002fi\u003e",
+          93.3426,
+          24.4409,
+          "other"
+        ],
+        [
+          "thakthing",
+          "Mizo",
+          "Sino-Tibetan",
+          "thakthing \u003ci\u003e\u003c\u002fi\u003e",
+          92.6247,
+          22.6138,
+          "other"
+        ],
+        [
+          "\u0448\u0430\u043d\u0446",
+          "Halh Mongolian",
+          "Mongolic-Khitan",
+          "\u0448\u0430\u043d\u0446 \u003ci\u003e\u0161anc\u003c\u002fi\u003e",
+          106.28874,
+          48.32397,
+          "other"
+        ],
+        [
+          "seich\u00fc",
+          "Angami Naga",
+          "Sino-Tibetan",
+          "seich\u00fc \u003ci\u003e\u003c\u002fi\u003e",
+          93.8668,
+          25.6841,
+          "other"
+        ],
+        [
+          "\u078a\u07ae\u0782\u07a8 \u078c\u07ae\u0781\u07a8",
+          "Dhivehi",
+          "Indo-European",
+          "\u078a\u07ae\u0782\u07a8 \u078c\u07ae\u0781\u07a8 \u003ci\u003efoni to\u1e63i\u003c\u002fi\u003e",
+          73.54433,
+          1.928498,
+          "other"
+        ],
+        [
+          "sungshi",
+          "Ao Naga",
+          "Sino-Tibetan",
+          "sungshi \u003ci\u003e\u003c\u002fi\u003e",
+          94.3824,
+          26.3241,
+          "other"
+        ],
+        [
+          "pongmo",
+          "Konyak Naga",
+          "Sino-Tibetan",
+          "pongmo \u003ci\u003e\u003c\u002fi\u003e",
+          95.0598,
+          26.6823,
+          "other"
+        ],
+        [
+          "xsangsuru",
+          "Lotha Naga",
+          "Sino-Tibetan",
+          "xsangsuru \u003ci\u003e\u003c\u002fi\u003e",
+          94.04355,
+          26.01396,
+          "other"
+        ],
+        [
+          "achansa",
+          "Northern Rengma Naga",
+          "Sino-Tibetan",
+          "achansa \u003ci\u003e\u003c\u002fi\u003e",
+          94.5683,
+          26.4492,
+          "other"
+        ],
+        [
+          "losani, akusa",
+          "Sumi Naga",
+          "Sino-Tibetan",
+          "losani, akusa \u003ci\u003e\u003c\u002fi\u003e",
+          94.4235,
+          25.9996,
+          "other"
+        ],
+        [
+          "t\u00f3 w\u00f3naan\u00edd\u0119\u0301\u0119\u0301\u02bc tsin bik\u00e1sht\u02bc\u00f3\u00f3zh bit\u00e1\u02bcah\u00ed bi\u0142 \u00e9\u02bc\u00e9l\u02bc\u00edn\u00ed",
+          "Navajo",
+          "atha1245",
+          "t\u00f3 w\u00f3naan\u00edd\u0119\u0301\u0119\u0301\u02bc tsin bik\u00e1sht\u02bc\u00f3\u00f3zh bit\u00e1\u02bcah\u00ed bi\u0142 \u00e9\u02bc\u00e9l\u02bc\u00edn\u00ed \u003ci\u003e\u003c\u002fi\u003e",
+          -109.38,
+          36.33,
+          "other"
+        ],
+        [
+          "\u0aa4\u0a9c ",
+          "Gujarati",
+          "Indo-European",
+          "\u0aa4\u0a9c  \u003ci\u003etaj\u003c\u002fi\u003e",
+          71.0962,
+          22.687,
+          "other"
+        ],
+        [
+          "scor\u021bi\u0219oar\u0103",
+          "Romanian",
+          "Indo-European",
+          "scor\u021bi\u0219oar\u0103 \u003ci\u003e\u003c\u002fi\u003e",
+          24.2256,
+          46.3913,
+          "other"
+        ],
+        [
+          "\u0924\u094d\u0935\u091a",
+          "Sanskrit",
+          "Indo-European",
+          "\u0924\u094d\u0935\u091a \u003ci\u003etvach\u003c\u002fi\u003e",
+          77.0,
+          20.0,
+          "other"
+        ],
+        [
+          "\u091a\u094b\u091a",
+          "Sanskrit",
+          "Indo-European",
+          "\u091a\u094b\u091a \u003ci\u003ecoca\u003c\u002fi\u003e",
+          77.0,
+          20.0,
+          "other"
+        ],
+        [
+          "\u1075\u1085\u1004\u103a\u1038\u1081\u103d\u1019\u103a",
+          "Shan",
+          "taik1256",
+          "\u1075\u1085\u1004\u103a\u1038\u1081\u103d\u1019\u103a \u003ci\u003eshn\u003c\u002fi\u003e",
+          98.0342,
+          21.5995,
+          "other"
+        ],
+        [
+          "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4",
+          "Sinhala",
+          "Indo-European",
+          "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4 \u003ci\u003ekuru\u207fdu\u003c\u002fi\u003e",
+          81.0,
+          8.0,
+          "other"
+        ],
+        [
+          "chipfweketo, thime",
+          "Chokri Naga",
+          "Sino-Tibetan",
+          "chipfweketo, thime \u003ci\u003e\u003c\u002fi\u003e",
+          94.2887,
+          25.5636,
+          "other"
+        ],
+        [
+          "pharongkor",
+          "North-Central Tangkhul Naga",
+          "Sino-Tibetan",
+          "pharongkor \u003ci\u003e\u003c\u002fi\u003e",
+          94.204722,
+          25.156667,
+          "other"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "\u003cb\u003e%{hovertext}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003elanguage=%{customdata[1]}\u003cbr\u003efamily=%{customdata[2]}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "hovertext": [
+        "\u0c9a\u0cc6\u0c95\u0ccd\u0c95\u0cc6 \u003ci\u003echekke\u003c\u002fi\u003e",
+        "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0e2d\u0e1a\u0e40\u0e0a\u0e22 \u003ci\u003e\u00f2p-ch\u0259\u0259i\u003c\u002fi\u003e",
+        "\u0b95\u0bb0\u0bc1\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8 \u003ci\u003ekaruv\u0101ppa\u1e6d\u1e6dai\u003c\u002fi\u003e",
+        "kulit manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0c32\u0c35\u0c02\u0c17\u0c2a\u0c1f\u0c4d\u0c1f \u003ci\u003elava\u1e45gapa\u1e6d\u1e6da\u003c\u002fi\u003e",
+        "anoatre dua \u003ci\u003e\u003c\u002fi\u003e",
+        "fah\u00e9j \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0b87\u0bb2\u0bb5\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8 \u003ci\u003eilava\u1e45kappa\u1e6d\u1e6dai\u003c\u002fi\u003e",
+        "\u0f64\u0f72\u0f44\u0f0b\u0f5a  \u003ci\u003eshing tsha\u003c\u002fi\u003e",
+        "\u0ead\u0ebb\u0e9a\u0ec0\u0e8a\u0eb5\u0e8d  \u003ci\u003e\u02bcop s\u0153\u0304i\u003c\u002fi\u003e",
+        "\ua98f\ua9aa\ua9b8\ua9a9\ua9a4\ua9b6\ua9b1\ua9c0 \u003ci\u003ekayu manis\u003c\u002fi\u003e",
+        "\u0ec1\u0e84\u0ec8 \u003ci\u003ekh\u01e3\u003c\u002fi\u003e",
+        "\u17a2\u17bb\u1794\u1786\u17ba\u1799 \u003ci\u003eobchheuy\u003c\u002fi\u003e",
+        "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u101e\u1005\u103a\u1000\u103c\u1036\u1015\u102d\u102f\u1038 \u003ci\u003esackrampui:\u003c\u002fi\u003e",
+        "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0d15\u0d31\u0d41\u0d35 \u003ci\u003eka\u1e5fuva\u003c\u002fi\u003e",
+        "anoater dua \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0989\u09b6\u09bf\u0982\u09b6\u09be \u003ci\u003eushingsha\u003c\u002fi\u003e",
+        "thakthing \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0448\u0430\u043d\u0446 \u003ci\u003e\u0161anc\u003c\u002fi\u003e",
+        "seich\u00fc \u003ci\u003e\u003c\u002fi\u003e",
+        "\u078a\u07ae\u0782\u07a8 \u078c\u07ae\u0781\u07a8 \u003ci\u003efoni to\u1e63i\u003c\u002fi\u003e",
+        "sungshi \u003ci\u003e\u003c\u002fi\u003e",
+        "pongmo \u003ci\u003e\u003c\u002fi\u003e",
+        "xsangsuru \u003ci\u003e\u003c\u002fi\u003e",
+        "achansa \u003ci\u003e\u003c\u002fi\u003e",
+        "losani, akusa \u003ci\u003e\u003c\u002fi\u003e",
+        "t\u00f3 w\u00f3naan\u00edd\u0119\u0301\u0119\u0301\u02bc tsin bik\u00e1sht\u02bc\u00f3\u00f3zh bit\u00e1\u02bcah\u00ed bi\u0142 \u00e9\u02bc\u00e9l\u02bc\u00edn\u00ed \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0aa4\u0a9c  \u003ci\u003etaj\u003c\u002fi\u003e",
+        "scor\u021bi\u0219oar\u0103 \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0924\u094d\u0935\u091a \u003ci\u003etvach\u003c\u002fi\u003e",
+        "\u091a\u094b\u091a \u003ci\u003ecoca\u003c\u002fi\u003e",
+        "\u1075\u1085\u1004\u103a\u1038\u1081\u103d\u1019\u103a \u003ci\u003eshn\u003c\u002fi\u003e",
+        "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4 \u003ci\u003ekuru\u207fdu\u003c\u002fi\u003e",
+        "chipfweketo, thime \u003ci\u003e\u003c\u002fi\u003e",
+        "pharongkor \u003ci\u003e\u003c\u002fi\u003e"
+      ],
+      "lat": [
+        12.8114,
+        -7.33458,
+        14.192,
+        10.520219,
+        -7.33458,
+        16.4529,
+        6.35,
+        46.9068585714,
+        10.520219,
+        28.3681,
+        19.0,
+        -7.001,
+        19.0,
+        12.0515,
+        4.456045,
+        20.7926,
+        3.08896,
+        9.59208,
+        6.35,
+        24.4409,
+        22.6138,
+        48.32397,
+        25.6841,
+        1.928498,
+        26.3241,
+        26.6823,
+        26.01396,
+        26.4492,
+        25.9996,
+        36.33,
+        22.687,
+        46.3913,
+        20.0,
+        20.0,
+        21.5995,
+        8.0,
+        25.5636,
+        25.156667
+      ],
+      "legendgroup": "other",
+      "lon": [
+        75.2651,
+        109.716,
+        100.671,
+        78.825989,
+        109.716,
+        78.7024,
+        -1.33,
+        19.6555271429,
+        78.825989,
+        90.1872,
+        102.46,
+        109.287,
+        102.46,
+        105.015,
+        114.429505,
+        93.9665,
+        101.699,
+        76.7651,
+        -1.33,
+        93.3426,
+        92.6247,
+        106.28874,
+        93.8668,
+        73.54433,
+        94.3824,
+        95.0598,
+        94.04355,
+        94.5683,
+        94.4235,
+        -109.38,
+        71.0962,
+        24.2256,
+        77.0,
+        77.0,
+        98.0342,
+        81.0,
+        94.2887,
+        94.204722
+      ],
+      "marker": {
+        "color": "#e17909",
+        "opacity": 0.75,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "other",
+      "showlegend": true,
+      "text": [
+        "\u0c9a\u0cc6\u0c95\u0ccd\u0c95\u0cc6 \u003ci\u003echekke\u003c\u002fi\u003e",
+        "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0e2d\u0e1a\u0e40\u0e0a\u0e22 \u003ci\u003e\u00f2p-ch\u0259\u0259i\u003c\u002fi\u003e",
+        "\u0b95\u0bb0\u0bc1\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8 \u003ci\u003ekaruv\u0101ppa\u1e6d\u1e6dai\u003c\u002fi\u003e",
+        "kulit manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0c32\u0c35\u0c02\u0c17\u0c2a\u0c1f\u0c4d\u0c1f \u003ci\u003elava\u1e45gapa\u1e6d\u1e6da\u003c\u002fi\u003e",
+        "anoatre dua \u003ci\u003e\u003c\u002fi\u003e",
+        "fah\u00e9j \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0b87\u0bb2\u0bb5\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8 \u003ci\u003eilava\u1e45kappa\u1e6d\u1e6dai\u003c\u002fi\u003e",
+        "\u0f64\u0f72\u0f44\u0f0b\u0f5a  \u003ci\u003eshing tsha\u003c\u002fi\u003e",
+        "\u0ead\u0ebb\u0e9a\u0ec0\u0e8a\u0eb5\u0e8d  \u003ci\u003e\u02bcop s\u0153\u0304i\u003c\u002fi\u003e",
+        "\ua98f\ua9aa\ua9b8\ua9a9\ua9a4\ua9b6\ua9b1\ua9c0 \u003ci\u003ekayu manis\u003c\u002fi\u003e",
+        "\u0ec1\u0e84\u0ec8 \u003ci\u003ekh\u01e3\u003c\u002fi\u003e",
+        "\u17a2\u17bb\u1794\u1786\u17ba\u1799 \u003ci\u003eobchheuy\u003c\u002fi\u003e",
+        "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u101e\u1005\u103a\u1000\u103c\u1036\u1015\u102d\u102f\u1038 \u003ci\u003esackrampui:\u003c\u002fi\u003e",
+        "kayu manis \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0d15\u0d31\u0d41\u0d35 \u003ci\u003eka\u1e5fuva\u003c\u002fi\u003e",
+        "anoater dua \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0989\u09b6\u09bf\u0982\u09b6\u09be \u003ci\u003eushingsha\u003c\u002fi\u003e",
+        "thakthing \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0448\u0430\u043d\u0446 \u003ci\u003e\u0161anc\u003c\u002fi\u003e",
+        "seich\u00fc \u003ci\u003e\u003c\u002fi\u003e",
+        "\u078a\u07ae\u0782\u07a8 \u078c\u07ae\u0781\u07a8 \u003ci\u003efoni to\u1e63i\u003c\u002fi\u003e",
+        "sungshi \u003ci\u003e\u003c\u002fi\u003e",
+        "pongmo \u003ci\u003e\u003c\u002fi\u003e",
+        "xsangsuru \u003ci\u003e\u003c\u002fi\u003e",
+        "achansa \u003ci\u003e\u003c\u002fi\u003e",
+        "losani, akusa \u003ci\u003e\u003c\u002fi\u003e",
+        "t\u00f3 w\u00f3naan\u00edd\u0119\u0301\u0119\u0301\u02bc tsin bik\u00e1sht\u02bc\u00f3\u00f3zh bit\u00e1\u02bcah\u00ed bi\u0142 \u00e9\u02bc\u00e9l\u02bc\u00edn\u00ed \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0aa4\u0a9c  \u003ci\u003etaj\u003c\u002fi\u003e",
+        "scor\u021bi\u0219oar\u0103 \u003ci\u003e\u003c\u002fi\u003e",
+        "\u0924\u094d\u0935\u091a \u003ci\u003etvach\u003c\u002fi\u003e",
+        "\u091a\u094b\u091a \u003ci\u003ecoca\u003c\u002fi\u003e",
+        "\u1075\u1085\u1004\u103a\u1038\u1081\u103d\u1019\u103a \u003ci\u003eshn\u003c\u002fi\u003e",
+        "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4 \u003ci\u003ekuru\u207fdu\u003c\u002fi\u003e",
+        "chipfweketo, thime \u003ci\u003e\u003c\u002fi\u003e",
+        "pharongkor \u003ci\u003e\u003c\u002fi\u003e"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "textposition": "middle right"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "parcoords": [
+          {
+            "type": "parcoords",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ]
+      },
+      "layout": {
+        "autotypenumbers": "strict",
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "hovermode": "closest",
+        "hoverlabel": {
+          "align": "left"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "ternary": {
+          "bgcolor": "#E5ECF6",
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ]
+        },
+        "xaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "geo": {
+          "bgcolor": "white",
+          "landcolor": "#E5ECF6",
+          "subunitcolor": "white",
+          "showland": true,
+          "showlakes": true,
+          "lakecolor": "white"
+        },
+        "title": {
+          "x": 0.05
+        },
+        "mapbox": {
+          "style": "light"
+        }
+      }
+    },
+    "geo": {
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "center": {},
+      "lataxis": {
+        "dtick": 10,
+        "gridcolor": "#282828",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "lonaxis": {
+        "dtick": 10,
+        "gridcolor": "#282828",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "projection": {
+        "rotation": {
+          "lat": 15,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "bgcolor": "rgba(0,0,0,0)",
+      "coastlinecolor": "#383838",
+      "coastlinewidth": 1,
+      "countrycolor": "#383838",
+      "countrywidth": 1,
+      "framecolor": "#383838",
+      "framewidth": 1,
+      "lakecolor": "#202020",
+      "landcolor": "#303030",
+      "oceancolor": "#202020",
+      "resolution": 110,
+      "rivercolor": "#202020",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
+      "showsubunits": true,
+      "subunitcolor": "#383838",
+      "subunitwidth": 0
+    },
+    "legend": {
+      "title": {
+        "text": "category",
+        "font": {
+          "color": "#dddddd",
+          "family": "Noto Sans",
+          "size": 14
+        }
+      },
+      "tracegroupgap": 0,
+      "font": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 12
+      },
+      "bgcolor": "rgba(0,0,0,0.25)",
+      "orientation": "v",
+      "traceorder": "normal",
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
+    },
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 12,
+        "family": "Noto Sans"
+      }
+    },
+    "title": {
+      "font": {
+        "color": "#dddddd",
+        "family": "Noto Sans",
+        "size": 18
+      },
+      "text": "",
+      "x": 0.5,
+      "xanchor": "center",
+      "y": 0.99,
+      "yanchor": "top"
+    },
+    "paper_bgcolor": "rgba(0,0,0,0)",
+    "plot_bgcolor": "rgba(0,0,0,0)",
+    "showlegend": true,
+    "annotations": [
+      {
+        "font": {
+          "color": "#404040",
+          "family": "Noto Sans",
+          "size": 8
+        },
+        "name": "copyright",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "\u00a9 G\u00e1bor Parti, 2024",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0,
+        "yref": "paper"
+      }
+    ]
+  }
+}
