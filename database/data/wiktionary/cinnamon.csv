@@ -1,173 +1,187 @@
 ,skip,language,term,transliteration,group,id,iso,level,family,macroarea,country,lat,lon,source,is_duplicate
-66,,Italian,cannella,,canela,ital1282,ita,language,Indo-European,Eurasia,AT CH FR HR IT SI SM VA,43.0464,12.6489,glottolog,False
-22,,Bulgarian,кане́ла,kanéla,canela,bulg1262,bul,language,Indo-European,Eurasia,BG GR MD MK RO RS TR UA,43.3646,25.047,glottolog,False
-25,,Catalan,canella,,canela,stan1289,cat,language,Indo-European,Eurasia,AD ES FR IT,41.453,1.569,glottolog,False
-28,,Chavacano,kanela,,canela,chav1241,cbk,language,Indo-European,Papunesia,PH,7.435034,122.18849,glottolog,False
-72,,Kabuverdianu,kanéla,,canela,kabu1256,kea,language,Indo-European,Africa,CV,15.0586,-23.6148,glottolog,False
-65,,Irish,cainéal,,canela,iris1253,gle,language,Indo-European,Eurasia,GB IE,53.2186,-7.61509,glottolog,False
-34,,Danish,kanel,,canela,dani1285,dan,language,Indo-European,Eurasia,DE DK FO GL,54.8655,9.36284,glottolog,False
-165,,Venetian,canela,,canela,vene1258,vec,language,Indo-European,Eurasia,BR HR IT MX SI,45.503581,12.214167,glottolog,False
-20,,Breton,kanell,,canela,bret1244,bre,language,Indo-European,Eurasia,FR,48.2452,-3.78934,glottolog,False
-36,,Dutch,kaneel,,canela,dutc1256,nld,language,Indo-European,Eurasia,AW BE BQ BR CW DE GF GY NL SR SX,52.0,5.0,glottolog,False
-39,,Estonian,kaneel,,canela,esto1258,ekk,language,Uralic,Eurasia,EE LV RU,58.55,25.82,glottolog,False
-58,,Hiligaynon,kanéla,,canela,hili1240,hil,language,Austronesian,Papunesia,PH,10.4018,122.974,glottolog,False
-41,,Faroese,kanel,,canela,faro1244,fao,language,Indo-European,Eurasia,DK FO,62.0732,-6.88497,glottolog,False
-42,,Finnish,kaneli,,canela,finn1318,fin,language,Uralic,Eurasia,EE FI NO RU SE,64.7628,25.5577,glottolog,False
-43,,French,cannelle,,canela,stan1290,fra,language,Indo-European,Eurasia,AD BE CA CH FR GF IT LU MC PM TF US,48.0,2.0,glottolog,False
-44,,Scottish Gaelic,caineal,,canela,scot1245,gla,language,Indo-European,Eurasia,GB,56.7574,-5.24366,glottolog,False
-45,,Galician,canela,,canela,gali1258,glg,language,Indo-European,Eurasia,ES PT,42.2446,-7.5343,glottolog,False
-61,,Icelandic,kanell,,canela,icel1247,isl,language,Indo-European,Eurasia,IS,63.4837,-19.0212,glottolog,False
-19,,Coastal-Naga Bikol,kanela,,canela,cent2087,bcl,language,Austronesian,Papunesia,PH,13.7574,123.403,glottolog,False
-87,,Latvian,kanēlis,,canela,latv1249,lav,language,Indo-European,Eurasia,BY EE LT LV RU,56.826108,24.309118,glottolog,False
-92,,Plateau Malagasy,kanelina,,canela,plat1254,plt,language,Austronesian,Africa,MG,-19.5907,47.1211,glottolog,False
-169,,Waray (Philippines),kanéla,,canela,wara1300,war,language,Austronesian,Papunesia,PH,11.441070533111276,125.09991074497887,glottolog,True
-2,,Afrikaans,kaneel,,canela,afri1274,afr,language,Indo-European,Africa,BW MZ NA ZA ZM ZW,-22.0,30.0,glottolog,False
-3,,Northern Tosk Albanian,kanellë,,canela,tosk1239,als,language,Indo-European,Eurasia,AL GR MK,41.0,20.0,glottolog,False
-128,,Portuguese,canela,,canela,port1283,por,language,Indo-European,Eurasia,AD AR BO BR CO ES FR GF GY PE PT PY SR UY VE,39.91,-8.1,glottolog,False
-121,,Occitan,canèla,,canela,occi1239,oci,language,Indo-European,Eurasia,AD ES FR IT MC,44.1415,6.82979,glottolog,False
-120,,Norwegian,kanel,,canela,norw1258,nor,language,Indo-European,Eurasia,FI NO RU SE SJ,59.92,10.71,glottolog,False
-118,,Anglo-Norman,cannelle,,canela,angl1258,xno,dialect,Indo-European,Eurasia,,51.0,-1.0,glottolog,False
-140,,Spanish,canela,,canela,stan1288,spa,language,Indo-European,Eurasia,AD AR BO BR BZ CL CO CR CU DO EC ES FR GI GT GY HN HT MA MX NI PA PE PR PT PY SV US UY VE,40.4414,-1.11788,glottolog,False
-143,,Tagalog,kanéla,,canela,taga1270,tgl,language,Austronesian,Papunesia,PH,14.06,121.747,glottolog,False
-142,,Swedish,kanel,,canela,swed1254,swe,language,Indo-European,Eurasia,AX DK FI NO SE,59.800634,17.389526,glottolog,False
-15,,Basque,kanela,,canela,basq1248,eus,language,nan,Eurasia,ES FR,43.2787,-1.31622,glottolog,False
-96,,Maltese,kannella,,canela,malt1254,mlt,language,Afro-Asiatic,Eurasia,MT,36.064159890892604,13.924073938165693,glottolog,True
-49,,Modern Greek,κανέλα,kanéla,canela,mode1248,ell,language,Indo-European,Eurasia,AL BG CY EG GR IT MK RO TR UA,38.36,23.13,glottolog,False
-90,,Macedonian,цимет,cimet,kinnamon,mace1250,mkd,language,Indo-European,Eurasia,AL BG GR MK RS,41.5957,21.7932,glottolog,False
-135,,Serbian-Croatian-Bosnian,цимет,cimet,kinnamon,sout1528,hbs,language,Indo-European,Eurasia,RS,44.15,18.81,glottolog,False
-138,,Slovenian,cimet,,kinnamon,slov1268,slv,language,Indo-European,Eurasia,AT HR HU IT SI,46.2543,14.7766,glottolog,False
-159,,Upper Sorbian,cymt,,kinnamon,uppe1395,hsb,language,Indo-European,Eurasia,DE,50.35691126663205,14.498026545694383,glottolog,True
-82,,Korean,시나몬,sinamon,kinnamon,kore1280,kor,language,Koreanic,Eurasia,CN KP KR RU,37.42910960939466,126.4515189638801,glottolog,True
-86,,Latin,cinnamum,,kinnamon,lati1261,lat,language,Indo-European,Eurasia,VA,42.71765607094245,12.45447446132341,glottolog,True
-158,,Ukrainian,цинамо́н ,cynamón,kinnamon,ukra1253,ukr,language,Indo-European,Eurasia,BY HU MD PL RO RU SK UA,50.44392282751116,29.19999997631566,glottolog,True
-127,,Polish,cynamon,,kinnamon,poli1260,pol,language,Indo-European,Eurasia,BY CZ DE LT PL RU SK UA,51.8439,18.6255,glottolog,False
-50,,Ionic-Attic Ancient Greek,κιννάμωμον,kinnámōmon,kinnamon,anci1242,grc,language,Indo-European,Eurasia,GR,39.8155,21.9129,glottolog,False
-88,,Lithuanian,cinamonas,,kinnamon,lith1251,lit,language,Indo-European,Eurasia,BY LT LV PL RU,55.1429,23.9601,glottolog,False
-95,,Maltese,ċinnamonu,,kinnamon,malt1254,mlt,language,Afro-Asiatic,Eurasia,MT,36.223773219095285,14.874897176030709,glottolog,True
-89,,Lower Sorbian,cymt,,kinnamon,lowe1385,dsb,language,Indo-European,Eurasia,DE,51.6621,13.9407,glottolog,False
-56,,Modern Hebrew,קִנָּמוֹן,qinnāmṓn,kinnamon,hebr1245,heb,language,Afro-Asiatic,Eurasia,IL JO LB PS SY,31.58963381197122,34.76879490653772,glottolog,True
-55,,Modern Hebrew,קינמון,kinamón,kinnamon,hebr1245,heb,language,Afro-Asiatic,Eurasia,IL JO LB PS SY,30.889649789201883,34.977834950527665,glottolog,True
-100,,Maori,hinamona,,kinnamon,maor1246,mri,language,Austronesian,Papunesia,NZ,-38.2881,176.541,glottolog,False
-67,,Japanese,シナモン,shinamon,kinnamon,nucl1643,jpn,language,Japonic,Eurasia,JP,35.6768405372738,134.26458002810807,glottolog,True
-85,,Latin,cinnamōmum,,kinnamon,lati1261,lat,language,Indo-European,Eurasia,VA,42.81653681581929,13.009559219689244,glottolog,True
-17,,Belarusian,цынамо́н,cynamón,kinnamon,bela1254,bel,language,Indo-European,Eurasia,BY LT LV PL RU UA,52.27629081709604,26.44036156814963,glottolog,True
-48,,German,Zimt,,kinnamon,stan1295,deu,language,Indo-European,Eurasia,AT BE CH CZ DE DK FR HU IT LI LU NL PL RO SI SK,48.649,12.4676,glottolog,False
-167,,Welsh,synamon,,kinnamon,wels1247,cym,language,Indo-European,Eurasia,AR GB,52.0,-4.0,glottolog,False
-11,,Western Armenian,կինամոն,ginamon,kinnamon,homs1234,hyw,language,Indo-European,Eurasia,TR,40.743308275594,45.41678695178191,glottolog,True
-46,,Geez,ቅናሞሙ,qənāmomu,kinnamon,geez1241,gez,language,Afro-Asiatic,Africa,ER ET,10.1342,40.6821,glottolog,False
-9,,Classical-Middle Armenian,կինամոմոն,kinamomon,kinnamon,clas1249,xcl,language,Indo-European,Eurasia,AM,39.173893605524064,41.744206442904385,glottolog,True
-168,,Eastern Yiddish,צימערינג,tsimering,kinnamon,east2295,ydd,language,Indo-European,Eurasia,AR AU BE BY CA CR EE HU IL LT LV MD PA PL PR RO RU SE UA US UY ZA,51.75,19.42,glottolog,False
-38,,English,cinnamon,,kinnamon,stan1293,eng,language,Indo-European,Eurasia,AU BM BR BZ CA CC CK CU CX DO FK GB GG GI GP GS GT GY HN IE IM IO JE KY LR MX NF PN SH SR UM US VE ZA,53.0,-1.0,glottolog,False
-6,,Eastern Armenian,կինամոն,kinamon,kinnamon,nucl1235,hye,language,Indo-European,Eurasia,AM AZ GE IR SY TR,40.289679082663845,44.97621593402306,glottolog,True
-31,,Coptic,ⲛⲁⲙⲛⲟⲛ,namnon,kinnamon,copt1239,cop,language,Afro-Asiatic,Africa,EG,29.472,31.2053,glottolog,False
-80,,Kirghiz,корица,koritsa,korica,kirg1245,kir,language,Turkic,Eurasia,AF CN KG KZ TJ UZ,42.56601915678361,73.76194715673948,glottolog,True
-79,,Kirghiz,корица ,qoritsa,korica,kirg1245,kir,language,Turkic,Eurasia,AF CN KG KZ TJ UZ,42.495795524436815,73.47594370052853,glottolog,True
-137,,Slovak,škorica,,korica,slov1269,slk,language,Indo-European,Eurasia,AT CZ HU PL RS SK UA,48.545705,18.78479,glottolog,False
-157,,Ukrainian,кори́ця ,korýcja,korica,ukra1253,ukr,language,Indo-European,Eurasia,BY HU MD PL RO RU SK UA,49.8888070311166,29.77605102254442,glottolog,True
-16,,Belarusian,кары́ца,karýca,korica,bela1254,bel,language,Indo-European,Eurasia,BY LT LV PL RU UA,52.62324821390364,26.575153568281355,glottolog,True
-160,,Upper Sorbian,skorica,,korica,uppe1395,hsb,language,Indo-European,Eurasia,DE,50.70551316237852,15.20883752319872,glottolog,True
-131,,Russian,кори́ца,koríca,korica,russ1263,rus,language,Indo-European,Eurasia,BY CN EE FI GE KG KP KZ LT LV MD MN NO PL RO RU SJ TM UA UZ,59.0,50.0,glottolog,False
-33,,Czech,skořice,,korica,czec1258,ces,language,Indo-European,Eurasia,AT CZ PL SK,49.873398,15.10437,glottolog,False
-164,,Northern Uzbek,koritsa,,korica,nort2690,uzn,language,Turkic,Eurasia,AF CN KG KZ TJ TM UZ,40.40979358253577,69.08349470293301,glottolog,True
-4,,Amharic,ቀረፋ,ḳäräfa,qirfa,amha1245,amh,language,Afro-Asiatic,Africa,DJ ET,11.708182,39.543456,glottolog,False
-37,,Egyptian Arabic,قرفة,ʔerfa,qirfa,egyp1253,arz,language,Afro-Asiatic,Africa,EG IL LY,31.0,31.0,glottolog,False
-123,,West Central Oromo,qarafaa,,qirfa,west2721,gaz,language,Afro-Asiatic,Africa,ET SD,8.81391,36.7365,glottolog,False
-152,,Tigrinya,ቃርፋ ,ḳarfa,qirfa,tigr1271,tir,language,Afro-Asiatic,Africa,DJ ER ET SD,15.3359,38.9266,glottolog,False
-107,,Moroccan Arabic,قرفة‎ ,qarfa,qirfa,moro1292,ary,language,Afro-Asiatic,Africa,DZ EH MA,32.5,-7.5,glottolog,False
-54,,Hausa,kirfa,,qirfa,haus1257,hau,language,Afro-Asiatic,Africa,BF BJ CM NE NG TD,11.1513,8.7804,glottolog,False
-5,,Standard Arabic,قِرْفَة,qirfa,qirfa,stan1318,arb,language,Afro-Asiatic,Eurasia,AE BH DJ DZ EG ER IL IQ JO KM KW LB LY MA OM PS QA SA SD SO SY TD TN TZ YE,27.9625,43.8525,glottolog,False
-139,,Somali,qorfe,,qirfa,soma1255,som,language,Afro-Asiatic,Africa,DJ ET KE SO,4.778704,45.152856,glottolog,False
-57,,Hijazi Arabic,قرفة‎ ,girfa,qirfa,hija1235,acw,language,Afro-Asiatic,Eurasia,SA YE,22.8346,38.9237,glottolog,False
-147,,Tatar,дарчин,darçin,darchin,tata1255,tat,language,Turkic,Eurasia,AZ BY CN EE FI GE KZ LT LV RU UA,55.79592,49.11577,glottolog,False
-148,,Telugu,దాల్చిని,dālcini,darchin,telu1262,tel,language,Dravidian,Eurasia,IN,16.348818192457113,78.5884133607506,glottolog,True
-101,,Marathi,दालचीनी ,dālcīnī,darchin,mara1378,mar,language,Indo-European,Eurasia,IN,17.9344,76.6665,glottolog,False
-13,,North Azerbaijani,darçın,,darchin,nort2697,azj,language,Turkic,Eurasia,AM AZ GE IR RU TR,40.97768,46.4737,glottolog,False
-129,,Western Panjabi,ਦਾਲ਼ਚੀਨੀ,dāḷcīnī,darchin,west2386,pnb,language,Indo-European,Eurasia,IN PK,30.0948,75.3474,glottolog,False
-144,,Tajik,дорчин ,dorčin,darchin,taji1245,tgk,language,Indo-European,Eurasia,AF CN KG TJ UZ,38.8213,68.5549,glottolog,False
-124,,Ottoman Turkish,دارچین,darçın,darchin,otto1234,ota,dialect,Turkic,Eurasia,,39.87,32.87,glottolog,False
-141,,Swahili,dalasini,,darchin,swah1253,swh,language,Atlantic-Congo,Africa,BI KE MZ RW SO TZ UG,-8.25605,37.624,glottolog,False
-10,,Western Armenian,դարչին,tarchʿin,darchin,homs1234,hyw,language,Indo-European,Eurasia,TR,40.25179799974983,45.22655928769561,glottolog,True
-117,,Nepali,दालचिनी,dālacinī,darchin,nepa1254,npi,language,Indo-European,Eurasia,NP,28.0,85.0,glottolog,False
-8,,Classical-Middle Armenian,դարիճենիկ,daričenik,darchin,clas1249,xcl,language,Indo-European,Eurasia,AM,38.52505663181501,40.71046971517827,glottolog,True
-126,,Western Farsi,دارچین,dârčin,darchin,west2369,pes,language,Indo-European,Eurasia,AF AZ IQ IR TM TR,32.9,53.3,glottolog,False
-7,,Eastern Armenian,դարչին,darčʿin,darchin,nucl1235,hye,language,Indo-European,Eurasia,AM AZ GE IR SY TR,39.594952407997226,44.270413380392114,glottolog,True
-125,,Central Pashto,دارچیني، دال چینی," dār-c̱ẖīnī, dāl-c̱ẖīnī",darchin,cent1973,pst,language,Indo-European,Eurasia,AF PK,31.9153,69.4529,glottolog,False
-122,,Odia,ଦାଲଚିନି,dālcini,darchin,oriy1255,ory,language,Indo-European,Eurasia,IN,21.0,85.0,glottolog,False
-12,,Assamese,দালচেনি,dalseni,darchin,assa1263,asm,language,Indo-European,Eurasia,BD BT IN,26.0876,91.2932,glottolog,False
-119,,Northern Kurdish,darçîn,,darchin,nort2641,kmr,language,Indo-European,Eurasia,AM AZ IQ IR JO KW SY TM TR,37.0,43.0,glottolog,False
-163,,Northern Uzbek,dolchin,,darchin,nort2690,uzn,language,Turkic,Eurasia,AF CN KG KZ TJ TM UZ,40.15240081252399,68.48093717130206,glottolog,True
-134,,Sanskrit,दारुसिता,dārusitā,darchin,sans1269,san,language,Indo-European,Eurasia,IN,19.0406413715384,77.62669625387427,glottolog,True
-75,,Kazakh,даршын ,darşın,darchin,kaza1248,kaz,language,Turkic,Eurasia,AF CN IR KG KZ MN RU TJ TM UZ,51.17,71.454,glottolog,False
-76,,Khasi,dalchini,,darchin,khas1269,kha,language,Austroasiatic,Eurasia,BD IN,24.977,91.9998,glottolog,False
-29,,Classical Syriac,ܕܪܨܝܢܝ,dārṣīnī,darchin,clas1252,syc,language,Afro-Asiatic,Eurasia,TR,37.40316327372431,41.809812710622765,glottolog,True
-78,,Kikuyu,ndarathini,,darchin,kiku1240,kik,language,Atlantic-Congo,Africa,KE,-0.29005,36.719,glottolog,False
-71,,Jewish Babylonian Aramaic,דַּרְצִינִי,darṣīnī,darchin,jewi1240,tmr,language,Afro-Asiatic,Eurasia,IL,32.273,44.245,glottolog,False
-27,,Chakma,𑄓𑄣𑄴 𑄌𑄨𑄚𑄨,dal chini,darchin,chak1266,ccp,language,Indo-European,Eurasia,BD IN,23.00148,92.339,glottolog,False
-155,,Turkmen,darçyn,,darchin,turk1304,tuk,language,Turkic,Eurasia,AF IQ IR PK TJ TM TR UZ,37.08719,59.17574,glottolog,False
-154,,Turkish,tarçın,,darchin,nucl1301,tur,language,Turkic,Eurasia,AL AM AZ BG CY GE GR IQ IR MK SY TR,39.8667,32.8667,glottolog,False
-30,,Classical Syriac,ܨܝܢܕܪܓ,ṣīndreḡ,darchin,clas1252,syc,language,Afro-Asiatic,Eurasia,TR,36.690654765471045,42.406565623665934,glottolog,True
-74,,Kashmiri,دالچین,dālchīn,darchin,kash1277,kas,language,Indo-European,Eurasia,IN PK,34.166825,74.330455,glottolog,False
-73,,Kannada,ದಾಲ್ಚಿನ್ನಿ ,dālcinni,darchin,nucl1305,kan,language,Dravidian,Eurasia,IN,13.5878,76.1198,glottolog,False
-32,,Crimean Tatar,tarçın,,darchin,crim1257,crh,language,Turkic,Eurasia,BG KG LT MD RO RU TR UA UZ,45.0,34.08,glottolog,False
-161,,Urdu,دارچینی,dārcīnī,darchin,urdu1245,urd,language,Indo-European,Eurasia,AF BD IN PK,25.0,67.0,glottolog,False
-162,,Uighur,دارچىن,darchin,darchin,uigh1240,uig,language,Turkic,Eurasia,CN IN KG KZ MN PK UZ,43.88,87.38,glottolog,False
-59,,Hindi,दालचीनी,dālcīnī,darchin,hind1269,hin,language,Indo-European,Eurasia,BD BT IN NP,25.0,77.0,glottolog,False
-47,,Georgian,დარიჩინი,daričini,darchin,nucl1302,kat,language,kart1248,Eurasia,AM AZ GE IR RU TR,41.850397,43.78613,glottolog,False
-18,,Bengali,দারচিনি,darcini,darchin,beng1280,ben,language,Indo-European,Eurasia,BD IN NP,24.0,90.0,glottolog,False
-91,,Maithili,दालचिनी,dalchini,darchin,mait1250,mai,language,Indo-European,Eurasia,IN NP,26.3817,86.2211,glottolog,False
-52,,Gulf Arabic,دارسين‎ ,dārsīn,darchin,gulf1241,afb,language,Afro-Asiatic,Eurasia,AE BH IQ IR KW OM QA SA YE,30.17,47.5,glottolog,False
-26,,Central Kurdish,دارچین,darçîn,darchin,cent1972,ckb,language,Indo-European,Eurasia,IQ IR,35.6539,45.8077,glottolog,False
-53,,Hakka Chinese,肉桂,ngiuk-kui,gui,hakk1236,hak,language,Sino-Tibetan,Eurasia,CN TW,25.0,116.0,glottolog,False
-68,,Japanese,肉桂,nikkei,gui,nucl1643,jpn,language,Japonic,Eurasia,JP,34.51676842531303,134.3711525115528,glottolog,True
-97,,Mandarin Chinese,桂皮,guìpí,gui,mand1415,cmn,language,Sino-Tibetan,Eurasia,CN KP LA MM MN RU TW VN,39.80830118442435,117.16152592591662,glottolog,True
-81,,Korean,계피,gyepi,gui,kore1280,kor,language,Koreanic,Eurasia,CN KP KR RU,37.91581922535114,127.6310267089529,glottolog,True
-24,,Cantonese,肉桂,juk6 gwai3,gui,cant1236,,dialect,Sino-Tibetan,Eurasia,CN HK MO,23.0118,113.2021,glottolog,False
-166,,Vietnamese,quế,,gui,viet1252,vie,language,Austroasiatic,Eurasia,CN LA VN,20.681188,105.774071,glottolog,False
-102,,Min Nan Chinese,肉桂,jio̍k-kuì/lio̍k-kuì　,gui,minn1241,,language,Sino-Tibetan,Eurasia,CN TW,24.5,118.17,glottolog,False
-98,,Mandarin Chinese,肉桂,ròuguì,gui,mand1415,cmn,language,Sino-Tibetan,Eurasia,CN KP LA MM MN RU TW VN,39.5012345986566,115.419675657896,glottolog,True
-153,,Tulu,ಚೆಕ್ಕೆ,chekke,other,tulu1258,tcy,language,Dravidian,Eurasia,IN,12.8114,75.2651,glottolog,False
-145,,Tamil,இலவங்கப்பட்டை,ilavaṅkappaṭṭai,other,tami1289,tam,language,Dravidian,Eurasia,IN LK,9.91921143970226,78.09127826415263,glottolog,True
-146,,Tamil,கருவாப்பட்டை,karuvāppaṭṭai,other,tami1289,tam,language,Dravidian,Eurasia,IN LK,9.56461547617688,79.15721813434531,glottolog,True
-149,,Telugu,లవంగపట్ట,lavaṅgapaṭṭa,other,telu1262,tel,language,Dravidian,Eurasia,IN,17.052094619061034,78.41195547791725,glottolog,True
-150,,Thai,อบเชย,òp-chəəi,other,thai1261,tha,language,Tai-Kadai,Eurasia,KH MM TH,14.192,100.671,glottolog,False
-136,,Sinhala,කුරුඳු,kuruⁿdu,other,sinh1246,sin,language,Indo-European,Eurasia,LK,8.0,81.0,glottolog,False
-151,,Tibetan,ཤིང་ཚ ,shing tsha,other,tibe1272,bod,language,Sino-Tibetan,Eurasia,BT CN IN NP,28.3681,90.1872,glottolog,False
-156,,Twi,anoatre dua,,other,twii1234,twi,dialect,Atlantic-Congo,Africa,,6.35,-1.33,glottolog,False
-0,,Shan,ၵႅင်းႁွမ်,kɛŋ4 hɔm1,other,shan1277,shn,language,Tai-Kadai,Eurasia,CN MM TH,22.17834954964616,98.22967764926928,glottolog,True
-132,,Sanskrit,त्वच,tvac,other,sans1269,san,language,Indo-European,Eurasia,IN,19.489022231074195,77.13255148581857,glottolog,True
-83,,Lao,ອົບເຊີຍ ,ʼop sœ̄i,other,laoo1244,lao,language,Tai-Kadai,Eurasia,KH LA TH,19.036603164726237,101.64885224412392,glottolog,True
-77,,Central Khmer,អុបឆឺយ,obchheuy,other,cent1989,khm,language,Austroasiatic,Eurasia,KH LA TH VN,12.0515,105.015,glottolog,False
-70,,Javanese,ꦏꦪꦸꦩꦤꦶꦱ꧀,kayu manis,other,java1254,jav,language,Austronesian,Papunesia,ID MY,-6.831754831547553,108.56940365958467,glottolog,True
-69,,Javanese,kayu legi,,other,java1254,jav,language,Austronesian,Papunesia,ID MY,-7.725294393515737,109.72863766301697,glottolog,True
-64,,Standard Indonesian,manisjangan,,other,indo1316,ind,language,Austronesian,Papunesia,ID NL PH SA SG US,-6.98979984879971,108.87261362678521,glottolog,True
-63,,Standard Indonesian,kayu manis,,other,indo1316,ind,language,Austronesian,Papunesia,ID NL PH SA SG US,-6.896072668281953,109.7833715409538,glottolog,True
-62,,Standard Indonesian,kulit manis,,other,indo1316,ind,language,Austronesian,Papunesia,ID NL PH SA SG US,-7.660232632689804,110.21596645461375,glottolog,True
-60,,Hungarian,fahéj,,other,hung1274,hun,language,Uralic,Eurasia,AT HR HU RO RS SI SK UA,46.9068585714,19.6555271429,glottolog,False
-51,,Gujarati,તજ ,taj,other,guja1252,guj,language,Indo-European,Eurasia,BD IN PK,22.687,71.0962,glottolog,False
-40,,Fante,anoater dua,,other,fant1241,fat,dialect,Atlantic-Congo,Africa,,6.35,-1.33,glottolog,False
-35,,Dhivehi,ފޮނި ތޮށި,foni toṣi,other,dhiv1236,div,language,Indo-European,Eurasia,IN MV,1.928498,73.54433,glottolog,False
-23,,Burmese,သစ်ကြံပိုး,sackrampui:,other,nucl1310,mya,language,Sino-Tibetan,Eurasia,BD MM TH,20.7926,93.9665,glottolog,False
-21,,Brunei,kayu manis,,other,brun1242,kxd,language,Austronesian,Papunesia,BN MY,4.456045,114.429505,glottolog,False
-14,,Balinese,"maswi, meswi",,other,bali1278,ban,language,Austronesian,Papunesia,ID,-8.35714,115.075,glottolog,False
-1,,Shan,ၵႅင်းႁွမ်,shn,other,shan1277,shn,language,Tai-Kadai,Eurasia,CN MM TH,20.60975884953671,98.27193958923003,glottolog,True
-84,,Lao,ແຄ່,khǣ,other,laoo1244,lao,language,Tai-Kadai,Eurasia,KH LA TH,18.151068807725256,102.20652545407951,glottolog,True
-133,,Sanskrit,चोच,coca,other,sans1269,san,language,Indo-European,Eurasia,IN,20.849292037557436,77.00969153969166,glottolog,True
-170,,Waray (Philippines),kalingag,,other,wara1300,war,language,Austronesian,Papunesia,PH,10.750102047651101,124.03434499713521,glottolog,True
-94,,Malayalam,കറുവ,kaṟuva,other,mala1464,mal,language,Dravidian,Eurasia,IN,9.59208,76.7651,glottolog,False
-130,,Romanian,scorțișoară,,other,roma1327,ron,language,Indo-European,Eurasia,BG HU MD RO RS UA,46.3913,24.2256,glottolog,False
-116,,Navajo,tó wónaanídę́ę́ʼ tsin bikáshtʼóózh bitáʼahí bił éʼélʼíní,,other,nava1243,nav,language,Athabaskan-Eyak-Tlingit,North America,US,36.33,-109.38,glottolog,False
-115,,North-Central Tangkhul Naga,pharongkor,,other,nort3287,,language,Sino-Tibetan,Eurasia,IN,25.156667,94.204722,glottolog,False
-114,,Sumi Naga,"losani, akusa",,other,sumi1235,nsm,language,Sino-Tibetan,Eurasia,IN,25.9996,94.4235,glottolog,False
-113,,Northern Rengma Naga,achansa,,other,nort2725,nnl,language,Sino-Tibetan,Eurasia,IN,26.4492,94.5683,glottolog,False
-112,,Lotha Naga,xsangsuru,,other,loth1237,njh,language,Sino-Tibetan,Eurasia,IN,26.01396,94.04355,glottolog,False
-111,,Konyak Naga,pongmo,,other,kony1248,nbe,language,Sino-Tibetan,Eurasia,IN MM,26.6823,95.0598,glottolog,False
-110,,Chokri Naga,"chipfweketo, thime",,other,chok1243,nri,language,Sino-Tibetan,Eurasia,IN,25.5636,94.2887,glottolog,False
-109,,Ao Naga,sungshi,,other,aona1235,njo,language,Sino-Tibetan,Eurasia,IN,26.3241,94.3824,glottolog,False
-108,,Angami Naga,seichü,,other,anga1288,njm,language,Sino-Tibetan,Eurasia,IN,25.6841,93.8668,glottolog,False
-106,,Halh Mongolian,шанц,šanc (shants),other,halh1238,khk,language,Mongolic-Khitan,Eurasia,MN RU,48.32397,106.28874,glottolog,False
-105,,Mon,ခဍၚ် ရာ1 ,hədɛŋ¹ ra,other,monn1252,mnw,language,Austroasiatic,Eurasia,MM TH,16.360580525831207,99.11141232800887,glottolog,True
-104,,Mon,ကွာန်1,kəwan,other,monn1252,mnw,language,Austroasiatic,Eurasia,MM TH,16.38263869058922,97.1425964055417,glottolog,True
-103,,Mizo,thakthing,,other,lush1249,lus,language,Sino-Tibetan,Eurasia,BD IN MM,22.6138,92.6247,glottolog,False
-99,,Manipuri,উশিংশা,ushingsha,other,mani1292,mni,language,Sino-Tibetan,Eurasia,BD IN MM,24.4409,93.3426,glottolog,False
-93,,Standard Malay,kayu manis,,other,stan1306,zsm,language,Austronesian,Eurasia,BN MY SG,3.08896,101.699,glottolog,False
-171,,Waray (Philippines),kayankong,,other,wara1300,war,language,Austronesian,Papunesia,PH,10.846334951412885,124.12364063320972,glottolog,True
+0,,Afrikaans,kaneel,,canela,afri1274,afr,language,Indo-European,Africa,BW MZ NA ZA ZM ZW,-22.0,30.0,glottolog,False
+22,,Catalan,canella,,canela,stan1289,cat,language,Indo-European,Eurasia,AD ES FR IT,41.453,1.569,glottolog,False
+128,,Anglo-Norman,cannelle,,canela,angl1258,xno,dialect,Indo-European,Eurasia,,51.0,-1.0,glottolog,False
+48,,Scottish Gaelic,caineal,,canela,scot1245,gla,language,Indo-European,Eurasia,GB,56.7574,-5.24366,glottolog,False
+106,,Maltese,kannella,,canela,malt1254,mlt,language,Afro-Asiatic,Eurasia,MT,36.40239267410995,13.896063492561694,glottolog,True
+26,,Chavacano,kanela,,canela,chav1241,cbk,language,Indo-European,Papunesia,PH,7.435034,122.18849,glottolog,False
+47,,Western Frisian,kaniel,,canela,west2354,fry,language,Indo-European,Eurasia,NL,53.143,5.86091,glottolog,False
+102,,Plateau Malagasy,kanelina,,canela,plat1254,plt,language,Austronesian,Africa,MG,-19.5907,47.1211,glottolog,False
+57,,Haitian,kannèl,,canela,hait1244,hat,language,Indo-European,North America,DO HT,18.795135,-72.136115,glottolog,False
+98,,Luxemburgish,kanéil,,canela,luxe1243,,dialect,Indo-European,Eurasia,,49.68,6.15,glottolog,False
+46,,French,cannelle,,canela,stan1290,fra,language,Indo-European,Eurasia,AD BE CA CH FR GF IT LU MC PM TF US,48.0,2.0,glottolog,False
+32,,Corsican,cannella,,canela,cors1241,cos,language,Indo-European,Eurasia,FR IT,41.7,9.25537,glottolog,False
+45,,Finnish,kaneli,,canela,finn1318,fin,language,Uralic,Eurasia,EE FI NO RU SE,64.7628,25.5577,glottolog,False
+95,,Latvian,kanēlis,,canela,latv1249,lav,language,Indo-European,Eurasia,BY EE LT LV RU,56.826108,24.309118,glottolog,False
+44,,Filipino,kanela,,canela,fili1244,fil,language,Austronesian,Papunesia,PH,12.265,123.464,glottolog,False
+36,,Danish,kanel,,canela,dani1285,dan,language,Indo-European,Eurasia,DE DK FO GL,54.8655,9.36284,glottolog,False
+43,,Faroese,kanel,,canela,faro1244,fao,language,Indo-European,Eurasia,DK FO,62.0732,-6.88497,glottolog,False
+38,,Dutch,kaneel,,canela,dutc1256,nld,language,Indo-European,Eurasia,AW BE BQ BR CW DE GF GY NL SR SX,52.0,5.0,glottolog,False
+129,,Norwegian,kanel,,canela,norw1258,nor,language,Indo-European,Eurasia,FI NO RU SE SJ,59.92,10.71,glottolog,False
+79,,Kabuverdianu,kanéla,,canela,kabu1256,kea,language,Indo-European,Africa,CV,15.0586,-23.6148,glottolog,False
+130,,Occitan,canèla,,canela,occi1239,oci,language,Indo-European,Eurasia,AD ES FR IT MC,44.1415,6.82979,glottolog,False
+49,,Galician,canela,,canela,gali1258,glg,language,Indo-European,Eurasia,ES PT,42.2446,-7.5343,glottolog,False
+1,,Northern Tosk Albanian,kanellë,,canela,tosk1239,als,language,Indo-European,Eurasia,AL GR MK,41.0,20.0,glottolog,False
+181,,Waray (Philippines),kanéla,,canela,wara1300,war,language,Austronesian,Papunesia,PH,10.61156859480118,124.78998273426139,glottolog,True
+179,,Venetian,canela,,canela,vene1258,vec,language,Indo-European,Eurasia,BR HR IT MX SI,45.503581,12.214167,glottolog,False
+63,,Hiligaynon,kanéla,,canela,hili1240,hil,language,Austronesian,Papunesia,PH,10.4018,122.974,glottolog,False
+156,,Tagalog,kanéla,,canela,taga1270,tgl,language,Austronesian,Papunesia,PH,14.06,121.747,glottolog,False
+155,,Swedish,kanel,,canela,swed1254,swe,language,Indo-European,Eurasia,AX DK FI NO SE,59.800634,17.389526,glottolog,False
+153,,Spanish,canela,,canela,stan1288,spa,language,Indo-European,Eurasia,AD AR BO BR BZ CL CO CR CU DO EC ES FR GI GT GY HN HT MA MX NI PA PE PR PT PY SV US UY VE,40.4414,-1.11788,glottolog,False
+19,,Bulgarian,кане́ла,kanéla,canela,bulg1262,bul,language,Indo-European,Eurasia,BG GR MD MK RO RS TR UA,43.3646,25.047,glottolog,False
+67,,Icelandic,kanill,,canela,icel1247,isl,language,Indo-European,Eurasia,IS,63.4837,-19.0212,glottolog,False
+72,,Irish,cainéal,,canela,iris1253,gle,language,Indo-European,Eurasia,GB IE,53.2186,-7.61509,glottolog,False
+12,,Basque,kanela,,canela,basq1248,eus,language,nan,Eurasia,ES FR,43.2787,-1.31622,glottolog,False
+73,,Italian,cannella,,canela,ital1282,ita,language,Indo-European,Eurasia,AT CH FR HR IT SI SM VA,43.0464,12.6489,glottolog,False
+137,,Portuguese,canela,,canela,port1283,por,language,Indo-European,Eurasia,AD AR BO BR CO ES FR GF GY PE PT PY SR UY VE,39.91,-8.1,glottolog,False
+16,,Coastal-Naga Bikol,kanela,,canela,cent2087,bcl,language,Austronesian,Papunesia,PH,13.7574,123.403,glottolog,False
+17,,Breton,kanell,,canela,bret1244,bre,language,Indo-European,Eurasia,FR,48.2452,-3.78934,glottolog,False
+53,,Modern Greek,κανέλα,kanéla,canela,mode1248,ell,language,Indo-European,Eurasia,AL BG CY EG GR IT MK RO TR UA,38.36,23.13,glottolog,False
+41,,Estonian,kaneel,,canela,esto1258,ekk,language,Uralic,Eurasia,EE LV RU,58.55,25.82,glottolog,False
+74,,Japanese,シナモン,shinamon,kinnamon,nucl1643,jpn,language,Japonic,Eurasia,JP,34.54040611248052,135.04075860045646,glottolog,True
+61,,Modern Hebrew,קינמון,qinamón,kinnamon,hebr1245,heb,language,Afro-Asiatic,Eurasia,IL JO LB PS SY,31.1056,35.0179,glottolog,False
+99,,Macedonian,цимет,cimet,kinnamon,mace1250,mkd,language,Indo-European,Eurasia,AL BG GR MK RS,41.5957,21.7932,glottolog,False
+184,,Welsh,synamon,,kinnamon,wels1247,cym,language,Indo-European,Eurasia,AR GB,52.0,-4.0,glottolog,False
+173,,Upper Sorbian,cymt,,kinnamon,uppe1395,hsb,language,Indo-European,Eurasia,DE,51.945875786144015,15.353491217191257,glottolog,True
+172,,Ukrainian,цинамо́н ,cynamón,kinnamon,ukra1253,ukr,language,Indo-European,Eurasia,BY HU MD PL RO RU SK UA,50.61754805650236,29.01439018518571,glottolog,True
+151,,Slovenian,cimet,,kinnamon,slov1268,slv,language,Indo-European,Eurasia,AT HR HU IT SI,46.2543,14.7766,glottolog,False
+147,,Southern Sotho,sinamone,,kinnamon,sout2807,sot,language,Atlantic-Congo,Africa,LS ZA,-28.78,27.89,glottolog,False
+146,,Serbian-Croatian-Bosnian,цимет,cimet,kinnamon,sout1528,hbs,language,Indo-European,Eurasia,RS,44.15,18.81,glottolog,False
+145,,Serbian Standard,цимет,cimet,kinnamon,serb1264,srp,dialect,Indo-European,Eurasia,AL BA BG HR HU ME MK RO RS,44.3238,21.9192,glottolog,False
+89,,Korean,시나몬,sinamon,kinnamon,kore1280,kor,language,Koreanic,Eurasia,CN KP KR RU,37.779376642498896,126.8837521487036,glottolog,True
+141,,Samoan,"kinamoni, kinnamona",,kinnamon,samo1305,smo,language,Austronesian,Papunesia,AS WS,-13.92,-171.83,glottolog,False
+110,,Maori,hinamona,,kinnamon,maor1246,mri,language,Austronesian,Papunesia,NZ,-38.2881,176.541,glottolog,False
+105,,Maltese,ċinnamonu,,kinnamon,malt1254,mlt,language,Afro-Asiatic,Eurasia,MT,35.490621596191545,14.933142670822807,glottolog,True
+97,,Lower Sorbian,cymt,,kinnamon,lowe1385,dsb,language,Indo-European,Eurasia,DE,51.6621,13.9407,glottolog,False
+96,,Lithuanian,cinamonas,,kinnamon,lith1251,lit,language,Indo-European,Eurasia,BY LT LV PL RU,55.1429,23.9601,glottolog,False
+94,,Latin,cinnamum,,kinnamon,lati1261,lat,language,Indo-European,Eurasia,VA,41.86666800697923,12.298573470463552,glottolog,True
+93,,Latin,cinnamōmum,,kinnamon,lati1261,lat,language,Indo-European,Eurasia,VA,42.43153745004284,13.031519858192528,glottolog,True
+136,,Polish,cynamon,,kinnamon,poli1260,pol,language,Indo-European,Eurasia,BY CZ DE LT PL RU SK UA,51.8439,18.6255,glottolog,False
+60,,Hawaiian,kinamona,,kinnamon,hawa1245,haw,language,Austronesian,Papunesia,US,19.6297,-155.43,glottolog,False
+185,,Eastern Yiddish,"צימערינג, צימרינג","tsimering, tsimring",kinnamon,east2295,ydd,language,Indo-European,Eurasia,AR AU BE BY CA CR EE HU IL LT LV MD PA PL PR RO RU SE UA US UY ZA,51.75,19.42,glottolog,False
+5,,Eastern Armenian,կինամոն,kinamon,kinnamon,nucl1235,hye,language,Indo-European,Eurasia,AM AZ GE IR SY TR,39.04326728517458,45.35726457188154,glottolog,True
+14,,Belarusian,цынамо́н,cynamón,kinnamon,bela1254,bel,language,Indo-European,Eurasia,BY LT LV PL RU UA,53.39201480564606,26.52434646989993,glottolog,True
+40,,English,cinnamon,,kinnamon,stan1293,eng,language,Indo-European,Eurasia,AU BM BR BZ CA CC CK CU CX DO FK GB GG GI GP GS GT GY HN IE IM IO JE KY LR MX NF PN SH SR UM US VE ZA,53.0,-1.0,glottolog,False
+34,,Croatian Standard,cimet,,kinnamon,croa1245,hrv,dialect,Indo-European,Eurasia,AT BA HR HU IT ME RS SI,45.555,15.982,glottolog,False
+54,,Ionic-Attic Ancient Greek,κιννάμωμον,kinnámōmon,kinnamon,anci1242,grc,language,Indo-European,Eurasia,GR,39.8155,21.9129,glottolog,False
+3,,Ancient Hebrew,קִנָּמוֹן,qinnāmôn,kinnamon,anci1244,hbo,language,Afro-Asiatic,Eurasia,IL,31.7761,35.1725,glottolog,False
+31,,Coptic,ⲛⲁⲙⲛⲟⲛ,namnon,kinnamon,copt1239,cop,language,Afro-Asiatic,Africa,EG,30.449918972695606,30.893975711296566,glottolog,True
+8,,Classical-Middle Armenian,կինամոմոն,kinamomon,kinnamon,clas1249,xcl,language,Indo-European,Eurasia,AM,38.76987485541313,41.67449489925641,glottolog,True
+52,,German,Zimt,,kinnamon,stan1295,deu,language,Indo-European,Eurasia,AT BE CH CZ DE DK FR HU IT LI LU NL PL RO SI SK,48.649,12.4676,glottolog,False
+30,,Coptic,"ⲕⲓⲛⲁⲙⲟⲛ, ⲕⲓⲛⲛⲁⲙⲱⲙⲟⲛ, ϭⲓⲛⲁⲙⲟⲙⲟⲛ","kinamon, kinnamōmon, chinamomon",kinnamon,copt1239,cop,language,Afro-Asiatic,Africa,EG,29.929776200958944,30.218137298774625,glottolog,True
+50,,Geez,ቅናሞሙ,qənāmomu,kinnamon,geez1241,gez,language,Afro-Asiatic,Africa,ER ET,10.1342,40.6821,glottolog,False
+158,,Tajik,корга,korga,korica,taji1245,tgk,language,Indo-European,Eurasia,AF CN KG TJ UZ,38.478126002022236,68.58746732073273,glottolog,True
+35,,Czech,skořice,,korica,czec1258,ces,language,Indo-European,Eurasia,AT CZ PL SK,49.873398,15.10437,glottolog,False
+87,,Kirghiz,корица,koritsa,korica,kirg1245,kir,language,Turkic,Eurasia,AF CN KG KZ TJ UZ,42.546517274598926,73.97120709591748,glottolog,True
+86,,Kirghiz,корица ,qoritsa,korica,kirg1245,kir,language,Turkic,Eurasia,AF CN KG KZ TJ UZ,41.609967298389805,73.16409750567777,glottolog,True
+174,,Upper Sorbian,skorica,,korica,uppe1395,hsb,language,Indo-European,Eurasia,DE,51.38828419312581,14.311881139366642,glottolog,True
+171,,Ukrainian,кори́ця ,korýcja,korica,ukra1253,ukr,language,Indo-European,Eurasia,BY HU MD PL RO RU SK UA,50.23893317165172,30.714078484365103,glottolog,True
+140,,Russian,кори́ца,koríca,korica,russ1263,rus,language,Indo-European,Eurasia,BY CN EE FI GE KG KP KZ LT LV MD MN NO PL RO RU SJ TM UA UZ,59.0,50.0,glottolog,False
+150,,Slovak,škorica,,korica,slov1269,slk,language,Indo-European,Eurasia,AT CZ HU PL RS SK UA,48.545705,18.78479,glottolog,False
+13,,Belarusian,кары́ца,karýca,korica,bela1254,bel,language,Indo-European,Eurasia,BY LT LV PL RU UA,52.92368863299148,26.139614001464633,glottolog,True
+178,,Northern Uzbek,koritsa,,korica,nort2690,uzn,language,Turkic,Eurasia,AF CN KG KZ TJ TM UZ,41.859985185026844,69.83068510267974,glottolog,True
+59,,Hausa,kirfa,,qirfa,haus1257,hau,language,Afro-Asiatic,Africa,BF BJ CM NE NG TD,11.1513,8.7804,glottolog,False
+62,,Hijazi Arabic,قرفة‎ ,girfa,qirfa,hija1235,acw,language,Afro-Asiatic,Eurasia,SA YE,22.8346,38.9237,glottolog,False
+2,,Amharic,ቀረፋ,ḳäräfa,qirfa,amha1245,amh,language,Afro-Asiatic,Africa,DJ ET,11.708182,39.543456,glottolog,False
+39,,Egyptian Arabic,قرفة,ʔerfa,qirfa,egyp1253,arz,language,Afro-Asiatic,Africa,EG IL LY,31.0,31.0,glottolog,False
+166,,Tigrinya,ቃርፋ ,ḳarfa,qirfa,tigr1271,tir,language,Afro-Asiatic,Africa,DJ ER ET SD,15.3359,38.9266,glottolog,False
+152,,Somali,qorfe,,qirfa,soma1255,som,language,Afro-Asiatic,Africa,DJ ET KE SO,4.778704,45.152856,glottolog,False
+117,,Moroccan Arabic,قرفة‎ ,qarfa,qirfa,moro1292,ary,language,Afro-Asiatic,Africa,DZ EH MA,32.5,-7.5,glottolog,False
+132,,West Central Oromo,qarafaa,,qirfa,west2721,gaz,language,Afro-Asiatic,Africa,ET SD,8.81391,36.7365,glottolog,False
+4,,Standard Arabic,قِرْفَة,qirfa,qirfa,stan1318,arb,language,Afro-Asiatic,Eurasia,AE BH DJ DZ EG ER IL IQ JO KM KW LB LY MA OM PS QA SA SD SO SY TD TN TZ YE,27.9625,43.8525,glottolog,False
+162,,Telugu,దాల్చిని,dālcini,darchin,telu1262,tel,language,Dravidian,Eurasia,IN,16.04115929851806,79.4659349005556,glottolog,True
+161,,Tatar,дарчин,darçin,darchin,tata1255,tat,language,Turkic,Eurasia,AZ BY CN EE FI GE KZ LT LV RU UA,55.79592,49.11577,glottolog,False
+111,,Marathi,दालचीनी ,dālcīnī,darchin,mara1378,mar,language,Indo-European,Eurasia,IN,17.9344,76.6665,glottolog,False
+157,,Tajik,дорчин ,dorčin,darchin,taji1245,tgk,language,Indo-European,Eurasia,AF CN KG TJ UZ,37.94368884697438,68.19095221968276,glottolog,True
+169,,Turkmen,darçyn,,darchin,turk1304,tuk,language,Turkic,Eurasia,AF IQ IR PK TJ TM TR UZ,37.08719,59.17574,glottolog,False
+7,,Classical-Middle Armenian,դարիճենիկ,daričenik,darchin,clas1249,xcl,language,Indo-European,Eurasia,AM,37.74922091870584,40.648051940395995,glottolog,True
+154,,Swahili,dalasini,,darchin,swah1253,swh,language,Atlantic-Congo,Africa,BI KE MZ RW SO TZ UG,-8.25605,37.624,glottolog,False
+24,,Central Kurdish,دارچین,darçîn,darchin,cent1972,ckb,language,Indo-European,Eurasia,IQ IR,35.6539,45.8077,glottolog,False
+131,,Odia,ଦାଲଚିନି,dālcini,darchin,oriy1255,ory,language,Indo-European,Eurasia,IN,21.0,85.0,glottolog,False
+133,,Ottoman Turkish,دارچین,darçın,darchin,otto1234,ota,dialect,Turkic,Eurasia,,39.87,32.87,glottolog,False
+134,,Central Pashto,دارچیني، دال چینی," dār-c̱ẖīnī, dāl-c̱ẖīnī",darchin,cent1973,pst,language,Indo-European,Eurasia,AF PK,31.9153,69.4529,glottolog,False
+135,,Western Farsi,دارچین,dârčin,darchin,west2369,pes,language,Indo-European,Eurasia,AF AZ IQ IR TM TR,32.9,53.3,glottolog,False
+9,,Assamese,দালচেনি,dalseni,darchin,assa1263,asm,language,Indo-European,Eurasia,BD BT IN,26.0876,91.2932,glottolog,False
+15,,Bengali,দারুচিনি,dārucini,darchin,beng1280,ben,language,Indo-European,Eurasia,BD IN NP,24.0,90.0,glottolog,False
+138,,Western Panjabi,ਦਾਲ਼ਚੀਨੀ,dāḷcīnī,darchin,west2386,pnb,language,Indo-European,Eurasia,IN PK,30.0948,75.3474,glottolog,False
+144,,Sanskrit,दारुसिता,dārusitā,darchin,sans1269,san,language,Indo-European,Eurasia,IN,19.353990725300697,77.01104683543134,glottolog,True
+6,,Eastern Armenian,դարչին,darčʿin,darchin,nucl1235,hye,language,Indo-European,Eurasia,AM AZ GE IR SY TR,40.526067363866446,45.687377713296726,glottolog,True
+127,,Nepali,"दालचिनी, दालचीनि","dālacinī, dālacīni",darchin,nepa1254,npi,language,Indo-European,Eurasia,NP,28.0,85.0,glottolog,False
+10,,North Azerbaijani,darçın,,darchin,nort2697,azj,language,Turkic,Eurasia,AM AZ GE IR RU TR,40.97768,46.4737,glottolog,False
+83,,Khasi,dalchini,,darchin,khas1269,kha,language,Austroasiatic,Eurasia,BD IN,24.977,91.9998,glottolog,False
+80,,Kannada,ದಾಲ್ಚಿನ್ನಿ ,dālcinni,darchin,nucl1305,kan,language,Dravidian,Eurasia,IN,13.5878,76.1198,glottolog,False
+85,,Kikuyu,ndarathini,,darchin,kiku1240,kik,language,Atlantic-Congo,Africa,KE,-0.29005,36.719,glottolog,False
+78,,Jewish Babylonian Aramaic,דַּרְצִינִי,darṣīnī,darchin,jewi1240,tmr,language,Afro-Asiatic,Eurasia,IL,32.273,44.245,glottolog,False
+90,,Northern Kurdish,darçîn,,darchin,nort2641,kmr,language,Indo-European,Eurasia,AM AZ IQ IR JO KW SY TM TR,37.0,43.0,glottolog,False
+33,,Crimean Tatar,tarçın,,darchin,crim1257,crh,language,Turkic,Eurasia,BG KG LT MD RO RU TR UA UZ,45.0,34.08,glottolog,False
+29,,Classical Syriac,ܨܝܢܕܪܓ,ṣīndreḡ,darchin,clas1252,syc,language,Afro-Asiatic,Eurasia,TR,36.680147481617176,42.80540174475375,glottolog,True
+175,,Urdu,دارچینی,dārcīnī,darchin,urdu1245,urd,language,Indo-European,Eurasia,AF BD IN PK,25.0,67.0,glottolog,False
+176,,Uighur,دارچىن,darchin,darchin,uigh1240,uig,language,Turkic,Eurasia,CN IN KG KZ MN PK UZ,43.88,87.38,glottolog,False
+82,,Kazakh,даршын ,darşın,darchin,kaza1248,kaz,language,Turkic,Eurasia,AF CN IR KG KZ MN RU TJ TM UZ,51.17,71.454,glottolog,False
+81,,Kashmiri,دالچین,dālchīn,darchin,kash1277,kas,language,Indo-European,Eurasia,IN PK,34.166825,74.330455,glottolog,False
+28,,Classical Syriac,ܕܪܨܝܢܝ,dārṣīnī,darchin,clas1252,syc,language,Afro-Asiatic,Eurasia,TR,37.62575513724947,42.79580172433207,glottolog,True
+168,,Turkish,tarçın,,darchin,nucl1301,tur,language,Turkic,Eurasia,AL AM AZ BG CY GE GR IQ IR MK SY TR,39.8667,32.8667,glottolog,False
+51,,Georgian,დარიჩინი,daričini,darchin,nucl1302,kat,language,kart1248,Eurasia,AM AZ GE IR RU TR,41.850397,43.78613,glottolog,False
+177,,Northern Uzbek,dolchin,,darchin,nort2690,uzn,language,Turkic,Eurasia,AF CN KG KZ TJ TM UZ,40.08019061294146,68.54805521587663,glottolog,True
+64,,Hindi,दालचीनी,dālcīnī,darchin,hind1269,hin,language,Indo-European,Eurasia,BD BT IN NP,25.0,77.0,glottolog,False
+56,,Gulf Arabic,دارسين‎ ,dārsīn,darchin,gulf1241,afb,language,Afro-Asiatic,Eurasia,AE BH IQ IR KW OM QA SA YE,30.17,47.5,glottolog,False
+25,,Chakma,𑄓𑄣𑄴 𑄌𑄨𑄚𑄨,dal chini,darchin,chak1266,ccp,language,Indo-European,Eurasia,BD IN,23.00148,92.339,glottolog,False
+101,,Maithili,दालचिनी,dalchini,darchin,mait1250,mai,language,Indo-European,Eurasia,IN NP,26.3817,86.2211,glottolog,False
+180,,Vietnamese,quế,,gui,viet1252,vie,language,Austroasiatic,Eurasia,CN LA VN,20.681188,105.774071,glottolog,False
+75,,Japanese,肉桂,nikkei,gui,nucl1643,jpn,language,Japonic,Eurasia,JP,34.04176875537218,134.1380773505782,glottolog,True
+107,,Mandarin Chinese,桂皮,guìpí,gui,mand1415,cmn,language,Sino-Tibetan,Eurasia,CN KP LA MM MN RU TW VN,40.6812887930976,116.31600945819896,glottolog,True
+108,,Mandarin Chinese,肉桂,ròuguì,gui,mand1415,cmn,language,Sino-Tibetan,Eurasia,CN KP LA MM MN RU TW VN,41.00127643677392,115.40493109992977,glottolog,True
+88,,Korean,계피,gyepi,gui,kore1280,kor,language,Koreanic,Eurasia,CN KP KR RU,37.39576243281679,126.98168262375518,glottolog,True
+112,,Min Nan Chinese,肉桂,jio̍k-kuì/lio̍k-kuì　,gui,minn1241,,language,Sino-Tibetan,Eurasia,CN TW,24.5,118.17,glottolog,False
+21,,Cantonese,肉桂,juk6 gwai3,gui,cant1236,,dialect,Sino-Tibetan,Eurasia,CN HK MO,23.0118,113.2021,glottolog,False
+58,,Hakka Chinese,肉桂,ngiuk-kui,gui,hakk1236,hak,language,Sino-Tibetan,Eurasia,CN TW,25.0,116.0,glottolog,False
+170,,Twi,anoatre dua,,other,twii1234,twi,dialect,Atlantic-Congo,Africa,,6.35,-1.33,glottolog,False
+159,,Tamil,இலவங்கப்பட்டை,ilavaṅkappaṭṭai,other,tami1289,tam,language,Dravidian,Eurasia,IN LK,11.485575338531444,79.62779239406534,glottolog,True
+160,,Tamil,கருவாப்பட்டை,karuvāppaṭṭai,other,tami1289,tam,language,Dravidian,Eurasia,IN LK,11.453749917824913,79.08987720492405,glottolog,True
+163,,Telugu,లవంగపట్ట,lavaṅgapaṭṭa,other,telu1262,tel,language,Dravidian,Eurasia,IN,15.67284380099491,78.17839562828321,glottolog,True
+164,,Thai,อบเชย,òp-chəəi,other,thai1261,tha,language,Tai-Kadai,Eurasia,KH MM TH,14.192,100.671,glottolog,False
+165,,Tibetan,ཤིང་ཚ ,shing tsha,other,tibe1272,bod,language,Sino-Tibetan,Eurasia,BT CN IN NP,28.3681,90.1872,glottolog,False
+182,,Waray (Philippines),kalingag,,other,wara1300,war,language,Austronesian,Papunesia,PH,11.770829513971389,124.20862916470746,glottolog,True
+183,,Waray (Philippines),kayankong,,other,wara1300,war,language,Austronesian,Papunesia,PH,12.426287926542404,125.77473572119743,glottolog,True
+149,,Sinhala,කුරුඳු,kuruⁿdu,other,sinh1246,sin,language,Indo-European,Eurasia,LK,8.0,81.0,glottolog,False
+148,,Shan,ၵႅင်းႁွမ်,kɛŋ4 hɔm1,other,shan1277,shn,language,Tai-Kadai,Eurasia,CN MM TH,21.5995,98.0342,glottolog,False
+167,,Tulu,ಚೆಕ್ಕೆ,chekke,other,tulu1258,tcy,language,Dravidian,Eurasia,IN,12.8114,75.2651,glottolog,False
+122,,Lotha Naga,xsangsuru,,other,loth1237,njh,language,Sino-Tibetan,Eurasia,IN,26.01396,94.04355,glottolog,False
+143,,Sanskrit,चोच,coca,other,sans1269,san,language,Indo-European,Eurasia,IN,19.04840595889222,76.89907335038765,glottolog,True
+103,,Standard Malay,kayu manis,,other,stan1306,zsm,language,Austronesian,Eurasia,BN MY SG,3.08896,101.699,glottolog,False
+100,,Maguindanao,kadangag,,other,magu1243,mdh,language,Austronesian,Papunesia,PH,6.9453,124.509,glottolog,False
+37,,Dhivehi,ފޮނި ތޮށި,foni toṣi,other,dhiv1236,div,language,Indo-European,Eurasia,IN MV,1.928498,73.54433,glottolog,False
+91,,Lao,ອົບເຊີຍ ,ʼop sœ̄i,other,laoo1244,lao,language,Tai-Kadai,Eurasia,KH LA TH,19.531391392112013,102.09230844205796,glottolog,True
+84,,Central Khmer,អុបឆឺយ,obchheuy,other,cent1989,khm,language,Austroasiatic,Eurasia,KH LA TH VN,12.0515,105.015,glottolog,False
+42,,Fante,anoater dua,,other,fant1241,fat,dialect,Atlantic-Congo,Africa,,6.35,-1.33,glottolog,False
+77,,Javanese,ꦏꦪꦸꦩꦤꦶꦱ꧀,kayu manis,other,java1254,jav,language,Austronesian,Papunesia,ID MY,-7.02378105093684,108.58160781873268,glottolog,True
+76,,Javanese,kayu legi,,other,java1254,jav,language,Austronesian,Papunesia,ID MY,-7.337180778408472,109.40776681698051,glottolog,True
+71,,Standard Indonesian,manisjangan,,other,indo1316,ind,language,Austronesian,Papunesia,ID NL PH SA SG US,-7.547571773995752,108.96247956790732,glottolog,True
+70,,Standard Indonesian,kayu manis,,other,indo1316,ind,language,Austronesian,Papunesia,ID NL PH SA SG US,-8.055173321999822,109.11092831814577,glottolog,True
+69,,Standard Indonesian,kulit manis,,other,indo1316,ind,language,Austronesian,Papunesia,ID NL PH SA SG US,-7.877208634591477,110.03914704185314,glottolog,True
+68,,Igbo,pawuda,,other,nucl1417,ibo,language,Atlantic-Congo,Africa,NG,4.62705,7.23441,glottolog,False
+66,,Hungarian,fahéj,,other,hung1274,hun,language,Uralic,Eurasia,AT HR HU RO RS SI SK UA,46.9068585714,19.6555271429,glottolog,False
+65,,Hmong Daw,txuj lom xinamees,,other,hmon1333,mww,language,hmon1336,Eurasia,CN LA TH VN,21.5461,103.164,glottolog,False
+55,,Gujarati,તજ ,taj,other,guja1252,guj,language,Indo-European,Eurasia,BD IN PK,22.687,71.0962,glottolog,False
+104,,Malayalam,കറുവ,kaṟuva,other,mala1464,mal,language,Dravidian,Eurasia,IN,9.59208,76.7651,glottolog,False
+27,,Nyanja,mtengo,,other,nyan1308,nya,language,Atlantic-Congo,Africa,MW MZ SZ TZ ZM ZW,-14.8047,32.8108,glottolog,False
+109,,Manipuri,উশিংশা,ushingsha,other,mani1292,mni,language,Sino-Tibetan,Eurasia,BD IN MM,24.4409,93.3426,glottolog,False
+113,,Mizo,thakthing,,other,lush1249,lus,language,Sino-Tibetan,Eurasia,BD IN MM,22.6138,92.6247,glottolog,False
+142,,Sanskrit,त्वच,tvac,other,sans1269,san,language,Indo-European,Eurasia,IN,19.944094287461024,77.86140829264838,glottolog,True
+139,,Romanian,scorțișoară,,other,roma1327,ron,language,Indo-European,Eurasia,BG HU MD RO RS UA,46.3913,24.2256,glottolog,False
+18,,Brunei,kayu manis,,other,brun1242,kxd,language,Austronesian,Papunesia,BN MY,4.456045,114.429505,glottolog,False
+20,,Burmese,သစ်ကြံပိုး,sackrampui:,other,nucl1310,mya,language,Sino-Tibetan,Eurasia,BD MM TH,20.7926,93.9665,glottolog,False
+23,,Cebuano,kaningag,,other,cebu1242,ceb,language,Austronesian,Papunesia,PH,8.38799,124.367,glottolog,False
+126,,Navajo,tó wónaanídę́ę́ʼ tsin bikáshtʼóózh bitáʼahí bił éʼélʼíní,,other,nava1243,nav,language,Athabaskan-Eyak-Tlingit,North America,US,36.33,-109.38,glottolog,False
+125,,North-Central Tangkhul Naga,pharongkor,,other,nort3287,,language,Sino-Tibetan,Eurasia,IN,25.156667,94.204722,glottolog,False
+11,,Balinese,"maswi, meswi",,other,bali1278,ban,language,Austronesian,Papunesia,ID,-8.35714,115.075,glottolog,False
+124,,Sumi Naga,"losani, akusa",,other,sumi1235,nsm,language,Sino-Tibetan,Eurasia,IN,25.9996,94.4235,glottolog,False
+121,,Konyak Naga,pongmo,,other,kony1248,nbe,language,Sino-Tibetan,Eurasia,IN MM,26.6823,95.0598,glottolog,False
+120,,Chokri Naga,"chipfweketo, thime",,other,chok1243,nri,language,Sino-Tibetan,Eurasia,IN,25.5636,94.2887,glottolog,False
+119,,Ao Naga,sungshi,,other,aona1235,njo,language,Sino-Tibetan,Eurasia,IN,26.3241,94.3824,glottolog,False
+118,,Angami Naga,seichü,,other,anga1288,njm,language,Sino-Tibetan,Eurasia,IN,25.6841,93.8668,glottolog,False
+116,,Halh Mongolian,шанц,šanc (shants),other,halh1238,khk,language,Mongolic-Khitan,Eurasia,MN RU,48.32397,106.28874,glottolog,False
+115,,Mon,ခဍၚ် ရာ1 ,hədɛŋ¹ ra,other,monn1252,mnw,language,Austroasiatic,Eurasia,MM TH,16.28150716499966,98.21555140438491,glottolog,True
+114,,Mon,ကွာန်1,kəwan,other,monn1252,mnw,language,Austroasiatic,Eurasia,MM TH,14.74967308344342,98.94866432533061,glottolog,True
+123,,Northern Rengma Naga,achansa,,other,nort2725,nnl,language,Sino-Tibetan,Eurasia,IN,26.4492,94.5683,glottolog,False
+92,,Lao,ແຄ່,khǣ,other,laoo1244,lao,language,Tai-Kadai,Eurasia,KH LA TH,19.942737606926716,102.08455189577623,glottolog,True
