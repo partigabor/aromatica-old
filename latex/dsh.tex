@@ -1,5 +1,181 @@
-\documentclass{dsh} % In draft, initial, or final modes
+% Digital Scholarship in the Humanities
+% https://academic.oup.com/dsh/pages/General_Instructions % all wrong
+
+\documentclass[12pt]{article}
+\usepackage[a4paper, margin=3cm]{geometry}
+\usepackage[style=british]{csquotes}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{endnotes}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{subfig}
+\usepackage{url}
+\usepackage{soul} % strikethrough \st{}; highlight \hl{}
 % \usepackage[final]{microtype}
+
+% Referencing
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor} % Color names
+\definecolor{accent}{HTML}{008080}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=accent,
+    anchorcolor=black,
+    citecolor=accent,
+    filecolor=black,
+    menucolor=black,
+    runcolor=black,
+    urlcolor=accent}
+\hypersetup{breaklinks=true}
+
+% Bibliography
+\usepackage[
+    backend=biber,
+    style=apa,
+    autocite=inline,
+    sorting=nyt,
+    sortcites=true,
+    backref=false,
+    backrefstyle=three,
+    abbreviate=true,
+    block=space,
+]{biblatex}
+\DefineBibliographyStrings{british}{
+    backrefpage={Cited on p.},
+    backrefpages={Cited on pp.}}
+\apptocmd{\sloppy}{\hbadness 10000\relax}{}{}
+\appto{\bibsetup}{\sloppy}
+\DeclareFieldFormat{apacase}{#1} % Title casing in APA
+% \AtBeginBibliography{\small} % Can make the font in bibliography smaller
+\addbibresource{../static/bibliography/parti.bib} %
+
+% Bibliography attempts
+% \usepackage[
+%     style=authoryear,
+%     backend=biber,
+%     % giveninits=true,
+%     isbn=false,
+%     ]{biblatex}
+% \addbibresource{parti.bib} % Replace with your .bib file
+
+% \usepackage[
+%     style=oxyear,
+%     backend=biber,
+%     isbn=false,
+%     url=false,
+%     doi=false,
+%     giveninits=false,
+%     ]{biblatex}
+% \addbibresource{parti.bib} % Replace with your .bib file
+
+% % Customize journal entry
+% \DeclareFieldFormat
+%   [article,inbook,incollection,inproceedings,patent,thesis,unpublished]
+%   {title}{\mkbibquote{#1}\addcomma}
+
+% \DeclareFieldFormat
+%   [article,inbook,incollection,inproceedings,patent,thesis,unpublished]
+%   {journaltitle}{\emph{#1}\addcomma}
+
+% % Remove pp. before pages
+% \DeclareFieldFormat[article]{pages}{#1}
+
+% % Customize book entry
+% \DeclareFieldFormat
+%   [book, article,inbook,incollection,inproceedings,patent,thesis,unpublished]
+%   {year}{\mkbibparens{#1}\addspace}
+
+% \DeclareBibliographyDriver{book}{%
+%   \printnames{author}%
+%   \newunit{\addperiod}\newblock
+%   \printfield{year}%
+%   \newblock
+%   \printfield{title}%
+%   \newunit{\addperiod}
+%   \printlist{location}%
+%   \newunit{\addcolon}
+%   \printlist{publisher}%
+%   \newunit
+%   \finentry}
+
+% % Remove dot after year
+% \DeclareDelimFormat[bib]{nametitledelim}{\addspace}
+
+
+
+% Languages, scripts, and fonts
+\usepackage{libertine} % Font package: Latin, Greek, Cyrillic, Hebrew
+\usepackage[main=english, bidi=basic]{babel}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures={TeX}}
+% \setmainfont{Brill}
+
+% Automatic typesetting of writing systems
+\babelprovide[import=ar, onchar=ids fonts]{arabic}
+\babelprovide[import=sa-Deva, onchar=ids fonts]{sanskrit-devanagari}
+\babelprovide[import=he, onchar=ids fonts]{hebrew}
+
+% % Define fonts (https://tug.org/FontCatalogue/)
+% \babelfont{rm}{Linux Libertine}
+% \babelfont{sf}{Linux Biolinum}
+% \babelfont{tt}{Inconsolata}
+
+\babelfont[*arabic]{rm}{Noto Naskh Arabic}
+\babelfont[*hebrew]{rm}{Noto Serif Hebrew}
+\babelfont[*devanagari]{rm}[Renderer=Harfbuzz]{Noto Serif Devanagari} 
+
+% Settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
+
+% East Asian scripts
+\usepackage{kotex} 
+\setmainhangulfont{Noto Serif KR} % Support for KR, JP, limited TC, no SC 
+% \setmainhangulfont[
+%     Path=./fonts/,
+%     Extension = .otf,
+%     UprightFont=*-Medium,
+%     BoldFont=*-Bold
+%     ]{NotoSerifKR}
+
+\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
+\newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
+\newfontfamily{\khmerfont}[Script=Khmer]{Noto Serif Khmer}
+
+\newfontfamily{\javanesefont}{Noto Sans Javanese}
+\newfontfamily{\cuneiformfont}{Noto Sans Cuneiform}
+\newfontfamily{\linearbfont}{Noto Sans Linear B}
+
+% Commands to use the scripts
+\newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
+\newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
+\newcommand{\cu}[1]{\cuneiformfont{#1}\rmfamily}
+\newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
+\newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
+\newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
+
+
+
+% Epigraph
+\usepackage{epigraph}
+\setlength\epigraphwidth{\textwidth}
+\setlength\epigraphrule{0pt}
+\renewcommand{\epigraphflush}{center}
+\renewcommand{\sourceflush}{flushleft}
+\renewcommand{\epigraphsize}{\small}
+\setlength\afterepigraphskip{-1\baselineskip}
+
+\usepackage{titlesec}
+\titleformat{\section}{\bfseries\Large}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{}{\thesubsection}{1em}{\itshape}
+
+
+
+% ORCiD
+\definecolor{orcid}{HTML}{A6CE39}
+\usepackage{academicons}
+\newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor{orcid}{\aiOrcid}}}
+
+
 
 % "Spice Linguistics: Tracing the Linguistic Diffusion of Asian Spice Names in English"
 % "A Linguistic Journey through Spice Routes: The Etymology of Asian Spice Names in English"
@@ -12,11 +188,14 @@
 
 
 
+% Title, author, date
 \title{Mapping the Language of Spices: The Linguistic and Geographic Diffusion of Spices}
-\author[1]{{\small\orcid{0000-0003-2042-4655}}~Gábor Parti}
-\author[2]{{\small\orcid{0000-0002-8526-5520}}~Chu-Ren Huang}
-\affil[1,2]{The Hong Kong Polytechnic University}
-\date{\small{January 2024}}
+\author{Gábor Parti {\small\orcid{0000-0003-2042-4655}}}
+\date{The Hong Kong Polytechnic University\\[2.5ex]\today}
+% \date{\small\today}
+
+% {\orcid{0000-0002-8526-5520}}~Chu-Ren Huang
+
 
 \begin{document}
 
@@ -25,7 +204,7 @@
 \begin{abstract}
 \end{abstract}
 
-\keywords{one, two, three}
+\noindent{\small\textbf{Keywords --- } 1, 2, 3}
 
 \section{Introduction}
 

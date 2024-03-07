@@ -50,7 +50,6 @@
 
 % Languages, scripts, and fonts
 % \usepackage{libertine} % Font package: Latin, Greek, Cyrillic, Hebrew
-
 \usepackage[main=english, bidi=basic]{babel}
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures={TeX}}
@@ -62,9 +61,9 @@
 \babelprovide[import=he, onchar=ids fonts]{hebrew}
 
 % Define fonts (https://tug.org/FontCatalogue/)
-% \babelfont{rm}{Linux Libertine}
-% \babelfont{sf}{Linux Biolinum}
-% \babelfont{tt}{Inconsolata}
+\babelfont{rm}{Linux Libertine}
+\babelfont{sf}{Linux Biolinum}
+\babelfont{tt}{Inconsolata}
 
 \babelfont[*arabic]{rm}{Noto Naskh Arabic}
 \babelfont[*hebrew]{rm}{Noto Serif Hebrew}
@@ -72,37 +71,23 @@
 
 % Settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
 
-% % East Asian scripts
+% East Asian scripts
 \usepackage{kotex} 
 \setmainhangulfont{Noto Serif KR} % Support for KR, JP, limited TC, no SC 
 % \setmainhangulfont[
-    % Path=./fonts/,
-    % Extension = .otf,
-    % UprightFont=*-Medium,
-    % BoldFont=*-Bold
-    % ]{NotoSerifKR}
-
-\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
-
-% % Other scripts
-% \newfontfamily{\javanesefont}[
-%     Scale=1.0,
-%     Path=./fonts/,
-%     Extension = .ttf,
-%     ]{Javatext}
-
-% \newfontfamily{\javanesefont}[
 %     Path=./fonts/,
 %     Extension = .otf,
-%     UprightFont=*-Regular,
-%     ]{NotoSansJavanese}
+%     UprightFont=*-Medium,
+%     BoldFont=*-Bold
+%     ]{NotoSerifKR}
+
+\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
+\newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
+\newfontfamily{\khmerfont}[Script=Khmer]{Noto Serif Khmer}
 
 \newfontfamily{\javanesefont}{Noto Sans Javanese}
 \newfontfamily{\cuneiformfont}{Noto Sans Cuneiform}
 \newfontfamily{\linearbfont}{Noto Sans Linear B}
-
-\newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
-\newfontfamily{\khmerfont}[Script=Khmer]{Noto Serif Khmer}
 
 
 
@@ -116,13 +101,12 @@
 
 
 
-% Keywords command
-\providecommand{\keywords}[1]{\small\noindent\textbf{\textit{Keywords ---}}#1}
-
 % ORCiD
 \definecolor{orcid}{HTML}{A6CE39}
 \usepackage{academicons}
 \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor{orcid}{\aiOrcid}}}
+
+
 
 % Title, author, date
 \title{The Linguistic Genealogies of Cinnamon: A Story of Spice Diffusion and \textit{Wanderwort} Propagation}
