@@ -1,7 +1,7 @@
 +++
 title = "Allspice"
 author = "Gabor Parti"
-date = "2024-03-05"
+date = "2024-03-07"
 description = "The dried unripe berries of a small Caribbean tree, also known as allspice; Jamaica pepper; pimento; myrtle pepper; newspice."
 weight = 10
 # draft = "true"
@@ -59,16 +59,6 @@ ALLSPICE -- Pimenta dioica (L.) Merr. -- is a(n) tree in the *Myrtaceae* family,
 **Introduced areas:** Society Is., Caroline Is., Hawaii, Florida, El Salvador, Bermuda, Puerto Rico, Southwest Caribbean, Trinidad-Tobago, Venezuela, Colombia
 
 </p>
-
-## Etymologies
-
- {{< cite "oed;oe" >}}
-
- {{< cite "oed;gomezdesilva_1985_elsevier;corominas_1987_breve;lewis_1879_latin" >}}
-
- {{< cite "baalbaki_1995_almawrid" >}}
-
- {{< cite "mdbg" >}}
 
 ## Gallery
 
