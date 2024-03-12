@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2024-03-07"
+date = "2024-03-12"
 description = "The dried seeds of a West Asian flowering plant, also known as brown cumin. It is related to [caraway](../items/caraway)."
 weight = 10
 # draft = "true"

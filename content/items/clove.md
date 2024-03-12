@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2024-03-07"
+date = "2024-03-12"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, also known as clove; cloves. See also [nutmeg](../items/nutmeg), [mace](../items/mace)."
 weight = 10
 # draft = "true"

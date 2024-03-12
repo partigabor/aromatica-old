@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2024-03-07"
+date = "2024-03-12"
 description = "The dried fruits of an annual herb, also known as cilantro, also known as coriander seeds; cilantro; Chinese parsley."
 weight = 10
 # draft = "true"
