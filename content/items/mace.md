@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2024-03-07"
+date = "2024-03-12"
 description = "The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg)."
 weight = 10
 # draft = "true"

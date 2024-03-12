@@ -82,6 +82,8 @@ Xinxiu Bencao 新修本草[Newly Revised Materia Medica] Tang, 659
 * Bartolomeo Scappi. (1570). [*Opera*](https://en.wikipedia.org/wiki/Bartolomeo_Scappi) [Works]. --- monumental Italian cookbook from the first celebrity chef of Europe.
 * Marco Polo
 * Ibn Battuta
+* Faxian
+* Yijing (monk)
 * Zheng He
 * Niccolò Da Conti
 * Tomé Pires
@@ -94,7 +96,12 @@ Xinxiu Bencao 新修本草[Newly Revised Materia Medica] Tang, 659
 * Pigafetta
 * Garcia de Orta
 * Jan Huygen van Linschoten
-* Pierre Poivre -->
+* Pierre Poivre 
+* Alexander Selkirk (Robinson Crusoes)
+
+Richard Francis Burton
+
+* -->
 
 <!-- * Jean Anthelme Brillat-Savarin. (1825). [*Physiologie du goût*](https://en.wikipedia.org/wiki/Brillat-Savarin) [The Physiology of Taste]. --- an entertaining treatise on eating and gastronomical though. -->
 

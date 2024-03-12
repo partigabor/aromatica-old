@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2024-03-07"
+date = "2024-03-12"
 description = "The seeds of a West Asian herb, also known as fenugreek (seeds)."
 weight = 10
 # draft = "true"
