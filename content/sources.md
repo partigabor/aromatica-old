@@ -85,6 +85,8 @@ Xinxiu Bencao 新修本草[Newly Revised Materia Medica] Tang, 659
 * Faxian
 * Yijing (monk)
 * Zheng He
+* Ma Huan
+* Fei Xin
 * Niccolò Da Conti
 * Tomé Pires
 * Fernão Mendes Pinto??
@@ -92,6 +94,9 @@ Xinxiu Bencao 新修本草[Newly Revised Materia Medica] Tang, 659
 * Evliya Celebi
 * Christopher Columbus
 * Vasco da Gama
+* Nicholas Culpeper
+* Odoric of Pordenone
+* Sulaiman al-Tajir
 * Francisco Pizarro
 * Pigafetta
 * Garcia de Orta
