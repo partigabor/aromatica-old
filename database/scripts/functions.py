@@ -211,6 +211,7 @@ def centroid_coordinates(df):
 ## Images and colors
 
 ### Hex to RGBA
+# pip install pillow
 from PIL import ImageColor as ic
 
 def hex_to_rgba(hex):
