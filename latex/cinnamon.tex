@@ -49,55 +49,47 @@
 
 
 % Languages, scripts, and fonts
-% \usepackage{libertine} % Font package: Latin, Greek, Cyrillic, Hebrew
 \usepackage[main=english, bidi=basic]{babel}
-\usepackage{fontspec}
-\defaultfontfeatures{Ligatures={TeX}}
-\setmainfont{Brill}
 
-% Automatic typesetting of writing systems
+% Automatic import of scripts
 \babelprovide[import=ar, onchar=ids fonts]{arabic}
-\babelprovide[import=sa-Deva, onchar=ids fonts]{sanskrit-devanagari}
 \babelprovide[import=he, onchar=ids fonts]{hebrew}
+\babelprovide[import=sa-Deva, onchar=ids fonts]{sanskrit-devanagari}
 
-% Define fonts (https://tug.org/FontCatalogue/)
+% Setting fonts for each script
+\babelfont[*arabic]{rm}{Noto Naskh Arabic}
+\babelfont[*hebrew]{rm}{Noto Serif Hebrew}
+\babelfont[*devanagari]{rm}[Renderer=Harfbuzz]{Noto Serif Devanagari} 
+% Available settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
+
+% Define default fonts to suppress warnings (https://tug.org/FontCatalogue/)
 % \babelfont{rm}{Linux Libertine}
 % \babelfont{sf}{Linux Biolinum}
 % \babelfont{tt}{Inconsolata}
 
-\babelfont[*arabic]{rm}{Noto Naskh Arabic}
-\babelfont[*hebrew]{rm}{Noto Serif Hebrew}
-\babelfont[*devanagari]{rm}[Renderer=Harfbuzz]{Noto Serif Devanagari} 
 
-% Settigs: Scale=MatchUppercase; Scale=MatchLowercase; Scale=1.0; Language=Default
+
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures={TeX}}
+% \setmainfont{Brill}
+% \setmainfont{EB Garamond}
+\usepackage{libertine}
 
 % East Asian scripts
-\usepackage{kotex} 
-\setmainhangulfont{Noto Serif KR} % Support for KR, JP, limited TC, no SC 
-% \setmainhangulfont[
-%     Path=./fonts/,
-%     Extension = .otf,
-%     UprightFont=*-Medium,
-%     BoldFont=*-Bold
-%     ]{NotoSerifKR}
+\usepackage{kotex}
+\setmainhangulfont{Noto Serif CJK TC}
 
-\newfontfamily{\traditionalchinesefont}{Noto Serif TC}
-\newfontfamily{\tibetanfont}[Script=Tibetan]{Noto Serif Tibetan}
-\newfontfamily{\khmerfont}[Script=Khmer]{Noto Serif Khmer}
-
-\newfontfamily{\javanesefont}{Noto Sans Javanese}
-\newfontfamily{\cuneiformfont}{Noto Sans Cuneiform}
-\newfontfamily{\linearbfont}{Noto Sans Linear B}
-
-
+% Define new fonts
+\newfontfamily{\tibetanfont}{Noto Serif Tibetan}
+\newfontfamily{\cuneform}[
+    Path=./fonts/,
+    Extension=.ttf,
+    UprightFont=*-Regular,
+    ]{NotoSansCuneiform}
 
 % Commands to use the scripts
-\newcommand{\tc}[1]{\traditionalchinesefont{#1}\rmfamily}
 \newcommand{\bo}[1]{\tibetanfont{#1}\rmfamily}
-\newcommand{\cu}[1]{\cuneiformfont{#1}\rmfamily}
-\newcommand{\jv}[1]{\javanesefont{#1}\rmfamily}
-\newcommand{\km}[1]{\khmerfont{#1}\rmfamily}
-\newcommand{\lb}[1]{\linearbfont{#1}\rmfamily}
+\newcommand{\cf}[1]{\cuneform{#1}\rmfamily}
 
 
 
@@ -128,6 +120,36 @@
 \noindent{\small\textbf{Keywords --- } 1, 2, 3}
 
 \section{Introduction}
+
+Testing fonts...
+
+Latin: Latin \textbf{Latin} \textit{Latin} 
+
+Greek: Ελληνικά \textbf{Ελληνικά} \textit{Ελληνικά}
+
+Cyrillic: Кириллица \textbf{Кириллица} \textit{Кириллица}
+
+Simplified Chinese: 简体中文 \textbf{简体中文}
+
+Traditional Chinese: 繁體中文 \textbf{繁體中文}
+
+Japanese: 日本語 \textbf{日本語} 
+
+Hiragana: ひらがな \textbf{ひらがな} 
+
+Katakana: カタカナ \textbf{カタカナ}
+
+Korean: 한국어 \textbf{한국어}
+
+Arabic: العربية \textbf{العربية}
+
+Hebrew: עִבְרִית \textbf{עִבְרִית}
+
+Devanagari: देवनागरी \textbf{देवनागरी}
+
+Tibetan: \bo{བོད་སྐད་ \textbf{བོད་སྐད་}}
+
+Cuneiform: \cf{𒀭𒈾}
 
 
 
