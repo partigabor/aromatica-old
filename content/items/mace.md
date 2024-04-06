@@ -1,7 +1,7 @@
 +++
 title = "Mace"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)
+The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nutmeg](../items/nutmeg).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg)<center>
 
 **English:** mace · **Hungarian:** szerecsendió-virág · **Arabic:** <span class="arabic-text" dir="rtl">بسباسة</span> · **Hindi:** <span class="devanagari-text">जावित्री</span> · **Chinese:** <span class="traditional-chinese-text">肉豆蔻皮</span>
 
@@ -30,9 +30,13 @@ The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nu
 |    continents    |                                                                                   Asia-Tropical                                                                                  |
 |       part       |                                                                                       aril                                                                                       |
 |    cultivation   |                                                                                Grenada; Indonesia                                                                                |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1); [GBIF](https://www.gbif.org/species/5406817); [TROP](https://tropicos.org/name/21800077); [EOL](https://eol.org/pages/596922)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/586076-1); [GBIF](https://www.gbif.org/species/5406817); [TROP](https://tropicos.org/name/21800077); [EOL](https://eol.org/pages/596922)|
 
-MACE -- Myristica fragrans Houtt. -- is a(n) tree in the *Myristicaceae* family, growing in the wet tropical biome, with a native range of Maluku (Banda Is.). It is used as a(n) culinary spice, cultivated for its aril. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+MACE is a culinary spice, valued and cultivated for its aril. It is yielded from the plant *Myristica fragrans* Houtt., a(n) tree in the *Myristicaceae* family, growing in the wet tropical biome, with the native range of Maluku (Banda Is.).[^powo_mace]
+
+[^powo_mace]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Myristica fragrans](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 

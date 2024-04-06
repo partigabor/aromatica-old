@@ -1,7 +1,7 @@
 +++
 title = "Vanilla"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, also known as vanilla."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, also known as vanilla. [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Vanilla)
+The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans, also known as vanilla.
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Vanilla){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/vanilla" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans
 |    continents    |                                                                           Northern America, Southern America                                                                          |
 |       part       |                                                                                         fruit                                                                                         |
 |    cultivation   |                                                                 Madagascar; Indonesia; Mexico; Papua New Guinea; China                                                                |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/262578-2); [GBIF](https://www.gbif.org/species/2803398); [TROP](https://www.tropicos.org/name/23501046); [EOL](https://eol.org/pages/1127948)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/262578-2); [GBIF](https://www.gbif.org/species/2803398); [TROP](https://www.tropicos.org/name/23501046); [EOL](https://eol.org/pages/1127948)|
 
-VANILLA -- Vanilla planifolia Andrews -- is a(n) climber in the *Orchidaceae* family, growing in the wet tropical biome, with a native range of S. Mexico to Brazil. It is used as a(n) culinary spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary" >}}
+VANILLA is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Vanilla planifolia* Andrews, a(n) climber in the *Orchidaceae* family, growing in the wet tropical biome, with the native range of S. Mexico to Brazil.[^powo_vanilla]
+
+[^powo_vanilla]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary" >}}
 
 ![Vanilla planifolia](/images/illustrations/vanilla.png?width=40rem "Illustration of Vanilla planifolia from Köhler's Medizinal-Pflanzen")
 

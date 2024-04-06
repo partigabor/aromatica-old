@@ -1,7 +1,7 @@
 +++
 title = "Nutmeg"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, also known as nutmeg. It is related to [mace](../items/mace)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, also known as nutmeg. It is related to [mace](../items/mace). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg#Mace)
+The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, also known as nutmeg. It is related to [mace](../items/mace).
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Nutmeg#Mace){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/nutmeg" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, al
 |    continents    |                                                                                   Asia-Tropical                                                                                  |
 |       part       |                                                                                       seed                                                                                       |
 |    cultivation   |                                                                                Grenada; Indonesia                                                                                |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1); [GBIF](https://www.gbif.org/species/5406817); [TROP](https://tropicos.org/name/21800077); [EOL](https://eol.org/pages/596922)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/586076-1); [GBIF](https://www.gbif.org/species/5406817); [TROP](https://tropicos.org/name/21800077); [EOL](https://eol.org/pages/596922)|
 
-NUTMEG -- Myristica fragrans Houtt. -- is a(n) tree in the *Myristicaceae* family, growing in the wet tropical biome, with a native range of Maluku (Banda Is.). It is used as a(n) culinary; medicinal spice, cultivated for its seed. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+NUTMEG is a culinary and medicinal spice, valued and cultivated for its seed. It is yielded from the plant *Myristica fragrans* Houtt., a(n) tree in the *Myristicaceae* family, growing in the wet tropical biome, with the native range of Maluku (Banda Is.).[^powo_nutmeg]
+
+[^powo_nutmeg]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Myristica fragrans](/images/illustrations/nutmeg.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 

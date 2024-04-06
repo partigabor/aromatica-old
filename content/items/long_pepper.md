@@ -1,7 +1,7 @@
 +++
 title = "Long Pepper"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The spike-like cluster of fruits of Piper longum, also known as Indian long pepper; pippali; pipalli. It is related to [pepper](../items/pepper), [cubeb](../items/cubeb)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The spike-like cluster of fruits of Piper longum, also known as Indian long pepper; pippali; pipalli. It is related to [pepper](../items/pepper), [cubeb](../items/cubeb). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Long_pepper)
+The spike-like cluster of fruits of Piper longum, also known as Indian long pepper; pippali; pipalli. It is related to [pepper](../items/pepper), [cubeb](../items/cubeb).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Long_pepper)<center>
 
 **English:** long pepper · **Hungarian:** hosszú bors · **Arabic:** <span class="arabic-text" dir="rtl">دارفلفل</span> · **Hindi:** <span class="devanagari-text">पिप्पली </span> · **Chinese:** <span class="traditional-chinese-text">蓽撥</span>
 
@@ -30,9 +30,13 @@ The spike-like cluster of fruits of Piper longum, also known as Indian long pepp
 |    continents    |                                                                           Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                       fruit                                                                                      |
 |    cultivation   |                                                                            India; Indonesia; Thailand                                                                            |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1); [GBIF](https://www.gbif.org/species/3086338); [TROP](https://tropicos.org/name/25000012); [EOL](https://eol.org/pages/489436)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/682031-1); [GBIF](https://www.gbif.org/species/3086338); [TROP](https://tropicos.org/name/25000012); [EOL](https://eol.org/pages/489436)|
 
-LONG PEPPER -- Piper longum L. -- is a(n) climbing perennial or subshrub in the *Piperaceae* family, growing in the temperate biome, with a native range of E. Himalaya to China (S. Yunnan) and Indo-China. It is used as a(n) culinary; medicinal spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+LONG PEPPER is a culinary and medicinal spice, valued and cultivated for its fruit. It is yielded from the plant *Piper longum* L., a(n) climbing perennial or subshrub in the *Piperaceae* family, growing in the temperate biome, with the native range of E. Himalaya to China (S. Yunnan) and Indo-China.[^powo_long pepper]
+
+[^powo_long pepper]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 
 

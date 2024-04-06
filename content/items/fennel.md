@@ -1,7 +1,7 @@
 +++
 title = "Fennel"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried fruits of a perennial herb, also known as fennel (seeds)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried fruits of a perennial herb, also known as fennel (seeds). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fennel)
+The dried fruits of a perennial herb, also known as fennel (seeds).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fennel)<center>
 
 **English:** fennel · **Hungarian:** édeskömény · **Arabic:** <span class="arabic-text" dir="rtl">شمر</span> · **Hindi:** <span class="devanagari-text">सौंफ़</span> · **Chinese:** <span class="traditional-chinese-text">茴香</span>
 
@@ -30,9 +30,13 @@ The dried fruits of a perennial herb, also known as fennel (seeds). [<i class="f
 |    continents    |                                                          Europe, Africa, Asia-Temperate, Asia-Tropical                                                          |
 |       part       |                                                                              fruit                                                                              |
 |    cultivation   |                                                       Argentina; Bulgaria; Germany; Greece; India; Lebanon                                                      |
-|botanical database|                                                       [POWO](https://powo.science.kew.org/taxon/842680-1)                                                       |
+|botanical_database|                                                       [POWO](https://powo.science.kew.org/taxon/842680-1)                                                       |
 
-FENNEL -- Foeniculum vulgare Mill. -- is a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with a native range of Medit. to Ethiopia and W. Nepal. It is used as a(n) culinary spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;hill_2004_contemporary;anderson_2023_history" >}}
+FENNEL is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Foeniculum vulgare* Mill., a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with the native range of Medit. to Ethiopia and W. Nepal.[^powo_fennel]
+
+[^powo_fennel]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Foeniculum vulgare](/images/illustrations/fennel.png?width=40rem "Illustration of Foeniculum vulgare from Köhler's Medizinal-Pflanzen")
 

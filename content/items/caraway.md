@@ -1,7 +1,7 @@
 +++
 title = "Caraway"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The seed-like fruits of an Eurasian herb, also known as caraway (seeds)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The seed-like fruits of an Eurasian herb, also known as caraway (seeds). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Caraway)
+The seed-like fruits of an Eurasian herb, also known as caraway (seeds).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Caraway)<center>
 
 **English:** caraway · **Hungarian:** fűszerkömény  · **Arabic:** <span class="arabic-text" dir="rtl">كراويا</span> · **Chinese:** <span class="traditional-chinese-text">葛縷子</span>
 
@@ -30,9 +30,13 @@ The seed-like fruits of an Eurasian herb, also known as caraway (seeds). [<i cla
 |    continents    |                                                                             Europe, Asia-Temperate, Asia-Tropical                                                                            |
 |       part       |                                                                                             fruit                                                                                            |
 |    cultivation   |                                                                           Denmark; Lebanon; The Netherlands; Poland                                                                          |
-|botanical database|                                                                      [POWO](https://powo.science.kew.org/taxon/839677-1)                                                                     |
+|botanical_database|                                                                      [POWO](https://powo.science.kew.org/taxon/839677-1)                                                                     |
 
-CARAWAY -- Carum carvi L. -- is a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with a native range of Temp. Eurasia. It is used as a(n) culinary spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CARAWAY is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Carum carvi* L., a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with the native range of Temp. Eurasia.[^powo_caraway]
+
+[^powo_caraway]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Carum carvi](/images/illustrations/caraway.png?width=40rem "Illustration of Carum carvi from Köhler's Medizinal-Pflanzen")
 

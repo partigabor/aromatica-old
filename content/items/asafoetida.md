@@ -1,7 +1,7 @@
 +++
 title = "Asafoetida"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried resin of Ferula foetida and F. assa-foetida, also known as asafoetida; hing, devil’s dung, asant; fetida."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried resin of Ferula foetida and F. assa-foetida, also known as asafoetida; hing, devil’s dung, asant; fetida. [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Asafoetida)
+The dried resin of Ferula foetida and F. assa-foetida, also known as asafoetida; hing, devil’s dung, asant; fetida.
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Asafoetida){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/asafoetida" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The dried resin of Ferula foetida and F. assa-foetida, also known as asafoetida;
 |    continents    |           Asia-Temperate, Asia-Tropical           |
 |       part       |                 gum-resin (latex)                 |
 |    cultivation   |                 Iran; Afghanistan                 |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
-ASAFOETIDA -- Ferula foetida (Bunge) Regel -- is a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with a native range of Iran to C. Asia and W. Pakistan. It is used as a(n) culinary; medicinal spice, cultivated for its gum-resin (latex). See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+ASAFOETIDA is a culinary and medicinal spice, valued and cultivated for its gum-resin (latex). It is yielded from the plant *Ferula foetida* (Bunge) Regel, a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with the native range of Iran to C. Asia and W. Pakistan.[^powo_asafoetida]
+
+[^powo_asafoetida]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Ferula foetida](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 

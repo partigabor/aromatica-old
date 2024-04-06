@@ -1,7 +1,7 @@
 +++
 title = "Cassia"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinnamon; cassia cinnamon; Chinese cassia. It is related to [cinnamon](../items/cinnamon)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal', 'cinnamon']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinnamon; cassia cinnamon; Chinese cassia. It is related to [cinnamon](../items/cinnamon). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamomum_cassia)
+The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinnamon; cassia cinnamon; Chinese cassia. It is related to [cinnamon](../items/cinnamon).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cinnamomum_cassia)<center>
 
 **English:** cassia · **Hungarian:** kasszia (fahéj) · **Arabic:** <span class="arabic-text" dir="rtl">سليخة</span> · **Hindi:** <span class="devanagari-text">दालचीनी</span> · **Chinese:** <span class="traditional-chinese-text">肉桂</span>
 
@@ -30,9 +30,13 @@ The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinn
 |    continents    |                                                                           Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                    bark; fruit                                                                                   |
 |    cultivation   |                                                                   Indonesia; China; Vietnam; Timor-Leste; etc.                                                                   |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1); [GBIF](https://www.gbif.org/species/3033982); [TROP](https://tropicos.org/name/17805773); [EOL](https://eol.org/pages/483593)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/463288-1); [GBIF](https://www.gbif.org/species/3033982); [TROP](https://tropicos.org/name/17805773); [EOL](https://eol.org/pages/483593)|
 
-CASSIA -- Cinnamomum aromaticum Nees -- is a(n) tree in the *Lauraceae* family, growing in the subtropical biome, with a native range of SE. China to Vietnam. It is used as a(n) culinary; medicinal spice, cultivated for its bark; fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CASSIA is a culinary and medicinal spice, valued and cultivated for its bark; fruit. It is yielded from the plant *Cinnamomum aromaticum* Nees, a(n) tree in the *Lauraceae* family, growing in the subtropical biome, with the native range of SE. China to Vietnam.[^powo_cassia]
+
+[^powo_cassia]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Cinnamomum aromaticum](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum aromaticum from Köhler's Medizinal-Pflanzen")
 

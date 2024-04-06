@@ -1,7 +1,7 @@
 +++
 title = "Saffron"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, also known as saffron."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, also known as saffron. [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron)
+The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, also known as saffron.
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Saffron){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/saffron" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, al
 |    continents    |                                                                                      Europe                                                                                      |
 |       part       |                                                                                  stigma (style)                                                                                  |
 |    cultivation   |                                                                            Iran; Spain; Kashmir; etc.                                                                            |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1); [GBIF](https://www.gbif.org/species/2747430); [TROP](https://tropicos.org/name/16600120); [EOL](https://eol.org/pages/488247)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/436688-1); [GBIF](https://www.gbif.org/species/2747430); [TROP](https://tropicos.org/name/16600120); [EOL](https://eol.org/pages/488247)|
 
-SAFFRON -- Crocus sativus L. -- is a(n) tuberous geophyte in the *Iridaceae* family, growing in the subtropical biome, with a native range of a cultigen from Greece. It is used as a(n) culinary spice; dye, cultivated for its stigma (style). See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+SAFFRON is a culinary spice and dye, valued and cultivated for its stigma (style). It is yielded from the plant *Crocus sativus* L., a(n) tuberous geophyte in the *Iridaceae* family, growing in the subtropical biome, with the native range of a cultigen from Greece.[^powo_saffron]
+
+[^powo_saffron]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Crocus sativus](/images/illustrations/saffron.png?width=40rem "Illustration of Crocus sativus from Köhler's Medizinal-Pflanzen")
 

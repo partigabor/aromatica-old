@@ -1,7 +1,7 @@
 +++
 title = "Cubeb"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried berries of a Southeast Asian plant resembling black pepper, but with a small stalk attached, also known as cubeb pepper; tailed pepper; Java pepper. It is related to [pepper](../items/pepper)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'distillery', 'medicinal', 'perfumery', 'false peppers']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried berries of a Southeast Asian plant resembling black pepper, but with a small stalk attached, also known as cubeb pepper; tailed pepper; Java pepper. It is related to [pepper](../items/pepper). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_cubeba)
+The dried berries of a Southeast Asian plant resembling black pepper, but with a small stalk attached, also known as cubeb pepper; tailed pepper; Java pepper. It is related to [pepper](../items/pepper).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Piper_cubeba)<center>
 
 **English:** cubeb · **Hungarian:** kubébabors · **Arabic:** <span class="arabic-text" dir="rtl">كبابة</span> · **Hindi:** <span class="devanagari-text">कबाबचीनी </span> · **Chinese:** <span class="traditional-chinese-text">蓽澄茄</span> · [<i class="fab fa-wikipedia-w"></i>](https://en.wiktionary.org/wiki/cubeb)
 
@@ -30,9 +30,13 @@ The dried berries of a Southeast Asian plant resembling black pepper, but with a
 |    continents    |                                                                                       Asia-Tropical                                                                                      |
 |       part       |                                                                                       unripe fruit                                                                                       |
 |    cultivation   |                                                                                         Indonesia                                                                                        |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/681071-1); [GBIF](https://www.gbif.org/species/7606629); [TROP](http://legacy.tropicos.org/Name/25002639); [EOL](https://eol.org/pages/51845162)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/681071-1); [GBIF](https://www.gbif.org/species/7606629); [TROP](http://legacy.tropicos.org/Name/25002639); [EOL](https://eol.org/pages/51845162)|
 
-CUBEB -- Piper cubeba L.f. -- is a(n) nan in the *Piperaceae* family, growing in the wet tropical biome, with a native range of Indo-China to Malesia. It is used as a(n) culinary; distillery; medicinal; perfumery spice, cultivated for its unripe fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CUBEB is a culinary and distillery and medicinal and perfumery spice, valued and cultivated for its unripe fruit. It is yielded from the plant *Piper cubeba* L.f., a(n) nan in the *Piperaceae* family, growing in the wet tropical biome, with the native range of Indo-China to Malesia.[^powo_cubeb]
+
+[^powo_cubeb]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Piper cubeba](/images/illustrations/cubeb.png?width=40rem "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
 

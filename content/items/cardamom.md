@@ -1,7 +1,7 @@
 +++
 title = "Cardamom"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom ."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal', 'cardamoms']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom . [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)
+The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; green cardamom; true cardamom .
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cardamom)<center>
 
 **English:** cardamom · **Hungarian:** kardamom · **Arabic:** <span class="arabic-text" dir="rtl">هال</span> · **Hindi:** <span class="devanagari-text">इलायची </span> · **Chinese:** <span class="traditional-chinese-text">小豆蔻</span>
 
@@ -30,9 +30,13 @@ The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; gree
 |    continents    |                                                                                   Asia-Tropical                                                                                   |
 |       part       |                                                                                    fruit & seed                                                                                   |
 |    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/796556-1); [GBIF](https://www.gbif.org/species/2759871); [TROP](https://tropicos.org/name/34500572); [EOL](https://eol.org/pages/1120064)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/796556-1); [GBIF](https://www.gbif.org/species/2759871); [TROP](https://tropicos.org/name/34500572); [EOL](https://eol.org/pages/1120064)|
 
-CARDAMOM -- Elettaria cardamomum (L.) Maton -- is a(n) rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with a native range of SW. India. It is used as a(n) culinary; medicinal spice, cultivated for its fruit & seed. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CARDAMOM is a culinary and medicinal spice, valued and cultivated for its fruit & seed. It is yielded from the plant *Elettaria cardamomum* (L.) Maton, a(n) rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with the native range of SW. India.[^powo_cardamom]
+
+[^powo_cardamom]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 

@@ -1,7 +1,7 @@
 +++
 title = "Coriander"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried fruits of an annual herb, also known as cilantro, also known as coriander seeds; cilantro; Chinese parsley."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried fruits of an annual herb, also known as cilantro, also known as coriander seeds; cilantro; Chinese parsley. [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)
+The dried fruits of an annual herb, also known as cilantro, also known as coriander seeds; cilantro; Chinese parsley.
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Coriander)<center>
 
 **English:** coriander · **Hungarian:** koriander · **Arabic:** <span class="arabic-text" dir="rtl">كزبرة</span> · **Hindi:** <span class="devanagari-text">धनिया </span> · **Chinese:** <span class="traditional-chinese-text">芫荽</span>
 
@@ -30,9 +30,13 @@ The dried fruits of an annual herb, also known as cilantro, also known as corian
 |    continents    |                                                                          Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                      fruit                                                                                      |
 |    cultivation   |                                                              Argentina; India; Morocco; Romania; Spain; Yugoslavia                                                              |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/840760-1); [GBIF](https://www.gbif.org/species/3034871); [TROP](https://tropicos.org/name/1700064); [EOL](https://eol.org/pages/581687)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/840760-1); [GBIF](https://www.gbif.org/species/3034871); [TROP](https://tropicos.org/name/1700064); [EOL](https://eol.org/pages/581687)|
 
-CORIANDER -- Coriandrum sativum L. -- is a(n) annual in the *Apiaceae* family, growing in the subtropical biome, with a native range of E. Medit. to Pakistan. It is used as a(n) culinary spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CORIANDER is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Coriandrum sativum* L., a(n) annual in the *Apiaceae* family, growing in the subtropical biome, with the native range of E. Medit. to Pakistan.[^powo_coriander]
+
+[^powo_coriander]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Coriandrum sativum](/images/illustrations/coriander.png?width=40rem "Illustration of Coriandrum sativum from Köhler's Medizinal-Pflanzen")
 

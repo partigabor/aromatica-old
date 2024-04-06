@@ -1,7 +1,7 @@
 +++
 title = "Fenugreek"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The seeds of a West Asian herb, also known as fenugreek (seeds)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The seeds of a West Asian herb, also known as fenugreek (seeds). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fenugreek)
+The seeds of a West Asian herb, also known as fenugreek (seeds).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Fenugreek)<center>
 
 **English:** fenugreek · **Hungarian:** görögszéna · **Arabic:** <span class="arabic-text" dir="rtl">حلبة</span> · **Chinese:** <span class="traditional-chinese-text">胡蘆巴</span>
 
@@ -30,9 +30,13 @@ The seeds of a West Asian herb, also known as fenugreek (seeds). [<i class="fab 
 |    continents    |           Asia-Temperate, Asia-Tropical           |
 |       part       |                     seed; leaf                    |
 |    cultivation   |                       India                       |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-FENUGREEK -- Trigonella foenum-graecum L. -- is a(n) annual in the *Fabaceae* family, growing in the temperate biome, with a native range of Iraq to N. Pakistan. It is used as a(n) culinary spice; herb, cultivated for its seed; leaf. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;hill_2004_contemporary" >}}
+FENUGREEK is a culinary spice and herb, valued and cultivated for its seed; leaf. It is yielded from the plant *Trigonella foenum-graecum* L., a(n) annual in the *Fabaceae* family, growing in the temperate biome, with the native range of Iraq to N. Pakistan.[^powo_fenugreek]
+
+[^powo_fenugreek]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;hill_2004_contemporary" >}}
 
 ![Trigonella foenum-graecum](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 

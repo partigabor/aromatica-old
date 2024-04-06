@@ -1,7 +1,7 @@
 +++
 title = "Anise"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anise seed; brown anise; white anise. It is related to [fennel](../items/fennel). See also [star anise](../items/star_anise)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'distillery']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anise seed; brown anise; white anise. It is related to [fennel](../items/fennel). See also [star anise](../items/star_anise). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Anise)
+The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anise seed; brown anise; white anise. It is related to [fennel](../items/fennel). See also [star anise](../items/star_anise).
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Anise){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/anise" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anis
 |    continents    |                                                                                  Asia-Temperate                                                                                 |
 |       part       |                                                                                 fruit; oil; leaf                                                                                |
 |    cultivation   |                                                                    Turkey; Egypt; Spain; Russia; Italy; etc.                                                                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1); [GBIF](https://www.gbif.org/species/8080300); [TROP](https://tropicos.org/name/1700194); [EOL](https://eol.org/pages/581422)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/846658-1); [GBIF](https://www.gbif.org/species/8080300); [TROP](https://tropicos.org/name/1700194); [EOL](https://eol.org/pages/581422)|
 
-ANISE -- Pimpinella anisum L. -- is a(n) annual in the *Apiaceae* family, growing in the temperate biome, with a native range of SE. Türkiye to C. Israel, Cyprus. It is used as a(n) culinary; distillery spice, cultivated for its fruit; oil; leaf. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+ANISE is a culinary and distillery spice, valued and cultivated for its fruit; oil; leaf. It is yielded from the plant *Pimpinella anisum* L., a(n) annual in the *Apiaceae* family, growing in the temperate biome, with the native range of SE. Türkiye to C. Israel, Cyprus.[^powo_anise]
+
+[^powo_anise]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Pimpinella anisum](/images/illustrations/anise.png?width=40rem "Illustration of Pimpinella anisum from Köhler's Medizinal-Pflanzen")
 

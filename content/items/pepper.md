@@ -1,7 +1,7 @@
 +++
 title = "Pepper"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried fruits of an Indian vine, also known as black pepper; peppercorns. It is related to [long pepper](../items/long_pepper), [cubeb](../items/cubeb)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried fruits of an Indian vine, also known as black pepper; peppercorns. It is related to [long pepper](../items/long_pepper), [cubeb](../items/cubeb). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_pepper)
+The dried fruits of an Indian vine, also known as black pepper; peppercorns. It is related to [long pepper](../items/long_pepper), [cubeb](../items/cubeb).
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Black_pepper){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/pepper" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The dried fruits of an Indian vine, also known as black pepper; peppercorns. It 
 |    continents    |                                                                                   Asia-Tropical                                                                                  |
 |       part       |                                                                                       fruit                                                                                      |
 |    cultivation   |                                                                Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.                                                                |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1); [GBIF](https://www.gbif.org/species/3086357); [TROP](https://tropicos.org/name/25000013); [EOL](https://eol.org/pages/596620)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/682369-1); [GBIF](https://www.gbif.org/species/3086357); [TROP](https://tropicos.org/name/25000013); [EOL](https://eol.org/pages/596620)|
 
-PEPPER -- Piper nigrum L. -- is a(n) climber in the *Piperaceae* family, growing in the wet tropical biome, with a native range of SW. India. It is used as a(n) culinary; medicinal spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+PEPPER is a culinary and medicinal spice, valued and cultivated for its fruit. It is yielded from the plant *Piper nigrum* L., a(n) climber in the *Piperaceae* family, growing in the wet tropical biome, with the native range of SW. India.[^powo_pepper]
+
+[^powo_pepper]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Piper nigrum](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 

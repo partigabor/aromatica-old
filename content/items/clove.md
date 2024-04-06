@@ -1,7 +1,7 @@
 +++
 title = "Clove"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, also known as clove; cloves. See also [nutmeg](../items/nutmeg), [mace](../items/mace)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, also known as clove; cloves. See also [nutmeg](../items/nutmeg), [mace](../items/mace). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Clove)
+The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Syzygium aromaticum, also known as clove; cloves. See also [nutmeg](../items/nutmeg), [mace](../items/mace).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Clove)<center>
 
 **English:** clove · **Hungarian:** szegfűszeg · **Arabic:** <span class="arabic-text" dir="rtl">قرنفل</span> · **Hindi:** <span class="devanagari-text">लौंग</span> · **Chinese:** <span class="traditional-chinese-text">丁香</span>
 
@@ -30,9 +30,13 @@ The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Sy
 |    continents    |                                                                                   Asia-Tropical                                                                                   |
 |       part       |                                                                                    flower buds                                                                                    |
 |    cultivation   |                                                                           Indonesia; Malaysia; Tanzania                                                                           |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1); [GBIF](https://www.gbif.org/species/3183002); [TROP](https://tropicos.org/name/22102278); [EOL](https://eol.org/pages/2508665)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/601421-1); [GBIF](https://www.gbif.org/species/3183002); [TROP](https://tropicos.org/name/22102278); [EOL](https://eol.org/pages/2508665)|
 
-CLOVE -- Syzygium aromaticum (L.) Merr. & L.M.Perry -- is a(n) shrub or tree in the *Myrtaceae* family, growing in the wet tropical biome, with a native range of Maluku. It is used as a(n) culinary; medicinal spice, cultivated for its flower buds. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CLOVE is a culinary and medicinal spice, valued and cultivated for its flower buds. It is yielded from the plant *Syzygium aromaticum* (L.) Merr. & L.M.Perry, a(n) shrub or tree in the *Myrtaceae* family, growing in the wet tropical biome, with the native range of Maluku.[^powo_clove]
+
+[^powo_clove]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Syzygium aromaticum](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 

@@ -1,7 +1,7 @@
 +++
 title = "Turmeric"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The bright yellow powder yielded from the rhizomes of Curcuma longa, also known as turmeric."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal', 'ritualistic']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The bright yellow powder yielded from the rhizomes of Curcuma longa, also known as turmeric. [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Turmeric)
+The bright yellow powder yielded from the rhizomes of Curcuma longa, also known as turmeric.
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Turmeric)<center>
 
 **English:** turmeric · **Hungarian:** kurkuma · **Arabic:** <span class="arabic-text" dir="rtl">كركم</span> · **Hindi:** <span class="devanagari-text">हल्दी</span> · **Chinese:** <span class="traditional-chinese-text">薑黃</span>
 
@@ -30,9 +30,13 @@ The bright yellow powder yielded from the rhizomes of Curcuma longa, also known 
 |    continents    |                                                                                   Asia-Tropical                                                                                   |
 |       part       |                                                                                      rhizome                                                                                      |
 |    cultivation   |                                                                     China; Honduras; India; Indonesia; Jamaica                                                                    |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1); [GBIF](https://www.gbif.org/species/2757624); [TROP](https://tropicos.org/name/34500029); [EOL](https://eol.org/pages/1122309)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/796451-1); [GBIF](https://www.gbif.org/species/2757624); [TROP](https://tropicos.org/name/34500029); [EOL](https://eol.org/pages/1122309)|
 
-TURMERIC -- Curcuma longa L. -- is a(n) rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with a native range of a cultigen from SW. India. It is used as a(n) culinary; medicinal; ritualistic spice; dye, cultivated for its rhizome. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+TURMERIC is a culinary and medicinal and ritualistic spice and dye, valued and cultivated for its rhizome. It is yielded from the plant *Curcuma longa* L., a(n) rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with the native range of a cultigen from SW. India.[^powo_turmeric]
+
+[^powo_turmeric]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 

@@ -1,0 +1,7 @@
+pandas
+plotly
+kaleido==0.1.*
+openpyxl
+geopy
+geopandas
+pillow

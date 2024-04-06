@@ -1,7 +1,7 @@
 +++
 title = "Cumin"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The dried seeds of a West Asian flowering plant, also known as brown cumin. It is related to [caraway](../items/caraway)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The dried seeds of a West Asian flowering plant, also known as brown cumin. It is related to [caraway](../items/caraway). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cumin)
+The dried seeds of a West Asian flowering plant, also known as brown cumin. It is related to [caraway](../items/caraway).
 
-<center>
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Cumin)<center>
 
 **English:** cumin · **Hungarian:** római kömény · **Arabic:** <span class="arabic-text" dir="rtl">كمون </span> · **Hindi:** <span class="devanagari-text">जीरा</span> · **Chinese:** <span class="traditional-chinese-text">孜然</span> · [<i class="fab fa-wikipedia-w"></i>](https://en.wiktionary.org/wiki/cumin)
 
@@ -30,9 +30,13 @@ The dried seeds of a West Asian flowering plant, also known as brown cumin. It i
 |    continents    |                                                            Asia-Temperate                                                            |
 |       part       |                                                                 fruit                                                                |
 |    cultivation   |                                                         India; Iran; Lebanon                                                         |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1); [GBIF](https://www.gbif.org/species/3034775); [EOL](https://eol.org/pages/488085)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/840882-1); [GBIF](https://www.gbif.org/species/3034775); [EOL](https://eol.org/pages/488085)|
 
-CUMIN -- Cuminum cyminum L. -- is a(n) annual in the *Apiaceae* family, growing in the subtropical biome, with a native range of Iraq to Afghanistan. It is used as a(n) culinary spice, cultivated for its fruit. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+CUMIN is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Cuminum cyminum* L., a(n) annual in the *Apiaceae* family, growing in the subtropical biome, with the native range of Iraq to Afghanistan.[^powo_cumin]
+
+[^powo_cumin]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Cuminum cyminum](/images/illustrations/cumin.png?width=40rem "Illustration of Cuminum cyminum from Köhler's Medizinal-Pflanzen")
 

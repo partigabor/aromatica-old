@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2024-03-12"
+date = "2024-04-07"
 description = "The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger; common ginger. It is related to [turmeric](../items/turmeric)."
 weight = 10
 # draft = "true"
@@ -12,9 +12,9 @@ tags = ['culinary', 'medicinal']
 bibFile = "static/bibliography/parti.json"
 +++
 
-The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger; common ginger. It is related to [turmeric](../items/turmeric). [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Ginger)
+The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger; common ginger. It is related to [turmeric](../items/turmeric).
 
-{{< load-photoswipe >}}
+ [<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Ginger){{< load-photoswipe >}}
 
 {{< gallery dir="/images/photos/ginger" hover-effect="slideup" caption-effect="fade" caption-position="none" />}}
 
@@ -34,9 +34,13 @@ The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger;
 |    continents    |                                                                           Asia-Temperate, Asia-Tropical                                                                          |
 |       part       |                                                                                      rhizome                                                                                     |
 |    cultivation   |                                                                       India; Jamaica; Nigeria; Sierra Leone                                                                      |
-|botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1); [GBIF](https://www.gbif.org/species/2757280); [TROP](https://tropicos.org/name/34500018); [EOL](https://eol.org/pages/987032)|
+|botanical_database|[POWO](https://powo.science.kew.org/taxon/798372-1); [GBIF](https://www.gbif.org/species/2757280); [TROP](https://tropicos.org/name/34500018); [EOL](https://eol.org/pages/987032)|
 
-GINGER -- Zingiber officinale Roscoe -- is a(n) perennial or rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with a native range of India to SC. China. It is used as a(n) culinary; medicinal spice, cultivated for its rhizome. See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+GINGER is a culinary and medicinal spice, valued and cultivated for its rhizome. It is yielded from the plant *Zingiber officinale* Roscoe, a(n) perennial or rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with the native range of India to SC. China.[^powo_ginger]
+
+[^powo_ginger]: [Plants of the World Online](https://powo.science.kew.org)
+
+ See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Zingiber officinale](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 

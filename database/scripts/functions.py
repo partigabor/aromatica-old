@@ -1,8 +1,30 @@
-# Useful functions
+'''
+This file contains a collection of useful functions in Python.
+Gabor Parti, 2024
+'''
+################################################################
+from urllib import request
 
-## Files and directories
+# Check if there is an internet connection
+def internet_is_on():
+    '''
+    Returns True if internet is on, False if not.
 
-### List all files in a folder, including subfolders
+        Parameters:
+            None
+
+        Returns:
+            Boolean: True if internet is on, False if not.
+    '''
+    try:
+        request.urlopen('https://github.com', timeout=1)
+        return True
+    except request.URLError as err: 
+        return False
+
+
+################################################################
+# List all files in a folder, including subfolders
 def list_files(dir):
     '''
     Returns a list of all files in a folder, including subfolders.
@@ -23,10 +45,10 @@ def list_files(dir):
     return r
 
 
-
-### Move or copy files between folders
+################################################################
 import os, shutil, pathlib, fnmatch
 
+# Move files between folders
 def move_dir(src: str, dst: str, pattern: str = '*'):
     '''
     Moves files from one folder to another.
@@ -44,7 +66,22 @@ def move_dir(src: str, dst: str, pattern: str = '*'):
     for f in fnmatch.filter(os.listdir(src), pattern):
         shutil.move(os.path.join(src, f), os.path.join(dst, f))
 
+
+
+################################################################
+# Copy files between folders
 def copy_dir(src: str, dst: str, pattern: str = '*'):
+    '''
+    Copies files from one folder to another.
+    
+        Parameters:
+            src (str): Path to the source folder.
+            dst (str): Path to the destination folder.
+            pattern (str): Pattern to match files to copy.
+            
+        Returns:
+            None
+    '''
     if not os.path.isdir(dst):
         pathlib.Path(dst).mkdir(parents=True, exist_ok=True)
     for f in fnmatch.filter(os.listdir(src), pattern):
@@ -52,28 +89,99 @@ def copy_dir(src: str, dst: str, pattern: str = '*'):
 
 
 
-### Check if internet is on
-from urllib import request
+################################################################
+from geopy.geocoders import Nominatim
+geolocator = Nominatim(user_agent="MyApp")
 
-def internet_on():
+# Get coordinates for a place
+def coordinates(place):
     '''
-    Returns True if internet is on, False if not.
-
+    Returns the latitude and longitude of a place.
+    
         Parameters:
-            None
+            place (str): Name of the place.
 
         Returns:
-            Boolean: True if internet is on, False if not.
+            lat (float): Latitude of the place.
+            lon (float): Longitude of the place.
     '''
-    try:
-        request.urlopen('https://github.com', timeout=1)
-        return True
-    except request.URLError as err: 
-        return False
+    location = geolocator.geocode(place)
+    lat, lon = location.latitude, location.longitude
+    return lat, lon
+
+
+
+################################################################
+import pandas as pd
+import time
+# Generate geo-coordinates from location in a df
+def generate_coordinates(df):
+    '''
+    Returns a dataframe with latitude and longitude columns generated from the location column.
     
+        Parameters:
+            df (pandas dataframe): Dataframe with a location column.
+            
+        Returns:
+            df (pandas dataframe): Dataframe with latitude and longitude columns generated from the location column.
+    '''
+    for index, row in df.iterrows():
+        time.sleep(0.5)
+        if pd.isna(row['lat']) and pd.isna(row['lon']):
+            if pd.notna(row['location']):
+                location = geolocator.geocode(str(row['location']))
+                df.at[index, 'lat'] = location.latitude
+                df.at[index, 'lon'] = location.longitude
+            else:
+                df.at[index, 'lat'] = np.nan
+                df.at[index, 'lon'] = np.nan
+    return df
 
 
-### Roman numerals from Arabic numerals
+
+################################################################
+import geopandas as gpd
+# Generate coordinates based on centroid of native regions
+def centroid_coordinates(df):
+    # Load the geographic data (shapefile or GeoJSON) # https://github.com/tdwg/wgsrpd
+    gdf = gpd.read_file("data\\resources\\geo\\level3.geojson")
+    for index, row in df.iterrows():
+        print("Calculating coordinates of", row['item'])
+        if pd.notna(row['native']):
+            if pd.isna(row['lat']) and pd.isna(row['lon']): #
+                # Split native regions into a list
+                native_distribution = row['native'].split(', ')
+                # Filter data for native distribution from gdf dataframe's LEVEL3_NAM column
+                native_data = gdf[gdf['LEVEL3_NAM'].isin(native_distribution)].copy() 
+                # Calculate centroid data
+                native_centroid = native_data.to_crs('+proj=cea').centroid.to_crs(native_data.crs)
+                df.at[index, 'lat'] = native_centroid.y.iloc[0]
+                df.at[index, 'lon'] = native_centroid.x.iloc[0]
+                time.sleep(1)
+        else:
+            df.at[index, 'lat'] = np.nan
+            df.at[index, 'lon'] = np.nan
+    return df
+
+
+################################################################
+# Year to century
+def century(year):
+    '''
+    Returns the century of a year.
+    
+        Parameters:
+            year (int): Year.
+            
+        Returns:
+            century (int): Century of the year.
+    '''
+    return (year) // 100 + 1 
+
+
+
+################################################################
+# Roman numerals from Arabic numerals
 def roman(num: int) -> str:
     '''
     Returns a string of the Roman numeral representation of an integer.
@@ -102,116 +210,10 @@ def roman(num: int) -> str:
 
 
 
-### Year to century
-def century(year):
-    '''
-    Returns the century of a year.
-    
-        Parameters:
-            year (int): Year.
-            
-        Returns:
-            century (int): Century of the year.
-    '''
-    return (year) // 100 + 1 
+### Colors and images #########################################
 
-
-
-### Get coordinates for a place
-from geopy.geocoders import Nominatim
-geolocator = Nominatim(user_agent="MyApp")
-
-def coordinates(place):
-    '''
-    Returns the latitude and longitude of a place.
-    
-        Parameters:
-            place (str): Name of the place.
-
-        Returns:
-            lat (float): Latitude of the place.
-            lon (float): Longitude of the place.
-    '''
-    location = geolocator.geocode(place)
-    lat, lon = location.latitude, location.longitude
-    return lat, lon
-
-    # print(coordinates("Hong Kong"))
-
-
-
-### Generate geo-coordinates from location in a df
-import pandas as pd
-import numpy as np
-
-def generate_coordinates(df):
-    '''
-    Returns a dataframe with latitude and longitude columns generated from the location column.
-    
-        Parameters:
-            df (pandas dataframe): Dataframe with a location column.
-            
-        Returns:
-            df (pandas dataframe): Dataframe with latitude and longitude columns generated from the location column.
-    '''
-    for index, row in df.iterrows():
-        time.sleep(1)
-        if pd.isna(row['lat']) and pd.isna(row['lon']):
-            if pd.notna(row['location']):
-                location = geolocator.geocode(str(row['location']))
-                df.at[index, 'lat'] = location.latitude
-                df.at[index, 'lon'] = location.longitude
-            else:
-                df.at[index, 'lat'] = np.nan
-                df.at[index, 'lon'] = np.nan
-    return df
-
-
-
-### Generate coordinates based on centroid of native regions
-import geopandas as gpd
-import time
-
-def centroid_coordinates(df):
-    # Load the geographic data (shapefile or GeoJSON) # https://github.com/tdwg/wgsrpd
-    gdf = gpd.read_file("data\\resources\\geo\\level3.geojson")
-    for index, row in df.iterrows():
-        print("Calculating coordinates of", row['item'])
-        if pd.notna(row['native']):
-            if pd.isna(row['lat']) and pd.isna(row['lon']): #
-                # Split native regions into a list
-                native_distribution = row['native'].split(', ')
-                # Filter data for native distribution from gdf dataframe's LEVEL3_NAM column
-                native_data = gdf[gdf['LEVEL3_NAM'].isin(native_distribution)].copy() 
-                # Calculate centroid data
-                native_centroid = native_data.to_crs('+proj=cea').centroid.to_crs(native_data.crs)
-                df.at[index, 'lat'] = native_centroid.y.iloc[0]
-                df.at[index, 'lon'] = native_centroid.x.iloc[0]
-                time.sleep(1)
-        else:
-            df.at[index, 'lat'] = np.nan
-            df.at[index, 'lon'] = np.nan
-    return df
-
-
-
-# # Convert PDFs
-# from pdf2image import convert_from_path
-
-# def convert_pdf_to_png(file):
-#     name = str(file)
-#     name = re.sub(".*(?=/)", "", name)
-#     name = re.sub("\..*", "", name)
-#     pages = convert_from_path(file, 0)
-#     for page in pages:
-#         page.save(path + name + ".png", 'PNG')
-
-
-
-## Images and colors
-
-### Hex to RGBA
-# pip install pillow
+###############################################################
+# Hex to RGBA
 from PIL import ImageColor as ic
 
 def hex_to_rgba(hex):
@@ -230,9 +232,10 @@ def hex_to_rgba(hex):
 
 
 
-### Make thumbnails from images that don't already have one
-import re
+###############################################################
+# Make thumbnails from images that don't already have one
 from PIL import Image
+import re
 
 def create_thumbnail(file):
     '''
@@ -259,131 +262,43 @@ def create_thumbnail(file):
 
 
 
-## Language and linguistics
+# ### Language and linguistics ##################################
 
-### Convert Chinese Text to Simplified if needed
-import opencc
-t2s = opencc.OpenCC('t2s.json')
-s2t = opencc.OpenCC('s2t.json')
-# print(t2s.convert('錫蘭肉桂'), s2t.convert('锡兰肉桂'))
-
-### Transcribe Chinese into pinyin or jyutping
-import pinyin
-import jyutping
-py = pinyin.get('錫蘭肉桂')
-jp = jyutping.get('錫蘭肉桂')
-print(py)
-print(' '.join(jp))
+# ###############################################################
+# # Convert Chinese Text to Simplified or Traditional Chinese
+# import opencc
+# t2s = opencc.OpenCC('t2s.json')
+# s2t = opencc.OpenCC('s2t.json')
+# # print(t2s.convert('錫蘭肉桂'), s2t.convert('锡兰肉桂'))
 
 
 
-## Wordnet
-
-import nltk
-from nltk.corpus import wordnet as wn
-# nltk.download("wordnet")
-# nltk.download("omw-1.4")
-# nltk.download("extended_omw") # if you want the wiktionary data
-
-# Wordnets using the Open Multilingual WordNet (https://omwn.org/omw1.html) # 100%: cmn, fin, hrv
-# wn_langs = ['als', 'arb', 'bul', 'cat', 'cmn', 'dan', 'ell', 'eng', 'eus', 'fin', 'fra', 'glg', 'heb', 'hrv', 'ind', 'isl', 'ita', 'ita_iwn', 'jpn', 'lit', 'nld', 'nno', 'nob', 'pol', 'por', 'slv', 'spa', 'swe', 'tha', 'zsm'] # 100%: cmn, fin, hrv
-
-wn_langs = ['fra'] # 'eng', 'arb', 'cmn', 
-print(wn.synset('allspice.n.03').definition())
-print(wn.synsets('allspice', pos='n'))
-print(wn.synset('allspice.n.03').lemma_names('ita'))
-
-### WordNet definitions
-def wn_definition(df):
-    '''
-    Returns a dataframe with Wordnet definitions of the words in the wn column.
-
-        Parameters:
-            df (pandas dataframe): Dataframe with a wn column.
-
-        Returns:
-            df (pandas dataframe): Dataframe with Wordnet definitions of the words in the wn column.
-    '''
-    for index, row in df.iterrows():
-        if pd.notna(row['wn']):
-            wn_definition = str(wn.synset(row['wn']).definition())
-            df.at[index, "wn_definition"] = str(wn_definition)
-    return df
+# ###############################################################
+# # Transcribe Chinese into pinyin or jyutping
+# import pinyin
+# import jyutping
+# py = pinyin.get('錫蘭肉桂')
+# jp = jyutping.get('錫蘭肉桂')
+# print(py)
+# print(' '.join(jp))
 
 
 
-### WordNet translations
-def wn_translate(df, lan):
-    '''
-    Returns a dataframe with Wordnet translations of the words in the wn column.
+################################################################
+# # # Convert PDFs
+# # from pdf2image import convert_from_path
 
-        Parameters:
-            df (pandas dataframe): Dataframe with a wn column.
-            lan (str): Language code of the language to translate to.
-
-        Returns:
-            df (pandas dataframe): Dataframe with Wordnet translations of the words in the wn column.
-    '''
-    for index, row in df.iterrows():
-        if pd.notna(row['wn']):
-            translated_list = wn.synset(row['wn']).lemma_names(lan)
-            translated = ", ".join(str(x) for x in translated_list)
-            translated = re.sub("_", " ", translated)
-            df.at[index, f"wn_translation_{lan}"] = translated
-    return df
+# # def convert_pdf_to_png(file):
+# #     name = str(file)
+# #     name = re.sub(".*(?=/)", "", name)
+# #     name = re.sub("\..*", "", name)
+# #     pages = convert_from_path(file, 0)
+# #     for page in pages:
+# #         page.save(path + name + ".png", 'PNG')
 
 
 
-### Translator
-from googletrans import Translator
-translator = Translator()
-def translate(input, language):
-    '''
-    Returns a translation of a word or phrase into a language.
-    
-            Parameters:
-                input (str): Word or phrase to translate.
-                language (str): Language code of the language to translate to.
-    
-            Returns:
-                translated (str): Translation of the word or phrase into the language.
-        '''
-    translated = translator.translate(input, dest=language)
-    return translated.text
-
-   
-
-#### Translate with DeepL, using Google Translate
-# https://developers.google.com/admin-sdk/directory/v1/languages
-# dl_languages = {'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy', 'assamese': 'as', 'aymara': 'ay', 'azerbaijani': 'az', 'bambara': 'bm', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bhojpuri': 'bho', 'bosnian': 'bs', 'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny', 'chinese (simplified)': 'zh-CN', 'chinese (traditional)': 'zh-TW', 'corsican': 'co', 'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dhivehi': 'dv', 'dogri': 'doi', 'dutch': 'nl', 'english': 'en', 'esperanto': 'eo', 'estonian': 'et', 'ewe': 'ee', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr', 'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el', 'guarani': 'gn', 'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'iw', 'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig', 'ilocano': 'ilo', 'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw', 'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'kinyarwanda': 'rw', 'konkani': 'gom', 'korean': 'ko', 'krio': 'kri', 'kurdish (kurmanji)': 'ku', 'kurdish (sorani)': 'ckb', 'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lingala': 'ln', 'lithuanian': 'lt', 'luganda': 'lg', 'luxembourgish': 'lb', 'macedonian': 'mk', 'maithili': 'mai', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml', 'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'meiteilon (manipuri)': 'mni-Mtei', 'mizo': 'lus', 'mongolian': 'mn', 'myanmar': 'my', 'nepali': 'ne', 'norwegian': 'no', 'odia (oriya)': 'or', 'oromo': 'om', 'pashto': 'ps', 'persian': 'fa', 'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'quechua': 'qu', 'romanian': 'ro', 'russian': 'ru', 'samoan': 'sm', 'sanskrit': 'sa', 'scots gaelic': 'gd', 'sepedi': 'nso', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn', 'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so', 'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg', 'tamil': 'ta', 'tatar': 'tt', 'telugu': 'te', 'thai': 'th', 'tigrinya': 'ti', 'tsonga': 'ts', 'turkish': 'tr', 'turkmen': 'tk', 'twi': 'ak', 'ukrainian': 'uk', 'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy', 'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'}
-
-dl_languages = {'french': 'fr'} # 'hungarian': 'hu', 'english': 'en', 'arabic': 'ar', 'chinese': 'zh-TW',
-dl_language_list = list(dl_languages.values())
-
-from deep_translator import GoogleTranslator as dl
-# translated = dl(source='en', target='hu').translate("allspice") # api_key=openai
-# print(translated)
-
-def dl_translate(df, lang):
-    '''
-    Returns a dataframe with DeepL translations of the words in the English column.
-
-        Parameters:
-            df (pandas dataframe): Dataframe with an English column.
-            lang (str): Language code of the language to translate to.
-
-        Returns:
-            df (pandas dataframe): Dataframe with DeepL translations of the words in the English column.
-    '''    
-    for index, row in df.iterrows():
-        if pd.notna(row['English']):
-            translated = dl(source='en', target=lang).translate(row['English'])
-            df.at[index, f"dl_translation_{lang}"] = translated
-    return df
-
-
-
-##################
+################################################################
 # Regex cheatsheet
 
 # (?!) - negative lookahead
@@ -392,3 +307,82 @@ def dl_translate(df, lang):
 # (?<!) - negative lookbehind
 
 # (?>) - atomic group
+
+
+
+################################################################
+# Transparency from black
+transparent = "rgba(0,0,0,0)"
+three_quarters_transparent = 'rgba(0,0,0,0.75)'
+half_transparent = 'rgba(0,0,0,0.5)'
+quarter_transparent = 'rgba(0,0,0,0.25)'
+tenth_transparent = 'rgba(0,0,0,0.1)'
+
+# Transparency from white
+transparent_white = "rgba(255,255,255,0)"
+three_quarters_transparent_white = 'rgba(255,255,255,0.75)'
+half_transparent_white = 'rgba(255,255,255,0.5)'
+quarter_transparent_white = 'rgba(255,255,255,0.25)'
+tenth_transparent_white = 'rgba(255,255,255,0.1)'
+
+# Colors
+
+# Plotly color schemes (https://plotly.com/python/discrete-color/; https://plotly.com/python/builtin-colorscales/)
+# print(px.colors.qualitative.Prism)
+# prism = px.colors.qualitative.Prism
+
+# Prism colors in hex code (without gray)
+prism = ['#5f4690', '#1d6996', '#38a6a5', '#0f8554', '#73af48', '#edae08', '#e17909', '#cc503e', '#94346e', '#6f4070']
+
+# New colour of a lighter shade based on the above prism color scheme
+prism_light = ['#a28aba', '#6baed6', '#8dd3d7', '#7fbf7b', '#b2cf6b', '#fddc69', '#fdae61', '#f4a582', '#d17e9a', '#c994c7', ]
+
+# New colour of a darker shade based on the above prism color scheme
+prism_dark = ['#3f2b5b', '#0b4f6c', '#1f7872', '#0b4228', '#4f6228', '#9c6d00', '#984806', '#803d24', '#66234f', '#4f2a6b']
+
+# Combine the above three lists into one
+prism = prism + prism_light + prism_dark
+
+# Color names
+purple = '#5f4690'
+blue = '#1d6996'
+turquoise = '#38a6a5'
+green = '#0f8554'
+lime = '#73af48'
+yellow = '#edad08'
+orange = '#e17c05'
+red = '#cc503e'
+magenta = '#94346e'
+fuchsia = '#6f4070'
+gray = '#666666'
+black = '#000000'
+
+# Nord colour scheme (https://www.nordtheme.com/docs/colors-and-palettes) © 2016-2023 Arctic Ice Studio & Sven Greb
+# Polar Night
+nord0 = "#2e3440"
+nord1 = "#3b4252"
+nord2 = "#434c5e"
+nord3 = "#4c566a"
+
+# Snow Storm
+nord4 = "#d8dee9"
+nord5 = "#e5e9f0"
+nord6 = "#eceff4"
+
+# Frost
+nord7 = "#8fbcbb"
+nord8 = "#88c0d0"
+nord9 = "#81a1c1"
+nord10 = "#5e81ac"
+
+# Aurora
+nord11 = "#bf616a"
+nord12 = "#d08770"
+nord13 = "#ebcb8b"
+nord14 = "#a3be8c"
+nord15 = "#b48ead"
+
+# Others
+polyu='#8f1329'
+polyu_complimenter = '#138f79'
+midnight_blue='#006795'
